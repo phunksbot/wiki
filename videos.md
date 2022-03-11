@@ -31,3 +31,7 @@ description: on Phunks
 {% embed url="https://www.youtube.com/watch?v=7exvEWAOe8I" %}
 
 {% embed url="https://www.youtube.com/watch?v=QLpHRN0t9jw" %}
+
+{% embed url="https://twitter.com/Jclineshow/status/1479194612988198912?s=20&t=BkqEpato1EG2vpsvCIgonA" %}
+[@Jclineshow](https://twitter.com/Jclineshow)
+{% endembed %}
