@@ -6,7 +6,7 @@ description: 0% royalties! 0% service! Be Phree!
 
 NotLarvaLabs is community built marketplace for buying and selling CryptoPhunks built on top of own [custom smart contract](https://etherscan.io/address/0xd6c037bE7FA60587e174db7A6710f7635d2971e7#code).
 
-![](<../.gitbook/assets/Bildschirmfoto 2022-03-10 um 16.58.33.png>)[**FAQ**](https://notlarvalabs.com/faq-history)****
+![FAQ](<../.gitbook/assets/Bildschirmfoto 2022-03-10 um 16.58.33.png>)
 
 ## Features
 
