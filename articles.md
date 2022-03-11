@@ -4,29 +4,49 @@ description: on Phunks
 
 # ARTICLES
 
+**`- July 11, 2021 -`**` ```` `**`The CryptoPhunks Manifesto`**&#x20;
+
 {% embed url="https://phunks.medium.com/the-cryptophunks-manifesto-785c7348e558" %}
-Manifesto written by [OG Phunk developers](https://twitter.com/CryptoPhunks)
+by [OG Phunk developers](https://twitter.com/CryptoPhunks)
 {% endembed %}
 
-{% embed url="https://hackernoon.com/cryptophunks-just-a-flip-or-a-movement-4p2o372t" %}
-by [Ani Alexander](https://twitter.com/NFTrebels)
-{% endembed %}
+**`- July 12, 2021 -`**` ```` `**`CryptoPunks and Copyrights: What’s All The Fuss About?`**&#x20;
 
 {% embed url="https://www.theouterrealm.io/blog/cryptopunks-copyrights" %}
 by [Eric Paul Rhodes](https://www.theouterrealm.io/blog?author=563694eee4b0767213f9b7fc)
 {% endembed %}
 
+**`- July 12, 2021 -`**` ```` `**`The Hydra`**
+
 {% embed url="https://newday.substack.com/p/hydra?r=ot32x" %}
 by [Rayo](https://twitter.com/sharkdao)
 {% endembed %}
+
+**`- July 20, 2021 - CryptoPhunks: Just a Flip or a Movement?`**&#x20;
+
+{% embed url="https://hackernoon.com/cryptophunks-just-a-flip-or-a-movement-4p2o372t" %}
+by [Ani Alexander](https://twitter.com/NFTrebels)
+{% endembed %}
+
+**`- July 20, 2021 - ADVENTURES FROM THE FRONTLINES OF THE IP WARS`**&#x20;
 
 {% embed url="http://blog.seanbonner.com/tag/cryptophunks" %}
 by [Sean Bonner](https://twitter.com/seanbonner)
 {% endembed %}
 
+**`- July 20, 2021 - In the Wild West of NFTs`**
+
 {% embed url="https://news.artnet.com/news-pro/kenny-schachter-july-nft-opus-1990514" %}
 by [Kenny Schachter](https://twitter.com/kennyschac)
 {% endembed %}
+
+{% embed url="https://www.theouterrealm.io/blog/cryptopunks-copyrights" %}
+
+{% embed url="https://newday.substack.com/p/hydra?r=ot32x" %}
+
+{% embed url="http://blog.seanbonner.com/tag/cryptophunks" %}
+
+{% embed url="https://news.artnet.com/news-pro/kenny-schachter-july-nft-opus-1990514" %}
 
 {% embed url="https://dappradar.com/blog/tyga-apes-into-cryptophunks-disses-original-punks" %}
 by [Hristina Yordanova](https://dappradar.com/blog/author/hristina-yordanova)
