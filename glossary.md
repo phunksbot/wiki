@@ -20,5 +20,9 @@
 
 **Phunky** - very punk, cool
 
+**Phew** - Few
+
+:fist: - Stand for what you believe
+
 
 
