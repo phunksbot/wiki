@@ -4,8 +4,7 @@ description: 0% royalties! 0% service! Be Phree!
 
 # NotLarvaLabs
 
-NotLarvaLabs (;NLL) is community built, royalty-free, marketplace for buying and selling CryptoPhunks built on top of own [custom smart contract](https://etherscan.io/address/0xd6c037bE7FA60587e174db7A6710f7635d2971e7#code).&#x20;
-
+NotLarvaLabs (;NLL) is community built, royalty-free, marketplace for buying and selling CryptoPhunks built on top of own [custom smart contract](https://etherscan.io/address/0xd6c037bE7FA60587e174db7A6710f7635d2971e7#code). \
 NLL exists to challenge the web2 copyright laws that are no longer relevant in the web3 world.
 
 ![FAQ](<../.gitbook/assets/Bildschirmfoto 2022-03-10 um 16.58.33.png>)
