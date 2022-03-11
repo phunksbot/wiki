@@ -22,6 +22,8 @@
 
 **Phew** - Few
 
+**LPG** - Let's phucking go
+
 :fist: - Stand for what you believe
 
 
