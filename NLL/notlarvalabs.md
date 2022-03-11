@@ -10,11 +10,13 @@ NotLarvaLabs is community built marketplace for buying and selling CryptoPhunks 
 
 ## Features
 
-### Phunks for sale and trait filter
+### Phunks for sale
 
 All Phunks offered for Sale are sorted by price (Low to High) by default.&#x20;
 
 ![](<../.gitbook/assets/Bildschirmfoto 2022-03-10 um 16.39.06.png>)[View for sale](https://notlarvalabs.com/cryptophunks/forsale)
+
+### Trait filter
 
 All phunks for sale can be filtered out by traits and properties using filters.
 
