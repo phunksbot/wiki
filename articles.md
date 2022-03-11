@@ -20,6 +20,14 @@ description: on Phunks
 
 {% embed url="https://newday.substack.com/p/hydra?r=ot32x" %}
 
+
+
+**`July 20, 2021 - Chinese Article on Phunks`**&#x20;
+
+{% embed url="https://medium.com/all-things-fansi/%E6%B2%92%E6%9C%89%E5%81%87%E8%B2%A8%E7%9A%84%E4%B8%96%E7%95%8C-%E9%82%84%E9%9C%80%E8%A6%81%E7%89%88%E6%AC%8A%E5%97%8E-36fe76f53a13" %}
+by [Fansi](https://medium.com/@fansime?source=post\_page-----36fe76f53a13-----------------------------------)
+{% endembed %}
+
 **``**
 
 **`July 20, 2021 - CryptoPhunks: Just a Flip or a Movement?`**
@@ -76,8 +84,7 @@ description: on Phunks
 
 **``**
 
-**`Chinese Article on Phunks`**&#x20;
+**`March 1, 2022 -`**` ```` `**`Sup Phunks! Vol. 1`**
 
-{% embed url="https://medium.com/all-things-fansi/%E6%B2%92%E6%9C%89%E5%81%87%E8%B2%A8%E7%9A%84%E4%B8%96%E7%95%8C-%E9%82%84%E9%9C%80%E8%A6%81%E7%89%88%E6%AC%8A%E5%97%8E-36fe76f53a13" %}
-by [Fansi](https://medium.com/@fansime?source=post\_page-----36fe76f53a13-----------------------------------)
-{% endembed %}
+{% embed url="https://eggphunk.medium.com/sup-phunks-vol-1-928db415d8fc" %}
+
