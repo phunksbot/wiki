@@ -20,7 +20,7 @@ In a Spirit of web3 culture a renegade group of community builders took it upon 
 
 ## Phunk is web3
 
-Only after original developers left the project, perfect conditions emerged to grow phunks into a biggest web3 movement in history of crypto. \
+Only after original developers left the project, perfect conditions emerged for phunks to grow into a biggest web3 movement in history of crypto. \
 Today phunks stand for decentralisation, censorship resistance, the people and freedom. \
 Phunks are important part of NFT history that raised so many important questions around ownership, copyright, conceptual art, [cc0](https://creativecommons.org/publicdomain/zero/1.0/deed.en), blockchain provenance, [open source](open-sourced.md), touching subjects like; what is Art? who decides what Art is?\
 Phunks are challenging the status quo, they challenge power structures, symbolise anti-establishment, counterculture and are know for their rebel Spirit. :fist:\
