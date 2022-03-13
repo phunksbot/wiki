@@ -38,6 +38,10 @@ description: on Phunks
 
 {% embed url="https://twitter.com/hauntedmongrel/status/1456240279393030161?s=20&t=XMDu1Ang5q5L9g0c6Qvw4g" %}
 
+**November 04, 2021 - by** [**@calchulus**](https://twitter.com/calchulus)****
+
+{% embed url="https://twitter.com/calchulus/status/1456335831791112198?s=20&t=XMDu1Ang5q5L9g0c6Qvw4g" %}
+
 **November 05, 2021 - by** [**@markshaw**](https://twitter.com/markshaw)****
 
 {% embed url="https://twitter.com/markshaw/status/1456569472664412176?s=20&t=XMDu1Ang5q5L9g0c6Qvw4g" %}
@@ -54,6 +58,22 @@ description: on Phunks
 
 {% embed url="https://twitter.com/dumbnamenumbers/status/1478826925678342151?s=20&t=XMDu1Ang5q5L9g0c6Qvw4g" %}
 
+**January 07, 2022 - by** [**@dumbnamenumbers**](https://twitter.com/dumbnamenumbers)****
+
+{% embed url="https://twitter.com/dumbnamenumbers/status/1479547786387501058?s=20&t=XMDu1Ang5q5L9g0c6Qvw4g" %}
+
 **January 27, 2022 - by** [**@puntedDecision**](https://twitter.com/puntedDecision)****
 
 {% embed url="https://twitter.com/puntedDecision/status/1486553689036890118?s=20&t=XMDu1Ang5q5L9g0c6Qvw4g" %}
+
+**March 04, 2022 - by** [**@OG\_Kenobi\_Hello**](https://twitter.com/OG\_Kenobi\_Hello)****
+
+{% embed url="https://twitter.com/OG_Kenobi_Hello/status/1499812724645273604?s=20&t=XMDu1Ang5q5L9g0c6Qvw4g" %}
+
+**March 09, 2022 - by** [**@OG\_Kenobi\_Hello**](https://twitter.com/OG\_Kenobi\_Hello)****
+
+{% embed url="https://twitter.com/OG_Kenobi_Hello/status/1501653643237466116?s=20&t=AZqlQ6xywy4MV8zn9bAsCg" %}
+
+**March 10, 2022 - by** [**@OG\_Kenobi\_Hello**](https://twitter.com/OG\_Kenobi\_Hello)****
+
+{% embed url="https://twitter.com/OG_Kenobi_Hello/status/1502018758126227458?s=20&t=XMDu1Ang5q5L9g0c6Qvw4g" %}
