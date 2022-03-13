@@ -29,6 +29,8 @@ Phunks were also used as a great case study and a reference on several [academic
 
 &#x20;      ![](<.gitbook/assets/Bildschirmfoto 2022-03-10 um 21.18.54.png>)        ![](<.gitbook/assets/Bildschirmfoto 2022-03-10 um 21.18.31.png>)
 
+`"An object's history is an immutable if intangible part of its value."`
+
 ## Phunk is historic
 
 ✔️ They are the first and only project to be delisted from OpenSea 3 times.&#x20;
