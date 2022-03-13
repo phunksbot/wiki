@@ -2,11 +2,15 @@
 description: on Phunks
 ---
 
-# VIDEOS
+# Videos
+
+{% embed url="https://www.youtube.com/watch?v=C1odtSVoKKc" %}
 
 {% embed url="https://www.youtube.com/watch?v=pxR-DtXjAWM" %}
 
 {% embed url="https://www.youtube.com/watch?v=Heev1CwwGj4" %}
+
+{% embed url="https://www.youtube.com/watch?v=kySTodss1wc" %}
 
 {% embed url="https://www.youtube.com/watch?v=Oo86Br4l-mo" %}
 
@@ -23,10 +27,6 @@ description: on Phunks
 {% embed url="https://www.youtube.com/watch?v=iJhWNbuDkdw" %}
 
 {% embed url="https://www.youtube.com/watch?v=k334M93q404" %}
-
-{% embed url="https://www.youtube.com/watch?v=C1odtSVoKKc" %}
-
-{% embed url="https://www.youtube.com/watch?v=kySTodss1wc" %}
 
 {% embed url="https://www.youtube.com/watch?v=7exvEWAOe8I" %}
 
