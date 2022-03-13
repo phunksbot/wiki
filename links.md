@@ -1,3 +1,7 @@
+---
+description: and Data Resources
+---
+
 # LINKS
 
 ## SMART CONTRACT
@@ -36,6 +40,14 @@
 
 {% embed url="https://zora.co/collections/0xf07468eAd8cf26c752C676E43C814FEe9c8CF402" %}
 
+* PHUNK FINDER by [@TreeGuyJON](https://twitter.com/TreeGuyJON)
+
+{% embed url="https://phunkfinder.com" %}
+
+* PHUNK WATCH by [@ErlkingArt](https://twitter.com/ErlkingArt)
+
+{% embed url="https://phunk.watch" %}
+
 ## ANALYTICS
 
 * Rarity Tool
@@ -66,8 +78,30 @@
 
 {% embed url="https://nftgo.io/collection/cryptophunks/overview" %}
 
-## SOCIAL
+## DISCORD
 
-* DISCORD  - NotLarvaLabs
+* NotLarvaLabs Server
 
 {% embed url="http://discord.gg/Y9gadawAWW" %}
+
+* OG Phunk Server
+
+{% embed url="https://discord.gg/phunks" %}
+
+## TWITTER
+
+* [@NotLarvaLabs](https://twitter.com/NotLarvaLabs)&#x20;
+* [@PhunkBot](https://twitter.com/PhunkBot)
+* [@PhunkStats](https://twitter.com/PhunkStats)
+* [@CryptoPhunksV2](https://twitter.com/CryptoPhunksV2)
+* [@CryptoPhunks](https://twitter.com/CryptoPhunks)
+
+## OTHER
+
+* OG Phunk Website
+
+{% embed url="https://www.cryptophunks.com" %}
+
+* Phunk BOX
+
+{% embed url="https://www.cryptophunks.com/phunkbox/YourWalletAddressHere" %}
