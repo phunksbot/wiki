@@ -2,7 +2,7 @@
 description: on Phunks
 ---
 
-# ARTICLES
+# Articles
 
 **July 11, 2021 - The CryptoPhunks Manifesto**
 
@@ -37,6 +37,10 @@ by [Fansi](https://medium.com/@fansime?source=post\_page-----36fe76f53a13-------
 **August 19, 2021 - CryptoPhunks: CryptoPunks parody or copycat?**
 
 {% embed url="https://editorial.superrare.com/2021/08/19/cryptophunks-cryptopunks-parody-or-copycat" %}
+
+**October 18, 2021 - We've got the Phunk**
+
+{% embed url="https://cryptopunk4052.medium.com/weve-got-the-phunk-2863d8e8510d" %}
 
 **November 7, 2021 - The NFT Manifesto**
 

@@ -8,11 +8,15 @@
 * [Tutorials](NLL/tutorials.md)
 * [FAQ](NLL/faq.md)
 
+## MEDIA
+
+* [Articles](media/articles.md)
+* [Videos](media/videos.md)
+* [Music](media/music.md)
+* [Threads](media/threads.md)
+
 ***
 
 * [OPEN SOURCED](open-sourced.md)
-* [ARTICLES](articles.md)
-* [VIDEOS](videos.md)
-* [MUSIC](music.md)
 * [LINKS](links.md)
 * [GLOSSARY](glossary.md)
