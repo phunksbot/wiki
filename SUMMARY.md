@@ -10,10 +10,10 @@
 
 ## MEDIA
 
+* [Threads](media/threads.md)
 * [Articles](media/articles.md)
 * [Videos](media/videos.md)
 * [Music](media/music.md)
-* [Threads](media/threads.md)
 
 ***
 
