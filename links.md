@@ -54,7 +54,7 @@ description: and Data Resources
 
 {% embed url="https://rarity.tools/cryptopunks" %}
 
-* Phunks Volume Tracker
+* Phunks Volume Tracker by [@tat2bu](https://twitter.com/tat2bu)
 
 {% embed url="http://phunks-data.herokuapp.com/app" %}
 
