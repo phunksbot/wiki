@@ -50,6 +50,10 @@ description: on Phunks
 
 {% embed url="https://twitter.com/LOVEBEINGWORLD/status/1459370939833982984?s=20&t=XMDu1Ang5q5L9g0c6Qvw4g" %}
 
+**November 13, 2021 - by** [**@blocknoob\_**](https://twitter.com/blocknoob\_)****
+
+{% embed url="https://twitter.com/blocknoob_/status/1459630547362324481" %}
+
 **December 13, 2021 - by** [**@0xStroudonian**](https://twitter.com/0xStroudonian)****
 
 {% embed url="https://twitter.com/0xStroudonian/status/1470258924309950468?s=20&t=XMDu1Ang5q5L9g0c6Qvw4g" %}
