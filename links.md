@@ -6,11 +6,11 @@ description: and Data Resources
 
 ## SMART CONTRACT
 
-* Phunks smart contract
+* Phunks Smart Contract
 
 {% embed url="https://etherscan.io/token/0xf07468ead8cf26c752c676e43c814fee9c8cf402" %}
 
-* NotLarvaLabs smart contract
+* NotLarvaLabs Smart Contract
 
 {% embed url="https://etherscan.io/address/0xd6c037bE7FA60587e174db7A6710f7635d2971e7#code" %}
 
