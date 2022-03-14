@@ -1,6 +1,6 @@
 # OPEN SOURCED
 
-* Phunks Marketplace - [@NotLarvaLabs](https://twitter.com/NotLarvaLabs)
+* Phunks Marketplace - [@NotLarvaLabs](https://twitter.com/NotLarvaLabs) [@chopper\_\_dad](https://twitter.com/chopper\_\_dad) [@OG\_Kenobi\_Hello](https://twitter.com/OG\_Kenobi\_Hello)
 
 {% embed url="https://github.com/Crypto-Phunks/CryptoPhunksMarket" %}
 
