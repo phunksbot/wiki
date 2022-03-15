@@ -50,7 +50,11 @@ description: and Data Resources
 
 ## ANALYTICS
 
-* Rarity Tool
+* Rarity Sniffer
+
+{% embed url="https://raritysniffer.com/viewcollection/cryptophunksv2" %}
+
+* Rarity Tools
 
 {% embed url="https://rarity.tools/cryptopunks" %}
 
