@@ -42,6 +42,10 @@ description: on Phunks
 
 {% embed url="https://twitter.com/Pauly0x/status/1439627389621788679?s=20&t=wgh04kjIvjbHl7bN6XuPPA" %}
 
+* September 25, 2021 - by [@rastinukas](https://twitter.com/rastinukas)
+
+{% embed url="https://twitter.com/rastinukas/status/1441550656708517888?s=20&t=wgh04kjIvjbHl7bN6XuPPA" %}
+
 * September 26, 2021 - by [@cdixon](https://twitter.com/cdixon)
 
 {% embed url="https://twitter.com/cdixon/status/1442201621266534402?s=20&t=wgh04kjIvjbHl7bN6XuPPA" %}
@@ -58,9 +62,17 @@ description: on Phunks
 
 {% embed url="https://twitter.com/markshaw/status/1456569472664412176?s=20&t=XMDu1Ang5q5L9g0c6Qvw4g" %}
 
+* November 08, 2021 - by [@0xZomb](https://twitter.com/0xZomb)
+
+{% embed url="https://twitter.com/0xZomb/status/1457515172000526336?s=20&t=wgh04kjIvjbHl7bN6XuPPA" %}
+
 * November 11, 2021 - by [@mentalist420](https://twitter.com/mentalist420)
 
 {% embed url="https://twitter.com/mentalist420/status/1458720502692782082?s=20&t=wgh04kjIvjbHl7bN6XuPPA" %}
+
+* November 11, 2021 - by [@digitalartchick](https://twitter.com/digitalartchick)
+
+{% embed url="https://twitter.com/digitalartchick/status/1458592017223720963?s=20&t=wgh04kjIvjbHl7bN6XuPPA" %}
 
 * November 13, 2021 - by [@LOVEBEINGWORLD](https://twitter.com/LOVEBEINGWORLD)
 
@@ -77,6 +89,12 @@ description: on Phunks
 * November 17, 2021 - by [@crypto888crypto](https://twitter.com/crypto888crypto)
 
 {% embed url="https://twitter.com/crypto888crypto/status/1460837894776446977?s=20&t=wgh04kjIvjbHl7bN6XuPPA" %}
+
+* November 22, 2021 - by [@Jclineshow](https://twitter.com/Jclineshow)
+
+{% embed url="https://twitter.com/Jclineshow/status/1462874325929762816?s=20&t=wgh04kjIvjbHl7bN6XuPPA" %}
+&#x20;
+{% endembed %}
 
 * December 03, 2021 - by [@JoelMittQuinn](https://twitter.com/JoelMittQuinn)
 
