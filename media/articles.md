@@ -80,7 +80,7 @@ description: on Phunks
 
 {% embed url="https://bowtiedisland.com/lets-get-phunky-cryptophunks-and-web3-censorship" %}
 
-January 15, 2022 - Why I purchased a “Fake” CryptoPunk for $4000
+* January 15, 2022 - Why I purchased a “Fake” CryptoPunk for $4000
 
 {% embed url="https://medium.com/@0xTeji/why-i-purchased-a-fake-cryptopunk-for-4000-24b05c981ee4" %}
 
