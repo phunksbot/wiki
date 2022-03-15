@@ -36,9 +36,17 @@ description: on Phunks
 
 {% embed url="https://editorial.superrare.com/2021/08/19/cryptophunks-cryptopunks-parody-or-copycat" %}
 
+* September 14, 2021 - CryptoPunks Get Punked
+
+{% embed url="https://www.coindesk.com/markets/2021/07/06/cryptopunks-get-punked" %}
+
 * October 18, 2021 - We've got the Phunk
 
 {% embed url="https://cryptopunk4052.medium.com/weve-got-the-phunk-2863d8e8510d" %}
+
+* October 20, 2021 - Phunk Philosophy
+
+{% embed url="https://erikudahl.com/2021/10/20/phunk-philosophy" %}
 
 * November 7, 2021 - The NFT Manifesto
 
