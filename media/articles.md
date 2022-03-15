@@ -48,7 +48,7 @@ description: on Phunks
 
 {% embed url="https://erikudahl.com/2021/10/20/phunk-philosophy" %}
 
-* November 05, 2021 -&#x20;
+* November 05, 2021 - Don't Phunk With Copyright Theft
 
 {% embed url="https://nfttorney.com/2021/11/05/dont-phunk-with-copyright-theft" %}
 
@@ -72,9 +72,17 @@ description: on Phunks
 
 {% embed url="https://cointelegraph.com/magazine/2021/12/10/can-someone-explain-to-me-why-nft-clones-are-selling-for-so-much" %}
 
+* December 11, 2021 - CryptoPunk Owner Explains Why IP Dispute Led to $10M NFT Sale
+
+{% embed url="https://decrypt.co/88041/cryptopunks-ip-complaints-punk4156-10m-ethereum-nft-sale" %}
+
 * December 27, 2021 - Let’s Get Phunky: CryptoPhunks and Web3 Censorship&#x20;
 
 {% embed url="https://bowtiedisland.com/lets-get-phunky-cryptophunks-and-web3-censorship" %}
+
+January 15, 2022 - Why I purchased a “Fake” CryptoPunk for $4000
+
+{% embed url="https://medium.com/@0xTeji/why-i-purchased-a-fake-cryptopunk-for-4000-24b05c981ee4" %}
 
 * February 08, 2022 - PHUNKS PHACTS
 
