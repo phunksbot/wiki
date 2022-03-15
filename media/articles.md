@@ -52,6 +52,10 @@ description: on Phunks
 
 {% embed url="https://dappradar.com/blog/tyga-apes-into-cryptophunks-disses-original-punks" %}
 
+* December 06, 2021 - Are CryptoPunks in Trouble?
+
+{% embed url="https://medium.com/nf3media/are-cryptopunks-in-trouble-fd64d72d1767" %}
+
 * December 10, 2021 - NFT clone Punks: Right or wrong?
 
 {% embed url="https://cointelegraph.com/magazine/2021/12/10/can-someone-explain-to-me-why-nft-clones-are-selling-for-so-much" %}
