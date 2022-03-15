@@ -67,3 +67,7 @@ description: on Phunks
 * March 1, 2022 - Sup Phunks! Vol. 1
 
 {% embed url="https://eggphunk.medium.com/sup-phunks-vol-1-928db415d8fc" %}
+
+* March 13, 2022 - Why Larva Labs Sold the CryptoPunks NFT IP to the Bored Ape Creators
+
+{% embed url="https://decrypt.co/94973/why-larva-labs-sold-the-cryptopunks-nft-ip-to-the-bored-ape-creators" %}
