@@ -38,6 +38,10 @@ description: on Phunks
 
 {% embed url="https://twitter.com/Pauly0x/status/1419692014581411841?s=20&t=wgh04kjIvjbHl7bN6XuPPA" %}
 
+* September 19, 2021 - by [@Pauly0x](https://twitter.com/Pauly0x)
+
+{% embed url="https://twitter.com/Pauly0x/status/1439627389621788679?s=20&t=wgh04kjIvjbHl7bN6XuPPA" %}
+
 * November 04, 2021 - by [@hauntedmongrel](https://twitter.com/hauntedmongrel)
 
 {% embed url="https://twitter.com/hauntedmongrel/status/1456240279393030161?s=20&t=XMDu1Ang5q5L9g0c6Qvw4g" %}
