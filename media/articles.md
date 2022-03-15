@@ -52,6 +52,10 @@ description: on Phunks
 
 {% embed url="https://nfttorney.com/2021/11/05/dont-phunk-with-copyright-theft" %}
 
+* November 06, 2021 - The Freedom To Create Is At The Heart Of Web3
+
+{% embed url="https://pizzaparty.substack.com/p/the-freedom-to-create-is-at-the-heart?s=r" %}
+
 * November 07, 2021 - The NFT Manifesto
 
 {% embed url="https://medium.com/@ben.horlick/the-madlad-nft-manifesto-8bbba6c886c2" %}
