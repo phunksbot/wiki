@@ -42,6 +42,10 @@ description: on Phunks
 
 {% embed url="https://twitter.com/Pauly0x/status/1439627389621788679?s=20&t=wgh04kjIvjbHl7bN6XuPPA" %}
 
+* September 26, 2021 - by [@cdixon](https://twitter.com/cdixon)
+
+{% embed url="https://twitter.com/cdixon/status/1442201621266534402?s=20&t=wgh04kjIvjbHl7bN6XuPPA" %}
+
 * November 04, 2021 - by [@hauntedmongrel](https://twitter.com/hauntedmongrel)
 
 {% embed url="https://twitter.com/hauntedmongrel/status/1456240279393030161?s=20&t=XMDu1Ang5q5L9g0c6Qvw4g" %}
@@ -54,6 +58,10 @@ description: on Phunks
 
 {% embed url="https://twitter.com/markshaw/status/1456569472664412176?s=20&t=XMDu1Ang5q5L9g0c6Qvw4g" %}
 
+* November 11, 2021 - by [@mentalist420](https://twitter.com/mentalist420)
+
+{% embed url="https://twitter.com/mentalist420/status/1458720502692782082?s=20&t=wgh04kjIvjbHl7bN6XuPPA" %}
+
 * November 13, 2021 - by [@LOVEBEINGWORLD](https://twitter.com/LOVEBEINGWORLD)
 
 {% embed url="https://twitter.com/LOVEBEINGWORLD/status/1459370939833982984?s=20&t=XMDu1Ang5q5L9g0c6Qvw4g" %}
@@ -62,9 +70,29 @@ description: on Phunks
 
 {% embed url="https://twitter.com/blocknoob_/status/1459630547362324481" %}
 
+* November 15, 2021 - by [@richerd](https://twitter.com/richerd)
+
+{% embed url="https://twitter.com/richerd/status/1460050237905518595?s=20&t=wgh04kjIvjbHl7bN6XuPPA" %}
+
+* November 17, 2021 - by [@crypto888crypto](https://twitter.com/crypto888crypto)
+
+{% embed url="https://twitter.com/crypto888crypto/status/1460837894776446977?s=20&t=wgh04kjIvjbHl7bN6XuPPA" %}
+
+* December 03, 2021 - by [@JoelMittQuinn](https://twitter.com/JoelMittQuinn)
+
+{% embed url="https://twitter.com/JoelMittQuinn/status/1466587101588250624?s=20&t=wgh04kjIvjbHl7bN6XuPPA" %}
+
+* December 03, 2021 - by [@Jclineshow](https://twitter.com/Jclineshow)
+
+{% embed url="https://twitter.com/Jclineshow/status/1466564622375292928?s=20&t=wgh04kjIvjbHl7bN6XuPPA" %}
+
 * December 13, 2021 - by [@0xStroudonian](https://twitter.com/0xStroudonian)
 
 {% embed url="https://twitter.com/0xStroudonian/status/1470258924309950468?s=20&t=XMDu1Ang5q5L9g0c6Qvw4g" %}
+
+* November 20, 2021 - by
+
+{% embed url="https://twitter.com/Amihaga/status/1461886105008156672?s=20&t=wgh04kjIvjbHl7bN6XuPPA" %}
 
 * January 05, 2022 - by [@dumbnamenumbers](https://twitter.com/dumbnamenumbers)
 
