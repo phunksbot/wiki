@@ -108,7 +108,7 @@ description: on Phunks
 
 {% embed url="https://twitter.com/0xStroudonian/status/1470258924309950468?s=20&t=XMDu1Ang5q5L9g0c6Qvw4g" %}
 
-* November 20, 2021 - by
+* November 20, 2021 - by [@Amihaga](https://twitter.com/Amihaga)
 
 {% embed url="https://twitter.com/Amihaga/status/1461886105008156672?s=20&t=wgh04kjIvjbHl7bN6XuPPA" %}
 
