@@ -48,7 +48,11 @@ description: on Phunks
 
 {% embed url="https://erikudahl.com/2021/10/20/phunk-philosophy" %}
 
-* November 7, 2021 - The NFT Manifesto
+* November 05, 2021 -&#x20;
+
+{% embed url="https://nfttorney.com/2021/11/05/dont-phunk-with-copyright-theft" %}
+
+* November 07, 2021 - The NFT Manifesto
 
 {% embed url="https://medium.com/@ben.horlick/the-madlad-nft-manifesto-8bbba6c886c2" %}
 
@@ -72,11 +76,11 @@ description: on Phunks
 
 {% embed url="https://bowtiedisland.com/lets-get-phunky-cryptophunks-and-web3-censorship" %}
 
-* February 8, 2022 - PHUNKS PHACTS
+* February 08, 2022 - PHUNKS PHACTS
 
 {% embed url="https://medium.com/@VeryWilliam3/phunks-phacts-65a6ce94f368" %}
 
-* March 1, 2022 - Sup Phunks! Vol. 1
+* March 01, 2022 - Sup Phunks! Vol. 1
 
 {% embed url="https://eggphunk.medium.com/sup-phunks-vol-1-928db415d8fc" %}
 
