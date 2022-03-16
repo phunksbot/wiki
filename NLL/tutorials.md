@@ -65,8 +65,9 @@ description: how to use NotLarvaLabs Marketplace
 
 ## TRANSFERING PHUNK
 
-* Use "Transfer" button to transfer a Phunk to a different Ethereum address, enter "Transfer to address" [ENS](https://ens.domains) or native Ethereum address and press "Submit" button.\
-  Confirm your MetaMask transaction when prompted.&#x20;
+* Use "Transfer" button to transfer a Phunk to a different Ethereum address.
+* Insert receiving [ENS](https://ens.domains) or native Ethereum address and press "Submit" button.
+* Confirm your MetaMask transaction when prompted.&#x20;
 * Make sure you have enough ETH in your MetaMask Wallet to cover max transaction fees.
 
 ![](<../.gitbook/assets/Screen Shot 2022-03-16 at 14.12.52.png>)
