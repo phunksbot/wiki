@@ -30,8 +30,8 @@ description: how to use NotLarvaLabs Marketplace
 
 ## NAVIGATING
 
-* Use Filters to easily navigate [Phunks for Sale](https://notlarvalabs.com/cryptophunks/forsale) or [All Phunks](https://notlarvalabs.com/cryptophunks/allphunks).&#x20;
-* By default all Phunks for Sale are filtered by Price (Low to High).
+* Use Filters to easily navigate [Phunks for Sale](https://notlarvalabs.com/cryptophunks/forsale) or [All 10'000 Phunks](https://notlarvalabs.com/cryptophunks/allphunks).&#x20;
+* By default all Phunks for Sale are sorted by Price (Low to High).
 
 ![](<../.gitbook/assets/Bildschirmfoto 2022-03-10 um 16.40.16.png>)
 
