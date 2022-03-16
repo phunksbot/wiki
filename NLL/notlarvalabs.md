@@ -8,9 +8,9 @@ NotLarvaLabs (;NLL) is community built, royalty-free, marketplace for buying and
 NLL developers decided to [open-source](https://github.com/Crypto-Phunks/CryptoPhunksMarket) the code and renounce the [ownership](https://twitter.com/NotLarvaLabs/status/1503576060448985089?s=20\&t=Tbap3ogy88gjcQXn\_DGRYQ), this means that Phunks Marketplace operates autonomous on Ethereum blockchain forever. \
 Code has been [audited](https://github.com/Crypto-Phunks/CryptoPhunksMarket/blob/main/zMarketplaceAudit.pdf) by prominent Solidity developer [@t\_snark](https://twitter.com/t\_snark).
 
-![FAQ](<../.gitbook/assets/Bildschirmfoto 2022-03-10 um 16.58.33.png>)
-
 {% embed url="https://notlarvalabs.com/cryptophunks" %}
+
+![FAQ](<../.gitbook/assets/Bildschirmfoto 2022-03-10 um 16.58.33.png>)
 
 ## Features
 
