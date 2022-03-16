@@ -8,7 +8,7 @@ description: How to use Not Larva Labs
 
 * [Install guide for MetaMask](https://cryptobriefing.com/metamask-beginner-guide/)
 * [Fund your MetaMask Wallet](https://metamask.zendesk.com/hc/en-us/articles/360058239311-Directly-buying-tokens-with-on-ramps-in-MetaMask)
-* Connect your Wallet to Marketplace
+* [Connect your Wallet to Marketplace](https://phunks.gitbook.io/knowledge-base/NLL/tutorials#connecting)
 
 ## CONNECTING
 
