@@ -57,7 +57,8 @@ description: how to use NotLarvaLabs Marketplace
 
 ## WITHDRAWING FUNDS
 
-* After successful Sell a "Withdraw Funds" button will appear in Slide Bar we used to connect. Press "Withdraw Funds" button.&#x20;
+* After successful Sell a "Withdraw Funds" button will appear in Slide Bar we used to connect.&#x20;
+* Press "Withdraw Funds" button.&#x20;
 * Confirm your MetaMask transaction when prompted.
 * Make sure you have enough ETH in your MetaMask Wallet to cover max transaction fees.
 
