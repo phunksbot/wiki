@@ -1,5 +1,5 @@
 ---
-description: How to use Not Larva Labs
+description: how to use NotLarvaLabs Marketplace
 ---
 
 # Tutorials
