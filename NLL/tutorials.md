@@ -33,29 +33,32 @@ description: how to use NotLarvaLabs Marketplace
 
 ## BUYING
 
-* Use "Buy" button to purchase Phunks, Confirm your MetaMask transaction when prompted.
+* Use "Buy" button to purchase Phunks [Listed for Sale](https://notlarvalabs.com/cryptophunks/forsale).
+* Confirm your MetaMask transaction when prompted.
 * Make sure you have enough ETH in your MetaMask Wallet to cover max transaction fees.
 
 ![](<../.gitbook/assets/Screen Shot 2022-03-16 at 13.46.35.png>)
 
 ## BIDDING
 
-* Use "Place Bid" button to place a Bid, enter "Bid Price" in ETH and press "Submit" button. Confirm your MetaMask transaction when prompted.&#x20;
+* Use "Place Bid" button to place a Bid, enter "Bid Price" in ETH and press "Submit" button.&#x20;
+* Confirm your MetaMask transaction when prompted.&#x20;
 * Make sure you have enough ETH in your MetaMask Wallet to cover max transaction fees.
 
 ![](<../.gitbook/assets/Screen Shot 2022-03-16 at 13.55.16.png>)
 
 ## SELLING
 
-* Use "Sell" button to sell a Phunk, enter "List Price" in ETH and press "Submit" button.\
-  Confirm your MetaMask transaction when prompted.&#x20;
+* Use "Sell" button to Sell a Phunk, enter "List Price" in ETH and press "Submit" button.
+* Confirm your MetaMask transaction when prompted.&#x20;
 * Make sure you have enough ETH in your MetaMask Wallet to cover max transaction fees.
 
 ![](<../.gitbook/assets/Screen Shot 2022-03-16 at 14.10.40.png>)
 
 ## WITHDRAWING
 
-* After successful sell a "Withdraw Funds" button will appear in Slide Bar we used to connect. Press "Withdraw Funds" button and confirm your MetaMask transaction when prompted.
+* After successful Sell a "Withdraw Funds" button will appear in Slide Bar we used to connect. Press "Withdraw Funds" button.&#x20;
+* Confirm your MetaMask transaction when prompted.
 * Make sure you have enough ETH in your MetaMask Wallet to cover max transaction fees.
 
 ![](<../.gitbook/assets/Screen Shot 2022-03-15 at 12.09.07.png>)
