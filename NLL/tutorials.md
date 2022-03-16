@@ -24,9 +24,9 @@ description: how to use NotLarvaLabs Marketplace
 
 ![](<../.gitbook/assets/Screen Shot 2022-03-16 at 12.33.47.png>)
 
-## NAVIGATE PHUNKS
+## NAVIGATE
 
-* Use Filters to navigate [Phunks for Sale](https://notlarvalabs.com/cryptophunks/forsale) or [All Phunks](https://notlarvalabs.com/cryptophunks/allphunks).&#x20;
+* Use Filters to easily navigate [Phunks for Sale](https://notlarvalabs.com/cryptophunks/forsale) or [All Phunks](https://notlarvalabs.com/cryptophunks/allphunks).&#x20;
 * By default all Phunks for Sale are filtered by Price (Low to High).
 
 ![](<../.gitbook/assets/Bildschirmfoto 2022-03-10 um 16.40.16.png>)
@@ -55,7 +55,7 @@ description: how to use NotLarvaLabs Marketplace
 
 ![](<../.gitbook/assets/Screen Shot 2022-03-16 at 14.10.40.png>)
 
-## WITHDRAWING
+## WITHDRAWING FUNDS
 
 * After successful Sell a "Withdraw Funds" button will appear in Slide Bar we used to connect. Press "Withdraw Funds" button.&#x20;
 * Confirm your MetaMask transaction when prompted.
@@ -63,7 +63,7 @@ description: how to use NotLarvaLabs Marketplace
 
 ![](<../.gitbook/assets/Screen Shot 2022-03-15 at 12.09.07.png>)
 
-## TRANSFER PHUNK
+## TRANSFERING PHUNK
 
 * Use "Transfer" button to transfer a Phunk to a different Ethereum address, enter "Transfer to address" [ENS](https://ens.domains) or native Ethereum address and press "Submit" button.\
   Confirm your MetaMask transaction when prompted.&#x20;
