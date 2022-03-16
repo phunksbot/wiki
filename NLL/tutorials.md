@@ -7,12 +7,12 @@ description: how to use NotLarvaLabs Marketplace
 ## GET STARTED
 
 * [MetaMask - Install Guide](https://cryptobriefing.com/metamask-beginner-guide/)
-* [MetaMask - Fund your Wallet](https://metamask.zendesk.com/hc/en-us/articles/360058239311-Directly-buying-tokens-with-on-ramps-in-MetaMask)
+* [MetaMask - Fund your Wallet with ETH](https://metamask.zendesk.com/hc/en-us/articles/360058239311-Directly-buying-tokens-with-on-ramps-in-MetaMask)
 * Connect your MetaMask Wallet to the Marketplace using tutorial below.
 
 ## CONNECTING
 
-* Start by using slide bar on upper right corner and click on "Connect to MetaMask".&#x20;
+* Start by using Slide Bar on upper right corner and click on "Connect to MetaMask" button.&#x20;
 
 ![](<../.gitbook/assets/Screen Shot 2022-03-16 at 12.29.32.png>)
 
@@ -20,29 +20,50 @@ description: how to use NotLarvaLabs Marketplace
 
 ![](<../.gitbook/assets/Screen Shot 2022-03-16 at 12.31.18.png>)
 
-* If successful, slide bar will indicate "Connected to Ethereum".
+* If successful, Slide Bar will indicate "Connected to Ethereum".
 
 ![](<../.gitbook/assets/Screen Shot 2022-03-16 at 12.33.47.png>)
 
-## SEARCHING
+## SEARCHING FOR A PHUNK
 
-* h
+* Use Filters to navigate [Phunks for Sale](https://notlarvalabs.com/cryptophunks/forsale), by default all Phunks for sale are filtered by Price\
+  (Low to High).
+
+![](<../.gitbook/assets/Bildschirmfoto 2022-03-10 um 16.40.16.png>)
 
 ## BUYING
 
-* h
+* Use "Buy" button to purchase Phunks, Confirm your MetaMask transaction when prompted.
+* Make sure you have enough ETH in your MetaMask Wallet to cover max transaction fees.
+
+![](<../.gitbook/assets/Screen Shot 2022-03-16 at 13.46.35.png>)
 
 ## BIDDING
 
-* h
+* Use "Place Bid" button to place a Bid, enter "Bid Price" in ETH and press "Submit" button. Confirm your MetaMask transaction when prompted.&#x20;
+* Make sure you have enough ETH in your MetaMask Wallet to cover max transaction fees.
+
+![](<../.gitbook/assets/Screen Shot 2022-03-16 at 13.55.16.png>)
 
 ## SELLING
 
-* h
+* Use "Sell" button to sell a Phunk, enter "List Price" in ETH and press "Submit" button.\
+  Confirm your MetaMask transaction when prompted.&#x20;
+* Make sure you have enough ETH in your MetaMask Wallet to cover max transaction fees.
+
+![](<../.gitbook/assets/Screen Shot 2022-03-16 at 14.10.40.png>)
 
 ## WITHDRAWING
 
-*
+* After successful sell a "Withdraw Funds" button will appear in Slide Bar we used to connect. Press "Withdraw Funds" button and confirm your MetaMask transaction when prompted.
+* Make sure you have enough ETH in your MetaMask Wallet to cover max transaction fees.
 
 ![](<../.gitbook/assets/Screen Shot 2022-03-15 at 12.09.07.png>)
 
+## TRANSFER PHUNK
+
+* Use "Transfer" button to transfer a Phunk to a different Ethereum address, enter "Transfer to address" [ENS](https://ens.domains) or native Ethereum address and press "Submit" button.\
+  Confirm your MetaMask transaction when prompted.&#x20;
+* Make sure you have enough ETH in your MetaMask Wallet to cover max transaction fees.
+
+![](<../.gitbook/assets/Screen Shot 2022-03-16 at 14.12.52.png>)
