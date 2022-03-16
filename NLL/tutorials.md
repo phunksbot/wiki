@@ -6,7 +6,7 @@ description: how to use NotLarvaLabs Marketplace
 
 ## MARKETPLACE FOR PHUNKS
 
-* NotLarvaLabs.com
+* NotLarvaLabs.com/cryptophunks
 
 {% embed url="https://notlarvalabs.com/cryptophunks" %}
 
