@@ -143,3 +143,7 @@ description: on Phunks
 * March 10, 2022 - by [@OG\_Kenobi\_Hello](https://twitter.com/OG\_Kenobi\_Hello)
 
 {% embed url="https://twitter.com/OG_Kenobi_Hello/status/1502018758126227458?s=20&t=XMDu1Ang5q5L9g0c6Qvw4g" %}
+
+* March 15, 2022 by [@leandercapuozzo](https://twitter.com/leandercapuozzo)
+
+{% embed url="https://twitter.com/leandercapuozzo/status/1503919865823907842?s=20&t=Tbap3ogy88gjcQXn_DGRYQ" %}
