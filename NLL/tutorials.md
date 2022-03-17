@@ -16,7 +16,7 @@ description: how to use NotLarvaLabs Marketplace
 
 ## TUTORIALS
 
-### CONNECTING
+### Connecting
 
 * Start by using Slide Bar on upper right corner and click on "Connect to MetaMask" button.&#x20;
 
@@ -30,14 +30,14 @@ description: how to use NotLarvaLabs Marketplace
 
 ![](<../.gitbook/assets/Screen Shot 2022-03-16 at 12.33.47.png>)
 
-### NAVIGATING
+### Navigating
 
 * Use Filters to easily navigate [Phunks for Sale](https://notlarvalabs.com/cryptophunks/forsale) or [All 10'000 Phunks](https://notlarvalabs.com/cryptophunks/allphunks).&#x20;
 * By default all Phunks for Sale are sorted by Price (Low to High).
 
 ![](<../.gitbook/assets/Bildschirmfoto 2022-03-10 um 16.40.16.png>)
 
-### BUYING
+### Buying
 
 * Use "Buy" button to purchase Phunks [Listed for Sale](https://notlarvalabs.com/cryptophunks/forsale).
 * Confirm your MetaMask transaction when prompted.
@@ -45,7 +45,7 @@ description: how to use NotLarvaLabs Marketplace
 
 ![](<../.gitbook/assets/Screen Shot 2022-03-16 at 13.46.35.png>)
 
-### BIDDING
+### Bidding
 
 * Use "Place Bid" button to place a Bid, enter "Bid Price" in ETH and press "Submit" button.&#x20;
 * Confirm your MetaMask transaction when prompted.&#x20;
@@ -53,7 +53,7 @@ description: how to use NotLarvaLabs Marketplace
 
 ![](<../.gitbook/assets/Screen Shot 2022-03-16 at 13.55.16.png>)
 
-### SELLING
+### Selling
 
 * Use "Sell" button to Sell a Phunk, enter "List Price" in ETH and press "Submit" button.
 * Confirm your MetaMask transaction when prompted.&#x20;
@@ -61,7 +61,7 @@ description: how to use NotLarvaLabs Marketplace
 
 ![](<../.gitbook/assets/Screen Shot 2022-03-16 at 14.10.40.png>)
 
-### WITHDRAWING FUNDS
+### Withdrawing Funds
 
 * After successful Sell a "Withdraw Funds" button will appear in Slide Bar we used to connect.&#x20;
 * Press "Withdraw Funds" button.&#x20;
@@ -70,7 +70,7 @@ description: how to use NotLarvaLabs Marketplace
 
 ![](<../.gitbook/assets/Screen Shot 2022-03-15 at 12.09.07.png>)
 
-### TRANSFERING PHUNK
+### Transferring Phunks
 
 * Use "Transfer" button to transfer a Phunk to a different Ethereum address.
 * Insert receiving [ENS](https://ens.domains) or native Ethereum address and press "Submit" button.
