@@ -1,6 +1,6 @@
 ---
 description: on Phunks
-layout: landing
+layout: editorial
 ---
 
 # Threads
