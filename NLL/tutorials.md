@@ -6,13 +6,13 @@ description: how to use NotLarvaLabs Marketplace
 
 ## MARKETPLACE FOR PHUNKS
 
-#### Website
+### Website
 
 {% embed url="https://notlarvalabs.com/cryptophunks" %}
 
 ## GETTING STARTED
 
-#### Set up your Wallet
+### Set up your Wallet
 
 * [MetaMask - Install Guide](https://cryptobriefing.com/metamask-beginner-guide/)
 * [MetaMask - Fund your Wallet with ETH](https://metamask.zendesk.com/hc/en-us/articles/360058239311-Directly-buying-tokens-with-on-ramps-in-MetaMask)
