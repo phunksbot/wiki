@@ -15,10 +15,10 @@
 * [Videos](media/videos.md)
 * [Music](media/music.md)
 
-## PHUNKY
+## PHUNK DAO
 
-* [Phunky Token](phunky/phunky-token.md)
-* [Phunk DAO](phunky/phunk-dao.md)
+* [Phunky Token](phunk-dao/phunky-token.md)
+* [PhunkDAO](phunk-dao/phunkdao.md)
 
 ***
 
