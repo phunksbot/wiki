@@ -74,6 +74,10 @@ description: and Data Resources
 
 {% embed url="https://dune.xyz/rantum/NFT-Collection-Dashboard?contract_address=xf07468ead8cf26c752c676e43c814fee9c8cf402" %}
 
+> PHUNK TOKEN DEX TOOLS
+
+{% embed url="https://www.dextools.io/app/ether/pair-explorer/0xd3e31f8aac930e354283ca3efda1e22525f98af1" %}
+
 * Market metrics and Volume Data
 
 {% embed url="https://mintable.app/store/CryptoPhunksV2-PHUNK/0xf07468ead8cf26c752c676e43c814fee9c8cf402?other=buy_now&sort=sortByLowest" %}
