@@ -4,7 +4,7 @@
 
 {% embed url="https://github.com/Crypto-Phunks/CryptoPhunksMarket" %}
 
-* PhunkBOT - [@PhunkBot](https://twitter.com/PhunkBot)  [@albanow10](https://twitter.com/albanow10) [@iape\_](https://twitter.com/iape\_)
+* PhunkBOT - [@PhunkBot](https://twitter.com/PhunkBot) [@albanow10](https://twitter.com/albanow10) [@iape\_](https://twitter.com/iape\_)
 
 {% embed url="https://github.com/albanow/phunks-nll-twitter-bot" %}
 
@@ -32,3 +32,6 @@
 
 {% embed url="https://github.com/albanow/create_phunk" %}
 
+> This Website - [@iape\_](https://twitter.com/iape\_)
+
+{% embed url="https://github.com/phunksbot/wiki" %}
