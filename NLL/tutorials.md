@@ -16,7 +16,7 @@ description: how to use NotLarvaLabs Marketplace
 
 ## TUTORIALS
 
-### Connecting
+### Connecting Wallet
 
 * Start by using Slide Bar on upper right corner and click on "Connect to MetaMask" button.&#x20;
 
@@ -30,14 +30,14 @@ description: how to use NotLarvaLabs Marketplace
 
 ![](<../.gitbook/assets/Screen Shot 2022-03-16 at 12.33.47.png>)
 
-### Navigating
+### Navigating Marketplace
 
 * Use Filters to easily navigate [Phunks for Sale](https://notlarvalabs.com/cryptophunks/forsale) or [All 10'000 Phunks](https://notlarvalabs.com/cryptophunks/allphunks).&#x20;
 * By default all Phunks for Sale are sorted by Price (Low to High).
 
 ![](<../.gitbook/assets/Bildschirmfoto 2022-03-10 um 16.40.16.png>)
 
-### Buying
+### Buying Phunks
 
 * Use "Buy" button to purchase Phunks [Listed for Sale](https://notlarvalabs.com/cryptophunks/forsale).
 * Confirm your MetaMask transaction when prompted.
@@ -45,7 +45,7 @@ description: how to use NotLarvaLabs Marketplace
 
 ![](<../.gitbook/assets/Screen Shot 2022-03-16 at 13.46.35.png>)
 
-### Bidding
+### Bidding on Phunks
 
 * Use "Place Bid" button to place a Bid, enter "Bid Price" in ETH and press "Submit" button.&#x20;
 * Confirm your MetaMask transaction when prompted.&#x20;
@@ -53,7 +53,7 @@ description: how to use NotLarvaLabs Marketplace
 
 ![](<../.gitbook/assets/Screen Shot 2022-03-16 at 13.55.16.png>)
 
-### Selling
+### Selling Phunks
 
 * Use "Sell" button to Sell a Phunk, enter "List Price" in ETH and press "Submit" button.
 * Confirm your MetaMask transaction when prompted.&#x20;
