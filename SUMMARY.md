@@ -17,8 +17,8 @@
 
 ## PHUNK DAO
 
+* [DAO](phunk-dao/dao.md)
 * [Phunky Token](phunk-dao/phunky-token.md)
-* [PhunkDAO](phunk-dao/phunkdao.md)
 
 ***
 
