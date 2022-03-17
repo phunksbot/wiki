@@ -11,15 +11,15 @@
 
 ## SOCIAL MEDIA
 
-* [Threads](social-media/threads.md)
-* [Articles](social-media/articles.md)
-* [Videos](social-media/videos.md)
-* [Music](social-media/music.md)
+* [THREADS](social-media/threads.md)
+* [ARTICLES](social-media/articles.md)
+* [VIDEOS](social-media/videos.md)
+* [MUSIC](social-media/music.md)
 
 ## PHUNK DAO
 
 * [DAO](phunk-dao/dao.md)
-* [Phunky Token](phunk-dao/phunky-token.md)
+* [PHUNKY TOKEN](phunk-dao/phunky-token.md)
 
 ***
 
