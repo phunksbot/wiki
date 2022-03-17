@@ -2,9 +2,7 @@
 description: how to use NotLarvaLabs Marketplace
 ---
 
-# Tutorials
-
-## MARKETPLACE FOR PHUNKS
+# TUTORIALS
 
 ### Website
 
