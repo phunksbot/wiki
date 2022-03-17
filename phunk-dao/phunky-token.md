@@ -1,3 +1,7 @@
+---
+description: PHUNK DAO official ERC20 Token
+---
+
 # Phunky Token
 
 ![](<../.gitbook/assets/Screen Shot 2022-03-17 at 17.29.42.png>)
