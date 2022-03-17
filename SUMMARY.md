@@ -15,8 +15,12 @@
 * [Videos](media/videos.md)
 * [Music](media/music.md)
 
+## PHUNKY
+
+* [Phunky Token](phunky/phunky-token.md)
+* [Phunk DAO](phunky/phunk-dao.md)
+
 ***
 
 * [OPEN SOURCED](open-sourced.md)
 * [LINKS](links.md)
-* [GLOSSARY](glossary.md)
