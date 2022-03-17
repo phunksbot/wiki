@@ -10,15 +10,15 @@ description: how to use NotLarvaLabs Marketplace
 
 {% embed url="https://notlarvalabs.com/cryptophunks" %}
 
-## GETTING STARTED
+## Getting Started
 
-### Set up your Wallet
+### Set up your Ethereum Wallet
 
 * [MetaMask - Install Guide](https://cryptobriefing.com/metamask-beginner-guide/)
 * [MetaMask - Fund your Wallet with ETH](https://metamask.zendesk.com/hc/en-us/articles/360058239311-Directly-buying-tokens-with-on-ramps-in-MetaMask)
 * Connect your MetaMask Wallet to the Marketplace using tutorial below.
 
-## TUTORIALS
+## Tutorials
 
 ### Connecting Wallet
 
