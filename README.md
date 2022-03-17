@@ -10,13 +10,15 @@ coverY: 0
 
 CryptoPhunks (Phunks) is a [Non-Fungible Token](https://en.wikipedia.org/wiki/Non-fungible\_token) (NFT) collection on the [Ethereum](https://en.wikipedia.org/wiki/Ethereum) [blockchain](https://en.wikipedia.org/wiki/Blockchain). The project was created in June 2021 by a group of anonymous developers. \
 In July 2021, after receiving [DMCA](https://twitter.com/CryptoPhunks/status/1415001685986922499?s=20\&t=YRRn6i6uXhGV5Cgl\_pJeQA) served by [LarvaLabs](https://larvalabs.com) for copyright infringement, biggest NFT trading platform [OpenSea](https://opensea.io/assets/0xf07468ead8cf26c752c676e43c814fee9c8cf402/8348) censored and banned the collection from their platform for the third and final time. Shortly after, original developers compiled [Open Letter](https://foundation.app/@cryptophunks/foundation/62017) to LarvaLabs and left the project since.\
-In a Spirit of web3 culture a renegade group of community builders took it upon themselves to create their own Phunk marketplace called [NotLarvaLabs](NLL/notlarvalabs.md) and [open-source](open-sourced.md) the code.
+In a Spirit of web3 culture a renegade group of community builders took it upon themselves to create their own Phunk marketplace called [NotLarvaLabs](broken-reference) and [open-source](open-sourced.md) the code.
 
 "By owning a CryptoPhunk, you will forever commemorate this ongoing fight against centralisation." - from [CryptoPhunks Manifesto](https://phunks.medium.com/the-cryptophunks-manifesto-785c7348e558).
 
 ![](<.gitbook/assets/Phunk\_4156 (1).png>)![](.gitbook/assets/Phunk\_4156.png)
 
-`CryptoPhunks are the same as` [`CryptoPunks`](https://larvalabs.com/cryptopunks) `just flipped the other way.`
+{% hint style="info" %}
+CryptoPhunks are the same as CryptoPunks just flipped the other way.
+{% endhint %}
 
 ## Phunk is web3
 
@@ -29,7 +31,9 @@ Phunks were also used as a great case study and a reference on several [academic
 
 &#x20;      ![](<.gitbook/assets/Bildschirmfoto 2022-03-10 um 21.18.54.png>)        ![](<.gitbook/assets/Bildschirmfoto 2022-03-10 um 21.18.31.png>)
 
-`An object's history is an immutable if intangible part of its value.`
+{% hint style="info" %}
+An object's history is an immutable if intangible part of its value.
+{% endhint %}
 
 ## Phunk is historic
 
