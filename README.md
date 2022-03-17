@@ -18,7 +18,7 @@ In a Spirit of web3 culture a renegade group of community builders took it upon 
 ![](<.gitbook/assets/Phunk\_4156 (1).png>)![](.gitbook/assets/Phunk\_4156.png)
 
 {% hint style="info" %}
-CryptoPhunks are the same as CryptoPunks just flipped the other way.
+CryptoPhunks are the same as [CryptoPunks](https://www.larvalabs.com/cryptopunks) just flipped the other way.
 {% endhint %}
 
 ## Phunk is web3
