@@ -1,6 +1,5 @@
 ---
 description: on Phunks
-layout: landing
 ---
 
 # Videos

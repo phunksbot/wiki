@@ -1,6 +1,5 @@
 ---
 description: on Phunks
-layout: editorial
 ---
 
 # Threads
