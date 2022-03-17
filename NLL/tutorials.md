@@ -14,9 +14,11 @@ description: how to use NotLarvaLabs Marketplace
 
 ### Set up your Ethereum Wallet
 
-* [MetaMask - Install Guide](https://cryptobriefing.com/metamask-beginner-guide/)
-* [MetaMask - Fund your Wallet with ETH](https://metamask.zendesk.com/hc/en-us/articles/360058239311-Directly-buying-tokens-with-on-ramps-in-MetaMask)
-* Connect your MetaMask Wallet to the Marketplace using tutorial below.
+> [MetaMask - Install Guide](https://cryptobriefing.com/metamask-beginner-guide/)
+
+> [MetaMask - Fund your Wallet with ETH](https://metamask.zendesk.com/hc/en-us/articles/360058239311-Directly-buying-tokens-with-on-ramps-in-MetaMask)
+
+> Connect your MetaMask Wallet to the Marketplace using tutorial below.
 
 ## Tutorials
 
@@ -46,33 +48,33 @@ description: how to use NotLarvaLabs Marketplace
 > Use "Buy" button to purchase Phunks [Listed for Sale](https://notlarvalabs.com/cryptophunks/forsale).\
 > Confirm your MetaMask transaction when prompted.
 
+![](<../.gitbook/assets/Screen Shot 2022-03-16 at 13.46.35.png>)
+
 {% hint style="warning" %}
 Make sure you have enough ETH in your MetaMask Wallet to cover max transaction fees.
 {% endhint %}
-
-![](<../.gitbook/assets/Screen Shot 2022-03-16 at 13.46.35.png>)
 
 ### Bidding on Phunks
 
 > Use "Place Bid" button to place a Bid, enter "Bid Price" in ETH and press "Submit" button.\
 > Confirm your MetaMask transaction when prompted.&#x20;
 
+![](<../.gitbook/assets/Screen Shot 2022-03-16 at 13.55.16.png>)
+
 {% hint style="warning" %}
 Make sure you have enough ETH in your MetaMask Wallet to cover max transaction fees.
 {% endhint %}
-
-![](<../.gitbook/assets/Screen Shot 2022-03-16 at 13.55.16.png>)
 
 ### Selling Phunks
 
 > Use "Sell" button to Sell a Phunk, enter "List Price" in ETH and press "Submit" button.\
 > Confirm your MetaMask transaction when prompted.&#x20;
 
+![](<../.gitbook/assets/Screen Shot 2022-03-16 at 14.10.40.png>)
+
 {% hint style="warning" %}
 Make sure you have enough ETH in your MetaMask Wallet to cover max transaction fees.
 {% endhint %}
-
-![](<../.gitbook/assets/Screen Shot 2022-03-16 at 14.10.40.png>)
 
 ### Withdrawing Funds
 
@@ -80,11 +82,11 @@ Make sure you have enough ETH in your MetaMask Wallet to cover max transaction f
 > Press "Withdraw Funds" button.\
 > Confirm your MetaMask transaction when prompted.
 
+![](<../.gitbook/assets/Screen Shot 2022-03-15 at 12.09.07.png>)
+
 {% hint style="warning" %}
 Make sure you have enough ETH in your MetaMask Wallet to cover max transaction fees.
 {% endhint %}
-
-![](<../.gitbook/assets/Screen Shot 2022-03-15 at 12.09.07.png>)
 
 ### Transferring Phunks
 
@@ -92,8 +94,8 @@ Make sure you have enough ETH in your MetaMask Wallet to cover max transaction f
 > Insert receiving [ENS](https://ens.domains) or native Ethereum address and press "Submit" button.\
 > Confirm your MetaMask transaction when prompted.&#x20;
 
+![](<../.gitbook/assets/Screen Shot 2022-03-16 at 14.12.52.png>)
+
 {% hint style="warning" %}
 Make sure you have enough ETH in your MetaMask Wallet to cover max transaction fees.
 {% endhint %}
-
-![](<../.gitbook/assets/Screen Shot 2022-03-16 at 14.12.52.png>)
