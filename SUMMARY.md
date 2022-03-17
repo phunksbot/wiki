@@ -1,6 +1,7 @@
 # Table of contents
 
 * [CRYPTOPHUNKS](README.md)
+* [OPEN SOURCED](open-sourced.md)
 
 ## MARKETPLACE <a href="#NLL" id="NLL"></a>
 
@@ -22,5 +23,4 @@
 
 ***
 
-* [OPEN SOURCED](open-sourced.md)
 * [LINKS](links.md)
