@@ -28,7 +28,7 @@ Code has been [audited](https://github.com/Crypto-Phunks/CryptoPhunksMarket/blob
 
 ### **Phunk Bids**
 
-* Bid on any of 10'000 Phunks available, even those not offered for sale.
+* Bid on any of 10000 Phunks available, even those not offered for sale.
 
 ![VIEW BIDS](<../.gitbook/assets/Bildschirmfoto 2022-03-10 um 16.40.42.png>)
 
