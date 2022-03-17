@@ -1,8 +1,9 @@
 ---
 description: on Phunks
+layout: landing
 ---
 
-# MUSIC
+# Music
 
 ## Produced by [@Billyracxx](https://twitter.com/Billyracxx)
 
