@@ -9,12 +9,12 @@
 * [Tutorials](NLL/tutorials.md)
 * [FAQ](NLL/faq.md)
 
-## MEDIA
+## SOCIAL MEDIA
 
-* [Threads](media/threads.md)
-* [Articles](media/articles.md)
-* [Videos](media/videos.md)
-* [Music](media/music.md)
+* [Threads](social-media/threads.md)
+* [Articles](social-media/articles.md)
+* [Videos](social-media/videos.md)
+* [Music](social-media/music.md)
 
 ## PHUNK DAO
 
