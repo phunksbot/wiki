@@ -7,7 +7,7 @@ layout: landing
 
 # CRYPTOPHUNKS
 
-## Phunk is Punk
+## <mark style="color:green;">Phunk is Punk</mark>
 
 CryptoPhunks (Phunks) is a [Non-Fungible Token](https://en.wikipedia.org/wiki/Non-fungible\_token) (NFT) collection on the [Ethereum](https://en.wikipedia.org/wiki/Ethereum) [blockchain](https://en.wikipedia.org/wiki/Blockchain). The project was created in June 2021 by a group of anonymous developers to poke fun at the high-brow, pompous group of people that were reflecting the “old-school” rules of art into this new frontier of NFTs. \
 In July 2021, after receiving [DMCA](https://twitter.com/CryptoPhunks/status/1415001685986922499?s=20\&t=YRRn6i6uXhGV5Cgl\_pJeQA) served by [LarvaLabs](https://larvalabs.com) for copyright infringement, biggest NFT trading platform [OpenSea](https://opensea.io/assets/0xf07468ead8cf26c752c676e43c814fee9c8cf402/8348) censored and banned the collection from their platform for the third and final time. Shortly after, original developers compiled [Open Letter](https://foundation.app/@cryptophunks/foundation/62017) to LarvaLabs and left the project since.\
@@ -21,7 +21,7 @@ In a Spirit of web3 culture a renegade group of community builders took it upon 
 CryptoPhunks are the same as [CryptoPunks](https://www.larvalabs.com/cryptopunks) just flipped the other way.
 {% endhint %}
 
-## Phunk is web3
+## <mark style="color:green;">Phunk is web3</mark>
 
 Only after original developers left the project, perfect conditions emerged for phunks to grow into a biggest web3 movement in history of crypto, run entirely by decentralized community. \
 Today phunks stand for decentralisation, censorship resistance, for the people and freedom. \
@@ -36,7 +36,7 @@ Phunks were also used as a great case study and a reference on several [academic
 An object's history is an immutable if intangible part of its value.
 {% endhint %}
 
-## Phunk is historic
+## <mark style="color:green;">Phunk is historic</mark>
 
 ✔️ They are the first and only project to be delisted from OpenSea 3 times.&#x20;
 
