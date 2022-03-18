@@ -2,17 +2,17 @@
 description: on Phunks
 ---
 
-# Articles
+# ARTICLES
 
-* July 11, 2021 - The CryptoPhunks Manifesto
+> <mark style="color:green;">July 11, 2021 - The CryptoPhunks Manifesto</mark>
 
 {% embed url="https://phunks.medium.com/the-cryptophunks-manifesto-785c7348e558" %}
 
-* July 12, 2021 - CryptoPunks and Copyrights: What’s All The Fuss About?
+> <mark style="color:green;">July 12, 2021 - CryptoPunks and Copyrights: What’s All The Fuss About?</mark>
 
 {% embed url="https://www.theouterrealm.io/blog/cryptopunks-copyrights" %}
 
-* July 12, 2021 - The Hydra
+> <mark style="color:green;">July 12, 2021 - The Hydra</mark>
 
 {% embed url="https://newday.substack.com/p/hydra?r=ot32x" %}
 
