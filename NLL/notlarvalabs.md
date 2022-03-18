@@ -14,31 +14,31 @@ Code has been [audited](https://github.com/Crypto-Phunks/CryptoPhunksMarket/blob
 
 ## Features
 
-### <mark style="color:orange;">Phunks for sale</mark>
+### <mark style="color:green;">Phunks for sale</mark>
 
 > All Phunks offered for Sale are sorted by price (Low to High) by default.
 
 ![VIEW FOR SALE](<../.gitbook/assets/Bildschirmfoto 2022-03-10 um 16.39.06.png>)
 
-### <mark style="color:orange;">Trait filter</mark>
+### <mark style="color:green;">Trait filter</mark>
 
 > All phunks for sale can be filtered out by traits and properties using filters.
 
 ![TRAIT FILTER](<../.gitbook/assets/Bildschirmfoto 2022-03-10 um 16.40.16.png>)
 
-### <mark style="color:orange;">**Phunk Bids**</mark>
+### <mark style="color:green;">**Phunk Bids**</mark>
 
 > Bid on any of 10'000 Phunks available, even those not offered for sale.
 
 ![VIEW BIDS](<../.gitbook/assets/Bildschirmfoto 2022-03-10 um 16.40.42.png>)
 
-### <mark style="color:orange;">All Phunks</mark>
+### <mark style="color:green;">All Phunks</mark>
 
 > Search for any phunk in whole collection, use filters to narrow down your favourite traits.
 
 ![VIEW ALL](<../.gitbook/assets/Bildschirmfoto 2022-03-10 um 16.41.05.png>)
 
-### <mark style="color:orange;">Transfer Phunks</mark>
+### <mark style="color:green;">Transfer Phunks</mark>
 
 > Transfer Phunks using "[Transfer](https://phunks.gitbook.io/knowledge-base/NLL/tutorials#transfer-phunk)" button.
 
