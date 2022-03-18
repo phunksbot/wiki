@@ -7,7 +7,7 @@ layout: landing
 
 # CRYPTOPHUNKS
 
-## <mark style="color:purple;">Phunk is Punk</mark>
+## <mark style="color:orange;">Phunk is Punk</mark>
 
 CryptoPhunks (Phunks) is a [Non-Fungible Token](https://en.wikipedia.org/wiki/Non-fungible\_token) (NFT) collection on the [Ethereum](https://en.wikipedia.org/wiki/Ethereum) [blockchain](https://en.wikipedia.org/wiki/Blockchain). The project was created in June 2021 by a group of anonymous developers to poke fun at the high-brow, pompous group of people that were reflecting the “old-school” rules of art into this new frontier of NFTs. \
 In July 2021, after receiving [DMCA](https://twitter.com/CryptoPhunks/status/1415001685986922499?s=20\&t=YRRn6i6uXhGV5Cgl\_pJeQA) served by [LarvaLabs](https://larvalabs.com) for copyright infringement, biggest NFT trading platform [OpenSea](https://opensea.io/assets/0xf07468ead8cf26c752c676e43c814fee9c8cf402/8348) censored and banned the collection from their platform for the third and final time. Shortly after, original developers compiled [Open Letter](https://foundation.app/@cryptophunks/foundation/62017) to LarvaLabs and left the project since.\
