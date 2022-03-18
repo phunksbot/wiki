@@ -1,6 +1,6 @@
 # OPEN SOURCED
 
-> <mark style="color:green;">Phunks Marketplace -</mark> [<mark style="color:green;">@NotLarvaLabs</mark>](https://twitter.com/NotLarvaLabs) <mark style="color:green;"></mark> [<mark style="color:green;">@chopper\_\_dad</mark>](https://twitter.com/chopper\_\_dad) <mark style="color:green;"></mark> [<mark style="color:green;">@OG\_Kenobi\_Hello</mark>](https://twitter.com/OG\_Kenobi\_Hello)<mark style="color:green;"></mark>
+> <mark style="color:green;">Phunks Marketplace -</mark> [@NotLarvaLabs](https://twitter.com/NotLarvaLabs) [@chopper\_\_dad](https://twitter.com/chopper\_\_dad) [@OG\_Kenobi\_Hello](https://twitter.com/OG\_Kenobi\_Hello)
 
 {% embed url="https://github.com/Crypto-Phunks/CryptoPhunksMarket" %}
 
