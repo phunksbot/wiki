@@ -51,7 +51,7 @@ An object's history is an immutable if intangible part of its value.
 
 [\*reference](https://twitter.com/OG\_Kenobi\_Hello/status/1501653643237466116?s=20\&t=YRRn6i6uXhGV5Cgl\_pJeQA)
 
-> <mark style="color:purple;">START EXPLORING PHUNKS KNOWLEDGE BASE BY CHOOSING FROM TOPICS BELOW</mark>
+> <mark style="color:green;">START EXPLORING PHUNKS KNOWLEDGE BASE BY CHOOSING FROM TOPICS BELOW</mark>
 
 {% content-ref url="broken-reference" %}
 [Broken link](broken-reference)
