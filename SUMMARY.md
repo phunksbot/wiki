@@ -20,6 +20,7 @@
 
 * [DAO](phunk-dao/dao.md)
 * [PHUNKY TOKEN](phunk-dao/phunky-token.md)
+* [Page 1](phunk-dao/page-1.md)
 
 ***
 
