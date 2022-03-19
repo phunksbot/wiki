@@ -4,23 +4,23 @@ description: on Phunks
 
 # ARTICLES
 
-> <mark style="color:green;">July 11, 2021 - The CryptoPhunks Manifesto</mark>
+> July 11, 2021 - <mark style="color:orange;">The CryptoPhunks Manifesto</mark>
 
 {% embed url="https://phunks.medium.com/the-cryptophunks-manifesto-785c7348e558" %}
 
-> <mark style="color:green;">July 12, 2021 - CryptoPunks and Copyrights: What’s All The Fuss About?</mark>
+> July 12, 2021 - <mark style="color:orange;">CryptoPunks and Copyrights: What’s All The Fuss About?</mark>
 
 {% embed url="https://www.theouterrealm.io/blog/cryptopunks-copyrights" %}
 
-> <mark style="color:green;">July 12, 2021 - The Hydra</mark>
+> July 12, 2021 - The Hydra
 
 {% embed url="https://newday.substack.com/p/hydra?r=ot32x" %}
 
-* July 17, 2021 - Chinese Article on Phunks&#x20;
+> July 17, 2021 - Chinese Article on Phunks&#x20;
 
 {% embed url="https://medium.com/all-things-fansi/%E6%B2%92%E6%9C%89%E5%81%87%E8%B2%A8%E7%9A%84%E4%B8%96%E7%95%8C-%E9%82%84%E9%9C%80%E8%A6%81%E7%89%88%E6%AC%8A%E5%97%8E-36fe76f53a13" %}
 
-* July 20, 2021 - CryptoPhunks: Just a Flip or a Movement?
+> July 20, 2021 - CryptoPhunks: Just a Flip or a Movement?
 
 {% embed url="https://hackernoon.com/cryptophunks-just-a-flip-or-a-movement-4p2o372t" %}
 
