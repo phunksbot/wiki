@@ -69,6 +69,6 @@ An object's history is an immutable if intangible part of its value.
 [Broken link](broken-reference)
 {% endcontent-ref %}
 
-{% content-ref url="broken-reference" %}
-[Broken link](broken-reference)
+{% content-ref url="sources/history.md" %}
+[history.md](sources/history.md)
 {% endcontent-ref %}
