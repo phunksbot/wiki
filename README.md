@@ -7,6 +7,10 @@ layout: landing
 
 # CRYPTOPHUNKS
 
+{% hint style="info" %}
+Nothing is official with Phunks, everything is contribution. No devs, No roadmaps, No bs, just different projects run by savvy builders. There is Phunks and then there is us :fist:
+{% endhint %}
+
 ## Phunk is Punk
 
 CryptoPhunks (Phunks) is a [Non-Fungible Token](https://en.wikipedia.org/wiki/Non-fungible\_token) (NFT) collection on the [Ethereum](https://en.wikipedia.org/wiki/Ethereum) [blockchain](https://en.wikipedia.org/wiki/Blockchain). The project was created in June 2021 by a group of anonymous developers to poke fun at the high-brow, pompous group of people that were reflecting the “old-school” rules of art into this new frontier of NFTs. \
