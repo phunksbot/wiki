@@ -4,13 +4,17 @@ description: in Chronological order
 
 # HISTORY
 
-> <mark style="color:orange;">June 23, 2017</mark>&#x20;
->
-> LarvaLabs Launches CryptoPunks
+<details>
+
+<summary>June 23, 2017 </summary>
+
+LarvaLabs Launches CryptoPunks
+
+</details>
 
 > <mark style="color:orange;">June 14, 2021</mark>\
 > Initial CryptoPhunks Mint - V1
->
+
 > [Etherscan](https://etherscan.io/tx/0x48db643b9ee37de131e23456ecf35c3a270cba12b4e952f02fe7e5af0bb2a0cc)
 >
 > Ryder Ripps Mints CryptoPunk #3100 on Foundation - Sold for 2.2 ETH
