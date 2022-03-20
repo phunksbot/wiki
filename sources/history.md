@@ -27,7 +27,7 @@ description: in Chronological order
 >
 > [Tweet](https://twitter.com/cryptophunks/status/1407183012781903876?s=21)
 
-> June 24, 2021
+> <mark style="color:orange;">June 24, 2021</mark>
 >
 > OpenSea Relisting #1
 >
@@ -35,7 +35,18 @@ description: in Chronological order
 >
 > [Tweet](https://twitter.com/cryptophunks/status/1408082776213966850?s=21)
 
-> q
+> <mark style="color:orange;">June 29, 2021</mark>\
+> OpenSea Delisting #2
+>
+> [Discord](https://discord.com/channels/840362318033846333/840362318033846336/859457427900334090)
+
+<details>
+
+<summary>June 31, 2021</summary>
+
+Ryder Ripps Receives first DMCA ever from Larva Labs.
+
+</details>
 
 > q
 
