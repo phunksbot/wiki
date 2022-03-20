@@ -22,12 +22,12 @@ In a Spirit of web3 culture a renegade group of community builders took it upon 
 ![](<.gitbook/assets/Phunk\_4156 (1).png>)![](.gitbook/assets/Phunk\_4156.png)
 
 {% hint style="info" %}
-CryptoPhunks are the same as [CryptoPunks](https://www.larvalabs.com/cryptopunks) just flipped the other way.
+<mark style="color:green;">CryptoPhunks are the same as</mark> [CryptoPunks](https://www.larvalabs.com/cryptopunks) <mark style="color:green;">just flipped the other way.</mark>
 {% endhint %}
 
 ## Phunk is web3
 
-Only after original developers left the project, perfect conditions emerged for phunks to organically grow into a biggest web3 movement in history of crypto, run entirely by savvy decentralized community of artist and builders.\
+Only after original developers left the project, perfect conditions emerged for phunks to organically grow into a biggest web3 movement in history of crypto, run entirely by decentralized community of artist and builders.\
 Phunks stand for decentralisation, censorship resistance, for the people and for the freedom. \
 They are important part of NFT history that raised so many important questions and endless discussions around ownership, copyright, conceptual art, [CC0](https://creativecommons.org/publicdomain/zero/1.0/deed.en), blockchain provenance, touching subjects like; Who decides what Art is? Do you really own your NFT?\
 Phunks are challenging the status quo, they challenge power structures, symbolise anti-establishment, counter-culture and are know for their rebel Spirit :fist: constantly pushing the boundaries, taking whole NFT ecosystem to move in right direction of decentralisation, ownership and censorship resistance.\
@@ -36,7 +36,7 @@ Phunks were also used as a great case study and a reference on several [academic
 &#x20;      ![](<.gitbook/assets/Bildschirmfoto 2022-03-10 um 21.18.54.png>)        ![](<.gitbook/assets/Bildschirmfoto 2022-03-10 um 21.18.31.png>)
 
 {% hint style="info" %}
-An object's history is an immutable if intangible part of its value.
+<mark style="color:green;">An object's history is an immutable if intangible part of its value.</mark>
 {% endhint %}
 
 ## Phunk is historic
