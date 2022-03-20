@@ -90,51 +90,95 @@ description: and Data Resources
 
 ## ANALYTICS
 
-* Rarity Sniffer
+<details>
 
-{% embed url="https://raritysniffer.com/viewcollection/cryptophunksv2" %}
+<summary>Rarity Sniffer</summary>
 
-* Rarity Tools
+[https://raritysniffer.com/viewcollection/cryptophunksv2](https://raritysniffer.com/viewcollection/cryptophunksv2)
 
-{% embed url="https://rarity.tools/cryptopunks" %}
+</details>
 
-* Phunks Volume Tracker by [@tat2bu](https://twitter.com/tat2bu)
+<details>
 
-{% embed url="http://phunks-data.herokuapp.com/app" %}
+<summary>Rarity Tools</summary>
 
-* NLL Dune Analytics by [@Confucius\_said\_](https://twitter.com/Confucius\_said\_)
+[https://rarity.tools/cryptopunks](https://rarity.tools/cryptopunks)
 
-{% embed url="https://dune.xyz/Confucius/CryptoPhunks" %}
+</details>
 
-* NFTX Dune Analytics
+<details>
 
-{% embed url="https://dune.xyz/nftx/NFTX-Dune-Dashboard-Single-Vault-View?Vault_Address=0xb39185e33e8c28e0bb3dbbce24da5dea6379ae91" %}
+<summary>Phunks Volume Tracker by <a href="https://twitter.com/tat2bu">@tat2bu</a></summary>
 
-* NFT Global Dune Analytics
+[http://phunks-data.herokuapp.com/app/](http://phunks-data.herokuapp.com/app/)
 
-{% embed url="https://dune.xyz/rantum/NFT-Collection-Dashboard?contract_address=xf07468ead8cf26c752c676e43c814fee9c8cf402" %}
+</details>
 
-> PHUNK TOKEN DEX TOOLS
+<details>
 
-{% embed url="https://www.dextools.io/app/ether/pair-explorer/0xd3e31f8aac930e354283ca3efda1e22525f98af1" %}
+<summary>NLL Dune Analytics by <a href="https://twitter.com/Confucius_said_">@Confucius_said_</a></summary>
 
-* Market metrics and Volume Data
+[https://dune.xyz/Confucius/CryptoPhunks](https://dune.xyz/Confucius/CryptoPhunks)
 
-{% embed url="https://mintable.app/store/CryptoPhunksV2-PHUNK/0xf07468ead8cf26c752c676e43c814fee9c8cf402?other=buy_now&sort=sortByLowest" %}
+</details>
 
-* Market metrics and Charts
+<details>
 
-{% embed url="https://nftgo.io/collection/cryptophunks/overview" %}
+<summary>NFTX Dune Analytics</summary>
+
+[https://dune.xyz/nftx/NFTX-Dune-Dashboard-Single-Vault-View?Vault\_Address=0xb39185e33e8c28e0bb3dbbce24da5dea6379ae91](https://dune.xyz/nftx/NFTX-Dune-Dashboard-Single-Vault-View?Vault\_Address=0xb39185e33e8c28e0bb3dbbce24da5dea6379ae91)
+
+</details>
+
+<details>
+
+<summary>NFT Global Dune Analytics</summary>
+
+[https://dune.xyz/rantum/NFT-Collection-Dashboard?contract\_address=xf07468ead8cf26c752c676e43c814fee9c8cf402](https://dune.xyz/rantum/NFT-Collection-Dashboard?contract\_address=xf07468ead8cf26c752c676e43c814fee9c8cf402)
+
+</details>
+
+<details>
+
+<summary>PHUNK Token DEX tools</summary>
+
+[https://www.dextools.io/app/ether/pair-explorer/0xd3e31f8aac930e354283ca3efda1e22525f98af1](https://www.dextools.io/app/ether/pair-explorer/0xd3e31f8aac930e354283ca3efda1e22525f98af1)
+
+</details>
+
+<details>
+
+<summary>Market metrics and Volume Data</summary>
+
+[https://mintable.app/store/CryptoPhunksV2-PHUNK/0xf07468ead8cf26c752c676e43c814fee9c8cf402?other=buy\_now\&sort=sortByLowest](https://mintable.app/store/CryptoPhunksV2-PHUNK/0xf07468ead8cf26c752c676e43c814fee9c8cf402?other=buy\_now\&sort=sortByLowest)
+
+</details>
+
+<details>
+
+<summary>Market metrics and Charts</summary>
+
+[https://nftgo.io/collection/cryptophunks/overview](https://nftgo.io/collection/cryptophunks/overview)
+
+</details>
 
 ## DISCORD
 
-* NotLarvaLabs Server
+<details>
 
-{% embed url="http://discord.gg/Y9gadawAWW" %}
+<summary>NotLarvaLabs Server</summary>
 
-* OG Phunk Server
+[https://discord.com/invite/Y9gadawAWW](https://discord.com/invite/Y9gadawAWW)
 
-{% embed url="https://discord.gg/phunks" %}
+</details>
+
+<details>
+
+<summary>OG Phunk Server</summary>
+
+[https://discord.com/invite/phunks](https://discord.com/invite/phunks)
+
+</details>
 
 ## TWITTER
 
@@ -146,10 +190,18 @@ description: and Data Resources
 
 ## OTHER
 
-* OG Phunk Website
+<details>
 
-{% embed url="https://www.cryptophunks.com" %}
+<summary>OG Phunk Website</summary>
 
-* Phunk BOX
+[https://www.cryptophunks.com/](https://www.cryptophunks.com)
 
-{% embed url="https://www.cryptophunks.com/phunkbox/YourWalletAddressHere" %}
+</details>
+
+<details>
+
+<summary>Phunk BOX</summary>
+
+[https://www.cryptophunks.com/phunkbox/YourWalletAddressHere](https://www.cryptophunks.com/phunkbox/YourWalletAddressHere)
+
+</details>
