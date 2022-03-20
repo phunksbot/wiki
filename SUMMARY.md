@@ -18,7 +18,7 @@
 ## PHUNK DAO
 
 * [DAO](phunk-dao/dao.md)
-* [$PHUNKY](phunk-dao/usdphunky.md)
+* [PHUNKY](phunk-dao/phunky.md)
 * [WHITEPAPER](phunk-dao/whitepaper.md)
 
 ## SOURCES
