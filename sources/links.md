@@ -6,47 +6,87 @@ description: and Data Resources
 
 ## SMART CONTRACT
 
-* Phunks Smart Contract
+<details>
 
-{% embed url="https://etherscan.io/token/0xf07468ead8cf26c752c676e43c814fee9c8cf402" %}
+<summary>Phunks Smart Contract</summary>
 
-* NotLarvaLabs Smart Contract
+[https://etherscan.io/token/0xf07468ead8cf26c752c676e43c814fee9c8cf402](https://etherscan.io/token/0xf07468ead8cf26c752c676e43c814fee9c8cf402)
 
-{% embed url="https://etherscan.io/address/0xd6c037bE7FA60587e174db7A6710f7635d2971e7#code" %}
+</details>
+
+<details>
+
+<summary>NotLarvaLabs Smart Contract</summary>
+
+[https://etherscan.io/address/0xd6c037bE7FA60587e174db7A6710f7635d2971e7#code](https://etherscan.io/address/0xd6c037bE7FA60587e174db7A6710f7635d2971e7#code)
+
+</details>
 
 ## MARKETPLACES
 
-* Phunks Marketplace
+<details>
 
-{% embed url="https://notlarvalabs.com/cryptophunks" %}
+<summary>Phunks Marketplace</summary>
 
-* NFTX Vault (Liquidity pool)
+[https://notlarvalabs.com/cryptophunks](https://notlarvalabs.com/cryptophunks)
 
-{% embed url="https://nftx.io/vault/0xb39185e33e8c28e0bb3dbbce24da5dea6379ae91/buy" %}
+</details>
 
-* LooksRare Marketplace
+<details>
 
-{% embed url="https://looksrare.org/collections/0xf07468eAd8cf26c752C676E43C814FEe9c8CF402" %}
+<summary>NFTX Vault (Liquidity pool)</summary>
 
-* Rarible Marketplace
+[https://nftx.io/vault/0xb39185e33e8c28e0bb3dbbce24da5dea6379ae91/buy/](https://nftx.io/vault/0xb39185e33e8c28e0bb3dbbce24da5dea6379ae91/buy/)
 
-{% embed url="https://rarible.com/collection/0xf07468ead8cf26c752c676e43c814fee9c8cf402" %}
+</details>
 
-* X2Y2 Marketplace
+<details>
 
-{% embed url="https://x2y2.io/collection/crypto-phunks/items" %}
+<summary>LooksRare Marketplace</summary>
 
-* ZORA Marketplace
+[https://looksrare.org/collections/0xf07468eAd8cf26c752C676E43C814FEe9c8CF402](https://looksrare.org/collections/0xf07468eAd8cf26c752C676E43C814FEe9c8CF402)
 
-{% embed url="https://zora.co/collections/0xf07468eAd8cf26c752C676E43C814FEe9c8CF402" %}
+</details>
 
-* PHUNK FINDER by [@TreeGuyJON](https://twitter.com/TreeGuyJON)
+<details>
 
-{% embed url="https://phunkfinder.com" %}
+<summary>Rarible Marketplace</summary>
 
-* PHUNK WATCH by [@ErlkingArt](https://twitter.com/ErlkingArt)
+[https://rarible.com/collection/0xf07468ead8cf26c752c676e43c814fee9c8cf402/items](https://rarible.com/collection/0xf07468ead8cf26c752c676e43c814fee9c8cf402/items)
 
-{% embed url="https://phunk.watch" %}
+</details>
+
+<details>
+
+<summary>X2Y2 Marketplace</summary>
+
+[https://x2y2.io/collection/crypto-phunks/items](https://x2y2.io/collection/crypto-phunks/items)
+
+</details>
+
+<details>
+
+<summary>ZORA Marketplace</summary>
+
+[https://zora.co/collections/0xf07468eAd8cf26c752C676E43C814FEe9c8CF402](https://zora.co/collections/0xf07468eAd8cf26c752C676E43C814FEe9c8CF402)
+
+</details>
+
+<details>
+
+<summary>PHUNK FINDER by <a href="https://twitter.com/TreeGuyJON">@TreeGuyJON</a></summary>
+
+[https://phunkfinder.com/](https://phunkfinder.com)
+
+</details>
+
+<details>
+
+<summary>PHUNK WATCH by <a href="https://twitter.com/ErlkingArt">@ErlkingArt</a></summary>
+
+[https://phunk.watch/](https://phunk.watch)
+
+</details>
 
 ## ANALYTICS
 
