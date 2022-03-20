@@ -1,7 +1,6 @@
 # Table of contents
 
 * [CRYPTOPHUNKS](README.md)
-* [OPEN SOURCED](open-sourced.md)
 
 ## MARKETPLACE <a href="#nll" id="nll"></a>
 
@@ -22,6 +21,8 @@
 * [$PHUNKY](phunk-dao/usdphunky.md)
 * [WHITEPAPER](phunk-dao/whitepaper.md)
 
-***
+## SOURCES
 
-* [LINKS](links.md)
+* [OPEN SOURCED](sources/open-sourced.md)
+* [HISTORY](sources/history.md)
+* [LINKS](sources/links.md)

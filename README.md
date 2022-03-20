@@ -15,7 +15,7 @@ Nothing is official with Phunks, everything is contribution. No devs, No roadmap
 
 CryptoPhunks (Phunks) is a [Non-Fungible Token](https://en.wikipedia.org/wiki/Non-fungible\_token) (NFT) collection on the [Ethereum](https://en.wikipedia.org/wiki/Ethereum) [blockchain](https://en.wikipedia.org/wiki/Blockchain). The project was created in June 2021 by a group of anonymous developers to poke fun at the high-brow, pompous group of people that were reflecting the “old-school” rules of art into this new frontier of NFTs. \
 In July 2021, after receiving [DMCA](https://twitter.com/CryptoPhunks/status/1415001685986922499?s=20\&t=YRRn6i6uXhGV5Cgl\_pJeQA) served by [LarvaLabs](https://larvalabs.com) for copyright infringement, biggest NFT trading platform [OpenSea](https://opensea.io/assets/0xf07468ead8cf26c752c676e43c814fee9c8cf402/8348) censored and banned the collection from their platform for the third and final time. Shortly after, original developers compiled [Open Letter](https://foundation.app/@cryptophunks/foundation/62017) to LarvaLabs and left the project since.\
-In a Spirit of web3 culture a renegade group of community builders took it upon themselves to create their own Phunk marketplace called [NotLarvaLabs](NLL/notlarvalabs.md) and [open-source](open-sourced.md) the code.
+In a Spirit of web3 culture a renegade group of community builders took it upon themselves to create their own Phunk marketplace called [NotLarvaLabs](NLL/notlarvalabs.md) and [open-source](sources/open-sourced.md) the code.
 
 > By owning a CryptoPhunk, you will forever commemorate this ongoing fight against centralisation. - from [CryptoPhunks Manifesto](https://phunks.medium.com/the-cryptophunks-manifesto-785c7348e558).
 
@@ -49,13 +49,13 @@ An object's history is an immutable if intangible part of its value.
 
 ✔️ They are the second project ever to create a zero-fee marketplace.&#x20;
 
-✔️ Phunks are a community of smart, talented, rebellious artists and [builders](open-sourced.md).&#x20;
+✔️ Phunks are a community of smart, talented, rebellious artists and [builders](sources/open-sourced.md).&#x20;
 
 ✔️ They are passionate about decentralisation and passionately against censorship.
 
 [\*reference](https://twitter.com/OG\_Kenobi\_Hello/status/1501653643237466116?s=20\&t=YRRn6i6uXhGV5Cgl\_pJeQA)
 
-> <mark style="color:orange;">START EXPLORING PHUNKS KNOWLEDGE BASE BY CHOOSING FROM TOPICS BELOW</mark>
+> <mark style="color:green;">START EXPLORING PHUNKS KNOWLEDGE BASE BY CHOOSING FROM TOPICS BELOW</mark>
 
 {% content-ref url="broken-reference" %}
 [Broken link](broken-reference)
@@ -69,6 +69,6 @@ An object's history is an immutable if intangible part of its value.
 [Broken link](broken-reference)
 {% endcontent-ref %}
 
-{% content-ref url="links.md" %}
-[links.md](links.md)
+{% content-ref url="broken-reference" %}
+[Broken link](broken-reference)
 {% endcontent-ref %}
