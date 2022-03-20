@@ -2,7 +2,10 @@
 description: PHUNK DAO official ERC20 Token
 ---
 
-# PHUNKY
+# $PHUNKY
+
+> Each Phunk you hold mines (earns) approx 2.7 $PHUNKY a day, no interaction is needed and it's claimable always. When Phunk is sold or transferred to a different Wallet, unclaimed $PHUNKY is also transferred to new owner. \
+> Similar to [Bitcoin](https://bitcoin.org), emission halves each year till max supply of 21M $PHUNKY is reached.&#x20;
 
 ![](<../.gitbook/assets/Screen Shot 2022-03-17 at 17.29.42.png>)
 
