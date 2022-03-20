@@ -17,7 +17,7 @@ CryptoPhunks (Phunks) is a [Non-Fungible Token](https://en.wikipedia.org/wiki/No
 In July 2021, after receiving [DMCA](https://twitter.com/CryptoPhunks/status/1415001685986922499?s=20\&t=YRRn6i6uXhGV5Cgl\_pJeQA) served by [LarvaLabs](https://larvalabs.com) for copyright infringement, biggest NFT trading platform [OpenSea](https://opensea.io/assets/0xf07468ead8cf26c752c676e43c814fee9c8cf402/8348) censored and banned the collection from their platform for the third and final time. Shortly after, original developers compiled [Open Letter](https://foundation.app/@cryptophunks/foundation/62017) to LarvaLabs and left the project since.\
 In a Spirit of web3 culture a renegade group of community builders took it upon themselves to create their own Phunk marketplace called [NotLarvaLabs](NLL/notlarvalabs.md) and [open-source](sources/open-sourced.md) the code.
 
-> By owning a CryptoPhunk, you will forever commemorate this ongoing fight against centralisation. - from [CryptoPhunks Manifesto](https://phunks.medium.com/the-cryptophunks-manifesto-785c7348e558).
+> By owning a CryptoPhunk, you will forever commemorate this ongoing fight against centralisation. - [CryptoPhunks Manifesto](https://phunks.medium.com/the-cryptophunks-manifesto-785c7348e558).
 
 ![](<.gitbook/assets/Phunk\_4156 (1).png>)![](.gitbook/assets/Phunk\_4156.png)
 
