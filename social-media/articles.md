@@ -1,101 +1,189 @@
 ---
-description: on Phunks
+description: written on Phunks in Chronological order.
 ---
 
 # ARTICLES
 
-> July 11, 2021 - <mark style="color:orange;">The CryptoPhunks Manifesto</mark>
+<details>
 
-{% embed url="https://phunks.medium.com/the-cryptophunks-manifesto-785c7348e558" %}
+<summary>July 11, 2021 - <mark style="color:orange;">The CryptoPhunks Manifesto</mark></summary>
 
-> July 12, 2021 - <mark style="color:orange;">CryptoPunks and Copyrights: What’s All The Fuss About?</mark>
+[https://phunks.medium.com/the-cryptophunks-manifesto-785c7348e558](https://phunks.medium.com/the-cryptophunks-manifesto-785c7348e558)
 
-{% embed url="https://www.theouterrealm.io/blog/cryptopunks-copyrights" %}
+</details>
 
-> July 12, 2021 - The Hydra
+<details>
 
-{% embed url="https://newday.substack.com/p/hydra?r=ot32x" %}
+<summary>July 12, 2021 - <mark style="color:orange;">CryptoPunks and Copyrights: What’s All The Fuss About?</mark></summary>
 
-> July 17, 2021 - Chinese Article on Phunks&#x20;
+[https://www.theouterrealm.io/blog/cryptopunks-copyrights](https://www.theouterrealm.io/blog/cryptopunks-copyrights)
 
-{% embed url="https://medium.com/all-things-fansi/%E6%B2%92%E6%9C%89%E5%81%87%E8%B2%A8%E7%9A%84%E4%B8%96%E7%95%8C-%E9%82%84%E9%9C%80%E8%A6%81%E7%89%88%E6%AC%8A%E5%97%8E-36fe76f53a13" %}
+</details>
 
-> July 20, 2021 - CryptoPhunks: Just a Flip or a Movement?
+<details>
 
-{% embed url="https://hackernoon.com/cryptophunks-just-a-flip-or-a-movement-4p2o372t" %}
+<summary>July 12, 2021 - <mark style="color:orange;">The Hydra</mark></summary>
 
-* July 20, 2021 - ADVENTURES FROM THE FRONTLINES OF THE IP WARS
+[https://newday.substack.com/p/hydra?r=ot32x\&s=r](https://newday.substack.com/p/hydra?r=ot32x\&s=r)
 
-{% embed url="http://blog.seanbonner.com/tag/cryptophunks" %}
+</details>
 
-* July 20, 2021 - In the Wild West of NFTs
+<details>
 
-{% embed url="https://news.artnet.com/news-pro/kenny-schachter-july-nft-opus-1990514" %}
+<summary>July 17, 2021 - <mark style="color:orange;">Chinese Article on Phunks</mark> </summary>
 
-* August 19, 2021 - CryptoPhunks: CryptoPunks parody or copycat?
+[https://medium.com/all-things-fansi/%E6%B2%92%E6%9C%89%E5%81%87%E8%B2%A8%E7%9A%84%E4%B8%96%E7%95%8C-%E9%82%84%E9%9C%80%E8%A6%81%E7%89%88%E6%AC%8A%E5%97%8E-36fe76f53a13](https://medium.com/all-things-fansi/%E6%B2%92%E6%9C%89%E5%81%87%E8%B2%A8%E7%9A%84%E4%B8%96%E7%95%8C-%E9%82%84%E9%9C%80%E8%A6%81%E7%89%88%E6%AC%8A%E5%97%8E-36fe76f53a13)
 
-{% embed url="https://editorial.superrare.com/2021/08/19/cryptophunks-cryptopunks-parody-or-copycat" %}
+</details>
 
-* September 14, 2021 - CryptoPunks Get Punked
+<details>
 
-{% embed url="https://www.coindesk.com/markets/2021/07/06/cryptopunks-get-punked" %}
+<summary>July 20, 2021 - <mark style="color:orange;">CryptoPhunks: Just a Flip or a Movement?</mark></summary>
 
-* October 18, 2021 - We've got the Phunk
+[https://hackernoon.com/cryptophunks-just-a-flip-or-a-movement-4p2o372t](https://hackernoon.com/cryptophunks-just-a-flip-or-a-movement-4p2o372t)
 
-{% embed url="https://cryptopunk4052.medium.com/weve-got-the-phunk-2863d8e8510d" %}
+</details>
 
-* October 20, 2021 - Phunk Philosophy
+<details>
 
-{% embed url="https://erikudahl.com/2021/10/20/phunk-philosophy" %}
+<summary>July 20, 2021 - <mark style="color:orange;">ADVENTURES FROM THE FRONTLINES OF THE IP WARS</mark></summary>
 
-* November 05, 2021 - Don't Phunk With Copyright Theft
+[http://blog.seanbonner.com/tag/cryptophunks](http://blog.seanbonner.com/tag/cryptophunks)
 
-{% embed url="https://nfttorney.com/2021/11/05/dont-phunk-with-copyright-theft" %}
+</details>
 
-* November 06, 2021 - The Freedom To Create Is At The Heart Of Web3
+<details>
 
-{% embed url="https://pizzaparty.substack.com/p/the-freedom-to-create-is-at-the-heart?s=r" %}
+<summary>July 20, 2021 - <mark style="color:orange;">In the Wild West of NFTs</mark></summary>
 
-* November 07, 2021 - The NFT Manifesto
+[https://news.artnet.com/news-pro/kenny-schachter-july-nft-opus-1990514](https://news.artnet.com/news-pro/kenny-schachter-july-nft-opus-1990514)
 
-{% embed url="https://medium.com/@ben.horlick/the-madlad-nft-manifesto-8bbba6c886c2" %}
+</details>
 
-* November 15, 2021 - Phunks - a roller coaster ride full of drama?
+<details>
 
-{% embed url="https://www.getrevue.co/profile/nftrebels/issues/phunks-a-roller-coaster-ride-full-of-drama-877484" %}
+<summary>August 19, 2021 - <mark style="color:orange;">CryptoPhunks: CryptoPunks parody or copycat?</mark></summary>
 
-* November 17, 2021 - Tyga Apes into CryptoPhunks, Disses Original Punks
+[https://editorial.superrare.com/2021/08/19/cryptophunks-cryptopunks-parody-or-copycat/](https://editorial.superrare.com/2021/08/19/cryptophunks-cryptopunks-parody-or-copycat/)
 
-{% embed url="https://dappradar.com/blog/tyga-apes-into-cryptophunks-disses-original-punks" %}
+</details>
 
-* December 06, 2021 - Are CryptoPunks in Trouble?
+<details>
 
-{% embed url="https://medium.com/nf3media/are-cryptopunks-in-trouble-fd64d72d1767" %}
+<summary>September 14, 2021 - <mark style="color:orange;">CryptoPunks Get Punked</mark></summary>
 
-* December 10, 2021 - NFT clone Punks: Right or wrong?
+[https://www.coindesk.com/markets/2021/07/06/cryptopunks-get-punked/](https://www.coindesk.com/markets/2021/07/06/cryptopunks-get-punked/)
 
-{% embed url="https://cointelegraph.com/magazine/2021/12/10/can-someone-explain-to-me-why-nft-clones-are-selling-for-so-much" %}
+</details>
 
-* December 11, 2021 - CryptoPunk Owner Explains Why IP Dispute Led to $10M NFT Sale
+<details>
 
-{% embed url="https://decrypt.co/88041/cryptopunks-ip-complaints-punk4156-10m-ethereum-nft-sale" %}
+<summary>October 18, 2021 - <mark style="color:orange;">We've got the Phunk</mark></summary>
 
-* December 27, 2021 - Let’s Get Phunky: CryptoPhunks and Web3 Censorship&#x20;
+[https://cryptopunk4052.medium.com/weve-got-the-phunk-2863d8e8510d](https://cryptopunk4052.medium.com/weve-got-the-phunk-2863d8e8510d)
 
-{% embed url="https://bowtiedisland.com/lets-get-phunky-cryptophunks-and-web3-censorship" %}
+</details>
 
-* January 15, 2022 - Why I purchased a “Fake” CryptoPunk for $4000
+<details>
 
-{% embed url="https://medium.com/@0xTeji/why-i-purchased-a-fake-cryptopunk-for-4000-24b05c981ee4" %}
+<summary>October 20, 2021 - <mark style="color:orange;">Phunk Philosophy</mark></summary>
 
-* February 08, 2022 - PHUNKS PHACTS
+[https://erikudahl.com/2021/10/20/phunk-philosophy/](https://erikudahl.com/2021/10/20/phunk-philosophy/)
 
-{% embed url="https://medium.com/@VeryWilliam3/phunks-phacts-65a6ce94f368" %}
+</details>
 
-* March 01, 2022 - Sup Phunks! Vol. 1
+<details>
 
-{% embed url="https://eggphunk.medium.com/sup-phunks-vol-1-928db415d8fc" %}
+<summary>November 06, 2021 - <mark style="color:orange;">The Freedom To Create Is At The Heart Of Web3</mark></summary>
 
-* March 13, 2022 - Why Larva Labs Sold the CryptoPunks NFT IP to the Bored Ape Creators
+[https://pizzaparty.substack.com/p/the-freedom-to-create-is-at-the-heart?s=r](https://pizzaparty.substack.com/p/the-freedom-to-create-is-at-the-heart?s=r)
 
-{% embed url="https://decrypt.co/94973/why-larva-labs-sold-the-cryptopunks-nft-ip-to-the-bored-ape-creators" %}
+</details>
+
+<details>
+
+<summary>November 07, 2021 - <mark style="color:orange;">The NFT Manifesto</mark></summary>
+
+
+
+</details>
+
+<details>
+
+<summary>November 15, 2021 - <mark style="color:orange;">Phunks - a roller coaster ride full of drama?</mark></summary>
+
+[https://www.getrevue.co/profile/nftrebels/issues/phunks-a-roller-coaster-ride-full-of-drama-877484](https://www.getrevue.co/profile/nftrebels/issues/phunks-a-roller-coaster-ride-full-of-drama-877484)
+
+</details>
+
+<details>
+
+<summary>November 17, 2021 - <mark style="color:orange;">Tyga Apes into CryptoPhunks, Disses Original Punks</mark></summary>
+
+[https://dappradar.com/blog/tyga-apes-into-cryptophunks-disses-original-punks](https://dappradar.com/blog/tyga-apes-into-cryptophunks-disses-original-punks)
+
+</details>
+
+<details>
+
+<summary>December 06, 2021 - <mark style="color:orange;">Are CryptoPunks in Trouble?</mark></summary>
+
+[https://medium.com/nf3media/are-cryptopunks-in-trouble-fd64d72d1767](https://medium.com/nf3media/are-cryptopunks-in-trouble-fd64d72d1767)
+
+</details>
+
+<details>
+
+<summary>December 10, 2021 - <mark style="color:orange;">NFT clone Punks: Right or wrong?</mark></summary>
+
+[https://cointelegraph.com/magazine/2021/12/10/can-someone-explain-to-me-why-nft-clones-are-selling-for-so-much](https://cointelegraph.com/magazine/2021/12/10/can-someone-explain-to-me-why-nft-clones-are-selling-for-so-much)
+
+</details>
+
+<details>
+
+<summary>December 11, 2021 - <mark style="color:orange;">CryptoPunk Owner Explains Why IP Dispute Led to $10M NFT Sale</mark></summary>
+
+[https://decrypt.co/88041/cryptopunks-ip-complaints-punk4156-10m-ethereum-nft-sale](https://decrypt.co/88041/cryptopunks-ip-complaints-punk4156-10m-ethereum-nft-sale)
+
+</details>
+
+<details>
+
+<summary>December 27, 2021 - <mark style="color:orange;">Let’s Get Phunky: CryptoPhunks and Web3 Censorship</mark> </summary>
+
+[https://bowtiedisland.com/lets-get-phunky-cryptophunks-and-web3-censorship/](https://bowtiedisland.com/lets-get-phunky-cryptophunks-and-web3-censorship/)
+
+</details>
+
+<details>
+
+<summary>January 15, 2022 - <mark style="color:orange;">Why I purchased a “Fake” CryptoPunk for $4000</mark></summary>
+
+[https://medium.com/@0xTeji/why-i-purchased-a-fake-cryptopunk-for-4000-24b05c981ee4](https://medium.com/@0xTeji/why-i-purchased-a-fake-cryptopunk-for-4000-24b05c981ee4)
+
+</details>
+
+<details>
+
+<summary>February 08, 2022 - <mark style="color:orange;">PHUNKS PHACTS</mark></summary>
+
+[https://medium.com/@VeryWilliam3/phunks-phacts-65a6ce94f368](https://medium.com/@VeryWilliam3/phunks-phacts-65a6ce94f368)
+
+</details>
+
+<details>
+
+<summary>March 01, 2022 - <mark style="color:orange;">Sup Phunks! Vol. 1</mark></summary>
+
+[https://eggphunk.medium.com/sup-phunks-vol-1-928db415d8fc](https://eggphunk.medium.com/sup-phunks-vol-1-928db415d8fc)
+
+</details>
+
+<details>
+
+<summary>March 13, 2022 - <mark style="color:orange;">Why LarvaLabs Sold the CryptoPunks NFT IP to the BAYC Creators</mark></summary>
+
+[https://decrypt.co/94973/why-larva-labs-sold-the-cryptopunks-nft-ip-to-the-bored-ape-creators](https://decrypt.co/94973/why-larva-labs-sold-the-cryptopunks-nft-ip-to-the-bored-ape-creators)
+
+</details>

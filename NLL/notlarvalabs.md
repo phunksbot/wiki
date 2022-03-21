@@ -42,6 +42,6 @@ Code has been [audited](https://github.com/Crypto-Phunks/CryptoPhunksMarket/blob
 
 ### <mark style="color:green;">Transfer Phunks</mark>
 
-> Transfer Phunks using "[Transfer](https://phunks.gitbook.io/knowledge-base/NLL/tutorials#transfer-phunk)" button.
+> Transfer Phunks using "[Transfer](tutorials.md)" button.
 
 ![HOW TO TRANSFER A PHUNK](<../.gitbook/assets/Screen Shot 2022-03-16 at 14.12.52.png>)
