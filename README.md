@@ -53,21 +53,3 @@ Phunks were also used as a great case study and a reference on several [academic
 ✔️ They are passionate about decentralisation and passionately against censorship.
 
 [\*reference](social-media/media/threads.md)
-
-> <mark style="color:yellow;">START EXPLORING PHUNKS KNOWLEDGE BASE BY CHOOSING FROM TOPICS BELOW</mark>
-
-{% content-ref url="nll/notlarvalabs/" %}
-[notlarvalabs](nll/notlarvalabs/)
-{% endcontent-ref %}
-
-{% content-ref url="broken-reference" %}
-[Broken link](broken-reference)
-{% endcontent-ref %}
-
-{% content-ref url="broken-reference" %}
-[Broken link](broken-reference)
-{% endcontent-ref %}
-
-{% content-ref url="sources/history.md" %}
-[history.md](sources/history.md)
-{% endcontent-ref %}
