@@ -7,7 +7,8 @@ coverY: 0
 # CRYPTOPHUNKS
 
 {% hint style="info" %}
-<mark style="color:green;">Nothing you see is official, everything is contribution. No devs, No roadmaps, No bs.</mark>\ <mark style="color:green;">Just Phunk Pham building stuff cause they care about web3 and decentralisation.</mark>&#x20;
+Nothing you see is official, everything is contribution. No devs, No roadmaps, No bs.\
+Just Phunk Pham building stuff cause they care about web3 and decentralisation<mark style="color:yellow;">.</mark> <mark style="color:green;"></mark>&#x20;
 {% endhint %}
 
 ## Phunk is Punk
@@ -21,7 +22,7 @@ In a Spirit of web3 culture a renegade group of community builders took it upon 
 ![](<.gitbook/assets/Phunk\_4156 (1).png>)![](.gitbook/assets/Phunk\_4156.png)
 
 {% hint style="info" %}
-<mark style="color:green;">CryptoPhunks are the same as</mark> [CryptoPunks](https://www.larvalabs.com/cryptopunks) <mark style="color:green;">just flipped the other way.</mark>
+CryptoPhunks are the same as <mark style="color:green;"></mark> [CryptoPunks](https://www.larvalabs.com/cryptopunks) just flipped the other way.
 {% endhint %}
 
 ## Phunk is web3
@@ -32,10 +33,10 @@ They are important part of NFT history that raised so many important questions a
 Phunks are challenging the status quo, they challenge power structures, for many they symbolise anti-establishment, counter-culture and are know for their rebel Spirit :fist: constantly pushing the boundaries, taking whole NFT ecosystem to move in right direction of decentralisation, ownership and censorship resistance.\
 Phunks were also used as a great case study and a reference on several [academic papers](https://papers.ssrn.com/sol3/papers.cfm?abstract\_id=4029323) around web3, IP and copyrights in this new emerging crypto evolution.&#x20;
 
-&#x20;      ![](<.gitbook/assets/Bildschirmfoto 2022-03-10 um 21.18.54.png>)        ![](<.gitbook/assets/Bildschirmfoto 2022-03-10 um 21.18.31.png>)
+![](<.gitbook/assets/Bildschirmfoto 2022-03-10 um 21.18.54.png>)![](<.gitbook/assets/Bildschirmfoto 2022-03-10 um 21.18.31.png>)
 
 {% hint style="info" %}
-<mark style="color:green;">An object's history is an immutable if intangible part of its value.</mark>
+An object's history is an immutable if intangible part of its value.
 {% endhint %}
 
 ## Phunk is historic
