@@ -2,7 +2,7 @@
 description: on Phunks
 ---
 
-# Videos
+# VIDEOS
 
 {% embed url="https://www.youtube.com/watch?v=C1odtSVoKKc" %}
 
@@ -34,4 +34,8 @@ description: on Phunks
 
 {% embed url="https://twitter.com/Jclineshow/status/1479194612988198912?s=20&t=BkqEpato1EG2vpsvCIgonA" %}
 [@Jclineshow](https://twitter.com/Jclineshow)
+{% endembed %}
+
+{% embed url="https://youtu.be/HkJnKYsCaEI?t=192" %}
+RUSSIAN VIDEO
 {% endembed %}
