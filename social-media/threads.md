@@ -1,26 +1,36 @@
 ---
-description: Twitter threads on Phunks
+description: Twitter threads on Phunks in Chronological order.
 ---
 
 # THREADS
 
 <details>
 
-<summary>July 01, 2021 - by <a href="https://twitter.com/AngeloArsenic">@AngeloArsenic</a></summary>
+<summary>July 01, 2021</summary>
 
-[AngeloⒶrsenic.eth@AngeloArsenic](https://twitter.com/AngeloArsenic?ref\_src=twsrc%5Etfw%7Ctwcamp%5Etweetembed%7Ctwterm%5E1410421779005251584%7Ctwgr%5E%7Ctwcon%5Es1\_\&ref\_url=https%3A%2F%2Fcdn.iframe.ly%2Fuld5xmW%3Fapp%3D1)
+by [@AngeloArsenic](https://twitter.com/AngeloArsenic)
 
 </details>
 
-{% embed url="https://twitter.com/AngeloArsenic/status/1410421779005251584?s=20&t=XMDu1Ang5q5L9g0c6Qvw4g" %}
+{% embed url="https://twitter.com/AngeloArsenic/status/1410421779005251584?s=20&t=wiilZm4Q0_KSH0vFwVqjjg" %}
 
-> July 01, 2021 - by [@punk4156](https://twitter.com/punk4156)
+<details>
 
-{% embed url="https://twitter.com/punk4156/status/1410637650630000644?s=20&t=XMDu1Ang5q5L9g0c6Qvw4g" %}
-&#x20; &#x20;
-{% endembed %}
+<summary>July 01, 2021</summary>
 
-> July 13, 2021 - by [@erik\_udahl](https://twitter.com/erik\_udahl)
+by [@punk4156](https://twitter.com/punk4156)
+
+</details>
+
+{% embed url="https://twitter.com/punk4156/status/1410637650630000644?s=20&t=UlBwbI0MHgUk43jP4-GnwQ" %}
+
+<details>
+
+<summary>July 13, 2021</summary>
+
+by [@erik\_udahl](https://twitter.com/erik\_udahl)
+
+</details>
 
 {% embed url="https://twitter.com/erik_udahl/status/1415015242900324353?s=20&t=XMDu1Ang5q5L9g0c6Qvw4g" %}
 
