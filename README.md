@@ -52,7 +52,7 @@ Phunks were also used as a great case study and a reference on several [academic
 
 ✔️ They are passionate about decentralisation and passionately against censorship.
 
-[\*reference](social-media/articles/threads.md)
+[\*reference](social-media/media/threads.md)
 
 > <mark style="color:yellow;">START EXPLORING PHUNKS KNOWLEDGE BASE BY CHOOSING FROM TOPICS BELOW</mark>
 

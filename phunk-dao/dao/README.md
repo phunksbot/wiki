@@ -19,4 +19,4 @@ If proposal passes the Vote, DAO will execute it. For example allocation of fund
 
 {% embed url="https://etherscan.io/address/0xf8a4b33a98ce506b43225002bb16e0a3bf29882e" %}
 
-![](<../.gitbook/assets/Screen Shot 2022-03-17 at 18.07.13.png>)
+![](<../../.gitbook/assets/Screen Shot 2022-03-17 at 18.07.13.png>)

@@ -10,15 +10,16 @@
 
 ## SOCIAL MEDIA
 
-* [ARTICLES](social-media/articles/README.md)
-  * [THREADS](social-media/articles/threads.md)
-* [VIDEOS](social-media/videos.md)
-* [MUSIC](social-media/music.md)
+* [MEDIA](social-media/media/README.md)
+  * [ARTICLES](social-media/media/articles.md)
+  * [VIDEOS](social-media/media/videos.md)
+  * [MUSIC](social-media/media/music.md)
+  * [THREADS](social-media/media/threads.md)
 
 ## PHUNK DAO
 
-* [DAO](phunk-dao/dao.md)
-* [PHUNKY](phunk-dao/phunky.md)
+* [DAO](phunk-dao/dao/README.md)
+  * [PHUNKY](phunk-dao/dao/phunky.md)
 * [WHITEPAPER](phunk-dao/whitepaper.md)
 
 ## SOURCES
