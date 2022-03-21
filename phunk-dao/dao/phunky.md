@@ -16,12 +16,10 @@ Similar to [Bitcoin](https://bitcoin.org), token emission halves each year till 
 When Phunk is sold or transferred to a different Wallet, any unclaimed $PHUNKY is also transferred to a new owner.&#x20;
 {% endhint %}
 
-![](<../../.gitbook/assets/Screen Shot 2022-03-17 at 17.29.42.png>)
+<details>
 
-![](<../../.gitbook/assets/Screen Shot 2022-03-17 at 18.07.36.png>)
+<summary>$PHUNKY SMART CONTRACT</summary>
 
-![](<../../.gitbook/assets/Screen Shot 2022-03-17 at 17.59.11.png>)
+[https://etherscan.io/address/0x8ce518fe6cffb769c547e567d7bdc3e59a633fe1#code](https://etherscan.io/address/0x8ce518fe6cffb769c547e567d7bdc3e59a633fe1#code)
 
-> SMART CONTRACT
-
-{% embed url="https://etherscan.io/address/0x8ce518fe6cffb769c547e567d7bdc3e59a633fe1#code" %}
+</details>

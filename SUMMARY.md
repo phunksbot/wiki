@@ -20,7 +20,7 @@
 
 * [DAO](phunk-dao/dao/README.md)
   * [PHUNKY](phunk-dao/dao/phunky.md)
-* [WHITEPAPER](phunk-dao/whitepaper.md)
+  * [WHITEPAPER](phunk-dao/dao/whitepaper.md)
 
 ## SOURCES
 
