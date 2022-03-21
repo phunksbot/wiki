@@ -55,7 +55,7 @@ Phunks were also used as a great case study and a reference on several [academic
 
 [\*reference](social-media/threads.md)
 
-> <mark style="color:green;">START EXPLORING PHUNKS KNOWLEDGE BASE BY CHOOSING FROM TOPICS BELOW</mark>
+> <mark style="color:yellow;">START EXPLORING PHUNKS KNOWLEDGE BASE BY CHOOSING FROM TOPICS BELOW</mark>
 
 {% content-ref url="NLL/notlarvalabs.md" %}
 [notlarvalabs.md](NLL/notlarvalabs.md)
