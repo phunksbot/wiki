@@ -57,8 +57,8 @@ Phunks were also used as a great case study and a reference on several [academic
 
 > <mark style="color:green;">START EXPLORING PHUNKS KNOWLEDGE BASE BY CHOOSING FROM TOPICS BELOW</mark>
 
-{% content-ref url="broken-reference" %}
-[Broken link](broken-reference)
+{% content-ref url="NLL/notlarvalabs.md" %}
+[notlarvalabs.md](NLL/notlarvalabs.md)
 {% endcontent-ref %}
 
 {% content-ref url="broken-reference" %}
