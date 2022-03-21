@@ -126,9 +126,25 @@ description: written on Phunks in Chronological order.
 
 <details>
 
+<summary>December 03, 2021 - <mark style="color:orange;">Why NFTs Need an On-Chain IP Management System</mark></summary>
+
+[https://cryptonews.com/exclusives/the-liquidity-of-creativity-why-nfts-need-an-on-chain-ip-management-system.htm](https://cryptonews.com/exclusives/the-liquidity-of-creativity-why-nfts-need-an-on-chain-ip-management-system.htm)
+
+</details>
+
+<details>
+
 <summary>December 06, 2021 - <mark style="color:orange;">Are CryptoPunks in Trouble?</mark></summary>
 
 [https://medium.com/nf3media/are-cryptopunks-in-trouble-fd64d72d1767](https://medium.com/nf3media/are-cryptopunks-in-trouble-fd64d72d1767)
+
+</details>
+
+<details>
+
+<summary>December 09, 2021 - <mark style="color:orange;">Derivative NFT Projects: Is There Value?</mark></summary>
+
+[https://www.altcoinbuzz.io/nft/derivative-nft-projects-is-there-value/](https://www.altcoinbuzz.io/nft/derivative-nft-projects-is-there-value/)
 
 </details>
 
@@ -158,9 +174,25 @@ description: written on Phunks in Chronological order.
 
 <details>
 
+<summary>January 09, 2022 - <mark style="color:orange;">CryptoPhunks vs Bored Apes, Bukele Defends Bitcoin City</mark></summary>
+
+[https://decrypt.co/90038/this-week-on-crypto-twitter-cryptophunks-vs-bored-apes-bukele-defends-bitcoin-city](https://decrypt.co/90038/this-week-on-crypto-twitter-cryptophunks-vs-bored-apes-bukele-defends-bitcoin-city)
+
+</details>
+
+<details>
+
 <summary>January 15, 2022 - <mark style="color:orange;">Why I purchased a “Fake” CryptoPunk for $4000</mark></summary>
 
 [https://medium.com/@0xTeji/why-i-purchased-a-fake-cryptopunk-for-4000-24b05c981ee4](https://medium.com/@0xTeji/why-i-purchased-a-fake-cryptopunk-for-4000-24b05c981ee4)
+
+</details>
+
+<details>
+
+<summary>February 04, 2022 - <mark style="color:orange;">Creators Apologize for 'V1' Ethereum NFT Sales</mark></summary>
+
+[https://decrypt.co/92155/cryptopunks-controversy-creators-apologize-v1-ethereum-nft](https://decrypt.co/92155/cryptopunks-controversy-creators-apologize-v1-ethereum-nft)
 
 </details>
 
