@@ -4,14 +4,14 @@
 
 ## MARKETPLACE <a href="#nll" id="nll"></a>
 
-* [NOTLARVALABS](NLL/notlarvalabs.md)
-* [TUTORIALS](NLL/tutorials.md)
-* [FAQ](NLL/faq.md)
+* [NOTLARVALABS](nll/notlarvalabs/README.md)
+  * [TUTORIALS](nll/notlarvalabs/tutorials.md)
+  * [FAQ](nll/notlarvalabs/faq.md)
 
 ## SOCIAL MEDIA
 
-* [THREADS](social-media/threads.md)
-* [ARTICLES](social-media/articles.md)
+* [ARTICLES](social-media/articles/README.md)
+  * [THREADS](social-media/articles/threads.md)
 * [VIDEOS](social-media/videos.md)
 * [MUSIC](social-media/music.md)
 
