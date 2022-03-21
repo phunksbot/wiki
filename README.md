@@ -8,7 +8,7 @@ layout: landing
 # CRYPTOPHUNKS
 
 {% hint style="info" %}
-<mark style="color:green;">Nothing is official with Phunks, everything is contribution. No devs, No roadmaps, No bs.</mark>
+<mark style="color:green;">Nothing is official with Phunks, everything is contribution. No devs, No roadmaps, No bs. Just Phunk Pham building stuff cause they care about web3 and decentralisation.</mark>&#x20;
 {% endhint %}
 
 ## Phunk is Punk
