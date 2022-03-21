@@ -50,6 +50,14 @@ description: and Data Resources
 
 <details>
 
+<summary>Genie NFT Aggregator</summary>
+
+[https://www.genie.xyz/collection/0xf07468ead8cf26c752c676e43c814fee9c8cf402](https://www.genie.xyz/collection/0xf07468ead8cf26c752c676e43c814fee9c8cf402)
+
+</details>
+
+<details>
+
 <summary>Rarible Marketplace</summary>
 
 [https://rarible.com/collection/0xf07468ead8cf26c752c676e43c814fee9c8cf402/items](https://rarible.com/collection/0xf07468ead8cf26c752c676e43c814fee9c8cf402/items)
