@@ -187,3 +187,11 @@ description: written on Phunks in Chronological order.
 [https://decrypt.co/94973/why-larva-labs-sold-the-cryptopunks-nft-ip-to-the-bored-ape-creators](https://decrypt.co/94973/why-larva-labs-sold-the-cryptopunks-nft-ip-to-the-bored-ape-creators)
 
 </details>
+
+<details>
+
+<summary>March 15, 2022 - <mark style="color:orange;">Bored Apes + CryptoPunks: the big ideas</mark></summary>
+
+[https://metaversal.banklesshq.com/p/bored-apes-cryptopunks-the-big-ideas?s=r](https://metaversal.banklesshq.com/p/bored-apes-cryptopunks-the-big-ideas?s=r)
+
+</details>
