@@ -86,6 +86,14 @@ description: written on Phunks in Chronological order.
 
 <details>
 
+<summary>October 19, 2021 - <mark style="color:orange;">Adventures In Copyright From The Edge Of Web 3.0</mark></summary>
+
+[https://www.hillhouse.com.au/blog/craig-hong/adventures-in-copyright-from-the-edge-of-web-3-0](https://www.hillhouse.com.au/blog/craig-hong/adventures-in-copyright-from-the-edge-of-web-3-0)
+
+</details>
+
+<details>
+
 <summary>October 20, 2021 - <mark style="color:orange;">Phunk Philosophy</mark></summary>
 
 [https://erikudahl.com/2021/10/20/phunk-philosophy/](https://erikudahl.com/2021/10/20/phunk-philosophy/)
