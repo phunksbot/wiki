@@ -16,32 +16,52 @@ Code has been [audited](https://github.com/Crypto-Phunks/CryptoPhunksMarket/blob
 
 ## Features
 
-### <mark style="color:green;">Phunks for sale</mark>
+<details>
 
-> All Phunks offered for Sale are sorted by price (Low to High) by default.
+<summary>PHUNKS FOR SALE</summary>
 
-![VIEW FOR SALE](<../../.gitbook/assets/Bildschirmfoto 2022-03-10 um 16.39.06.png>)
+All Phunks offered for Sale are sorted by price (Low to High) by default.
 
-### <mark style="color:green;">Trait filter</mark>
+![](<../../.gitbook/assets/Bildschirmfoto 2022-03-10 um 16.39.06.png>)
 
-> All phunks for sale can be filtered out by traits and properties using filters.
+</details>
 
-![TRAIT FILTER](<../../.gitbook/assets/Bildschirmfoto 2022-03-10 um 16.40.16.png>)
+<details>
 
-### <mark style="color:green;">**Phunk Bids**</mark>
+<summary>TRAIT FILTERS</summary>
 
-> Bid on any of 10'000 Phunks available, even those not offered for sale.
+All phunks for sale can be filtered out by traits and properties using filters.
 
-![VIEW BIDS](<../../.gitbook/assets/Bildschirmfoto 2022-03-10 um 16.40.42.png>)
+![](<../../.gitbook/assets/Bildschirmfoto 2022-03-10 um 16.40.16.png>)
 
-### <mark style="color:green;">All Phunks</mark>
+</details>
 
-> Search for any phunk in whole collection, use filters to narrow down your favourite traits.
+<details>
 
-![VIEW ALL](<../../.gitbook/assets/Bildschirmfoto 2022-03-10 um 16.41.05.png>)
+<summary>PHUNK BIDS</summary>
 
-### <mark style="color:green;">Transfer Phunks</mark>
+Bid on any of 10'000 Phunks available, even those not offered for sale.
 
-> Transfer Phunks using "[Transfer](tutorials.md)" button.
+![](<../../.gitbook/assets/Bildschirmfoto 2022-03-10 um 16.40.42.png>)
 
-![HOW TO TRANSFER A PHUNK](<../../.gitbook/assets/Screen Shot 2022-03-16 at 14.12.52.png>)
+</details>
+
+<details>
+
+<summary>ALL PHUNKS</summary>
+
+Search for any phunk in whole collection, use filters to narrow down your favourite traits.
+
+![](<../../.gitbook/assets/Bildschirmfoto 2022-03-10 um 16.41.05.png>)
+
+</details>
+
+<details>
+
+<summary>TRANSFER PHUNKS</summary>
+
+Transfer Phunks using "[Transfer](tutorials.md#tutorials)" button.
+
+![](<../../.gitbook/assets/Screen Shot 2022-03-16 at 14.12.52.png>)
+
+</details>

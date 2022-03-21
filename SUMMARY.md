@@ -12,9 +12,9 @@
 
 * [MEDIA](social-media/media/README.md)
   * [ARTICLES](social-media/media/articles.md)
+  * [THREADS](social-media/media/threads.md)
   * [VIDEOS](social-media/media/videos.md)
   * [MUSIC](social-media/media/music.md)
-  * [THREADS](social-media/media/threads.md)
 
 ## PHUNK DAO
 
