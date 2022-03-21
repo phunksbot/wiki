@@ -1,10 +1,16 @@
 ---
-description: on Phunks
+description: Twitter threads on Phunks
 ---
 
-# Threads
+# THREADS
 
-> July 01, 2021 - by [@AngeloArsenic](https://twitter.com/AngeloArsenic)
+<details>
+
+<summary>July 01, 2021 - by <a href="https://twitter.com/AngeloArsenic">@AngeloArsenic</a></summary>
+
+[AngeloⒶrsenic.eth@AngeloArsenic](https://twitter.com/AngeloArsenic?ref\_src=twsrc%5Etfw%7Ctwcamp%5Etweetembed%7Ctwterm%5E1410421779005251584%7Ctwgr%5E%7Ctwcon%5Es1\_\&ref\_url=https%3A%2F%2Fcdn.iframe.ly%2Fuld5xmW%3Fapp%3D1)
+
+</details>
 
 {% embed url="https://twitter.com/AngeloArsenic/status/1410421779005251584?s=20&t=XMDu1Ang5q5L9g0c6Qvw4g" %}
 
