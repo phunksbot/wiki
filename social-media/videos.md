@@ -12,6 +12,14 @@ description: on Phunks
 
 {% embed url="https://www.youtube.com/watch?v=kySTodss1wc" %}
 
+{% embed url="https://youtu.be/b3sVFX659_4?t=54" %}
+
+{% embed url="https://www.youtube.com/watch?v=TmfFZMRFOEM" %}
+
+{% embed url="https://www.youtube.com/watch?v=lcE5mzH2qSI" %}
+SPANISH
+{% endembed %}
+
 {% embed url="https://www.youtube.com/watch?v=Oo86Br4l-mo" %}
 
 {% embed url="https://www.youtube.com/watch?v=PRd1og4ozKI" %}
