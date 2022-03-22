@@ -60,6 +60,8 @@ A community built marketplace for selling CryptoPhunks built on top of our own c
 
 <summary>Where can I find more info/resources?</summary>
 
+[links.md](../../sources/links.md "mention")
+
 [https://linktr.ee/cryptophunks](https://linktr.ee/cryptophunks)
 
 </details>
