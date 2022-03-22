@@ -22,8 +22,8 @@
   * [PHUNKY](phunk-dao/dao/phunky.md)
   * [WHITEPAPER](phunk-dao/dao/whitepaper.md)
 
-## SOURCES
+## RESOURCES
 
-* [OPEN SOURCED](sources/open-sourced.md)
-* [HISTORY](sources/history.md)
-* [LINKS](sources/links.md)
+* [OPEN SOURCED](resources/open-sourced.md)
+* [HISTORY](resources/history.md)
+* [LINKS](resources/links.md)
