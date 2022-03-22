@@ -10,7 +10,7 @@ description: on GitHub
 
 [https://github.com/Crypto-Phunks/CryptoPhunksMarket](https://github.com/Crypto-Phunks/CryptoPhunksMarket)
 
-by <mark style="color:green;"></mark> [@NotLarvaLabs](https://twitter.com/NotLarvaLabs) [@chopper\_\_dad](https://twitter.com/chopper\_\_dad) [@OG\_Kenobi\_Hello](https://twitter.com/OG\_Kenobi\_Hello)
+by <mark style="color:green;"></mark> [@NotLarvaLabs](https://twitter.com/NotLarvaLabs) [@chopper\_\_dad](https://twitter.com/chopper\_\_dad) [@OG\_Kenobi\_Hello](https://twitter.com/OG\_Kenobi\_Hello) [@Pauly0x](https://twitter.com/Pauly0x) [@ryder\_ripps](https://twitter.com/ryder\_ripps)
 
 </details>
 
