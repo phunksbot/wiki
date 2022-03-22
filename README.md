@@ -52,5 +52,3 @@ An object's history is an immutable if intangible part of its value.
 ✔️ Phunks are a community of smart, talented, rebellious artists and [builders](resources/open-sourced.md).&#x20;
 
 ✔️ They are passionate about decentralisation and passionately against censorship.
-
-[\*reference](social-media/media/threads.md)
