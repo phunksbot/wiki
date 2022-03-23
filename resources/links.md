@@ -132,7 +132,7 @@ description: and Data Resources
 
 <details>
 
-<summary>NLL Dune Analytics by <a href="https://twitter.com/Confucius_said_">@Confucius_said_</a></summary>
+<summary>DUNE - NLL Analytics by <a href="https://twitter.com/Confucius_said_">@Confucius_said_</a></summary>
 
 [https://dune.xyz/Confucius/CryptoPhunks](https://dune.xyz/Confucius/CryptoPhunks)
 
@@ -140,7 +140,7 @@ description: and Data Resources
 
 <details>
 
-<summary>NFTX Dune Analytics</summary>
+<summary>DUNE - NFTX Analytics</summary>
 
 [https://dune.xyz/nftx/NFTX-Dune-Dashboard-Single-Vault-View?Vault\_Address=0xb39185e33e8c28e0bb3dbbce24da5dea6379ae91](https://dune.xyz/nftx/NFTX-Dune-Dashboard-Single-Vault-View?Vault\_Address=0xb39185e33e8c28e0bb3dbbce24da5dea6379ae91)
 
@@ -148,7 +148,7 @@ description: and Data Resources
 
 <details>
 
-<summary>NFT Global Dune Analytics</summary>
+<summary>DUNE - NFT Global Analytics</summary>
 
 [https://dune.xyz/rantum/NFT-Collection-Dashboard?contract\_address=xf07468ead8cf26c752c676e43c814fee9c8cf402](https://dune.xyz/rantum/NFT-Collection-Dashboard?contract\_address=xf07468ead8cf26c752c676e43c814fee9c8cf402)
 
