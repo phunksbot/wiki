@@ -4,9 +4,11 @@ description: written on Phunks in Chronological order.
 
 # ARTICLES
 
+
+
 <details>
 
-<summary>July 11, 2021 - <mark style="color:blue;">The CryptoPhunks Manifesto</mark></summary>
+<summary>July 11, 2021 - <a href="https://phunks.medium.com/the-cryptophunks-manifesto-785c7348e558"><mark style="color:blue;">The CryptoPhunks Manifesto</mark></a><mark style="color:blue;"></mark></summary>
 
 [https://phunks.medium.com/the-cryptophunks-manifesto-785c7348e558](https://phunks.medium.com/the-cryptophunks-manifesto-785c7348e558)
 
