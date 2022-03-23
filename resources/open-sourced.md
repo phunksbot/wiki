@@ -126,9 +126,11 @@ by [@CryptoPhunksDAO](https://twitter.com/CryptoPhunksDAO)
 
 <details>
 
-<summary>PHUNK DAO Website (<mark style="color:purple;">TypeScript,</mark> <mark style="color:red;">HTML,</mark> <mark style="color:purple;"></mark> CSS, <mark style="color:purple;"></mark> <mark style="color:yellow;">JavaScript</mark>)</summary>
+<summary>Phunk DAO Website (<mark style="color:purple;">TypeScript,</mark> <mark style="color:red;">HTML,</mark> <mark style="color:purple;"></mark> CSS, <mark style="color:purple;"></mark> <mark style="color:yellow;">JavaScript</mark>)</summary>
 
 [https://github.com/IshaanRawat/phunky](https://github.com/IshaanRawat/phunky)
+
+by [@Phunk\_DAO](https://twitter.com/Phunk\_DAO) [@IshaanRawat](https://twitter.com/IshaanRawat)
 
 </details>
 
