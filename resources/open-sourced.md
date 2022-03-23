@@ -6,7 +6,9 @@ description: on GitHub
 
 <details>
 
-<summary>Phunks Marketplace (<mark style="color:orange;">Solidity,</mark> <mark style="color:yellow;">JavaScript</mark>)</summary>
+<summary>Phunks Marketplace</summary>
+
+<mark style="color:orange;">Solidity,</mark> <mark style="color:yellow;">JavaScript</mark>
 
 [https://github.com/Crypto-Phunks/CryptoPhunksMarket](https://github.com/Crypto-Phunks/CryptoPhunksMarket)
 
