@@ -6,7 +6,7 @@ description: on GitHub
 
 <details>
 
-<summary>Phunks Marketplace</summary>
+<summary>Phunks Marketplace (<mark style="color:orange;">Solidity,</mark> <mark style="color:yellow;">JavaScript</mark>)</summary>
 
 [https://github.com/Crypto-Phunks/CryptoPhunksMarket](https://github.com/Crypto-Phunks/CryptoPhunksMarket)
 
@@ -16,7 +16,7 @@ by <mark style="color:green;"></mark> [@NotLarvaLabs](https://twitter.com/NotLar
 
 <details>
 
-<summary>PhunkBOT (<mark style="color:yellow;">Python</mark>)</summary>
+<summary>PhunkBOT (<mark style="color:blue;">Python</mark>)</summary>
 
 [https://github.com/albanow/phunks-nll-twitter-bot](https://github.com/albanow/phunks-nll-twitter-bot)
 
@@ -26,7 +26,7 @@ by [@PhunkBot](https://twitter.com/PhunkBot) [@albanow10](https://twitter.com/al
 
 <details>
 
-<summary>EtherscanBOT (<mark style="color:yellow;">Python</mark>)</summary>
+<summary>EtherscanBOT (<mark style="color:blue;">Python</mark>)</summary>
 
 [https://github.com/albanow/etherscan-sales-bot](https://github.com/albanow/etherscan-sales-bot)
 
@@ -36,7 +36,7 @@ by [@PhunkBot](https://twitter.com/PhunkBot) [@albanow10](https://twitter.com/al
 
 <details>
 
-<summary>NFT Sales BOT (<mark style="color:blue;">TypeScript</mark>)</summary>
+<summary>NFTSalesBOT (<mark style="color:purple;">TypeScript,</mark> <mark style="color:yellow;">JavaScript,</mark> <mark style="color:green;">Shell</mark>)</summary>
 
 [https://github.com/chopperdaddy/nft-sales-twitter-bot](https://github.com/chopperdaddy/nft-sales-twitter-bot)
 
@@ -46,7 +46,7 @@ by [@chopper\_\_dad](https://twitter.com/chopper\_\_dad)
 
 <details>
 
-<summary>Volume tracker</summary>
+<summary>Volume tracker (<mark style="color:purple;">TypeScript,</mark> <mark style="color:red;">HTML,</mark> <mark style="color:purple;"></mark> <mark style="color:yellow;">JavaScript,</mark> <mark style="color:green;">Shell</mark>)</summary>
 
 [https://github.com/tat2bu/erc721-sale-extractor](https://github.com/tat2bu/erc721-sale-extractor)
 
@@ -56,7 +56,7 @@ by [@tat2bu](https://twitter.com/tat2bu)
 
 <details>
 
-<summary>PhunkStats</summary>
+<summary>PhunkStats (<mark style="color:blue;">Python</mark>)</summary>
 
 [https://github.com/pedropregueiro/phunk-stats](https://github.com/pedropregueiro/phunk-stats)
 
@@ -66,7 +66,7 @@ by [@PhunkStats](https://twitter.com/PhunkStats) [@krel404](https://twitter.com/
 
 <details>
 
-<summary>PhunksFloor</summary>
+<summary>PhunksFloor (<mark style="color:green;">PHP</mark>)</summary>
 
 [https://github.com/maximedotair/phunksfloor](https://github.com/maximedotair/phunksfloor)
 
@@ -76,7 +76,7 @@ by [@MaximedotAir](https://twitter.com/MaximedotAir)
 
 <details>
 
-<summary>PhunkFinder</summary>
+<summary>PhunkFinder (<mark style="color:yellow;">JavaScript,</mark> <mark style="color:purple;">CSS,</mark> <mark style="color:yellow;"></mark> <mark style="color:red;">HTML</mark>)</summary>
 
 [https://github.com/StarKeyJON/PhunkFinderv1](https://github.com/StarKeyJON/PhunkFinderv1)
 
@@ -86,7 +86,7 @@ by [@TreeGuyJON](https://twitter.com/TreeGuyJON)
 
 <details>
 
-<summary>PhunkyTweeter</summary>
+<summary>PhunkyTweeter (<mark style="color:blue;">Python</mark>)</summary>
 
 [https://github.com/StarKeyJON/phunky\_tweeter](https://github.com/StarKeyJON/phunky\_tweeter)
 
@@ -96,7 +96,7 @@ by [@TreeGuyJON](https://twitter.com/TreeGuyJON)
 
 <details>
 
-<summary>PhunksMarketGraph</summary>
+<summary>PhunksMarketGraph (<mark style="color:purple;">TypeScript</mark>)</summary>
 
 [https://github.com/StarKeyJON/CryptoPhunksMarketGraph](https://github.com/StarKeyJON/CryptoPhunksMarketGraph)
 
@@ -106,7 +106,7 @@ by [@TreeGuyJON](https://twitter.com/TreeGuyJON)
 
 <details>
 
-<summary>CreatePhunk</summary>
+<summary>CreatePhunk (<mark style="color:blue;">Python,</mark> <mark style="color:green;">Shell</mark>)</summary>
 
 [https://github.com/albanow/create\_phunk](https://github.com/albanow/create\_phunk)
 
