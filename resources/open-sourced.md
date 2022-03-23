@@ -116,6 +116,16 @@ by [@albanow10](https://twitter.com/albanow10)&#x20;
 
 <details>
 
+<summary>CryptoPhunksDAO (<mark style="color:red;">inactive</mark>) </summary>
+
+[https://github.com/Web3Master/cryptophunks](https://github.com/Web3Master/cryptophunks)
+
+by [@CryptoPhunksDAO](https://twitter.com/CryptoPhunksDAO)
+
+</details>
+
+<details>
+
 <summary>This Website </summary>
 
 [https://github.com/phunksbot/wiki](https://github.com/phunksbot/wiki)
