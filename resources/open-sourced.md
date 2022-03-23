@@ -16,7 +16,7 @@ by <mark style="color:green;"></mark> [@NotLarvaLabs](https://twitter.com/NotLar
 
 <details>
 
-<summary>PhunkBOT (Python)</summary>
+<summary>PhunkBOT (<mark style="color:yellow;">Python</mark>)</summary>
 
 [https://github.com/albanow/phunks-nll-twitter-bot](https://github.com/albanow/phunks-nll-twitter-bot)
 
@@ -26,7 +26,7 @@ by [@PhunkBot](https://twitter.com/PhunkBot) [@albanow10](https://twitter.com/al
 
 <details>
 
-<summary>EtherscanBOT (Python)</summary>
+<summary>EtherscanBOT (<mark style="color:yellow;">Python</mark>)</summary>
 
 [https://github.com/albanow/etherscan-sales-bot](https://github.com/albanow/etherscan-sales-bot)
 
@@ -36,7 +36,7 @@ by [@PhunkBot](https://twitter.com/PhunkBot) [@albanow10](https://twitter.com/al
 
 <details>
 
-<summary>NFT Sales BOT (TypeScript)</summary>
+<summary>NFT Sales BOT (<mark style="color:blue;">TypeScript</mark>)</summary>
 
 [https://github.com/chopperdaddy/nft-sales-twitter-bot](https://github.com/chopperdaddy/nft-sales-twitter-bot)
 
