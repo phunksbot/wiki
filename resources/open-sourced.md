@@ -86,6 +86,26 @@ by [@TreeGuyJON](https://twitter.com/TreeGuyJON)
 
 <details>
 
+<summary>PhunkyTweeter</summary>
+
+[https://github.com/StarKeyJON/phunky\_tweeter](https://github.com/StarKeyJON/phunky\_tweeter)
+
+by [@TreeGuyJON](https://twitter.com/TreeGuyJON)
+
+</details>
+
+<details>
+
+<summary>PhunksMarketGraph</summary>
+
+[https://github.com/StarKeyJON/CryptoPhunksMarketGraph](https://github.com/StarKeyJON/CryptoPhunksMarketGraph)
+
+by [@TreeGuyJON](https://twitter.com/TreeGuyJON)
+
+</details>
+
+<details>
+
 <summary>CreatePhunk</summary>
 
 [https://github.com/albanow/create\_phunk](https://github.com/albanow/create\_phunk)
