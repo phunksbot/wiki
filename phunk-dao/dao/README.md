@@ -2,7 +2,7 @@
 description: Decentralized Autonomous Organisation
 ---
 
-# DAO
+# ↘ DAO
 
 {% embed url="https://phunkdao.com" %}
 WEBSITE
