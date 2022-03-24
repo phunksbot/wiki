@@ -12,7 +12,9 @@ description: on GitHub
 
 by <mark style="color:green;"></mark> [@NotLarvaLabs](https://twitter.com/NotLarvaLabs) [@chopper\_\_dad](https://twitter.com/chopper\_\_dad) [@OG\_Kenobi\_Hello](https://twitter.com/OG\_Kenobi\_Hello) [@Pauly0x](https://twitter.com/Pauly0x) [@ryder\_ripps](https://twitter.com/ryder\_ripps)
 
-<mark style="color:orange;">Solidity,</mark> <mark style="color:yellow;">JavaScript</mark>
+```
+Solidity, JavaScript
+```
 
 </details>
 
