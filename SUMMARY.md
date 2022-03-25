@@ -1,6 +1,6 @@
 # Table of contents
 
-* [✊ CRYPTOPHUNKS](README.md)
+* [CRYPTOPHUNKS](README.md)
 
 ## MARKETPLACE <a href="#nll" id="nll"></a>
 
