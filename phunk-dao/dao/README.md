@@ -2,13 +2,13 @@
 description: Decentralized Autonomous Organisation
 ---
 
-# ↘ DAO
+# 🏛 DAO
 
 {% embed url="https://phunkdao.com" %}
 WEBSITE
 {% endembed %}
 
-PHUNK DAO is composed of decentralized group (9/9) of people from phunks community, it's goal is to build and support a healthy environment for phunk community to grow in true web3 spirit. PHUNKS DAO official ERC20 token is called [$PHUNKY](phunky.md) where 90% of [distribution](phunky.md) goes to Phunk holders and 10% goes to DAO treasury. Treasury is governed in decentralized matter where any $PHUNKY holder can make proposals that Phunks community can Vote on.&#x20;
+PHUNK DAO is endeavour of decentralized group (9/9) of people from phunks community, it's goal is to build and support a healthy environment for phunk community to grow in true web3 spirit. PHUNKS DAO official ERC20 token is called [$PHUNKY](phunky.md) where 90% of [distribution](phunky.md) goes to Phunk holders and 10% goes to DAO treasury. Treasury is governed in decentralized matter where any $PHUNKY holder can make proposals that Phunks community can Vote on.&#x20;
 
 {% hint style="info" %}
 Vote strength is weighted in $PHUNKY token each holder holds at time of active proposal,\
