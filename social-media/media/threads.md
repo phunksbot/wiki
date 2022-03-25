@@ -5,7 +5,7 @@ description: Twitter threads on Phunks in Chronological order.
 # THREADS
 
 {% hint style="info" %}
-Takes a moment for this section to load, but it's worth it.
+Takes a second to load, but it's worth it.
 {% endhint %}
 
 <details>
