@@ -55,4 +55,6 @@ An object's history is an immutable if intangible part of its value.
 
 {% hint style="info" %}
 In times where Big Corporations are [entering web3](https://metaversal.banklesshq.com/p/bored-apes-cryptopunks-the-big-ideas?s=r) to claim ownership over your NFTs, CryptoPhunks are more important than ever as a stand against centralisation in this emerging Crypto evolution where decentralisation should be paramount above all.
+
+![](.gitbook/assets/trojan-horse.jpeg)
 {% endhint %}
