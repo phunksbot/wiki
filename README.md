@@ -28,9 +28,9 @@ CryptoPhunks are the same as <mark style="color:green;"></mark> [CryptoPunks](ht
 ## Phunk is web3
 
 Only after original developers left the project, perfect conditions emerged for phunks to organically grow into a biggest web3 movement in history of crypto, run entirely by decentralized community of artist and [builders](resources/open-sourced.md).\
-Phunks stand for decentralisation, censorship resistance, [public good](https://cryptonews.com/videos/funding-the-commons-funding-public-goods-algorithms-and-mechanisms.htm), for the people and for the freedom. \
+Phunks stand for decentralisation, censorship resistance, [public good](https://cryptonews.com/videos/funding-the-commons-funding-public-goods-algorithms-and-mechanisms.htm), for the people and for the freedom. CryptoPhunks are entirely free-use, public domain art.\
 They are important part of NFT history that raised so many important questions and [endless discussions](social-media/media/threads.md) around ownership, copyright, conceptual art, [CC0](https://creativecommons.org/publicdomain/zero/1.0/deed.en), blockchain provenance, touching on subjects like; Who decides what Art is? Do you really own your NFT?\
-Phunks are challenging the status quo, they challenge power structures, for many phunks symbolise anti-establishment, counter-culture and are know for their rebel Spirit :fist: constantly pushing the boundaries, taking whole NFT ecosystem to move in right direction of decentralisation, public good, ownership and censorship resistance.\
+Phunks are challenging the status quo, they challenge power structures, for many people phunks symbolise anti-establishment, counter-culture and are know for their rebel Spirit :fist: constantly pushing the boundaries, taking whole NFT ecosystem to move in right direction of decentralisation, public good, ownership and censorship resistance.\
 Phunks were also used as a great case study and a reference on several [academic papers](https://papers.ssrn.com/sol3/papers.cfm?abstract\_id=4029323) around web3, IP and copyrights in this new emerging crypto evolution.&#x20;
 
 ![](<.gitbook/assets/Bildschirmfoto 2022-03-10 um 21.18.54.png>)![](<.gitbook/assets/Bildschirmfoto 2022-03-10 um 21.18.31.png>)
