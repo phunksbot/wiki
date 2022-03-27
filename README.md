@@ -4,7 +4,7 @@ cover: .gitbook/assets/image (1).png
 coverY: 0
 ---
 
-# ✊ CRYPTOPHUNKS
+# CRYPTOPHUNKS
 
 {% hint style="info" %}
 Nothing you see is official, everything is contribution. No devs, No roadmaps, No bs.\
@@ -22,7 +22,7 @@ In a Spirit of web3 culture a renegade group of community builders took it upon 
 ![](<.gitbook/assets/Phunk\_4156 (1).png>)![](.gitbook/assets/Phunk\_4156.png)
 
 {% hint style="info" %}
-CryptoPhunks are the same as <mark style="color:green;"></mark> [CryptoPunks](https://www.larvalabs.com/cryptopunks) just facing the other way, right way.
+CryptoPhunks are the same as <mark style="color:green;"></mark> [CryptoPunks](https://www.larvalabs.com/cryptopunks) just flipped the other way.
 {% endhint %}
 
 ## Phunk is web3
