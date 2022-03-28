@@ -6,7 +6,7 @@
 
 * [📊 NOTLARVALABS](nll/notlarvalabs/README.md)
   * [⚪ TUTORIALS](nll/notlarvalabs/tutorials.md)
-  * [FAQ](nll/notlarvalabs/faq.md)
+  * [🔘 FAQ](nll/notlarvalabs/faq.md)
 
 ## SOCIAL MEDIA
 
