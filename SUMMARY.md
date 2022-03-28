@@ -19,8 +19,8 @@
 ## PHUNK DAO
 
 * [🏛 DAO](phunk-dao/dao/README.md)
-  * [PHUNKY](phunk-dao/dao/phunky.md)
-  * [WHITEPAPER](phunk-dao/dao/whitepaper.md)
+  * [🔘 PHUNKY](phunk-dao/dao/phunky.md)
+  * [🔘 WHITEPAPER](phunk-dao/dao/whitepaper.md)
 
 ## RESOURCES
 
