@@ -28,12 +28,12 @@ CryptoPhunks are the same as <mark style="color:green;"></mark> [CryptoPunks](ht
 ## Phunk is web3
 
 Only after original developers left the project, perfect conditions emerged for phunks to organically grow into a biggest web3 movement in history of crypto, run entirely by decentralized community of artist and [builders](resources/open-sourced.md).\
-Phunks stand for decentralisation, censorship resistance, [public good](https://cryptonews.com/videos/funding-the-commons-funding-public-goods-algorithms-and-mechanisms.htm), for the people and for the freedom. CryptoPhunks are entirely free-use, public domain art.\
+Phunks stand for decentralisation, censorship resistance, [public good](https://cryptonews.com/videos/funding-the-commons-funding-public-goods-algorithms-and-mechanisms.htm), for the people and for the freedom. CryptoPhunks are entirely free-use, public domain Art.\
 They are important part of NFT history that raised so many important questions and [endless discussions](social-media/media/threads.md) around ownership, copyright, conceptual art, [CC0](https://creativecommons.org/publicdomain/zero/1.0/deed.en), blockchain provenance, touching on subjects like; Who decides what Art is? Do you really own your NFT?\
 Phunks are challenging the status quo, they challenge power structures, for many people phunks symbolise anti-establishment, counter-culture and are know for their rebel Spirit :fist: constantly pushing the boundaries, taking whole NFT ecosystem to move in right direction of decentralisation, public good, ownership and censorship resistance.
 
 {% hint style="info" %}
-In times when Big Corporations are [entering web3](https://metaversal.banklesshq.com/p/bored-apes-cryptopunks-the-big-ideas?s=r) to claim ownership over your NFTs, CryptoPhunks are more important than ever to stand against centralisation in this emerging Crypto evolution where decentralisation should be paramount above all.
+In times when Big Corporations are [entering web3](https://metaversal.banklesshq.com/p/bored-apes-cryptopunks-the-big-ideas?s=r) to claim ownership over your NFTs, CryptoPhunks are more relevant than ever to stand against centralisation in this emerging Crypto evolution where decentralisation should be paramount above all.
 
 ![](.gitbook/assets/trojan-horse.jpeg)
 {% endhint %}
