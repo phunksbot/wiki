@@ -2,13 +2,13 @@
 description: PHUNK DAO official ERC20 Token
 ---
 
-# PHUNKY
+# 🔘 PHUNKY
 
 {% embed url="https://phunkdao.com" %}
 WEBSITE
 {% endembed %}
 
-$PHUNKY is ERC20 Token that runs on Ethereum blockchain. Each Phunk you hold mines autonomously approx 2.7 $PHUNKY a day, everything is handled by a [$PHUNKY](https://etherscan.io/token/0x8ce518fe6cffb769c547e567d7bdc3e59a633fe1) smart contract and no interaction is needed. Tokens are claimable at any time. \
+$PHUNKY is [ERC20](https://www.bitpanda.com/academy/en/lessons/what-is-the-erc20-token-standard) Token that runs on Ethereum blockchain. Each Phunk you hold mines autonomously approx 2.7 $PHUNKY a day, everything is handled by a [$PHUNKY](https://etherscan.io/token/0x8ce518fe6cffb769c547e567d7bdc3e59a633fe1) smart contract and no interaction is needed. Tokens are claimable at any time. \
 Every time you claim $PHUNKY a portion (10%) goes to [PHUNK DAO](./), any unclaimed tokens are easily claimable at [phunkdao.com](https://phunkdao.com) with just few clicks. Alternatively $PHUNKY can be claimed by interacting directly to a smart contract.\
 Similar to [Bitcoin](https://bitcoin.org), token emission halves each year till max supply of 21M $PHUNKY is reached.&#x20;
 
