@@ -2,10 +2,10 @@
 description: Twitter threads on Phunks in Chronological order.
 ---
 
-# THREADS
+# 🔘 THREADS
 
 {% hint style="info" %}
-Takes a second to load, but it's worth it.
+Takes a second to load, but it's worth it. Just click on tweet to read the whole thread.
 {% endhint %}
 
 <details>
