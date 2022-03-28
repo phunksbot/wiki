@@ -31,7 +31,7 @@ They are important part of NFT history that raised so many important questions a
 Phunks are challenging the status quo, they challenge power structures, for many phunks symbolise anti-establishment, counter-culture and are know for their rebel Spirit :fist: constantly pushing the boundaries, taking whole NFT ecosystem to move in right direction of decentralisation, public good, ownership and censorship resistance.
 
 {% hint style="info" %}
-In times when [VCs](https://www.investopedia.com/terms/v/venturecapitalist.asp) and Big Corporations are [entering web3](https://metaversal.banklesshq.com/p/bored-apes-cryptopunks-the-big-ideas?s=r) to claim ownership over your NFTs, CryptoPhunks are more relevant than ever to stand against centralisation in this emerging Crypto evolution where decentralisation should be paramount above all.
+In times when [VCs](https://www.investopedia.com/terms/v/venturecapitalist.asp) and [Big Corporations](https://www.theverge.com/2022/3/22/22991272/yuga-labs-seed-funding-a16z-bored-ape-yacht-club-bayc-metaverse-other-side) are entering web3 to claim ownership over your NFTs and extract huge profits, CryptoPhunks are more relevant than ever as a statement against centralisation in this emerging Crypto evolution where decentralisation should be paramount above all.
 
 ![](.gitbook/assets/trojan-horse.jpeg)
 {% endhint %}
