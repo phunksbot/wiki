@@ -90,7 +90,7 @@ Confirm your MetaMask transaction when prompted.&#x20;
 
 <mark style="color:orange;">Make sure you have enough ETH in your MetaMask Wallet to cover max transaction fees.</mark>
 
-<mark style="color:orange;">Before Selling your Phunk make sure you claimed your outstanding</mark> [$PHUNKY](../../phunk-dao/phunk-dao/phunky.md)<mark style="color:orange;">.</mark>&#x20;
+<mark style="color:orange;">Before Selling your Phunk make sure you claimed your outstanding</mark> [$PHUNKY](../../phunk-dao/dao/phunky.md)<mark style="color:orange;">.</mark>&#x20;
 
 </details>
 
@@ -115,6 +115,6 @@ Confirm your MetaMask transaction when prompted.&#x20;
 
 ![](<../../.gitbook/assets/Screen Shot 2022-03-16 at 14.12.52.png>)
 
-<mark style="color:orange;">Before transferring your Phunk make sure you claimed your outstanding</mark> [$PHUNKY](../../phunk-dao/phunk-dao/phunky.md)<mark style="color:orange;">.</mark>&#x20;
+<mark style="color:orange;">Before transferring your Phunk make sure you claimed your outstanding</mark> [$PHUNKY](../../phunk-dao/dao/phunky.md)<mark style="color:orange;">.</mark>&#x20;
 
 </details>

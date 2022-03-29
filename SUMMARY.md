@@ -20,10 +20,10 @@
 
 ## PHUNK DAO
 
-* [🏛 PHUNK DAO](phunk-dao/phunk-dao/README.md)
-  * [🔘 ABOUT](phunk-dao/phunk-dao/about.md)
-  * [🔘 PHUNKY](phunk-dao/phunk-dao/phunky.md)
-  * [🔘 WHITEPAPER](phunk-dao/phunk-dao/whitepaper.md)
+* [🏛 DAO](phunk-dao/dao/README.md)
+  * [🔘 ABOUT](phunk-dao/dao/about.md)
+  * [🔘 PHUNKY](phunk-dao/dao/phunky.md)
+  * [🔘 WHITEPAPER](phunk-dao/dao/whitepaper.md)
 
 ## RESOURCES
 
