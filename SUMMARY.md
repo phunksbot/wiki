@@ -2,7 +2,7 @@
 
 * [CRYPTOPHUNKS](README.md)
 
-## MARKETPLACE <a href="#nll" id="nll"></a>
+## MARKETPLACES <a href="#nll" id="nll"></a>
 
 * [🔹 NOTLARVALABS](nll/notlarvalabs/README.md)
   * [🔘 ABOUT](nll/notlarvalabs/notlarvalabs.md)
