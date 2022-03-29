@@ -9,7 +9,7 @@
   * [🔘 THREADS](social-media/media/threads.md)
   * [🔘 VIDEOS](social-media/media/videos.md)
   * [🔘 MUSIC](social-media/media/music.md)
-  * [🔘 DL](social-media/media/dl.md)
+  * [🔘 MEDIA KIT](social-media/media/media-kit.md)
 
 ## MARKETPLACE <a href="#nll" id="nll"></a>
 
