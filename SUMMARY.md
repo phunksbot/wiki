@@ -21,7 +21,7 @@
 ## PHUNK DAO
 
 * [🏛 DAO](phunk-dao/dao/README.md)
-  * [🔘 DAO](phunk-dao/dao/dao.md)
+  * [🔘 PHUNK DAO](phunk-dao/dao/phunk-dao.md)
   * [🔘 PHUNKY](phunk-dao/dao/phunky.md)
   * [🔘 WHITEPAPER](phunk-dao/dao/whitepaper.md)
 
