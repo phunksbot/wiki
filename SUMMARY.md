@@ -13,7 +13,7 @@
 
 ## MARKETPLACE <a href="#nll" id="nll"></a>
 
-* [📈 NOTLARVALABS](nll/notlarvalabs/README.md)
+* [🆓 NOTLARVALABS](nll/notlarvalabs/README.md)
   * [🔘 ABOUT](nll/notlarvalabs/notlarvalabs.md)
   * [🔘 TUTORIALS](nll/notlarvalabs/tutorials.md)
   * [🔘 FAQ](nll/notlarvalabs/faq.md)
