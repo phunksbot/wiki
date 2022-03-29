@@ -2,7 +2,7 @@
 description: from notlarvalabs.com Website
 ---
 
-# FAQ
+# 🔘 FAQ
 
 {% embed url="https://notlarvalabs.com/faq-history" %}
 WEBSITE
