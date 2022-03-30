@@ -1,4 +1,4 @@
-# 🔘 MEDIA KIT
+# ▫ MEDIA KIT
 
 ## CryptoPhunk Viewer
 
@@ -12,6 +12,6 @@ PHUNK VIEWER
 ## Phunk Collage
 
 All 10'000 Phunks in one Collage, this collage is very scalable when viewed locally on your PC. \
-Just Right Click and download, then zoom in to the max.
+Just Right Click and Save, then zoom in to the max.
 
 ![PHUNK COLLAGE](../../.gitbook/assets/phunks-all.png)
