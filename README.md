@@ -19,9 +19,9 @@ In July 2021, after receiving [DMCA](https://twitter.com/CryptoPhunks/status/141
 Being censored and cut out from [98%](https://coinyuppie.com/why-is-opensea-an-absolute-monopolist-in-the-nft-trading-market/#:\~:text=In%20summary%2C%20OpenSea%20is%20currently,field%20of%20NFT%20trading%20market.) NFT Market, 1400+ Phunk holders were experiencing in real time how it feels to be deplatformed by web2 Corporations in web3 world where decentralization and provenance should be paramount. \
 It didn't take long before a renegade group of Phunk Community builders took it upon themselves to create their own Marketplace called [NotLarvaLabs](nll/notlarvalabs/notlarvalabs.md) and [open-source](resources/open-sourced.md) the code for public good.
 
+{% hint style="info" %}
 ![](<.gitbook/assets/Phunk\_4156 (1).png>)![](.gitbook/assets/Phunk\_4156.png)
 
-{% hint style="info" %}
 CryptoPhunks are the same as <mark style="color:green;"></mark> [CryptoPunks](https://www.larvalabs.com/cryptopunks) just flipped the other way.
 {% endhint %}
 
