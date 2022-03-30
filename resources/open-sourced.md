@@ -1,5 +1,5 @@
 ---
-description: on GitHub
+description: by Phunk Community for Global NFT Community on GitHub
 ---
 
 # # OPEN SOURCED
