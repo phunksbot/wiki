@@ -140,6 +140,14 @@ description: and Data Resources
 
 <details>
 
+<summary>DUNE - NFT Global Analytics</summary>
+
+[https://dune.xyz/rantum/NFT-Collection-Dashboard?contract\_address=xf07468ead8cf26c752c676e43c814fee9c8cf402](https://dune.xyz/rantum/NFT-Collection-Dashboard?contract\_address=xf07468ead8cf26c752c676e43c814fee9c8cf402)
+
+</details>
+
+<details>
+
 <summary>DUNE - NFTX Analytics</summary>
 
 [https://dune.xyz/nftx/NFTX-Dune-Dashboard-Single-Vault-View?Vault\_Address=0xb39185e33e8c28e0bb3dbbce24da5dea6379ae91](https://dune.xyz/nftx/NFTX-Dune-Dashboard-Single-Vault-View?Vault\_Address=0xb39185e33e8c28e0bb3dbbce24da5dea6379ae91)
@@ -148,9 +156,9 @@ description: and Data Resources
 
 <details>
 
-<summary>DUNE - NFT Global Analytics</summary>
+<summary>DUNE - Phunk Wallets</summary>
 
-[https://dune.xyz/rantum/NFT-Collection-Dashboard?contract\_address=xf07468ead8cf26c752c676e43c814fee9c8cf402](https://dune.xyz/rantum/NFT-Collection-Dashboard?contract\_address=xf07468ead8cf26c752c676e43c814fee9c8cf402)
+[https://dune.xyz/whymeor/Phunks-Wallets](https://dune.xyz/whymeor/Phunks-Wallets)
 
 </details>
 
