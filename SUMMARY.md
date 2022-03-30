@@ -15,16 +15,16 @@
 ## SOCIAL MEDIA
 
 * [🌐 MEDIA](social-media/media/README.md)
-  * [🔘 ARTICLES](social-media/media/articles.md)
-  * [🔘 THREADS](social-media/media/threads.md)
-  * [🔘 VIDEOS](social-media/media/videos.md)
-  * [🔘 MUSIC](social-media/media/music.md)
-  * [🔘 MEDIA KIT](social-media/media/media-kit.md)
+  * [▫ ARTICLES](social-media/media/articles.md)
+  * [▫ THREADS](social-media/media/threads.md)
+  * [▫ VIDEOS](social-media/media/videos.md)
+  * [▫ MUSIC](social-media/media/music.md)
+  * [▫ MEDIA KIT](social-media/media/media-kit.md)
 
 ## PHUNK DAO
 
 * [🏛 DAO](phunk-dao/dao/README.md)
-  * [🔘 ABOUT](phunk-dao/dao/about.md)
+  * [▪ ABOUT](phunk-dao/dao/about.md)
   * [🔘 PHUNKY](phunk-dao/dao/phunky.md)
   * [🔘 WHITEPAPER](phunk-dao/dao/whitepaper.md)
 
