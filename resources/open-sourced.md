@@ -1,12 +1,12 @@
 ---
-description: by Phunk Community for Global NFT Community on GitHub
+description: Contribution by Phunk Community for Global NFT Community on GitHub
 ---
 
 # # OPEN SOURCED
 
 <details>
 
-<summary>Phunks Marketplace </summary>
+<summary>Phunks Marketplace</summary>
 
 [https://github.com/Crypto-Phunks/CryptoPhunksMarket](https://github.com/Crypto-Phunks/CryptoPhunksMarket)
 
