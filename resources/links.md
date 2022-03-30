@@ -222,6 +222,10 @@ description: and Data Resources
 
 ## OTHER
 
+{% hint style="warning" %}
+Original Developers [abounded](history.md) the project in Juli 2021, still they left OG website running.
+{% endhint %}
+
 <details>
 
 <summary>OG Phunk Website</summary>
