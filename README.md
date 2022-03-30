@@ -34,7 +34,7 @@ Phunks are challenging the status quo, they challenge power structures, for many
 {% hint style="info" %}
 In times when [VCs](https://www.investopedia.com/terms/v/venturecapitalist.asp) and [Big Corporations](https://www.theverge.com/2022/3/22/22991272/yuga-labs-seed-funding-a16z-bored-ape-yacht-club-bayc-metaverse-other-side) are entering web3 to claim ownership over your NFTs and extract huge profits, CryptoPhunks are more relevant than ever as a statement against centralisation in this emerging Crypto evolution where where decentralization and provenance should be paramount.
 
-![](.gitbook/assets/trojan-horse.jpeg)
+![](<.gitbook/assets/Bildschirmfoto 2022-03-10 um 21.18.54.png>)![](<.gitbook/assets/Bildschirmfoto 2022-03-10 um 21.18.31.png>)
 {% endhint %}
 
 ## Phunk is historic
@@ -54,5 +54,3 @@ In times when [VCs](https://www.investopedia.com/terms/v/venturecapitalist.asp) 
 {% hint style="info" %}
 An object's history is an immutable if intangible part of its value.
 {% endhint %}
-
-![](<.gitbook/assets/Bildschirmfoto 2022-03-10 um 21.18.54.png>)![](<.gitbook/assets/Bildschirmfoto 2022-03-10 um 21.18.31.png>)
