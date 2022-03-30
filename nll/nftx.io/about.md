@@ -1,6 +1,6 @@
 # ▫ ABOUT
 
-## **What** Is **NFTX**?
+## **What** is **NFTX**?
 
 **NFTX** is a community-owned protocol and platform for creating non-fungible token (NFT)-backed ERC-20 tokens. Notably, **NFTX** powers the creation and trading of funds, tracking sought-after NFT collectibles such as BAYC, CryptoPunks, CryptoPhunks and others.
 
