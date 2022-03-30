@@ -9,8 +9,8 @@
   * [▫ TUTORIALS](nll/notlarvalabs/tutorials.md)
   * [▫ FAQ](nll/notlarvalabs/faq.md)
 * [🔵 NFTX.io](nll/nftx.io/README.md)
-  * [▫ About](nll/nftx.io/about.md)
-  * [▫ Tutorials](nll/nftx.io/tutorials.md)
+  * [▫ ABOUT](nll/nftx.io/about.md)
+  * [▫ TUTORIALS](nll/nftx.io/tutorials.md)
 
 ## SOCIAL MEDIA
 

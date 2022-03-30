@@ -2,11 +2,7 @@
 description: how to use NotLarvaLabs Marketplace
 ---
 
-# 🔘 TUTORIALS
-
-{% embed url="https://notlarvalabs.com/cryptophunks" %}
-WEBSITE
-{% endembed %}
+# ▫ TUTORIALS
 
 ## Getting Started
 
@@ -21,6 +17,10 @@ WEBSITE
 Connect your MetaMask Wallet to the Marketplace using tutorial below.
 
 </details>
+
+{% embed url="https://notlarvalabs.com/cryptophunks" %}
+WEBSITE
+{% endembed %}
 
 ## Tutorials
 

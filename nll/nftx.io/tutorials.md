@@ -1,4 +1,8 @@
-# ▫ Tutorials
+---
+description: how to use NFTX.io
+---
+
+# ▫ TUTORIALS
 
 ## Getting Started
 
