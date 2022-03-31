@@ -80,7 +80,7 @@ Source Code: [https://github.com/pedropregueiro/phunk-stats](https://github.com/
 
 Programming Language: <mark style="color:blue;">Python</mark>
 
-<mark style="color:blue;"></mark>[<mark style="color:blue;">LIVE DEMO</mark>](https://twitter.com/PhunkStats)<mark style="color:blue;"></mark>
+[LIVE DEMO](https://twitter.com/PhunkStats)
 
 by [@PhunkStats](https://twitter.com/PhunkStats) [@krel404](https://twitter.com/krel404) [@pedropregueiro](https://twitter.com/pedropregueiro)
 
