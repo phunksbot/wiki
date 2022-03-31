@@ -53,7 +53,7 @@ In times when [VCs](https://www.investopedia.com/terms/v/venturecapitalist.asp) 
 
 ✔️ They are passionate about decentralisation and passionately against censorship.
 
-✔️  First truly decentralized NFT both as an Asset and a Community.
+✔️  First truly decentralized NFT both as an Asset and as a Community.
 
 {% hint style="info" %}
 An object's history is an immutable if intangible part of its value.
