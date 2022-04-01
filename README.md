@@ -22,19 +22,19 @@ It didn't take long before a renegade group of Phunk Community builders took it 
 {% hint style="info" %}
 ![](<.gitbook/assets/Phunk\_4156 (1).png>)![](.gitbook/assets/Phunk\_4156.png)
 
-CryptoPhunks are the same as <mark style="color:green;"></mark> [CryptoPunks](https://www.larvalabs.com/cryptopunks) just flipped the other way.
+CryptoPhunks are the same as <mark style="color:green;"></mark> [**CryptoPunks**](https://www.larvalabs.com/cryptopunks) just flipped the other way.
 {% endhint %}
 
 ## Phunk is web3
 
-Since [Cypherpunk's Manifesto](https://www.activism.net/cypherpunk/manifesto.html) and [Bitcoin](https://satoshi.nakamotoinstitute.org/emails/cryptography/1/) introduction to the world, people are able to transact directly without the need of central intermediary or rule-makers using blockchain technology. This technology empowered people and provided platform to freely present their thoughts and views, in writings and Art expressions, to the world without fear of being censored. \
-In this Spirit CryptoPhunks stand for decentralisation, censorship resistance, [public good](https://cryptonews.com/videos/funding-the-commons-funding-public-goods-algorithms-and-mechanisms.htm), for the people and for the freedom. Phunks are free-use, public domain Art, run entirely by decentralized community of artist and [builders](resources/open-sourced.md). \
-Phunks are important part of the NFT history that raised so many important questions and [endless discussions](social-media/media/threads.md) around ownership, copyright, conceptual art, [CC0](https://creativecommons.org/publicdomain/zero/1.0/deed.en), blockchain provenance, touching on subjects like; Who decides what Art is? Do you really own your NFT?\
+Since [**Cypherpunk's Manifesto**](https://www.activism.net/cypherpunk/manifesto.html) **** and **** [**Bitcoin**](https://satoshi.nakamotoinstitute.org/emails/cryptography/1/) introduction to the world, people are able to transact directly without the need of central intermediary or rule-makers using blockchain technology. This technology empowered people and provided platform to freely present their thoughts and views, in writings and Art expressions, to the world without fear of being censored. \
+In this Spirit CryptoPhunks stand for decentralisation, censorship resistance, **** [**public good**](https://cryptonews.com/videos/funding-the-commons-funding-public-goods-algorithms-and-mechanisms.htm), for the people and for the freedom. Phunks are free-use, public domain Art, run entirely by decentralized community of artist and [**builders**](resources/open-sourced.md). \
+Phunks are important part of the NFT history that raised so many important questions and [**many discussions**](social-media/media/threads.md) around ownership, copyright, conceptual art, [**CC0**](https://creativecommons.org/publicdomain/zero/1.0/deed.en), blockchain provenance, touching on subjects like; Who decides what Art is? Do you really own your NFT?\
 Phunks are challenging the status quo, they challenge power structures, for many phunks symbolise anti-establishment, counter-culture and are know for their rebel Spirit :fist: constantly pushing the boundaries, taking whole NFT ecosystem to move in the right direction of decentralisation, public good, ownership and censorship resistance. Phunks were inspiration to many future NFT projects that share the same ethos.\
-If you hold a Phunk you actually own it, without fear that your Phunk can be resold from one Corporation to another as it happened to [CryptoPunks and Meebits](https://twitter.com/yugalabs/status/1502420714527334406?s=20\&t=J5ZZNygm5AQ4XfL58MAxTw), that's the beauty of Web3. Removing power from Corporations and giving power back to the Holders.
+If you hold a Phunk you actually own it, without fear that your Phunk can be resold from one Corporation to another as it happened to [**CryptoPunks and Meebits**](https://twitter.com/yugalabs/status/1502420714527334406?s=20\&t=J5ZZNygm5AQ4XfL58MAxTw), that's the beauty of Web3. Removing power from Corporations and giving power back to the Holders.
 
 {% hint style="info" %}
-In times when [VCs](https://www.investopedia.com/terms/v/venturecapitalist.asp) and [Big Corporations](https://www.theverge.com/2022/3/22/22991272/yuga-labs-seed-funding-a16z-bored-ape-yacht-club-bayc-metaverse-other-side) are entering Web3 to claim ownership over your NFTs and extract huge profits, CryptoPhunks are more relevant than ever as a statement against centralisation in this emerging Crypto evolution where decentralization and provenance should be paramount. By owning a CryptoPhunk, you will forever [commemorate](https://phunks.medium.com/the-cryptophunks-manifesto-785c7348e558) this ongoing fight against centralization.
+In times when [**VCs**](https://www.investopedia.com/terms/v/venturecapitalist.asp) and [**Big Corporations**](https://www.theverge.com/2022/3/22/22991272/yuga-labs-seed-funding-a16z-bored-ape-yacht-club-bayc-metaverse-other-side) are entering Web3 to claim ownership over your NFTs and extract huge profits, CryptoPhunks are more relevant than ever as a statement against centralisation in this emerging Crypto evolution where decentralization and provenance should be paramount. By owning a CryptoPhunk, you will forever [commemorate](https://phunks.medium.com/the-cryptophunks-manifesto-785c7348e558) this ongoing fight against centralization.
 
 ![](<.gitbook/assets/Bildschirmfoto 2022-03-10 um 21.18.54.png>)![](<.gitbook/assets/Bildschirmfoto 2022-03-10 um 21.18.31.png>)
 {% endhint %}
@@ -49,7 +49,7 @@ In times when [VCs](https://www.investopedia.com/terms/v/venturecapitalist.asp) 
 
 ✔️ They are the second project ever to create a zero-fee marketplace.&#x20;
 
-✔️ Phunks are a community of smart, talented, rebellious artists and [builders](resources/open-sourced.md).&#x20;
+✔️ Phunks are a community of smart, talented, rebellious artists and [**builders**](resources/open-sourced.md).&#x20;
 
 ✔️ They are passionate about decentralisation and passionately against censorship.
 
