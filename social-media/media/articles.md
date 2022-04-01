@@ -2,7 +2,7 @@
 description: written on Phunks in Chronological order.
 ---
 
-# 🔘 ARTICLES
+# ▫ ARTICLES
 
 
 
@@ -243,5 +243,13 @@ description: written on Phunks in Chronological order.
 <summary>March 15, 2022 - <a href="https://metaversal.banklesshq.com/p/bored-apes-cryptopunks-the-big-ideas?s=r">Bored Apes + CryptoPunks: the big ideas</a></summary>
 
 [https://metaversal.banklesshq.com/p/bored-apes-cryptopunks-the-big-ideas?s=r](https://metaversal.banklesshq.com/p/bored-apes-cryptopunks-the-big-ideas?s=r)
+
+</details>
+
+<details>
+
+<summary>April 01, 2022 - <a href="https://eggphunk.medium.com/sup-phunks-vol-2-5e74224be4ee">Sup Phunks! Vol. 2</a></summary>
+
+[https://eggphunk.medium.com/sup-phunks-vol-2-5e74224be4ee](https://eggphunk.medium.com/sup-phunks-vol-2-5e74224be4ee)
 
 </details>
