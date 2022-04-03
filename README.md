@@ -8,7 +8,7 @@ coverY: 0
 
 {% hint style="info" %}
 Nothing you see is official, everything is contribution. No devs, No roadmaps, No bs.\
-Just Phunk Pham building cool stuff cause they care about Web3 and decentralisation.
+Just Phunk Pham building cool stuff cause they care about Web3 and decentralization.
 {% endhint %}
 
 ## Phunk is Punk
