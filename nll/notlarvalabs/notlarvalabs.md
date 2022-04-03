@@ -16,5 +16,3 @@ You can find source code [**here**](../../resources/links.md#smart-contract) for
 {% embed url="https://notlarvalabs.com/cryptophunks" %}
 WEBSITE
 {% endembed %}
-
-![FAQ](<../../.gitbook/assets/Bildschirmfoto 2022-03-10 um 16.58.33.png>)
