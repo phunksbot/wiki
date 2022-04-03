@@ -79,3 +79,13 @@ Use Phunk Box to browse collections for any account holding Phunks.
 ![](<../../.gitbook/assets/Screen Shot 2022-04-03 at 23.26.44.png>)
 
 </details>
+
+<details>
+
+<summary>PHUNK PFP</summary>
+
+Edit your own Phunk to custom Border and Background color.
+
+![](<../../.gitbook/assets/Screen Shot 2022-04-03 at 23.23.28.png>)
+
+</details>
