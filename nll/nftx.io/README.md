@@ -1,2 +1,2 @@
-# 🔷 NFTX.io
+# 🟥 NFTX.io
 

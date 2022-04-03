@@ -2,5 +2,5 @@
 description: Decentralized Autonomous Organisation
 ---
 
-# 🏛 DAO
+# 🟫 DAO
 

@@ -1,2 +1,2 @@
-# 🔘 WHITEPAPER
+# ▫ WHITEPAPER
 
