@@ -9,6 +9,10 @@ You can also change background colour by choosing one below, download will only 
 PHUNK VIEWER
 {% endembed %}
 
+{% hint style="info" %}
+For Phunk Custom PFP (Profile Picture) use [**Phunk Box**](../../nll/notlarvalabs/tutorials.md#tutorials) by [**NotLarvaLabs**](../../nll/notlarvalabs/).
+{% endhint %}
+
 ## Phunk Collage
 
 All 10'000 Phunks in one Collage, this collage is very scalable when viewed locally on your PC. \

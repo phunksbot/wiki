@@ -121,7 +121,7 @@ Confirm your MetaMask transaction when prompted.&#x20;
 
 <details>
 
-<summary>Custom Phunk PFP (Profile Picture)</summary>
+<summary>Phunk Box custom PFP (Profile Picture)</summary>
 
 You can customise Phunk you own using Phunk Box.
 
