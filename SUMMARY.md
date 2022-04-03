@@ -6,6 +6,7 @@
 
 * [🟪 NOTLARVALABS](nll/notlarvalabs/README.md)
   * [▫ ABOUT](nll/notlarvalabs/notlarvalabs.md)
+  * [▫ FEATURES](nll/notlarvalabs/features.md)
   * [▫ TUTORIALS](nll/notlarvalabs/tutorials.md)
   * [▫ FAQ](nll/notlarvalabs/faq.md)
 * [🟥 NFTX.io](nll/nftx.io/README.md)
