@@ -121,7 +121,23 @@ Confirm your MetaMask transaction when prompted.&#x20;
 
 <details>
 
-<summary>Phunk Box custom PFP (Profile Picture)</summary>
+<summary>Phunk BOX</summary>
+
+Use Phunk Box to browse collections for any account holding Phunks.
+
+Start by searching for a ETH wallet address or ENS.
+
+![](<../../.gitbook/assets/Screen Shot 2022-04-03 at 23.26.18 (1).png>)
+
+You should be able to see Phunks held by that account address.
+
+![](<../../.gitbook/assets/Screen Shot 2022-04-03 at 23.26.44 (1).png>)
+
+</details>
+
+<details>
+
+<summary>Phunk PFP (Profile Picture)</summary>
 
 You can customise Phunk you own using Phunk Box.
 
