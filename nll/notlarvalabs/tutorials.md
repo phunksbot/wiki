@@ -143,7 +143,7 @@ After you chosen your Color combo klick on "Save PFP" top right corner.
 
 ![](<../../.gitbook/assets/Screen Shot 2022-04-03 at 23.23.28.png>)
 
-You can chose type and Shape of download between Square, Round and Hexagon. \
+You can chose type and Shape between Square, Round and Hexagon. \
 With or without Color Border and press Download.
 
 ![](<../../.gitbook/assets/Screen Shot 2022-04-03 at 23.23.45.png>)![](<../../.gitbook/assets/Screen Shot 2022-04-03 at 23.23.54 (1).png>)
