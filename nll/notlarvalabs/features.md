@@ -4,8 +4,6 @@
 WEBSITE
 {% endembed %}
 
-## Features
-
 <details>
 
 <summary>PHUNKS FOR SALE</summary>
