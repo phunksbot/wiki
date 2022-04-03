@@ -118,3 +118,34 @@ Confirm your MetaMask transaction when prompted.&#x20;
 <mark style="color:orange;">Before transferring your Phunk make sure you claimed your outstanding</mark> [**$PHUNKY**](../../phunk-dao/dao/phunky.md)<mark style="color:orange;">.</mark>&#x20;
 
 </details>
+
+<details>
+
+<summary>Custom Phunk PFP (Profile Picture)</summary>
+
+You can customise Phunk you own using Phunk Box.
+
+Search for your wallet address or your ENS.
+
+![](<../../.gitbook/assets/Screen Shot 2022-04-03 at 23.26.18 (1).png>)
+
+Choose your Phunk you would like to use as a PFP.
+
+![](<../../.gitbook/assets/Screen Shot 2022-04-03 at 23.26.44 (1).png>)
+
+You will see two white Circles on right corner, use them to edit Border or Background.
+
+![](<../../.gitbook/assets/Screen Shot 2022-04-03 at 23.22.17.png>)
+
+![](<../../.gitbook/assets/Screen Shot 2022-04-03 at 23.22.41.png>)
+
+After you chosen your Color combo klick on "Save PFP" top right corner.
+
+![](<../../.gitbook/assets/Screen Shot 2022-04-03 at 23.23.28.png>)
+
+You can chose type and Shape of download between Square, Round and Hexagon. \
+With or without Color Border and press Download.
+
+![](<../../.gitbook/assets/Screen Shot 2022-04-03 at 23.23.45.png>)![](<../../.gitbook/assets/Screen Shot 2022-04-03 at 23.23.54 (1).png>)
+
+</details>
