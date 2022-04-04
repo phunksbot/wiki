@@ -55,7 +55,7 @@ In times when [**VCs**](https://www.investopedia.com/terms/v/venturecapitalist.a
 
 ✔️  First truly decentralized NFT both as an Asset and as a Community.
 
-✔️  Phunks are NFT project that is actively contributing to public good by **open sourcing all tools.**
+✔️  Phunks are NFT project that is actively contributing to public good by [**open sourcing all tools**](resources/open-sourced.md)**.**
 
 {% hint style="info" %}
 An object's history is an immutable if intangible part of its value.
