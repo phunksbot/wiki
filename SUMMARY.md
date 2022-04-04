@@ -21,7 +21,7 @@
   * [▫ VIDEOS](social-media/media/videos.md)
   * [▫ MUSIC](social-media/media/music.md)
   * [▫ MEDIA KIT](social-media/media/media-kit.md)
-  * [▫ Sup Phunks!](social-media/media/sup-phunks.md)
+  * [▫ SUP PHUNKS!](social-media/media/sup-phunks.md)
 
 ## PHUNK DAO
 
