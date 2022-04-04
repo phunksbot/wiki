@@ -84,7 +84,7 @@ After being banned from NFT trading ecosystem, phunks community stood up and mad
 Art is in the movement, philosophy, interpretation and belief.
 
 {% hint style="info" %}
-Everything that unfolded with Phunks was inspiration for a movements called Phunkism.
+[**#Phunkism**](https://twitter.com/search?q=%23phunkism\&src=typed\_query\&f=live)
 
 ![](.gitbook/assets/1v6Xou.png)
 {% endhint %}
