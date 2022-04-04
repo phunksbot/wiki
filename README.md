@@ -75,7 +75,6 @@ Few examples to better understand:
 | Punk is facing Right          | Phunk is facing Left          |
 | Punk is moving away from you  | Phunk is moving towards you   |
 | Punk is Centralized           | Phunk is Decentralized        |
-| Punk is Generic               | Phunk is Natural              |
 | Punk is Web2                  | Phunk is Web3                 |
 | ERC20                         | ERC721                        |
 
