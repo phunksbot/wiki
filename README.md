@@ -67,7 +67,7 @@ An object's history is an immutable if intangible part of its value.
 Phunks are many things to many people, based on all informations I gathered following phunks since inception [**I will**](https://twitter.com/iape\_) try my best to objectively explain what makes Phunks Art.
 {% endhint %}
 
-To understand Artistic value behind Phunks one must understand [**Conceptual Art**](https://en.wikipedia.org/wiki/Conceptual\_art)**,**[ **Marcel Duchamp**](https://en.wikipedia.org/wiki/Marcel\_Duchamp)**,** [**Dadaism**](https://en.wikipedia.org/wiki/Dada)**..** Phunks Artistic value comes from expression, activity and events not from the image itself, this is commonly known in art world as a [**performance art**](https://en.wikipedia.org/wiki/Performance\_art). By flipping the Original image on Y Axis you have the same but absolutely different interpretation. \
+To understand Artistic value behind Phunks one must understand [**Conceptual Art**](https://en.wikipedia.org/wiki/Conceptual\_art)**,**[ **Marcel Duchamp**](https://en.wikipedia.org/wiki/Marcel\_Duchamp)**,** [**Dadaism**](https://en.wikipedia.org/wiki/Dada)**..** Phunks Artistic value comes from expression, activity and events not from the image itself, this is commonly known in art world as a [**performance art**](https://en.wikipedia.org/wiki/Performance\_art). By flipping the Original image on Y Axis you have the same but absolutely different concept using blockchain as medium. \
 Here are few examples to better understand conceptual Art behind Phunks:
 
 | ORIGINAL IMAGE (Crypto Punks) | FLIPPED IMAGE (Crypto Phunks) |

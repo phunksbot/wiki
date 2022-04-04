@@ -139,13 +139,13 @@ You should be able to see Phunks held by that account address.
 
 <summary>Phunk PFP (Profile Picture)</summary>
 
-You can customise Phunk you own using Phunk Box.
+You can customise any Phunk using Phunk Box.
 
-Search for your wallet address or your ENS.
+Search for a wallet address or your ENS.
 
 ![](<../../.gitbook/assets/Screen Shot 2022-04-03 at 23.26.18 (1).png>)
 
-Choose a Phunk you would like to use as a PFP.
+Choose a Phunk you would like to customise.
 
 ![](<../../.gitbook/assets/Screen Shot 2022-04-03 at 23.26.44 (1).png>)
 
