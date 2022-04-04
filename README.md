@@ -22,7 +22,7 @@ It didn't take long before a renegade group of Phunk Community builders took it 
 {% hint style="info" %}
 ![](<.gitbook/assets/Phunk\_4156 (1).png>)![](.gitbook/assets/Phunk\_4156.png)
 
-CryptoPhunks are the same as <mark style="color:green;"></mark> [**CryptoPunks**](https://www.larvalabs.com/cryptopunks) just flipped the other way.
+CryptoPhunks are the same as <mark style="color:green;"></mark> [**CryptoPunks**](https://www.larvalabs.com/cryptopunks) just flipped the [**other way**](https://phunks.gitbook.io/knowledge-base/#phunk-is-art).
 {% endhint %}
 
 ## Phunk is web3
