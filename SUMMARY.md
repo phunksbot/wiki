@@ -22,6 +22,7 @@
   * [▫ MUSIC](social-media/media/music.md)
   * [▫ MEDIA KIT](social-media/media/media-kit.md)
   * [▫ SUP PHUNKS!](social-media/media/sup-phunks.md)
+* [🟨 MUSEUM](social-media/museum.md)
 
 ## PHUNK DAO
 

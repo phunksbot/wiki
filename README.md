@@ -85,5 +85,6 @@ Art is in the movement, culture, philosophy, interpretation and belief.
 {% hint style="info" %}
 [**#Phunkism**](https://twitter.com/search?q=%23phunkism\&src=typed\_query\&f=live)
 
-![](.gitbook/assets/1v6Xou.png)![](.gitbook/assets/FFy52QrXIAMAmfH.jpeg)
+![](.gitbook/assets/1v6Xou.png)\
+
 {% endhint %}
