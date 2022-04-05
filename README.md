@@ -83,8 +83,8 @@ After being banned from NFT trading ecosystem, phunks community stood up and mad
 Art is in the movement, culture, philosophy, interpretation and belief.
 
 {% hint style="info" %}
-[**#Phunkism**](https://twitter.com/search?q=%23phunkism\&src=typed\_query\&f=live)
+[**#Phunkism**](https://twitter.com/search?q=%23phunkism\&src=typed\_query\&f=live) ****&#x20;
 
 ![](.gitbook/assets/1v6Xou.png)\
-
+for more :frame\_photo: visit [**Museum**](social-media/museum.md)****
 {% endhint %}
