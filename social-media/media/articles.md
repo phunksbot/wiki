@@ -253,3 +253,11 @@ description: written on Phunks in Chronological order
 [https://eggphunk.medium.com/sup-phunks-vol-2-5e74224be4ee](https://eggphunk.medium.com/sup-phunks-vol-2-5e74224be4ee)
 
 </details>
+
+<details>
+
+<summary>April 06, 2022 - <a href="https://pharoutlabs.medium.com/welcome-to-a-new-era-of-phreedom-894f6a4987b2">Welcome to a new era… of Phreedom…</a></summary>
+
+[https://pharoutlabs.medium.com/welcome-to-a-new-era-of-phreedom-894f6a4987b2](https://pharoutlabs.medium.com/welcome-to-a-new-era-of-phreedom-894f6a4987b2)
+
+</details>
