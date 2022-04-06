@@ -4,10 +4,6 @@ description: how to use NotLarvaLabs Marketplace
 
 # ▫ TUTORIALS
 
-{% embed url="https://notlarvalabs.com/cryptophunks" %}
-WEBSITE
-{% endembed %}
-
 ## Getting Started
 
 <details>
@@ -165,3 +161,7 @@ With or without Color Border and press Download.
 ![](<../../.gitbook/assets/Screen Shot 2022-04-03 at 23.23.45.png>)![](<../../.gitbook/assets/Screen Shot 2022-04-03 at 23.23.54 (1).png>)
 
 </details>
+
+{% embed url="https://notlarvalabs.com/cryptophunks" %}
+WEBSITE
+{% endembed %}

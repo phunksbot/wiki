@@ -12,15 +12,9 @@ The platform’s unique value [proposition](https://dappradar.com/blog/nftx-the-
 NFTX is helping to establish reliable floor price feeds for NFTs, enabling their wider application in decentralized finance on Ethereum.
 {% endhint %}
 
-{% embed url="https://nftx.io/vault/0xb39185e33e8c28e0bb3dbbce24da5dea6379ae91/buy" %}
-WEBSITE
-{% endembed %}
-
 ## Features
 
-{% hint style="info" %}
-Taken from [https://docs.nftx.io/](https://docs.nftx.io)
-{% endhint %}
+#### Taken from [https://docs.nftx.io/](https://docs.nftx.io)
 
 <details>
 
@@ -28,7 +22,7 @@ Taken from [https://docs.nftx.io/](https://docs.nftx.io)
 
 Vaults can be created by anyone for any NFT asset on Ethereum. Once a vault has been created, any user can then deposit eligible NFTs into the vault to mint a fungible NFT-backed token referred to as an "vToken".
 
-[Learn more about vault creation](broken-reference)
+[Learn more about vault creation](https://phunks.gitbook.io/knowledge-base/nll/nftx.io/tutorials#tutorials)
 
 </details>
 
@@ -38,7 +32,7 @@ Vaults can be created by anyone for any NFT asset on Ethereum. Once a vault has 
 
 Anyone can deposit NFTs into an existing vault (or one they have created) in order to mint a fungible vToken that represents a 1:1 claim on a random NFT from within the vault.
 
-[Learn more about minting](broken-reference)
+[Learn more about minting](https://phunks.gitbook.io/knowledge-base/nll/nftx.io/tutorials#tutorials)
 
 </details>
 
@@ -46,7 +40,7 @@ Anyone can deposit NFTs into an existing vault (or one they have created) in ord
 
 <summary>REDEEMING</summary>
 
-NFTX v2 allows you to easily redeem your [minted](broken-reference) ERC20 Vault Tokens (vTokens) for either a random or targeted NFT within the vault.
+NFTX v2 allows you to easily redeem your [minted](https://phunks.gitbook.io/knowledge-base/nll/nftx.io/tutorials#tutorials) ERC20 Vault Tokens (vTokens) for either a random or targeted NFT within the vault.
 
 Redemptions allow users to take ownership of an underlying NFT from within a vault. This means that a user can go to an AMM like Sushiswap, purchase a single vToken like PUNK and use that token to claim a random CryptoPhunk from the [PHUNK Vault](https://nftx.io/vault/0xb39185e33e8c28e0bb3dbbce24da5dea6379ae91/redeem/).
 
@@ -75,3 +69,7 @@ For example, a user has 5 Hashmasks and values 2 of them highly. However, they c
 The above process will continue until a floor price is achieved.
 
 </details>
+
+{% embed url="https://nftx.io/vault/0xb39185e33e8c28e0bb3dbbce24da5dea6379ae91/buy" %}
+WEBSITE
+{% endembed %}

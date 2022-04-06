@@ -4,10 +4,6 @@ description: from notlarvalabs.com Website
 
 # ▫ FAQ
 
-{% embed url="https://notlarvalabs.com/faq-history" %}
-WEBSITE
-{% endembed %}
-
 <details>
 
 <summary>What is a CryptoPhunk (aka Phunk)?</summary>
@@ -85,3 +81,7 @@ NLL Marketplace: [**0xd6c037bE7FA60587e174db7A6710f7635d2971e7**](https://ethers
 CryptoPhunksV2 Token: [**0xf07468ead8cf26c752c676e43c814fee9c8cf402**](https://etherscan.io/token/0xf07468ead8cf26c752c676e43c814fee9c8cf402)****
 
 </details>
+
+{% embed url="https://notlarvalabs.com/faq-history" %}
+WEBSITE
+{% endembed %}

@@ -12,6 +12,7 @@
 * [🟥 NFTX.io](nll/nftx.io/README.md)
   * [▫ ABOUT](nll/nftx.io/about.md)
   * [▫ TUTORIALS](nll/nftx.io/tutorials.md)
+  * [▫ FAQ](nll/nftx.io/faq.md)
 
 ## SOCIAL MEDIA
 
