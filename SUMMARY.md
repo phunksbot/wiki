@@ -11,6 +11,7 @@
   * [▫ FAQ](nll/notlarvalabs/faq.md)
 * [🟥 NFTX.io](nll/nftx.io/README.md)
   * [▫ ABOUT](nll/nftx.io/about.md)
+  * [▫ FEATURES](nll/nftx.io/features.md)
   * [▫ TUTORIALS](nll/nftx.io/tutorials.md)
   * [▫ FAQ](nll/nftx.io/faq.md)
 

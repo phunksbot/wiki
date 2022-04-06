@@ -75,6 +75,10 @@ Protocol fees have been introduced in V2 of the NFTX.
 
 </details>
 
+{% hint style="info" %}
+#### Taken from [https://docs.nftx.io/](https://docs.nftx.io)
+{% endhint %}
+
 {% embed url="https://nftx.io/vault/0xb39185e33e8c28e0bb3dbbce24da5dea6379ae91/buy" %}
 WEBSITE
 {% endembed %}
