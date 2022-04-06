@@ -9,10 +9,13 @@ coverY: 0
 ## Phunk is Punk
 
 CryptoPhunks (Phunks) is a [Non-Fungible Token](https://en.wikipedia.org/wiki/Non-fungible\_token) (NFT) collection on the [Ethereum](https://en.wikipedia.org/wiki/Ethereum) [blockchain](https://en.wikipedia.org/wiki/Blockchain). \
-The project was created in June 2021 by a group of [anonymous](https://twitter.com/CryptoPhunks) developers to poke fun (parody) at the high-brow, pompous group of people that were reflecting the “old-school” rules of art into this new frontier of [Web3](https://en.wikipedia.org/wiki/Web3) and NFTs. \
-In July 2021, after receiving formal [DMCA](https://twitter.com/CryptoPhunks/status/1415001685986922499?s=20\&t=YRRn6i6uXhGV5Cgl\_pJeQA) served by [LarvaLabs](https://larvalabs.com) for copyright infringement, the biggest NFT trading platform [OpenSea](https://opensea.io/assets/0xf07468ead8cf26c752c676e43c814fee9c8cf402/8348) censored and banned the collection from their platform for the third and final time. Shortly after, the original developers compiled an [Open Letter](https://foundation.app/@cryptophunks/foundation/62017) to LarvaLabs and left the project since. \
-Being censored and cut out from [98%](https://coinyuppie.com/why-is-opensea-an-absolute-monopolist-in-the-nft-trading-market/#:\~:text=In%20summary%2C%20OpenSea%20is%20currently,field%20of%20NFT%20trading%20market.) NFT Market, Phunk holders (1400+) were experiencing in real time how it feels to be deplatformed by Web2 Corporations in Web3 world where decentralization and provenance should be paramount. \
-It didn't take long before a renegade group of Phunk Community builders took it upon themselves to create their own Marketplace called [NotLarvaLabs](nll/notlarvalabs/notlarvalabs.md) and [open-source](resources/open-sourced.md) the code for public good.
+The project was created in June 2021 by a group of [anonymous](https://twitter.com/CryptoPhunks) developers to poke fun (parody) at the high-brow, pompous group of people that were reflecting the “old-school” rules of art into this new frontier of [Web3](https://en.wikipedia.org/wiki/Web3) and NFTs. What they did is they took all 10'000 [CryptoPunks](https://www.larvalabs.com/cryptopunks) and flipped them the other way, they are the same 1:1 just facing Left.
+
+In July 2021, after receiving formal [DMCA](https://twitter.com/CryptoPhunks/status/1415001685986922499?s=20\&t=YRRn6i6uXhGV5Cgl\_pJeQA) served by [LarvaLabs](https://larvalabs.com) for copyright infringement, the biggest NFT trading platform [OpenSea](https://opensea.io/assets/0xf07468ead8cf26c752c676e43c814fee9c8cf402/8348) censored and banned the collection from their platform for the third and final time. Shortly after, the original developers compiled an [Open Letter](https://foundation.app/@cryptophunks/foundation/62017) to LarvaLabs and left the project since.&#x20;
+
+Being censored and cut out from [98%](https://coinyuppie.com/why-is-opensea-an-absolute-monopolist-in-the-nft-trading-market/#:\~:text=In%20summary%2C%20OpenSea%20is%20currently,field%20of%20NFT%20trading%20market.) NFT Market, Phunk holders (1400+) had to experience in real time how it feels to be deplatformed by Corporations (Web2) in decentralized environment (Web3) world where decentralization and provenance should be paramount and old rules should not be applied.
+
+It didn't take long before Phunks Community decided to take a stand against censorship, self organised renegade group of Phunk Community builders took it upon themselves to create their own Phunks Marketplace called [NotLarvaLabs](nll/notlarvalabs/notlarvalabs.md) and [open-sourced](resources/open-sourced.md) the code for public good.
 
 {% hint style="info" %}
 ![](<.gitbook/assets/Phunk\_4156 (1).png>)![](.gitbook/assets/Phunk\_4156.png)
@@ -22,10 +25,14 @@ CryptoPhunks are the same as <mark style="color:green;"></mark> [CryptoPunks](ht
 
 ## Phunk is web3
 
-Since [Cypherpunk's Manifesto](https://www.activism.net/cypherpunk/manifesto.html) and [Bitcoin](https://satoshi.nakamotoinstitute.org/emails/cryptography/1/) introduction to the world, people are able to transact directly without the need of central intermediary or rule-makers using blockchain technology. This technology empowered people to freely express their thoughts and views, in writings and Art, to the world without fear of being censored. \
-CryptoPhunks stand for this principles of decentralization, censorship resistance, [public good](https://cryptonews.com/videos/funding-the-commons-funding-public-goods-algorithms-and-mechanisms.htm), for the people and for the freedom. Phunks are free-use, public domain Art, run entirely by decentralized community of artist and [builders](resources/open-sourced.md). \
-Phunks are important part of the NFT history that raised important questions and [many discussions](social-media/media/threads.md) around ownership, copyright, conceptual art, [CC0](https://creativecommons.org/publicdomain/zero/1.0/deed.en), blockchain provenance, touching on subjects like; Who decides what Art is? Do you really own your NFT?\
-Phunks are challenging the status quo, they challenge power structures, for many phunks symbolise anti-establishment, counter-culture and are know for their rebel Spirit :fist: constantly pushing the boundaries, taking whole NFT ecosystem to move in the right direction of decentralization, public good, ownership and censorship resistance. Phunks were big inspiration to many NFT projects that came after and share the same ethos.\
+Since [Cypherpunk's Manifesto](https://www.activism.net/cypherpunk/manifesto.html) and [Bitcoin](https://satoshi.nakamotoinstitute.org/emails/cryptography/1/) introduction to the world, people are able to transact directly without the need of central intermediary or rule-makers using blockchain technology. This technology empowered people to freely express their thoughts and views, in writings and Art, to the world without fear of being censored.&#x20;
+
+CryptoPhunks stand for this principles of decentralization, censorship resistance, [public good](https://cryptonews.com/videos/funding-the-commons-funding-public-goods-algorithms-and-mechanisms.htm), for the people and for the freedom. Phunks are free-use, public domain Art, run entirely by decentralized community of artist and [builders](resources/open-sourced.md).&#x20;
+
+Phunks are important part of the NFT history that raised important questions and [many discussions](social-media/media/threads.md) around ownership, copyright, conceptual art, [CC0](https://creativecommons.org/publicdomain/zero/1.0/deed.en), blockchain provenance, touching on subjects like; Who decides what Art is? Do you really own your NFT?
+
+Phunks are challenging the status quo, they challenge power structures, for many phunks symbolise anti-establishment, counter-culture and are know for their rebel Spirit :fist: constantly pushing the boundaries, taking whole NFT ecosystem to move in the right direction of decentralization, public good, ownership and censorship resistance. Phunks were big inspiration to many NFT projects that came after and share the same ethos.
+
 If you hold a Phunk you actually own it, without fear that yours Phunks ownership can be resold from one Corporation to another as it happened to [CryptoPunks and Meebits](https://twitter.com/yugalabs/status/1502420714527334406?s=20\&t=J5ZZNygm5AQ4XfL58MAxTw), that's the beauty of Web3; Removing power from Corporations and giving power back to the People.
 
 {% hint style="info" %}
@@ -60,8 +67,11 @@ In times when [VCs](https://www.investopedia.com/terms/v/venturecapitalist.asp) 
 Phunks are many things to many people, based on all information I gathered following phunks since its inception [I will](https://twitter.com/iape\_) try my best to objectively explain what makes Phunks Art.
 {% endhint %}
 
-To understand Artistic value behind Phunks one must understand [Conceptual Art](https://en.wikipedia.org/wiki/Conceptual\_art),[ Marcel Duchamp](https://en.wikipedia.org/wiki/Marcel\_Duchamp), [Dadaism](https://en.wikipedia.org/wiki/Dada).. Phunks Artistic value comes from expression, activity and events not from the image itself, this is commonly known in art world as a [performance art](https://en.wikipedia.org/wiki/Performance\_art). By flipping the Original image on Y Axis you have the same but absolutely different concept using blockchain as medium. \
-Here are few examples to better understand conceptual Art behind Phunks:
+To understand Artistic value behind Phunks one must understand [Conceptual Art](https://en.wikipedia.org/wiki/Conceptual\_art),[ Marcel Duchamp](https://en.wikipedia.org/wiki/Marcel\_Duchamp), [Dadaism](https://en.wikipedia.org/wiki/Dada).. Phunks Artistic value comes from expression, activity and events not from the image itself, this is commonly known in art world as a [performance art](https://en.wikipedia.org/wiki/Performance\_art).&#x20;
+
+By flipping the Original image on Y Axis you have the same but absolutely different concept using blockchain as medium.
+
+Here are few examples to better understand Modern Conceptual Art behind Phunks:
 
 | ORIGINAL IMAGE (Crypto Punks) | FLIPPED IMAGE (Crypto Phunks) |
 | ----------------------------- | ----------------------------- |
@@ -71,8 +81,14 @@ Here are few examples to better understand conceptual Art behind Phunks:
 | Punk is Web2                  | Phunk is Web3                 |
 | ERC20                         | ERC721                        |
 
-You can see from examples above that such small gesture like flipping an image other way can give whole new meaning to the image behind it, making it 100% transformative. It's the people that give it meaning, community, events and philosophy behind it. Phunks Artistic value came to life when [LarvaLabs](https://www.larvalabs.com) decided to [deplatform](https://twitter.com/CryptoPhunks/status/1415001685986922499?s=20\&t=YRRn6i6uXhGV5Cgl\_pJeQA) Phunks collection from Biggest NFT Marketplace [Opensea](https://opensea.io), making a Corporate (Web2) move in decentralized environment (Web3). While NFT Collection can be banned from centralized trading platform, it really cant be censored. Phunks live on the Ethereum blockchain in form of ERC721 token, forever.\
-After being banned from NFT trading ecosystem, phunks community stood up and made their own marketplace called [NOT Larva Labs](nll/notlarvalabs/) with 0% fees. That's a beautiful performance act, very interesting move that sends signal all the way to the top that you can't stop people that care about something to build in this new paradigm called Crypto, no matter how anyone feels about it.\
+You can see from examples above that such small gesture like flipping an image the other way can give whole new meaning and different perception, making it 100% transformative.&#x20;
+
+It's the people that give it meaning, community, events and philosophy behind it. Phunks Artistic value came to life when [LarvaLabs](https://www.larvalabs.com) decided to [deplatform](https://twitter.com/CryptoPhunks/status/1415001685986922499?s=20\&t=YRRn6i6uXhGV5Cgl\_pJeQA) Phunks collection from Biggest NFT Marketplace [OpenSea](https://opensea.io), making a Corporate (Web2) move in decentralized environment (Web3).&#x20;
+
+While NFT Collections can be banned from centralized trading platform, they really cant be censored. Phunks live in form of ERC721 token on the Ethereum blockchain, forever.
+
+After being banned from NFT trading ecosystem, phunks community stood up and made their own marketplace called [**NOT** Larva Labs](nll/notlarvalabs/) with 0% trading fees. That's was a beautiful performance act, very interesting move that sent a signal all the way to the top that you can't stop people that are passionate about something to build in this new paradigm called Crypto, no matter how anyone feels about it.
+
 Art is in the story, movement, culture, philosophy, interpretation and belief.
 
 {% hint style="info" %}
