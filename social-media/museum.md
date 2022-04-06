@@ -1,5 +1,5 @@
 ---
-description: Made by Phunk Pham to be contemplated in silence.
+description: Made by Phunk Pham, meant to be contemplated in silence.
 ---
 
 # 🟨 MUSEUM
