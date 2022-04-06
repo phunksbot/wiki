@@ -1,7 +1,5 @@
 ---
-description: >-
-  NFTX is a platform for creating liquid markets for illiquid Non-Fungible
-  Tokens (NFTs).
+description: NFTX.io features.
 ---
 
 # ▫ FEATURES
