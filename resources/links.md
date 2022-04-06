@@ -2,7 +2,7 @@
 description: and Data Resources
 ---
 
-# 🔳 LINKS
+# ◻ LINKS
 
 ## SMART CONTRACT
 
