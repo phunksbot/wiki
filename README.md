@@ -69,8 +69,6 @@ Phunks are many things to many people, based on all information I gathered follo
 
 To understand Artistic value behind Phunks one must understand [Conceptual Art](https://en.wikipedia.org/wiki/Conceptual\_art),[ Marcel Duchamp](https://en.wikipedia.org/wiki/Marcel\_Duchamp), [Dadaism](https://en.wikipedia.org/wiki/Dada).. Phunks Artistic value comes from expression, activity and events not from the image itself, this is commonly known in art world as a [performance art](https://en.wikipedia.org/wiki/Performance\_art).&#x20;
 
-By flipping the Original image on Y Axis you have the same but absolutely different concept using blockchain as medium.
-
 Here are few examples to better understand Modern Conceptual Art behind Phunks:
 
 | ORIGINAL IMAGE (Crypto Punks) | FLIPPED IMAGE (Crypto Phunks) |
