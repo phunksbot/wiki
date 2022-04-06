@@ -8,7 +8,7 @@ description: how to use NFTX.io
 
 <details>
 
-<summary>Set up your Ethereum Wallet</summary>
+<summary>SET UP YOUR ETHEREUM WALLET</summary>
 
 <mark style="color:green;"></mark>[MetaMask - Install Guide](https://cryptobriefing.com/metamask-beginner-guide/)
 
