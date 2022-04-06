@@ -1,5 +1,5 @@
 ---
-description: NFTX.io features.
+description: NFTX.io features
 ---
 
 # ▫ FEATURES

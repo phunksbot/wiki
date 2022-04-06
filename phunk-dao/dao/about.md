@@ -16,10 +16,6 @@ snapshot is done using [snapshot platform](https://snapshot.org/#/). DAO itself 
 
 If proposal passes the Vote, DAO will execute it. For example allocation of funds for new project or endeavour, if true DAO will allocate funds. For execution 7/9 signatures are needed. This is the most decentralized way known to reach consensus within community with sole purpose to grow and expand web3 culture within global NFT and Crypto community.
 
-{% embed url="https://phunkdao.com" %}
-WEBSITE
-{% endembed %}
-
 <details>
 
 <summary>MULTISIG GNOSIS DAO WALLET</summary>
@@ -35,3 +31,7 @@ WEBSITE
 [https://etherscan.io/address/0xf8a4b33a98ce506b43225002bb16e0a3bf29882e](https://etherscan.io/address/0xf8a4b33a98ce506b43225002bb16e0a3bf29882e)
 
 </details>
+
+{% embed url="https://phunkdao.com" %}
+WEBSITE
+{% endembed %}

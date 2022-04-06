@@ -13,7 +13,7 @@ The project was created in June 2021 by a group of [anonymous](https://twitter.c
 
 In July 2021, after receiving formal [DMCA](https://twitter.com/CryptoPhunks/status/1415001685986922499?s=20\&t=YRRn6i6uXhGV5Cgl\_pJeQA) served by [LarvaLabs](https://larvalabs.com) for copyright infringement, the biggest NFT trading platform [OpenSea](https://opensea.io/assets/0xf07468ead8cf26c752c676e43c814fee9c8cf402/8348) censored and banned the collection from their platform for the third and final time. Shortly after, the original developers compiled an [Open Letter](https://foundation.app/@cryptophunks/foundation/62017) to LarvaLabs and left the project since.&#x20;
 
-Being censored and cut out from [98%](https://coinyuppie.com/why-is-opensea-an-absolute-monopolist-in-the-nft-trading-market/#:\~:text=In%20summary%2C%20OpenSea%20is%20currently,field%20of%20NFT%20trading%20market.) NFT Market, Phunk holders (1400+) had to experience in real time how it feels to be deplatformed by Corporations (Web2) in decentralized environment (Web3) world where decentralization and provenance should be paramount and old rules should not be applied.
+Being censored and cut out from [98%](https://coinyuppie.com/why-is-opensea-an-absolute-monopolist-in-the-nft-trading-market/#:\~:text=In%20summary%2C%20OpenSea%20is%20currently,field%20of%20NFT%20trading%20market.) NFT Market, Phunk holders (1400+) had to experience in real time how it feels to be deplatformed by Corporations (Web2) in decentralized environment (Web3) where decentralization and provenance should be paramount and old rules should not be applied.
 
 It didn't take long before Phunks Community decided to take a stand against censorship, self organised renegade group of Phunk Community builders took it upon themselves to create their own Phunks Marketplace called [NotLarvaLabs](nll/notlarvalabs/notlarvalabs.md) and [open-sourced](resources/open-sourced.md) the code for public good.
 
@@ -27,9 +27,11 @@ CryptoPhunks are the same as <mark style="color:green;"></mark> [CryptoPunks](ht
 
 Since [Cypherpunk's Manifesto](https://www.activism.net/cypherpunk/manifesto.html) and [Bitcoin](https://satoshi.nakamotoinstitute.org/emails/cryptography/1/) introduction to the world, people are able to transact directly without the need of central intermediary or rule-makers using blockchain technology. This technology empowered people to freely express their thoughts and views, in writings and Art, to the world without fear of being censored.&#x20;
 
-CryptoPhunks stand for this principles of decentralization, censorship resistance, [public good](https://cryptonews.com/videos/funding-the-commons-funding-public-goods-algorithms-and-mechanisms.htm), for the people and for the freedom. Phunks are free-use, public domain Art, run entirely by decentralized community of artist and [builders](resources/open-sourced.md).&#x20;
+CryptoPhunks stand for those principles of decentralization, censorship resistance, [public good](https://cryptonews.com/videos/funding-the-commons-funding-public-goods-algorithms-and-mechanisms.htm), for the people and for the freedom.&#x20;
 
-Phunks are important part of the NFT history that raised important questions and [many discussions](social-media/media/threads.md) around ownership, copyright, conceptual art, [CC0](https://creativecommons.org/publicdomain/zero/1.0/deed.en), blockchain provenance, touching on subjects like; Who decides what Art is? Do you really own your NFT?
+Phunks are free-use, public domain Art, run entirely by decentralized community of artist and [builders](resources/open-sourced.md). There are no devs, no titles, just Phunk Pham doing Phunky stuff.
+
+Phunks are important part of the NFT history that raised important questions and [discussions](social-media/media/threads.md) around ownership, copyright, conceptual art, [CC0](https://creativecommons.org/publicdomain/zero/1.0/deed.en), blockchain provenance, touching on subjects like; Who decides what Art is? Do you really own your NFT?
 
 Phunks are challenging the status quo, they challenge power structures, for many phunks symbolise anti-establishment, counter-culture and are know for their rebel Spirit :fist: constantly pushing the boundaries, taking whole NFT ecosystem to move in the right direction of decentralization, public good, ownership and censorship resistance. Phunks were big inspiration to many NFT projects that came after and share the same ethos.
 

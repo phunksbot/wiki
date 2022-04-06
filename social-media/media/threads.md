@@ -1,11 +1,11 @@
 ---
-description: Twitter threads on Phunks in Chronological order.
+description: Twitter threads on Phunks in Chronological order
 ---
 
 # ▫ THREADS
 
 {% hint style="info" %}
-Takes a second to load, but it's worth it. Just click the tweet to read the whole thread.
+Takes a second to load, but it's worth it. Just click the tweet pic to see the whole thread.
 {% endhint %}
 
 <details>

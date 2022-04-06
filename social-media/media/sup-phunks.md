@@ -1,10 +1,12 @@
 ---
 description: >-
-  A monthly newsletter showcasing the work being done by the CryptoPhunks
-  community.
+  a Monthly Newsletter showcasing the work being done by the CryptoPhunks
+  Community
 ---
 
-# ▫ Sup Phunks!
+# ▫ SUP PHUNKS!
+
+
 
 <details>
 
