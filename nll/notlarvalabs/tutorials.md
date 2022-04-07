@@ -106,12 +106,12 @@ Confirm your MetaMask transaction when prompted.
 <summary>TRANSFERRING PHUNKS</summary>
 
 Use "Transfer" button to transfer a Phunk to a different Ethereum address.\
-Insert receiving [**ENS**](https://ens.domains) or native Ethereum address and press "Submit" button.\
+Insert receiving [ENS](https://ens.domains) or native Ethereum address and press "Submit" button.\
 Confirm your MetaMask transaction when prompted.&#x20;
 
 ![](<../../.gitbook/assets/Screen Shot 2022-03-16 at 14.12.52.png>)
 
-<mark style="color:orange;">Before transferring your Phunk make sure you claimed your outstanding</mark> [**$PHUNKY**](../../phunk-dao/dao/phunky.md)<mark style="color:orange;">.</mark>&#x20;
+<mark style="color:orange;">Before transferring your Phunk make sure you claimed your outstanding</mark> [$PHUNKY](../../phunk-dao/dao/phunky.md)<mark style="color:orange;">.</mark>&#x20;
 
 </details>
 
@@ -163,5 +163,5 @@ With or without Color Border and press Download.
 </details>
 
 {% embed url="https://notlarvalabs.com/cryptophunks" %}
-WEBSITE
+[WEBSITE](https://notlarvalabs.com/cryptophunks)
 {% endembed %}

@@ -18,5 +18,5 @@ You can find source code [here](../../resources/links.md#smart-contract) to revi
 ![CRYPT0NAUT](../../.gitbook/assets/FPuvRBuaAAMsDIw.jpeg)
 
 {% embed url="https://notlarvalabs.com/cryptophunks" %}
-WEBSITE
+[WEBSITE](https://notlarvalabs.com/cryptophunks)
 {% endembed %}
