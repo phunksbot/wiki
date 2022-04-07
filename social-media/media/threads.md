@@ -56,7 +56,7 @@ Takes a second to load, but it's worth it. Just click the tweet pic to see the w
 
 {% embed url="https://twitter.com/cdixon/status/1442201621266534402?s=20&t=wgh04kjIvjbHl7bN6XuPPA" %}
 
-> November 04, 2021 - by [@hauntedmongrel](https://twitter.com/hauntedmongrel)
+> NOVEMBER 04, 2021 - by [@hauntedmongrel](https://twitter.com/hauntedmongrel)
 
 {% embed url="https://twitter.com/hauntedmongrel/status/1456240279393030161?s=20&t=XMDu1Ang5q5L9g0c6Qvw4g" %}
 
