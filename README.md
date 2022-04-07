@@ -23,7 +23,7 @@ It didn't take long before Phunks Community decided to take a stand against cens
 CryptoPhunks are the same as <mark style="color:green;"></mark> [CryptoPunks](https://www.larvalabs.com/cryptopunks) just flipped the [other way](https://phunks.gitbook.io/knowledge-base/#phunk-is-art).
 {% endhint %}
 
-## Phunk is web3
+## Phunk is Web3
 
 Since [Cypherpunk's Manifesto](https://www.activism.net/cypherpunk/manifesto.html) and [Bitcoin](https://satoshi.nakamotoinstitute.org/emails/cryptography/1/) introduction to the world, people are able to transact directly without the need of central intermediary or rule-makers using blockchain technology. This technology empowered people to freely express their thoughts and views, in writings and Art, to the world without fear of being censored.&#x20;
 
@@ -43,7 +43,7 @@ In times when [VCs](https://www.investopedia.com/terms/v/venturecapitalist.asp) 
 ![](<.gitbook/assets/Bildschirmfoto 2022-03-10 um 21.18.54.png>)![](<.gitbook/assets/Bildschirmfoto 2022-03-10 um 21.18.31.png>)
 {% endhint %}
 
-## Phunk is historic
+## Phunk is Historic
 
 ✔️ They are the first and only project to be delisted from OpenSea 3 times.&#x20;
 
