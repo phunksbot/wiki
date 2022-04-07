@@ -120,6 +120,14 @@ description: written on Phunks in Chronological order
 
 <details>
 
+<summary>November 08, 2022 - <a href="https://thedrop.beehiiv.com/p/war-punks">The War Of The Punks</a></summary>
+
+[https://thedrop.beehiiv.com/p/war-punks](https://thedrop.beehiiv.com/p/war-punks)
+
+</details>
+
+<details>
+
 <summary><strong>November 15, 2021 -</strong> <a href="https://www.getrevue.co/profile/nftrebels/issues/phunks-a-roller-coaster-ride-full-of-drama-877484"><strong>Phunks - a roller coaster ride full of drama?</strong></a><strong></strong></summary>
 
 ****[**https://www.getrevue.co/profile/nftrebels/issues/phunks-a-roller-coaster-ride-full-of-drama-877484**](https://www.getrevue.co/profile/nftrebels/issues/phunks-a-roller-coaster-ride-full-of-drama-877484)****
@@ -187,6 +195,14 @@ description: written on Phunks in Chronological order
 <summary><strong>December 27, 2021 -</strong> <a href="https://bowtiedisland.com/lets-get-phunky-cryptophunks-and-web3-censorship/"><strong>Let’s Get Phunky: CryptoPhunks and web3 Censorship</strong> </a><strong></strong></summary>
 
 ****[**https://bowtiedisland.com/lets-get-phunky-cryptophunks-and-web3-censorship/**](https://bowtiedisland.com/lets-get-phunky-cryptophunks-and-web3-censorship/)****
+
+</details>
+
+<details>
+
+<summary>January 07, 2022 - <a href="https://outland.art/outland-news-zora-ryder-ripps-instagram/">CELEBRATION AND REPROBATION</a></summary>
+
+[https://outland.art/outland-news-zora-ryder-ripps-instagram/](https://outland.art/outland-news-zora-ryder-ripps-instagram/)
 
 </details>
 
