@@ -136,6 +136,14 @@ description: written on Phunks in Chronological order
 
 <details>
 
+<summary>November 29, 2021 - <a href="https://news.knijff.com/nft-fight-punks-en-phunks">NFT quarrel: PUNKS en PHUNKS</a></summary>
+
+[https://news.knijff.com/nft-fight-punks-en-phunks](https://news.knijff.com/nft-fight-punks-en-phunks)
+
+</details>
+
+<details>
+
 <summary><strong>December 03, 2021 -</strong> <a href="https://cryptonews.com/exclusives/the-liquidity-of-creativity-why-nfts-need-an-on-chain-ip-management-system.htm"><strong>Why NFTs Need an On-Chain IP Management System</strong></a><strong></strong></summary>
 
 ****[**https://cryptonews.com/exclusives/the-liquidity-of-creativity-why-nfts-need-an-on-chain-ip-management-system.htm**](https://cryptonews.com/exclusives/the-liquidity-of-creativity-why-nfts-need-an-on-chain-ip-management-system.htm)****
