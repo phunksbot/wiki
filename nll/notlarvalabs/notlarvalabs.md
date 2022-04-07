@@ -15,6 +15,8 @@ Code has been [audited](https://github.com/Crypto-Phunks/CryptoPhunksMarket/blob
 
 You can find source code [here](../../resources/links.md#smart-contract) to review or to fork it.
 
+![CRYPT0NAUT](../../.gitbook/assets/FPuvRBuaAAMsDIw.jpeg)
+
 {% embed url="https://notlarvalabs.com/cryptophunks" %}
 WEBSITE
 {% endembed %}
