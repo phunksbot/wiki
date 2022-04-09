@@ -69,19 +69,23 @@ In times when [VCs](https://www.investopedia.com/terms/v/venturecapitalist.asp) 
 Phunks are many things to many people, based on all information I gathered following phunks since its inception [I will](https://twitter.com/iape\_) try my best to objectively explain what makes Phunks Art.
 {% endhint %}
 
-To understand Artistic value behind Phunks one must understand [Conceptual Art](https://en.wikipedia.org/wiki/Conceptual\_art),[ Marcel Duchamp](https://en.wikipedia.org/wiki/Marcel\_Duchamp), [Dadaism](https://en.wikipedia.org/wiki/Dada).. Phunks Artistic value comes from expression, activity and events not from the image itself, this is commonly known in art world as a [performance art](https://en.wikipedia.org/wiki/Performance\_art).&#x20;
+To understand Artistic value behind Phunks one must understand [Conceptual Art](https://en.wikipedia.org/wiki/Conceptual\_art),[ Marcel Duchamp](https://en.wikipedia.org/wiki/Marcel\_Duchamp), [Dadaism](https://en.wikipedia.org/wiki/Dada).. Phunks Artistic value comes from expression, activity and events not just from the image itself, this is commonly known in art world as a [performance art](https://en.wikipedia.org/wiki/Performance\_art).&#x20;
 
 Here are few examples to better understand Modern Conceptual Art behind Phunks:
 
-| ORIGINAL IMAGE (Crypto Punks) | FLIPPED IMAGE (Crypto Phunks) |
-| ----------------------------- | ----------------------------- |
-| Punk is facing Right          | Phunk is facing Left          |
-| Punk is moving away from you  | Phunk is moving towards you   |
-| Punk is Centralized           | Phunk is Decentralized        |
-| Punk is Web2                  | Phunk is Web3                 |
-| ERC20                         | ERC721                        |
+| ORIGINAL IMAGE (Crypto Punks)                             | FLIPPED IMAGE (Crypto Phunks)                                           |
+| --------------------------------------------------------- | ----------------------------------------------------------------------- |
+| Punk is facing Right                                      | Phunk is facing Left                                                    |
+| Punk is moving away from you                              | Phunk is moving towards you                                             |
+| Punk is owned by [YugaLabs](https://twitter.com/yugalabs) | Phunk is owned by [You](https://notlarvalabs.com/cryptophunks/myphunks) |
+| Punk is Centralized                                       | Phunk is Decentralized                                                  |
+| Punk is Web2                                              | Phunk is Web3                                                           |
+| ERC20                                                     | ERC721                                                                  |
 
 You can see from examples above that such small gesture like flipping an image the other way can give whole new meaning and different perception, making it 100% transformative.&#x20;
+
+> Phunks are conceptual art that actually have context, narrative, critique on the space. \
+> There is more artistic merit in phunks than just about any pfp project. [@CsenOner](https://twitter.com/CsenOner/status/1512709948467257345?s=20\&t=W79OmfK5hl4BrLO6Shkcqg)
 
 It's the people that give it meaning, community, events and philosophy behind it. Phunks Artistic value came to life when [LarvaLabs](https://www.larvalabs.com) decided to [deplatform](https://twitter.com/CryptoPhunks/status/1415001685986922499?s=20\&t=YRRn6i6uXhGV5Cgl\_pJeQA) Phunks collection from Biggest NFT Marketplace [OpenSea](https://opensea.io), making a Corporate (Web2) move in decentralized environment (Web3).&#x20;
 
