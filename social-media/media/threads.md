@@ -149,3 +149,7 @@ Takes a second to load, but it's worth it. Just click the tweet pic to see the w
 > MARCH 15, 2022 by [@leandercapuozzo](https://twitter.com/leandercapuozzo)
 
 {% embed url="https://twitter.com/leandercapuozzo/status/1503919865823907842?s=20&t=Tbap3ogy88gjcQXn_DGRYQ" %}
+
+> April 10, 2022 by [@dumbnamenumbers](https://twitter.com/dumbnamenumbers)
+
+{% embed url="https://twitter.com/dumbnamenumbers/status/1512916014220156929?s=20&t=o-U9RXl0pM8qkl02jMBrRw" %}
