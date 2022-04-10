@@ -97,3 +97,5 @@ Art is in the story, movement, culture, philosophy, interpretation and belief. J
 
 ![](<.gitbook/assets/Screen Shot 2022-04-10 at 07.36.00.png>)![](<.gitbook/assets/Screen Shot 2022-04-10 at 07.34.59.png>)\
 by [Monero](https://www.getmonero.org) founder [@fluffypony](https://twitter.com/fluffypony/status/1512771931484864514?s=20\&t=o-U9RXl0pM8qkl02jMBrRw)
+
+![✊](https://abs-0.twimg.com/emoji/v2/svg/270a.svg)
