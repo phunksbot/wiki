@@ -94,3 +94,6 @@ While NFT Collections can be banned from centralized trading platform, they real
 After being banned from NFT trading ecosystem, phunks community stood up and made their own marketplace called [**not** Larva Labs](nll/notlarvalabs/) with 0% trading fees. That's was a beautiful performance act, very interesting move that sent a signal all the way to the top that you can't stop people that are passionate about something to build in this new paradigm called Crypto, no matter how anyone feels about it.
 
 Art is in the story, movement, culture, philosophy, interpretation and belief.
+
+![](<.gitbook/assets/Screen Shot 2022-04-10 at 07.36.00.png>)![](<.gitbook/assets/Screen Shot 2022-04-10 at 07.34.59.png>)\
+by [Monero](https://www.getmonero.org) founder [@fluffypony](https://twitter.com/fluffypony)
