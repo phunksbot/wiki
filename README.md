@@ -83,7 +83,7 @@ Here are few examples to better understand Modern Conceptual Art behind Phunks:
 | Punk is Web2                                              | Phunk is Web3                                                           |
 | ERC20                                                     | ERC721                                                                  |
 
-You can see from examples above that such small gesture like flipping an image the other way can give whole new meaning and different perception, making it 100% transformative.&#x20;
+You can see from examples above that such small gesture like flipping an image the other way can give whole new meaning, same image but flipped is totally different. 100% transformative.&#x20;
 
 > Phunks are conceptual art that actually have context, narrative, critique on the space. \
 > There is more artistic merit in phunks than just about any pfp project. [@CsenOner](https://twitter.com/CsenOner/status/1512709948467257345?s=20\&t=W79OmfK5hl4BrLO6Shkcqg)
