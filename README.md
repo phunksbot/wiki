@@ -92,7 +92,7 @@ It's the people that give it meaning, community, events and philosophy behind it
 
 While NFT Collections can be banned from centralized trading platform, they really cant be censored. Phunks live in form of ERC721 token on the Ethereum blockchain, forever.
 
-After being banned from NFT trading ecosystem, phunks community stood up and made their own marketplace called [**not** Larva Labs](nll/notlarvalabs/) with 0% trading fees. That's was a beautiful performance act, very interesting move that sent a signal all the way to the top that you can't stop people that are passionate about something to build in this new paradigm called Crypto, no matter how anyone feels about it.
+After being banned from NFT trading ecosystem, phunks community stood up and made their own marketplace called [**not** Larva Labs](nll/notlarvalabs/) with 0% trading fees. That's was a beautiful performance act, very interesting move that sent a signal all the way to the top that you can't stop people that are passionate about something to build in this new paradigm called Crypto, no matter how anyone feels about it. It's the people that make something valuable.
 
 Art is in the story, movement, culture, philosophy, interpretation and belief. JPEG embodies all that into a simple pixel image. Phunks face left cause the other way just doesn’t feel right.
 
