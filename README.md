@@ -69,7 +69,7 @@ In times when [VCs](https://www.investopedia.com/terms/v/venturecapitalist.asp) 
 Phunks are many things to many people, based on all information I gathered following phunks since its inception [I will](https://twitter.com/iape\_) try my best to objectively explain what makes Phunks Art.
 {% endhint %}
 
-To understand Artistic value behind Phunks one must understand [Conceptual Art](https://en.wikipedia.org/wiki/Conceptual\_art),[ Marcel Duchamp](https://en.wikipedia.org/wiki/Marcel\_Duchamp), [Dadaism](https://en.wikipedia.org/wiki/Dada).. Phunks Artistic value comes from expression, activity and events not just from the image itself, this is commonly known in art world as a [performance art](https://en.wikipedia.org/wiki/Performance\_art).&#x20;
+To understand Artistic value behind Phunks one must understand [Conceptual Art](https://en.wikipedia.org/wiki/Conceptual\_art),[ Marcel Duchamp](https://en.wikipedia.org/wiki/Marcel\_Duchamp), [Dadaism](https://en.wikipedia.org/wiki/Dada), [Andy Warhol](https://en.wikipedia.org/wiki/Andy\_Warhol), [Memetics](https://en.wikipedia.org/wiki/Memetics).. Phunks Artistic value comes from expression, gestic, activity, mimic and events not just from the image itself, this is commonly known in art world as a [performance art](https://en.wikipedia.org/wiki/Performance\_art).
 
 Here are few examples to better understand Modern Conceptual Art behind Phunks:
 
@@ -79,6 +79,7 @@ Here are few examples to better understand Modern Conceptual Art behind Phunks:
 | Punk is moving away from you                              | Phunk is moving towards you                                             |
 | Punk is owned by [YugaLabs](https://twitter.com/yugalabs) | Phunk is owned by [You](https://notlarvalabs.com/cryptophunks/myphunks) |
 | Punk is Centralized                                       | Phunk is Decentralized                                                  |
+| Punk is different                                         | Phunk is different                                                      |
 | Punk is Web2                                              | Phunk is Web3                                                           |
 | ERC20                                                     | ERC721                                                                  |
 
