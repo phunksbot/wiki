@@ -96,4 +96,4 @@ After being banned from NFT trading ecosystem, phunks community stood up and mad
 Art is in the story, movement, culture, philosophy, interpretation and belief.
 
 ![](<.gitbook/assets/Screen Shot 2022-04-10 at 07.36.00.png>)![](<.gitbook/assets/Screen Shot 2022-04-10 at 07.34.59.png>)\
-by [Monero](https://www.getmonero.org) founder [@fluffypony](https://twitter.com/fluffypony)
+by [Monero](https://www.getmonero.org) founder [@fluffypony](https://twitter.com/fluffypony/status/1512771931484864514?s=20\&t=o-U9RXl0pM8qkl02jMBrRw)
