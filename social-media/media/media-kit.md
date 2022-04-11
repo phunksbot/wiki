@@ -106,6 +106,12 @@ To download All 10'000 Phunks in 1200x1200 pixel Poster Size use this link below
 seq 0 9999 | xargs -n1 -P10 bash -c 'i=$0; url="https://middlemarch.mypinata.cloud/ipfs/QmcvdPd7Jai74e595Mgx2u6D8QZZ1TGSFC2EQQNayQVJL8/${i}.png"; curl -O -s $url'
 ```
 
+or you can use this link to download All 10'000 Phunks in 1200x1200 pixel zipped.
+
+```
+https://middlemarch.mypinata.cloud/ipfs/QmR4zNYDSLttz4VbTohU3bg7pf7CiDg6iMAbor2etQ4Hu1
+```
+
 Example Phunk #6993
 
 {% embed url="https://middlemarch.mypinata.cloud/ipfs/QmcvdPd7Jai74e595Mgx2u6D8QZZ1TGSFC2EQQNayQVJL8/6993.png" %}
