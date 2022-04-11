@@ -72,7 +72,7 @@ Here are few examples to better understand Concept behind Phunks:
 | Punk is Web2                                              | Phunk is Web3                                                           |
 
 Same as this two emojis :thumbsup: and :thumbsdown: make you feel totally different, from examples above you can see that flipping an image the other way gives whole new meaning behind an image. \
-Same image but flipped is thus absolutely transformative.
+Same image but flipped is absolutely transformative.
 
 > Phunks are conceptual art that actually have context, narrative, critique on the space. \
 > There is more artistic merit in phunks than just about any pfp project. [@CsenOner](https://twitter.com/CsenOner/status/1512709948467257345?s=20\&t=W79OmfK5hl4BrLO6Shkcqg)
