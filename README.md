@@ -58,10 +58,7 @@ In times when [VCs](https://www.investopedia.com/terms/v/venturecapitalist.asp) 
 
 ## Phunk is Art
 
-To better understand Phunks, start with [Conceptual Art](https://en.wikipedia.org/wiki/Conceptual\_art),[ Marcel Duchamp](https://en.wikipedia.org/wiki/Marcel\_Duchamp), [Dadaism](https://en.wikipedia.org/wiki/Dada), [Andy Warhol](https://en.wikipedia.org/wiki/Andy\_Warhol), [Memetics](https://en.wikipedia.org/wiki/Memetics).. \
-To some, Phunks Artistic value comes from expression, gestic, activity, mimic and events relevant to Phunks. Not just from the image itself, this is also known as a [performance art](https://en.wikipedia.org/wiki/Performance\_art) in the art world. \
-To others, Phunks Artistic value may come from something entirely different.\
-That's the point, beauty in the eye of the beholder.
+To better understand Phunks, start by reading about [Conceptual Art](https://en.wikipedia.org/wiki/Conceptual\_art),[ Marcel Duchamp](https://en.wikipedia.org/wiki/Marcel\_Duchamp), [Dadaism](https://en.wikipedia.org/wiki/Dada), [Andy Warhol](https://en.wikipedia.org/wiki/Andy\_Warhol), [Memetics](https://en.wikipedia.org/wiki/Memetics).. Phunks is Art roots from expression, gestic, activity, mimic and events relevant to Phunks. Not just from the image itself, this is also known as a [performance art](https://en.wikipedia.org/wiki/Performance\_art) in the art world. It can also be something entirely different, it's up to you. That's the point, beauty is in the eye of the beholder.
 
 Here are few examples to better understand Concept behind Phunks:
 
@@ -73,9 +70,8 @@ Here are few examples to better understand Concept behind Phunks:
 | Punk is Centralized                                       | Phunk is Decentralized                                                  |
 | Punk is different                                         | Phunk is different                                                      |
 | Punk is Web2                                              | Phunk is Web3                                                           |
-| ERC20                                                     | ERC721                                                                  |
 
-You can see from examples above that such small gesture like flipping an image the other way can give whole new meaning, same image but flipped is totally different. 100% transformative.&#x20;
+Same as those two emojis :thumbsup: and :thumbsdown: flipped make you feel totally different, you can see from examples above that such small gesture like flipping an image the other way can give whole new meaning, same image but flipped is 100% transformative.
 
 > Phunks are conceptual art that actually have context, narrative, critique on the space. \
 > There is more artistic merit in phunks than just about any pfp project. [@CsenOner](https://twitter.com/CsenOner/status/1512709948467257345?s=20\&t=W79OmfK5hl4BrLO6Shkcqg)
