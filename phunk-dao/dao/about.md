@@ -7,10 +7,10 @@ description: Decentralized Autonomous Organisation
 ## What is PhunkDAO?
 
 PHUNK DAO is endeavour of decentralized group (9/9) of people from phunks community, it's goal is to build and support a healthy environment for public good and help phunk community to grow in true web3 spirit pushing the boundaries of this new frontier. \
-PHUNKS DAO official ERC20 token is called [$PHUNKY](phunky.md) where 90% of [distribution](phunky.md) goes to Phunk holders and 10% goes to DAO treasury. Treasury is governed in decentralized matter where any $PHUNKY holder can make proposals that Phunks community can Vote on.&#x20;
+PHUNKS DAO has a ERC20 governance token called [$PHUNKY](phunky.md) where 90% of [distribution](phunky.md) goes to Phunk holders and 10% goes to DAO treasury. Treasury is governed in decentralized matter where any $PHUNKY holder can make proposals that Phunks community can Vote on.&#x20;
 
 {% hint style="info" %}
-Vote strength is weighted in $PHUNKY token each holder holds at time of active proposal,\
+Vote strength is weighted in [$PHUNKY](phunky.md#what-is-usdphunky) token each holder owns at time of active proposal,\
 snapshot is done using [snapshot platform](https://snapshot.org/#/). DAO itself can't participate in Voting.&#x20;
 {% endhint %}
 
