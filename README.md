@@ -13,7 +13,7 @@ The project was created in June 2021 by a group of [anonymous](https://twitter.c
 
 In July 2021, after receiving formal [DMCA](https://twitter.com/CryptoPhunks/status/1415001685986922499?s=20\&t=YRRn6i6uXhGV5Cgl\_pJeQA) served by [LarvaLabs](https://larvalabs.com) for copyright infringement, the biggest NFT trading Marketplace [OpenSea](https://opensea.io/assets/0xf07468ead8cf26c752c676e43c814fee9c8cf402/8348) censored and banned the collection from their platform for the third and final time. Shortly after, the original developers compiled an [Open Letter](https://foundation.app/@cryptophunks/foundation/62017) to LarvaLabs and left the project since.&#x20;
 
-Being censored and cut out from [98%](https://coinyuppie.com/why-is-opensea-an-absolute-monopolist-in-the-nft-trading-market/#:\~:text=In%20summary%2C%20OpenSea%20is%20currently,field%20of%20NFT%20trading%20market.) NFT Market, Phunk holders (1400+) had to experience in real time what it means to be deplatformed by Corporations (Web2) in decentralized environment (Web3) where decentralization and provenance should be paramount and old rules not applied.
+Being censored and cut out from [98%](https://coinyuppie.com/why-is-opensea-an-absolute-monopolist-in-the-nft-trading-market/#:\~:text=In%20summary%2C%20OpenSea%20is%20currently,field%20of%20NFT%20trading%20market.) NFT Market, Phunk holders had to experience in real time what it means to be deplatformed by Corporations (Web2) in decentralized environment (Web3) where decentralization and provenance should be paramount and old rules not applied.
 
 It didn't take long before Phunks Community decided to take a stand against censorship, self organised renegade group of Phunk Community builders took it upon themselves to create their own Phunks Marketplace called [NotLarvaLabs](nll/notlarvalabs/notlarvalabs.md) and [open-sourced](resources/open-sourced.md) the code for public good.
 
@@ -58,13 +58,9 @@ In times when [VCs](https://www.investopedia.com/terms/v/venturecapitalist.asp) 
 
 ## Phunk is Art
 
-{% hint style="info" %}
-Phunks are many things to many people, based on all information I gathered following phunks since its inception [I will](https://twitter.com/iape\_) try my best to objectively explain what makes Phunks Art.
-{% endhint %}
+To better understand Phunks one must understand [Conceptual Art](https://en.wikipedia.org/wiki/Conceptual\_art),[ Marcel Duchamp](https://en.wikipedia.org/wiki/Marcel\_Duchamp), [Dadaism](https://en.wikipedia.org/wiki/Dada), [Andy Warhol](https://en.wikipedia.org/wiki/Andy\_Warhol), [Memetics](https://en.wikipedia.org/wiki/Memetics).. To some Phunks Artistic value comes from expression, gestic, activity, mimic and events not just from the image itself, this is also known as a [performance art](https://en.wikipedia.org/wiki/Performance\_art) in the art world. To others Phunks Artistic value may come from something entirely different, that's the point. Beauty in the eye of the beholder.
 
-To understand Artistic value behind Phunks one must understand [Conceptual Art](https://en.wikipedia.org/wiki/Conceptual\_art),[ Marcel Duchamp](https://en.wikipedia.org/wiki/Marcel\_Duchamp), [Dadaism](https://en.wikipedia.org/wiki/Dada), [Andy Warhol](https://en.wikipedia.org/wiki/Andy\_Warhol), [Memetics](https://en.wikipedia.org/wiki/Memetics).. Phunks Artistic value comes from expression, gestic, activity, mimic and events not just from the image itself, this is commonly known in art world as a [performance art](https://en.wikipedia.org/wiki/Performance\_art).
-
-Here are few examples to better understand Modern Conceptual Art behind Phunks:
+Here are few examples to better understand Concept behind Phunks:
 
 | ORIGINAL IMAGE (Crypto Punks)                             | FLIPPED IMAGE (Crypto Phunks)                                           |
 | --------------------------------------------------------- | ----------------------------------------------------------------------- |
