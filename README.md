@@ -58,7 +58,7 @@ In times when [VCs](https://www.investopedia.com/terms/v/venturecapitalist.asp) 
 
 ## Phunk is Art
 
-To better understand CryptoPhunks, start by reading about [Conceptual Art](https://en.wikipedia.org/wiki/Conceptual\_art),[ Marcel Duchamp](https://en.wikipedia.org/wiki/Marcel\_Duchamp), [Dadaism](https://en.wikipedia.org/wiki/Dada), [Andy Warhol](https://en.wikipedia.org/wiki/Andy\_Warhol) and [Memetics](https://en.wikipedia.org/wiki/Memetics). To many, the essence of Phunks comes more than the visual art itself. The simple but transformative flip on the y axis created a collection of digital art that blurs the lines between crypto art, conceptual art, [performance art](https://en.wikipedia.org/wiki/Performance\_art) and traditional art.
+To better understand CryptoPhunks, start by reading about [Conceptual Art](https://en.wikipedia.org/wiki/Conceptual\_art),[ Marcel Duchamp](https://en.wikipedia.org/wiki/Marcel\_Duchamp), [Dadaism](https://en.wikipedia.org/wiki/Dada), [Andy Warhol](https://en.wikipedia.org/wiki/Andy\_Warhol) and [Memetics](https://en.wikipedia.org/wiki/Memetics). To many, the essence of Phunks comes more than the visual art itself. The simple but meaningful transformation, flip on the y axis created a collection of digital art that blurs the lines between crypto art, conceptual art, [performance art](https://en.wikipedia.org/wiki/Performance\_art) and traditional art.
 
 Here are few examples to better understand Concept behind Phunks:
 
@@ -71,7 +71,7 @@ Here are few examples to better understand Concept behind Phunks:
 | Punk is different                                         | Phunk is different                                                      |
 | Punk is Web2                                              | Phunk is Web3                                                           |
 
-Same as this two emojis :thumbsup: and :thumbsdown: make you feel totally different, from examples above you can see that flipping an image the other way gives whole new meaning behind it. \
+Same as this two emojis :thumbsup: vs :thumbsdown: make you feel totally different, from examples above you can see that flipping an image the other way gives whole new meaning behind it. \
 Same image but flipped is absolutely transformative.
 
 > Phunks are conceptual art that actually have context, narrative, critique on the space. \
