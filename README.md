@@ -73,7 +73,7 @@ Here are few examples to better understand Concept behind Phunks:
 | Punk is different                                         | Phunk is different                                                      |
 | Punk is Web2                                              | Phunk is Web3                                                           |
 
-Another great example of a simple transformation that completely changes the meaning would be :thumbsup: vs :thumbsdown: or a countries flag right side up vs upside down. Powerful examples of identical symbols with entirely different meanings based on their orientation.
+Some good examples of a simple transformation that completely changes the meaning would be :thumbsup: vs :thumbsdown: or a countries flag right side up vs upside down. Powerful instances of identical symbols  with entirely different meanings based on their orientation.
 
 > Phunks are conceptual art that actually have context, narrative, critique on the space. \
 > There is more artistic merit in phunks than just about any pfp project. [@CsenOner](https://twitter.com/CsenOner/status/1512709948467257345?s=20\&t=W79OmfK5hl4BrLO6Shkcqg)
