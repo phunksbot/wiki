@@ -110,6 +110,10 @@ Takes a second to load, but it's worth it. Just click the tweet pic to see the w
 
 {% embed url="https://twitter.com/Jclineshow/status/1466564622375292928?s=20&t=wgh04kjIvjbHl7bN6XuPPA" %}
 
+> DECEMBER 09, 2021 - by [@The\_MegaVega](https://twitter.com/The\_MegaVega)
+
+{% embed url="https://twitter.com/the_megavega/status/1469045678106152968?s=21&t=fXZq83BZB1K7pgGQOpxdZw" %}
+
 > DECEMBER 13, 2021 - by [@0xStroudonian](https://twitter.com/0xStroudonian)
 
 {% embed url="https://twitter.com/0xStroudonian/status/1470258924309950468?s=20&t=XMDu1Ang5q5L9g0c6Qvw4g" %}
