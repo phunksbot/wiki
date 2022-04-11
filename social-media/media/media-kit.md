@@ -26,8 +26,7 @@ Just Right Click and Save, then zoom in to the max.
 
 ## Download All
 
-Here is tutorial how to download all 10'000 Phunks each as a separate jpeg with Phunk #ID \
-in 24x24 and in 192x192 (8x) format.
+Here is tutorial how to download all 10'000 Phunks **each as a separate jpeg** in one instance, each Phunks is saved with Phunk #ID in 24x24 and in 192x192 (8x) format.
 
 {% embed url="https://old.reddit.com/r/CryptoPunksDev/comments/s4hyny/q_how_can_i_generate_10_000_leftlooking_phunks_in" %}
 [OG POST](https://old.reddit.com/r/CryptoPunksDev/comments/s4hyny/q\_how\_can\_i\_generate\_10\_000\_leftlooking\_phunks\_in/) by [@geraldbauer](https://twitter.com/geraldbauer)
@@ -89,4 +88,24 @@ print "OK\n"
 
 
 puts "bye"
+```
+
+## Phunks in Poster size (1200x1200)
+
+{% embed url="https://middlemarch.mypinata.cloud/ipfs/QmcvdPd7Jai74e595Mgx2u6D8QZZ1TGSFC2EQQNayQVJL8/6993.png" %}
+[EXAMPLE](https://middlemarch.mypinata.cloud/ipfs/QmcvdPd7Jai74e595Mgx2u6D8QZZ1TGSFC2EQQNayQVJL8/6993.png)
+{% endembed %}
+
+Phunk enthusiast, amazing developer and [@Genius](https://twitter.com/Genius) co-founder [Middlemarch](https://twitter.com/dumbnamenumbers) made an effort to upload All 10'000 Phunks to [IPFS](https://ipfs.io) in HQ 1200x1200 pixel Poster Size images.
+
+To download specific Phunk in HQ, copy link below and change Phunk #ID to the Phunk you desire at the end of the URL + **.png** extension.&#x20;
+
+```
+https://middlemarch.mypinata.cloud/ipfs/QmcvdPd7Jai74e595Mgx2u6D8QZZ1TGSFC2EQQNayQVJL8/8348.png
+```
+
+To download All 10'000 Phunks in 1200x1200 pixel Poster Size use this link below, this needs to be done from command line (cmd). Due to IPFS restrictions in bandwidth you can only download 10 phunks at once. Repeat the steps until you have all 10'000 Phunks.&#x20;
+
+```
+seq 0 9999 | xargs -n1 -P10 bash -c 'i=$0; url="https://middlemarch.mypinata.cloud/ipfs/QmcvdPd7Jai74e595Mgx2u6D8QZZ1TGSFC2EQQNayQVJL8/${i}.png"; curl -O -s $url'
 ```
