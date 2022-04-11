@@ -27,7 +27,7 @@ Just Right Click and Save, then zoom in to the max.
 ## Download All
 
 Here is tutorial how to download all 10'000 Phunks each as a separate jpeg with Phunk #ID \
-in 24x24 and in 192x192 (8x) format
+in 24x24 and in 192x192 (8x) format.
 
 {% embed url="https://old.reddit.com/r/CryptoPunksDev/comments/s4hyny/q_how_can_i_generate_10_000_leftlooking_phunks_in" %}
 
