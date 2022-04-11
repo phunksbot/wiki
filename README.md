@@ -58,7 +58,8 @@ In times when [VCs](https://www.investopedia.com/terms/v/venturecapitalist.asp) 
 
 ## Phunk is Art
 
-To better understand Phunks, start by reading about [Conceptual Art](https://en.wikipedia.org/wiki/Conceptual\_art),[ Marcel Duchamp](https://en.wikipedia.org/wiki/Marcel\_Duchamp), [Dadaism](https://en.wikipedia.org/wiki/Dada), [Andy Warhol](https://en.wikipedia.org/wiki/Andy\_Warhol), [Memetics](https://en.wikipedia.org/wiki/Memetics).. Phunks is Art roots from expression, gestic, activity, mimic and events relevant to Phunks. Not just from the image itself, this is also known as a [performance art](https://en.wikipedia.org/wiki/Performance\_art) in the art world. It can also be something entirely different, it's up to you. That's the point, beauty is in the eye of the beholder.
+To better understand Phunks, start by reading about [Conceptual Art](https://en.wikipedia.org/wiki/Conceptual\_art),[ Marcel Duchamp](https://en.wikipedia.org/wiki/Marcel\_Duchamp), [Dadaism](https://en.wikipedia.org/wiki/Dada), [Andy Warhol](https://en.wikipedia.org/wiki/Andy\_Warhol), [Memetics](https://en.wikipedia.org/wiki/Memetics). Phunks is Art comes from expression, activity, mimic and events relevant to Phunks. Not just from the image itself, this is also known as a [performance art](https://en.wikipedia.org/wiki/Performance\_art) in the art world. \
+It can also be something entirely different, it's up to you. That's the point, beauty is in the eye of the beholder.
 
 Here are few examples to better understand Concept behind Phunks:
 
