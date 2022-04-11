@@ -58,8 +58,9 @@ In times when [VCs](https://www.investopedia.com/terms/v/venturecapitalist.asp) 
 
 ## Phunk is Art
 
-To better understand CryptoPhunks, start by reading about [Conceptual Art](https://en.wikipedia.org/wiki/Conceptual\_art),[ Marcel Duchamp](https://en.wikipedia.org/wiki/Marcel\_Duchamp), [Dadaism](https://en.wikipedia.org/wiki/Dada), [Andy Warhol](https://en.wikipedia.org/wiki/Andy\_Warhol) and [Memetics](https://en.wikipedia.org/wiki/Memetics). To many, the essence of Phunks comes more than just the visual art itself. The simple but transformative flip on the y axis created a collection of digital art that blurs the lines between crypto art, conceptual art, [performance art](https://en.wikipedia.org/wiki/Performance\_art) and traditional art. \
-A complete recontextualization.
+To better understand CryptoPhunks, start by reading about [Conceptual Art](https://en.wikipedia.org/wiki/Conceptual\_art),[ Marcel Duchamp](https://en.wikipedia.org/wiki/Marcel\_Duchamp), [Dadaism](https://en.wikipedia.org/wiki/Dada), [Andy Warhol](https://en.wikipedia.org/wiki/Andy\_Warhol) and [Memetics](https://en.wikipedia.org/wiki/Memetics).&#x20;
+
+To many, the essence of Phunks comes from more than just the visual art itself. The simple but transformative flip on the y axis created a collection of digital art that blurs the lines between crypto art, conceptual art, [performance art](https://en.wikipedia.org/wiki/Performance\_art) and traditional art. A complete recontextualization.
 
 Here are few examples to better understand Concept behind Phunks:
 
