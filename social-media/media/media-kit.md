@@ -30,7 +30,7 @@ Here is tutorial how to download all 10'000 Phunks each as a separate jpeg with 
 in 24x24 and in 192x192 (8x) format.
 
 {% embed url="https://old.reddit.com/r/CryptoPunksDev/comments/s4hyny/q_how_can_i_generate_10_000_leftlooking_phunks_in" %}
-[OG POST](https://old.reddit.com/r/CryptoPunksDev/comments/s4hyny/q\_how\_can\_i\_generate\_10\_000\_leftlooking\_phunks\_in/)
+[OG POST](https://old.reddit.com/r/CryptoPunksDev/comments/s4hyny/q\_how\_can\_i\_generate\_10\_000\_leftlooking\_phunks\_in/) by [@geraldbauer](https://twitter.com/geraldbauer)
 {% endembed %}
 
 Change the loop in the [phunks script](https://github.com/cryptopunksnotdead/cryptopunks/blob/master/phunks/phunks.rb) from:
