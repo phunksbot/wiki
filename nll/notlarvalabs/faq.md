@@ -48,7 +48,7 @@ A community built marketplace for selling CryptoPhunks built on top of our own c
 
 <summary>What is the Discord link?</summary>
 
-[**https://discord.com/invite/NotLarvaLabs**](https://discord.com/invite/NotLarvaLabs)****
+[https://discord.com/invite/NotLarvaLabs](https://discord.com/invite/NotLarvaLabs)
 
 </details>
 
@@ -58,7 +58,7 @@ A community built marketplace for selling CryptoPhunks built on top of our own c
 
 [links.md](../../resources/links.md "mention")
 
-[**https://linktr.ee/cryptophunks**](https://linktr.ee/cryptophunks)****
+[https://linktr.ee/cryptophunks](https://linktr.ee/cryptophunks)
 
 </details>
 
@@ -68,7 +68,7 @@ A community built marketplace for selling CryptoPhunks built on top of our own c
 
 [#tutorials](tutorials.md#tutorials "mention")
 
-****[**https://twitter.com/NotLarvaLabs/status/1470993467413307396?s=20**](https://twitter.com/NotLarvaLabs/status/1470993467413307396?s=20)****
+[https://twitter.com/NotLarvaLabs/status/1470993467413307396?s=20](https://twitter.com/NotLarvaLabs/status/1470993467413307396?s=20)
 
 </details>
 
@@ -76,9 +76,9 @@ A community built marketplace for selling CryptoPhunks built on top of our own c
 
 <summary>What are the relevant smart contract addresses?</summary>
 
-NLL Marketplace: [**0xd6c037bE7FA60587e174db7A6710f7635d2971e7**](https://etherscan.io/address/0xd6c037bE7FA60587e174db7A6710f7635d2971e7)****
+NLL Marketplace: [0xd6c037bE7FA60587e174db7A6710f7635d2971e7](https://etherscan.io/address/0xd6c037bE7FA60587e174db7A6710f7635d2971e7)
 
-CryptoPhunksV2 Token: [**0xf07468ead8cf26c752c676e43c814fee9c8cf402**](https://etherscan.io/token/0xf07468ead8cf26c752c676e43c814fee9c8cf402)****
+CryptoPhunksV2 Token: [0xf07468ead8cf26c752c676e43c814fee9c8cf402](https://etherscan.io/token/0xf07468ead8cf26c752c676e43c814fee9c8cf402)
 
 </details>
 
