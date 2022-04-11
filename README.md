@@ -45,21 +45,14 @@ In times when [VCs](https://www.investopedia.com/terms/v/venturecapitalist.asp) 
 
 ## Phunk is Historic
 
-✔️ They are the first and only project to be delisted from OpenSea 3 times.&#x20;
-
-✔️ They are the first project to be DMCA'd by LarvaLabs.&#x20;
-
-✔️ They are the first derivative project to build a zero-fee marketplace.
-
-✔️ They are the second project ever to create a zero-fee marketplace.&#x20;
-
-✔️ Phunks are a community of smart, talented, rebellious artists and [builders](resources/open-sourced.md).&#x20;
-
-✔️ They are passionate about decentralization and passionately against censorship.
-
-✔️  First truly decentralized NFT both as an Asset and as a Community.
-
-✔️  Phunks are NFT project that is actively contributing to public good by [open sourcing all tools](resources/open-sourced.md).
+* They are the first and only project to be delisted from OpenSea 3 times.&#x20;
+* They are the first project to be DMCA'd by LarvaLabs.&#x20;
+* They are the first derivative project to build a zero-fee marketplace.&#x20;
+* They are the second project ever to create a zero-fee marketplace.&#x20;
+* Phunks are a community of smart, talented, rebellious artists and [builders](resources/open-sourced.md).&#x20;
+* They are passionate about decentralization and passionately against censorship.
+* Truly decentralized NFT both as an Asset and as a Community.
+* Phunks are NFT project that is actively contributing to public good by [open sourcing all tools](resources/open-sourced.md).
 
 > An object's history is an immutable if intangible part of its value.
 
