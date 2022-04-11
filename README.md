@@ -60,7 +60,7 @@ In times when [VCs](https://www.investopedia.com/terms/v/venturecapitalist.asp) 
 
 To better understand CryptoPhunks, start by reading about [Conceptual Art](https://en.wikipedia.org/wiki/Conceptual\_art),[ Marcel Duchamp](https://en.wikipedia.org/wiki/Marcel\_Duchamp), [Dadaism](https://en.wikipedia.org/wiki/Dada), [Andy Warhol](https://en.wikipedia.org/wiki/Andy\_Warhol) and [Memetics](https://en.wikipedia.org/wiki/Memetics).&#x20;
 
-To many, the essence of Phunks comes from more than just the visual art itself. The simple but transformative flip on the y axis created a collection of digital art that blurs the lines between crypto art, conceptual art, [performance art](https://en.wikipedia.org/wiki/Performance\_art) and traditional art. A complete recontextualization.
+To many, the essence of Phunks comes from more than just the visual art itself. The simple but transformative flip on the y axis created a movement of digital art that blurs the lines between crypto art, conceptual art, [performance art](https://en.wikipedia.org/wiki/Performance\_art) and traditional art. A complete recontextualization.
 
 Here are few examples to better understand Concept behind Phunks:
 
@@ -73,8 +73,7 @@ Here are few examples to better understand Concept behind Phunks:
 | Punk is different                                         | Phunk is different                                                      |
 | Punk is Web2                                              | Phunk is Web3                                                           |
 
-Same as this two emojis :thumbsup: vs :thumbsdown: make you feel totally different, from examples above you can see that flipping an image the other way gives whole new meaning behind it. \
-Same image but flipped is absolutely transformative.
+Another great example of a simple transformation that completely changes the meaning would be :thumbsup: vs :thumbsdown: or a countries flag right side up vs upside down. Powerful examples of identical symbols with entirely different meanings based on their orientation.
 
 > Phunks are conceptual art that actually have context, narrative, critique on the space. \
 > There is more artistic merit in phunks than just about any pfp project. [@CsenOner](https://twitter.com/CsenOner/status/1512709948467257345?s=20\&t=W79OmfK5hl4BrLO6Shkcqg)
