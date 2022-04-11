@@ -31,4 +31,24 @@ in 24x24 and in 192x192 (8x) format.
 
 {% embed url="https://old.reddit.com/r/CryptoPunksDev/comments/s4hyny/q_how_can_i_generate_10_000_leftlooking_phunks_in" %}
 
-&#x20;
+Change the loop in the [phunks script](https://github.com/cryptopunksnotdead/cryptopunks/blob/master/phunks/phunks.rb) from:
+
+```
+punks.each do |punk|
+  phunks << punk.mirror    #¹ 
+end
+```
+
+to save the phunks one-by-one in 24x24 and in 192x192 (with 8x zoom) try:
+
+```
+punks.each_with_index do |punk,i| phunk = punk.mirror
+  phunk.save( "phunk-#{i}.png" ) 
+  phunk.zoom(8).save( "phunk-#{i}@8x.png" )
+  phunks << phunk ## add to composite
+end 
+```
+
+(Re)run the script and voila - you will get 20 000 phunk images in two series in the 24x24 and 192x192 (with 8x zoom) format e.g. `phunk-0.png`, `phunk-0@8x.png`, `phunk-1.png`, `phunk-1@8x.png`, and so on.
+
+[Questions and comments welcome.](https://old.reddit.com/r/CryptoPunksDev/comments/s4hyny/q\_how\_can\_i\_generate\_10\_000\_leftlooking\_phunks\_in/)
