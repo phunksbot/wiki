@@ -4,6 +4,8 @@ description: made by Phunk Pham, meant to be contemplated in silence
 
 # 🟨 MUSEUM
 
+![](../.gitbook/assets/FQKh-lsWQAwxE-X.jpeg)
+
 ![](../.gitbook/assets/1v6Xou.png)
 
 ![](<../.gitbook/assets/FLoSjOgacAER94g (1).jpeg>)
