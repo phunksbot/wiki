@@ -56,7 +56,7 @@ Takes a second to load, but it's worth it. Just click the tweet pic to see the w
 
 {% embed url="https://twitter.com/cdixon/status/1442201621266534402?s=20&t=wgh04kjIvjbHl7bN6XuPPA" %}
 
-> OCTOBER 10, 2021 by [@0x\_hodl](https://twitter.com/0x\_hodl)
+> OCTOBER 08, 2021 by [@0x\_hodl](https://twitter.com/0x\_hodl)
 
 {% embed url="https://twitter.com/0x_hodl/status/1446545474316505092" %}
 
