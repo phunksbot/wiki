@@ -27,6 +27,7 @@
 * [🟨 MUSEUM](social-media/museum/README.md)
   * [◽ CURATED](social-media/museum/curated.md)
   * [◽ POSTERS](social-media/museum/posters.md)
+  * [◽ PHACTS](social-media/museum/phacts.md)
   * [◽ MEMES](social-media/museum/memes.md)
 
 ## RESOURCES
