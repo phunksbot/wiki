@@ -29,15 +29,15 @@
   * [◽ POSTERS](social-media/museum/posters.md)
   * [◽ MEMES](social-media/museum/memes.md)
 
+## RESOURCES
+
+* [🟧 OPEN SOURCED](resources/open-sourced.md)
+* [🟩 HISTORY](resources/history.md)
+* [◻ LINKS](resources/links.md)
+
 ## PHUNK DAO
 
 * [🟫 DAO](phunk-dao/dao/README.md)
   * [▫ ABOUT](phunk-dao/dao/about.md)
   * [▫ PHUNKY](phunk-dao/dao/phunky.md)
   * [▫ WHITEPAPER](phunk-dao/dao/whitepaper.md)
-
-## RESOURCES
-
-* [🟧 OPEN SOURCED](resources/open-sourced.md)
-* [🟩 HISTORY](resources/history.md)
-* [◻ LINKS](resources/links.md)
