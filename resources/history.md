@@ -190,3 +190,13 @@ LarvaLabs sells Punks and Meebits IP to [YugaLabs](https://twitter.com/yugalabs)
 [Tweet](https://twitter.com/larvalabs/status/1502421713153318918?s=20\&t=yStTw92XA4d6Ay79jauP\_w)
 
 </details>
+
+<details>
+
+<summary>April 13, 2022</summary>
+
+OpenSea Relisting #3
+
+[Tweet](https://twitter.com/Kenogas/status/1514314569828614150?s=20\&t=xmeRflETillDBGwkz9-5Hw)
+
+</details>
