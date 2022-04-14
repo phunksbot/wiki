@@ -31,3 +31,7 @@ The satirical Storyboard based on CryptoPhunk matter by [@VeryWilliam3](https://
 ![Nov-13–2021 Phunks Stolen Through OpenSea Exploit](../../.gitbook/assets/1\_qFuOwSspd20EERqYBwFchg@2x.jpeg)
 
 ![Phunks Phacts was created with the aim of informing through the visual arts and making the events associated with cryptophunks better understood. It does not want to be a stance and limits itself to telling facts that really happened without being biased. The goal is to raise the power of the decentralization, which must be the ultimate goal that this environment inherits from the blockchain.](../../.gitbook/assets/1\_kYwijlTQwYZH9Q7jg\_rhUA@2x.jpeg)
+
+{% embed url="https://medium.com/@VeryWilliam3/phunks-phacts-65a6ce94f368" %}
+ARTICLE
+{% endembed %}
