@@ -20,8 +20,6 @@ Initial CryptoPhunks Mint - V1
 
 [Etherscan](https://etherscan.io/tx/0x48db643b9ee37de131e23456ecf35c3a270cba12b4e952f02fe7e5af0bb2a0cc)
 
-[Ryder Ripps](https://twitter.com/ryder\_ripps) Mints CryptoPunk #3100 on Foundation - Sold for 2.2 ETH
-
 </details>
 
 <details>
@@ -49,6 +47,10 @@ OpenSea Relisting #1
 Changed name to "Not a Punk" and added Rarity borders to appease OpenSea
 
 [Tweet](https://twitter.com/cryptophunks/status/1408082776213966850?s=21)
+
+[Ryder Ripps](https://twitter.com/ryder\_ripps) Mints CryptoPunk #3100 on Foundation - Sold for 2.2 ETH
+
+[Etherscan](https://etherscan.io/tx/0x860c4012197ed2952ec00087bde974e58d674849f9f574b852430ed6b90a5572)
 
 </details>
 
