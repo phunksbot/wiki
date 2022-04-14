@@ -1,5 +1,5 @@
 ---
-description: PhunkRockPosters made with love by OG KENOBI
+description: PHUNK ROCK POSTERS MADE WITH LOVE BY OG KENOBI
 ---
 
 # ◽ POSTERS
