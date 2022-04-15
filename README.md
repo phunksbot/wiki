@@ -13,9 +13,10 @@ The project was created in June 2021 by a group of [anonymous](https://twitter.c
 
 In July 2021, after receiving formal [DMCA](https://twitter.com/CryptoPhunks/status/1415001685986922499?s=20\&t=YRRn6i6uXhGV5Cgl\_pJeQA) served by [LarvaLabs](https://larvalabs.com) for copyright infringement, the biggest NFT trading Marketplace [OpenSea](https://opensea.io/assets/0xf07468ead8cf26c752c676e43c814fee9c8cf402/8348) censored and banned the collection from their platform for the third and final time. Shortly after, the original developers compiled an [Open Letter](https://foundation.app/@cryptophunks/foundation/62017) to LarvaLabs and left the project since.&#x20;
 
-Being censored and cut out from [98%](https://coinyuppie.com/why-is-opensea-an-absolute-monopolist-in-the-nft-trading-market/#:\~:text=In%20summary%2C%20OpenSea%20is%20currently,field%20of%20NFT%20trading%20market.) NFT Market, Phunk holders were left to experience in real time what it means to be deplatformed by Corporations (Web2) in decentralized environment (Web3) where decentralization and provenance should be paramount and old rules not applied.
+Being censored and cut out from [98%](https://coinyuppie.com/why-is-opensea-an-absolute-monopolist-in-the-nft-trading-market/#:\~:text=In%20summary%2C%20OpenSea%20is%20currently,field%20of%20NFT%20trading%20market.) NFT Market, Phunk holders were left to face in real time what it means to be deplatformed by Corporations (Web2) in decentralized environment (Web3) where decentralization and provenance should be paramount and old rules not applied.\
+While NFT Collections can be banned from centralized trading platform, they really cant be censored. Phunks live in form of [ERC721 token](https://ethereum.org/en/developers/docs/standards/tokens/erc-721/) on the Ethereum blockchain, forever.
 
-It didn't take long before Phunks Community decided to take a stand against censorship, self organised renegade group of Phunk Community builders took it upon themselves to create their own Phunks Marketplace called [NotLarvaLabs](nll/notlarvalabs/notlarvalabs.md) and [open-sourced](resources/open-sourced.md) the code for public good.
+It didn't take long before Phunks Community decided to take a stand and make a statement against censorship, self organised renegade group of Phunk Community builders took it upon themselves to create their own Phunks Marketplace called [NotLarvaLabs](nll/notlarvalabs/notlarvalabs.md) and [open-sourced](resources/open-sourced.md) the code for public good.
 
 {% hint style="info" %}
 ![](<.gitbook/assets/Phunk\_4156 (1).png>)![](.gitbook/assets/Phunk\_4156.png)
@@ -74,14 +75,13 @@ Here are few examples to better understand Concept behind Phunks:
 
 Some good examples of a simple transformation that completely changes the meaning would be :thumbsup: vs :thumbsdown: emoji or a countries flag right side up vs upside down. Powerful instances of identical symbols  with entirely different meanings based on their orientation.
 
+It’s interesting how simple flipped image can become something so controversial. CryptoPunk holders deemed phunks collection as low effort, trash art, absurd and a joke. Yet CryptoPunk founders at [LarvaLabs](https://www.larvalabs.com/cryptopunks/) felt enough threatened by phunks to force their hand and DMCA the collection. All this unfolded while CryptoPunks are trading for hundreds of thousands of dollars. This only further validates Phunks and conceptual art behind it, artistic expression that provokes reaction is art in it self.
+
 > Phunks are conceptual art that actually have context, narrative, critique on the space. \
 > There is more artistic merit in phunks than just about any pfp project. [@CsenOner](https://twitter.com/CsenOner/status/1512709948467257345?s=20\&t=W79OmfK5hl4BrLO6Shkcqg)
 
-It's the people that give it meaning, community, events and philosophy behind it. Phunks Artistic value came to life when [LarvaLabs](https://www.larvalabs.com) decided to [deplatform](https://twitter.com/CryptoPhunks/status/1415001685986922499?s=20\&t=YRRn6i6uXhGV5Cgl\_pJeQA) Phunks collection from Biggest NFT Marketplace [OpenSea](https://opensea.io), making a Corporate (Web2) move in decentralized environment (Web3).&#x20;
-
-While NFT Collections can be banned from centralized trading platform, they really cant be censored. Phunks live in form of ERC721 token on the Ethereum blockchain, forever.
-
-After being banned from NFT trading ecosystem, phunks community stood up and made their own marketplace called [**not** Larva Labs](nll/notlarvalabs/) with 0% trading fees. That's was a beautiful performance act, very interesting move that sent a signal all the way to the top that you can't stop people that are passionate about something to build in this new paradigm called Crypto, no matter how anyone feels about it. It's the people that make something valuable.
+After being banned from NFT trading ecosystem, phunks community took a stand against censorship and made their own marketplace called [**not**LarvaLabs](nll/notlarvalabs/) with 0% trading fees. \
+That was a beautiful performance act that sent a signal all the way to the top that you can't stop people that are passionate about something to build in this new paradigm called Crypto, no matter how anyone feels about it.
 
 Art is in the story, movement, culture, philosophy, interpretation and belief. JPEG embodies all that into a simple pixel image. Phunks face left cause the other way just doesn’t feel right.
 
