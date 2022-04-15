@@ -164,6 +164,15 @@ description: Phunks History and relevant events in Chronological order
 
 <details>
 
+<summary>December 09, 2021</summary>
+
+* Record Breaking Alien Phunk Sale for 97.0 ETH ($421,193)\
+  [Tweet](https://twitter.com/NotLarvaLabs/status/1468931193584246786?s=20\&t=DXnunJPLzRcUlrPllVT\_TQ)
+
+</details>
+
+<details>
+
 <summary>March 13, 2022</summary>
 
 * LarvaLabs sells Punks and Meebits IP to [YugaLabs](https://twitter.com/yugalabs)\
