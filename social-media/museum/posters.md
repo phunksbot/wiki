@@ -4,7 +4,7 @@ description: PHUNK ROCK POSTERS MADE WITH LOVE BY OG KENOBI
 
 # ◽ POSTERS
 
-"[Please allow me to introduce myself..](https://looksrare.org/collections/0x7A8D32eF05Ec8e78d6E8781c6926a0F77483664c)" by [@OG\_Kenobi\_Hello](https://twitter.com/OG\_Kenobi\_Hello)
+"Please allow me to introduce myself.." by [@OG\_Kenobi\_Hello](https://twitter.com/OG\_Kenobi\_Hello)
 
 ![POSTER #0](<../../.gitbook/assets/unnamed (97).png>)
 
@@ -43,3 +43,9 @@ description: PHUNK ROCK POSTERS MADE WITH LOVE BY OG KENOBI
 ![POSTER #17 - STONES](<../../.gitbook/assets/unnamed - 2022-04-14T231839.407.png>)
 
 ![POSTER #18 - PARLIAMENT](<../../.gitbook/assets/unnamed - 2022-04-14T231953.856.png>)
+
+![](<../../.gitbook/assets/unnamed - 2022-04-18T220227.217.png>)
+
+![](<../../.gitbook/assets/unnamed - 2022-04-18T220238.179.png>)
+
+![](<../../.gitbook/assets/unnamed - 2022-04-18T220245.917.png>)
