@@ -102,6 +102,18 @@ Switch between light and dark mode using half moon button on top right corner.
 
 </details>
 
+<details>
+
+<summary>COLLECTIONS</summary>
+
+Switch between supported Collections with ease.
+
+![](<../../.gitbook/assets/Screen Shot 2022-04-19 at 09.36.27.png>)
+
+![](<../../.gitbook/assets/Screen Shot 2022-04-19 at 09.39.22.png>)
+
+</details>
+
 {% embed url="https://notlarvalabs.com/cryptophunks" %}
 [WEBSITE](https://notlarvalabs.com/cryptophunks)
 {% endembed %}
