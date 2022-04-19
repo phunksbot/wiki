@@ -88,6 +88,20 @@ Edit any Phunk to custom Border and Background color.
 
 </details>
 
+<details>
+
+<summary>DARK MODE</summary>
+
+Switch between light and dark mode using half moon button on top right corner.
+
+![](<../../.gitbook/assets/Screen Shot 2022-04-19 at 09.23.54.png>)
+
+![](<../../.gitbook/assets/Screen Shot 2022-04-19 at 08.50.39.png>) Light Mode
+
+![](<../../.gitbook/assets/Screen Shot 2022-04-19 at 08.51.01.png>) Dark Mode
+
+</details>
+
 {% embed url="https://notlarvalabs.com/cryptophunks" %}
 [WEBSITE](https://notlarvalabs.com/cryptophunks)
 {% endembed %}
