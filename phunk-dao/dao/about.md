@@ -4,6 +4,10 @@ description: Decentralized Autonomous Organisation
 
 # ▫ ABOUT
 
+{% hint style="warning" %}
+:construction: not live yet, work in progress. join [discord](https://discord.com/invite/phunks) for information :construction:
+{% endhint %}
+
 ## What is PhunkDAO?
 
 PHUNK DAO is endeavour of decentralized group (9/9) of people from phunks community, it's goal is to build and support a healthy environment for public good and help phunk community to grow in true web3 spirit pushing the boundaries of this new frontier. \
