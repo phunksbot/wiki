@@ -232,6 +232,14 @@ description: written on Phunks in Chronological order
 
 <details>
 
+<summary>January 23, 2022 - <a href="https://knowyourmeme.com/memes/cultures/flipped-nfts">Flipped NFTs</a></summary>
+
+[https://knowyourmeme.com/memes/cultures/flipped-nfts](https://knowyourmeme.com/memes/cultures/flipped-nfts)
+
+</details>
+
+<details>
+
 <summary><strong>February 04, 2022 -</strong> <a href="https://decrypt.co/92155/cryptopunks-controversy-creators-apologize-v1-ethereum-nft"><strong>Creators Apologize for 'V1' Ethereum NFT Sales</strong></a><strong></strong></summary>
 
 ****[**https://decrypt.co/92155/cryptopunks-controversy-creators-apologize-v1-ethereum-nft**](https://decrypt.co/92155/cryptopunks-controversy-creators-apologize-v1-ethereum-nft)****
