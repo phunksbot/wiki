@@ -158,6 +158,10 @@ Takes a second to load, but it's worth it. Just click the tweet pic to see the w
 
 {% embed url="https://twitter.com/leandercapuozzo/status/1503919865823907842?s=20&t=Tbap3ogy88gjcQXn_DGRYQ" %}
 
-> April 10, 2022 by [@dumbnamenumbers](https://twitter.com/dumbnamenumbers)
+> APRIL 10, 2022 by [@dumbnamenumbers](https://twitter.com/dumbnamenumbers)
 
 {% embed url="https://twitter.com/dumbnamenumbers/status/1512916014220156929?s=20&t=o-U9RXl0pM8qkl02jMBrRw" %}
+
+> APRIL 24, 2022 by [@Pauly0x](https://twitter.com/Pauly0x)
+
+{% embed url="https://twitter.com/Pauly0x/status/1518267390596988928?s=20&t=cy2_mpEtNpxejlKgenWcBw" %}
