@@ -8,13 +8,13 @@ description: Twitter threads on Phunks in Chronological order
 Takes a second to load, but it's worth it. Just click the tweet pic to see the whole thread.
 {% endhint %}
 
-> JULY 01, 2021 - by [@AngeloArsenic](https://twitter.com/AngeloArsenic)
-
 {% embed url="https://twitter.com/AngeloArsenic/status/1410421779005251584?s=20&t=wiilZm4Q0_KSH0vFwVqjjg" %}
-
-> JULY 01, 2021 - by [@punk4156](https://twitter.com/punk4156)
+**JULY 01, 2021 - by** [**@AngeloArsenic**](https://twitter.com/AngeloArsenic)****
+{% endembed %}
 
 {% embed url="https://twitter.com/punk4156/status/1410637650630000644?s=20&t=UlBwbI0MHgUk43jP4-GnwQ" %}
+**JULY 01, 2021 - by** [**@punk4156**](https://twitter.com/punk4156)****
+{% endembed %}
 
 > JULY 13, 2021 - by [@erik\_udahl](https://twitter.com/erik\_udahl)
 
