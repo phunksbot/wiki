@@ -216,25 +216,9 @@ description: written on Phunks in Chronological order
 
 <details>
 
-<summary>January 12, 2022 - <a href="https://tokenizedhq.com/nft-websites/">Best List of NFT Websites in 2022</a></summary>
-
-[https://tokenizedhq.com/nft-websites/](https://tokenizedhq.com/nft-websites/)
-
-</details>
-
-<details>
-
 <summary><strong>January 15, 2022 -</strong> <a href="https://medium.com/@0xTeji/why-i-purchased-a-fake-cryptopunk-for-4000-24b05c981ee4"><strong>Why I purchased a “Fake” CryptoPunk for $4000</strong></a><strong></strong></summary>
 
 ****[**https://medium.com/@0xTeji/why-i-purchased-a-fake-cryptopunk-for-4000-24b05c981ee4**](https://medium.com/@0xTeji/why-i-purchased-a-fake-cryptopunk-for-4000-24b05c981ee4)****
-
-</details>
-
-<details>
-
-<summary>January 23, 2022 - <a href="https://knowyourmeme.com/memes/cultures/flipped-nfts">Flipped NFTs</a></summary>
-
-[https://knowyourmeme.com/memes/cultures/flipped-nfts](https://knowyourmeme.com/memes/cultures/flipped-nfts)
 
 </details>
 
@@ -259,14 +243,6 @@ description: written on Phunks in Chronological order
 <summary><strong>February 10, 2022 -</strong> <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4029323"><strong>Are CryptoPunks Copyrightable?</strong></a><strong></strong></summary>
 
 ****[**https://papers.ssrn.com/sol3/papers.cfm?abstract\_id=4029323**](https://papers.ssrn.com/sol3/papers.cfm?abstract\_id=4029323)****
-
-</details>
-
-<details>
-
-<summary>February 14, 2022 - <a href="https://www.exodus.com/news/are-nfts-copyrighted-by-law/">Are NFTs copyrighted by law?</a></summary>
-
-[https://www.exodus.com/news/are-nfts-copyrighted-by-law/](https://www.exodus.com/news/are-nfts-copyrighted-by-law/)
 
 </details>
 
@@ -307,37 +283,5 @@ description: written on Phunks in Chronological order
 <summary>April 06, 2022 - <a href="https://pharoutlabs.medium.com/welcome-to-a-new-era-of-phreedom-894f6a4987b2">Welcome to a new era… of Phreedom…</a></summary>
 
 [https://pharoutlabs.medium.com/welcome-to-a-new-era-of-phreedom-894f6a4987b2](https://pharoutlabs.medium.com/welcome-to-a-new-era-of-phreedom-894f6a4987b2)
-
-</details>
-
-<details>
-
-<summary>April 06, 2022 - <a href="https://www.tsmplaw.com/forefront/nfts-art-or-artifice/">NFTS – ART OR ARTIFICE?</a></summary>
-
-[https://www.tsmplaw.com/forefront/nfts-art-or-artifice/](https://www.tsmplaw.com/forefront/nfts-art-or-artifice/)
-
-</details>
-
-<details>
-
-<summary>April 08, 2022 - <a href="https://mpost.io/opensea-rumoured-to-relist-cryptophunks/">OpenSea Rumoured to Relist CryptoPhunks</a></summary>
-
-[https://mpost.io/opensea-rumoured-to-relist-cryptophunks/](https://mpost.io/opensea-rumoured-to-relist-cryptophunks/)
-
-</details>
-
-<details>
-
-<summary>April 16, 2022 - <a href="https://www.btcfans.com/article/79139">Chinese Article by BTCFANS.COM</a></summary>
-
-[https://www.btcfans.com/article/79139](https://www.btcfans.com/article/79139)
-
-</details>
-
-<details>
-
-<summary>April 22, 2022 - <a href="https://www.bueno.art/blog/nft-derivatives">NFT Derivatives: Bullish or Bust?</a></summary>
-
-[https://www.bueno.art/blog/nft-derivatives](https://www.bueno.art/blog/nft-derivatives)
 
 </details>
