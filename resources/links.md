@@ -124,14 +124,6 @@ description: and Data Resources
 
 <details>
 
-<summary>CryptoSlam</summary>
-
-[https://cryptoslam.io/cryptophunksv2](https://cryptoslam.io/cryptophunksv2)
-
-</details>
-
-<details>
-
 <summary>Phunks Volume Tracker by <a href="https://twitter.com/tat2bu">@tat2bu</a></summary>
 
 [http://phunks-data.herokuapp.com/app/](http://phunks-data.herokuapp.com/app/)
