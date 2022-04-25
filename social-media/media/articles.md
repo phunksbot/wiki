@@ -312,6 +312,14 @@ description: written on Phunks in Chronological order
 
 <details>
 
+<summary>April 06, 2022 - <a href="https://www.tsmplaw.com/forefront/nfts-art-or-artifice/">NFTS – ART OR ARTIFICE?</a></summary>
+
+[https://www.tsmplaw.com/forefront/nfts-art-or-artifice/](https://www.tsmplaw.com/forefront/nfts-art-or-artifice/)
+
+</details>
+
+<details>
+
 <summary>April 08, 2022 - <a href="https://mpost.io/opensea-rumoured-to-relist-cryptophunks/">OpenSea Rumoured to Relist CryptoPhunks</a></summary>
 
 [https://mpost.io/opensea-rumoured-to-relist-cryptophunks/](https://mpost.io/opensea-rumoured-to-relist-cryptophunks/)
