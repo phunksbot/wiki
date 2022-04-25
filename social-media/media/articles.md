@@ -64,6 +64,14 @@ description: written on Phunks in Chronological order
 
 <details>
 
+<summary>July 25, 2021 - <a href="https://medium.com/sidechain/cryptophunks-influencer-disclosures-and-nba-top-shot-sentiment-pardon-the-gas-episode-1-aa923272f79e">Podcast Cryptopunks vs. Cryptophunks</a></summary>
+
+[https://medium.com/sidechain/cryptophunks-influencer-disclosures-and-nba-top-shot-sentiment-pardon-the-gas-episode-1-aa923272f79e](https://medium.com/sidechain/cryptophunks-influencer-disclosures-and-nba-top-shot-sentiment-pardon-the-gas-episode-1-aa923272f79e)
+
+</details>
+
+<details>
+
 <summary><strong>August 19, 2021 -</strong> <a href="https://editorial.superrare.com/2021/08/19/cryptophunks-cryptopunks-parody-or-copycat/"><strong>CryptoPhunks: CryptoPunks parody or copycat?</strong></a><strong></strong></summary>
 
 ****[**https://editorial.superrare.com/2021/08/19/cryptophunks-cryptopunks-parody-or-copycat/**](https://editorial.superrare.com/2021/08/19/cryptophunks-cryptopunks-parody-or-copycat/)****
