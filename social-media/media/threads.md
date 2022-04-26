@@ -165,3 +165,7 @@ Takes a second to load, but it's worth it. Just click the tweet pic to see the w
 > APRIL 24, 2022 by [@Pauly0x](https://twitter.com/Pauly0x)
 
 {% embed url="https://twitter.com/Pauly0x/status/1518267390596988928?s=20&t=cy2_mpEtNpxejlKgenWcBw" %}
+
+{% embed url="https://twitter.com/seanbonner/status/1518991950350716928?s=20&t=Q0F_RoskyG_U-XoisQ_6vQ" %}
+**APRIL 26, 2022 - by** [**@seanbonner**](https://twitter.com/seanbonner)****
+{% endembed %}
