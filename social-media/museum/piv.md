@@ -6,7 +6,7 @@ description: WELCOME TO AMAZING WORLD OF PIV
 
 ![](<../../.gitbook/assets/FI1eQT9XsAUwCn2 (1).jpeg>)
 
-![MARLYN MONROE](../../.gitbook/assets/FH3ZNK-X0AEcVNN.jpeg)
+![MARILYN MONROE](../../.gitbook/assets/FH3ZNK-X0AEcVNN.jpeg)
 
 ![](../../.gitbook/assets/FIv\_VkCXoAIEZNJ.jpeg)![](../../.gitbook/assets/FIv\_YQMWUAE2DNF.jpeg)
 
