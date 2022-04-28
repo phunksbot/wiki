@@ -166,7 +166,7 @@ Left: rotated and cropped CryptoPhunk 9077 Right: Black Square and Red Square, b
 ![](<../../.gitbook/assets/image (35).png>)![](<../../.gitbook/assets/image (2).png>)\
 [Picasso, Villa Californie, CANNES , c.1953 by André Villers](https://twitter.com/piv\_piv/status/1507744395302522880?s=20\&t=\_lc0IEIuVeEzKlmIQy7CRw)
 
-![](<../../.gitbook/assets/image (53) (1).png>)![](<../../.gitbook/assets/image (48).png>)\
+![](<../../.gitbook/assets/image (53) (1).png>)![](<../../.gitbook/assets/image (48) (1).png>)\
 [Picasso’s Eyes, 1957 by David Douglas Duncan](https://twitter.com/piv\_piv/status/1508009942191534083?s=20\&t=\_lc0IEIuVeEzKlmIQy7CRw)
 
 ![](<../../.gitbook/assets/image (32) (1).png>)![](<../../.gitbook/assets/image (34) (1).png>)\
