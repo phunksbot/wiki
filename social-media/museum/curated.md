@@ -4,6 +4,8 @@ description: made by Phunk Pham, meant to be contemplated in silence
 
 # ◽ CURATED
 
+Artists: [@wolfgangeth](https://twitter.com/wolfgangeth) [@PhunkyVasilios](https://twitter.com/PhunkyVasilios) [@The\_MegaVega](https://twitter.com/The\_MegaVega) [@VeryWilliam3](https://twitter.com/VeryWilliam3) [@dovetailNFT](https://twitter.com/dovetailNFT)
+
 ![](../../.gitbook/assets/FQKh-lsWQAwxE-X.jpeg)
 
 ![](../../.gitbook/assets/1v6Xou.png)
