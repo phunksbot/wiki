@@ -1,4 +1,10 @@
+---
+description: DOVETAIL PLAYGROUND
+---
+
 # ◽ DOVETAIL
+
+in no particular order, made by [@dovetailNFT](https://twitter.com/dovetailNFT)
 
 ![couldn't resist, bought the eth dip to become a phunk, lfg](<../../.gitbook/assets/image (26).png>)
 
