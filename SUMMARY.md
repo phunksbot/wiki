@@ -28,6 +28,7 @@
   * [◽ CURATED](social-media/museum/curated.md)
   * [◽ PIV](social-media/museum/piv.md)
   * [◽ POSTERS](social-media/museum/posters.md)
+  * [◽ DOVETAIL](social-media/museum/dovetail.md)
   * [◽ ILLUSTRATED](social-media/museum/illustrated.md)
   * [◽ MIDDLEMARCH](social-media/museum/middlemarch.md)
   * [◽ MEMES](social-media/museum/memes.md)

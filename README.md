@@ -1,6 +1,6 @@
 ---
 description: Phunks face left on the right side of history.
-cover: .gitbook/assets/image (1) (1) (1) (1).png
+cover: .gitbook/assets/image (1) (1) (1) (1) (1).png
 coverY: 0
 ---
 
