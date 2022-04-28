@@ -65,9 +65,9 @@ ANDY WARHOL AND PIERROT PORTRAIT](<../../.gitbook/assets/image (21) (1) (1) (1) 
 
 ![EYE OF PROVIDENCE](<../../.gitbook/assets/image (24) (1) (1) (1).png>)
 
-![PHUNK CHAD](<../../.gitbook/assets/image (29) (1) (1).png>)
+![PHUNK CHAD](<../../.gitbook/assets/image (29) (1) (1) (1).png>)
 
-![SOUCES](<../../.gitbook/assets/image (28) (1) (1).png>)
+![SOUCES](<../../.gitbook/assets/image (28) (1) (1) (1).png>)
 
 ![Le Trébuchet (The Trap)](<../../.gitbook/assets/image (30) (1) (1).png>)
 
@@ -130,7 +130,7 @@ Left: rotated and cropped CryptoPhunk 9077 Right: Black Square and Red Square, b
 
 ![Ensor with Masks](<../../.gitbook/assets/image (46).png>)
 
-![](<../../.gitbook/assets/image (8) (1) (1).png>)![](<../../.gitbook/assets/image (28) (1).png>)\
+![](<../../.gitbook/assets/image (8) (1) (1).png>)![](<../../.gitbook/assets/image (28) (1) (1).png>)\
 [Kill Bill](https://twitter.com/piv\_piv/status/1490595420787068928?s=20\&t=\_lc0IEIuVeEzKlmIQy7CRw)
 
 ![](<../../.gitbook/assets/image (32) (1).png>)![](../../.gitbook/assets/image.png)\
@@ -157,7 +157,7 @@ Left: rotated and cropped CryptoPhunk 9077 Right: Black Square and Red Square, b
 ![](<../../.gitbook/assets/image (4) (1).png>)![](<../../.gitbook/assets/image (15) (1) (1).png>)\
 [Phunk 0413 as Vegetable Seller](https://twitter.com/piv\_piv/status/1495464368863076353?s=20\&t=\_lc0IEIuVeEzKlmIQy7CRw)
 
-![](<../../.gitbook/assets/image (29) (1).png>)![](<../../.gitbook/assets/image (10) (1) (1).png>)\
+![](<../../.gitbook/assets/image (29) (1) (1).png>)![](<../../.gitbook/assets/image (10) (1) (1).png>)\
 [Punk 324 holds a mirror next to her face Phunks](https://twitter.com/piv\_piv/status/1496110544297807878?s=20\&t=\_lc0IEIuVeEzKlmIQy7CRw)
 
 ![](<../../.gitbook/assets/image (7) (1) (1).png>)![](<../../.gitbook/assets/image (16) (1) (1).png>)\
@@ -180,7 +180,7 @@ Left: rotated and cropped CryptoPhunk 9077 Right: Black Square and Red Square, b
 ![](<../../.gitbook/assets/image (13) (1).png>)![](<../../.gitbook/assets/image (56) (1).png>)\
 [Group Portrait of the Amsterdam Shooting Corporation, 1532 by Dirck Jacobsz](https://twitter.com/piv\_piv/status/1498545174540169216?s=20\&t=\_lc0IEIuVeEzKlmIQy7CRw)
 
-![the Existentialists](<../../.gitbook/assets/image (58).png>)
+![the Existentialists](<../../.gitbook/assets/image (58) (1).png>)
 
 ![Louboutin Phunk 1/3](<../../.gitbook/assets/image (69).png>)
 
@@ -217,14 +217,14 @@ Left: rotated and cropped CryptoPhunk 9077 Right: Black Square and Red Square, b
 
 ![Phunk standing in the Rain](<../../.gitbook/assets/image (70).png>)
 
-![.](<../../.gitbook/assets/image (43) (1).png>)
+![.](<../../.gitbook/assets/image (43) (1) (1).png>)
 
-![](<../../.gitbook/assets/image (28).png>)![](<../../.gitbook/assets/image (54) (1).png>)\
+![](<../../.gitbook/assets/image (28) (1).png>)![](<../../.gitbook/assets/image (54) (1).png>)\
 [Two suprematist compositions with Phunk parts](https://twitter.com/piv\_piv/status/1511417747191865348?s=20\&t=\_lc0IEIuVeEzKlmIQy7CRw)
 
 ![Upside down Phunk](<../../.gitbook/assets/image (64) (1).png>)
 
-![Phunks x De Stijl](<../../.gitbook/assets/image (29).png>)
+![Phunks x De Stijl](<../../.gitbook/assets/image (29) (1).png>)
 
 ![Simple abstract composition with Phunk colors.](<../../.gitbook/assets/image (7) (1).png>)
 
