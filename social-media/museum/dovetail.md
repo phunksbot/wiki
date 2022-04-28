@@ -1,5 +1,5 @@
 ---
-description: DOVETAIL PLAYGROUND
+description: PLAYGROUND
 ---
 
 # ◽ DOVETAIL
