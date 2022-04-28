@@ -133,7 +133,7 @@ Left: rotated and cropped CryptoPhunk 9077 Right: Black Square and Red Square, b
 ![](<../../.gitbook/assets/image (8) (1) (1).png>)![](<../../.gitbook/assets/image (28) (1) (1).png>)\
 [Kill Bill](https://twitter.com/piv\_piv/status/1490595420787068928?s=20\&t=\_lc0IEIuVeEzKlmIQy7CRw)
 
-![](<../../.gitbook/assets/image (32) (1).png>)![](../../.gitbook/assets/image.png)\
+![](<../../.gitbook/assets/image (32) (1) (1).png>)![](../../.gitbook/assets/image.png)\
 [A Clockwork Orange](https://twitter.com/piv\_piv/status/1490602563246297089?s=20\&t=\_lc0IEIuVeEzKlmIQy7CRw)
 
 ![](<../../.gitbook/assets/image (61).png>)![](<../../.gitbook/assets/image (3).png>)\
@@ -169,12 +169,12 @@ Left: rotated and cropped CryptoPhunk 9077 Right: Black Square and Red Square, b
 ![](<../../.gitbook/assets/image (53) (1).png>)![](<../../.gitbook/assets/image (48).png>)\
 [Picasso’s Eyes, 1957 by David Douglas Duncan](https://twitter.com/piv\_piv/status/1508009942191534083?s=20\&t=\_lc0IEIuVeEzKlmIQy7CRw)
 
-![](<../../.gitbook/assets/image (32).png>)![](<../../.gitbook/assets/image (34) (1).png>)\
+![](<../../.gitbook/assets/image (32) (1).png>)![](<../../.gitbook/assets/image (34) (1).png>)\
 [Jan van Eyck Phunk](https://twitter.com/piv\_piv/status/1496919620351103001?s=20\&t=\_lc0IEIuVeEzKlmIQy7CRw)
 
 ![THE KING](<../../.gitbook/assets/image (55).png>)
 
-![](<../../.gitbook/assets/image (22) (1).png>)![](<../../.gitbook/assets/image (59).png>)\
+![](<../../.gitbook/assets/image (22) (1).png>)![](<../../.gitbook/assets/image (59) (1).png>)\
 [Self Portrait with Masks, 1899 James Ensor](https://twitter.com/piv\_piv/status/1497622640202326023?s=20\&t=\_lc0IEIuVeEzKlmIQy7CRw)
 
 ![](<../../.gitbook/assets/image (13) (1).png>)![](<../../.gitbook/assets/image (56) (1).png>)\
@@ -235,3 +235,5 @@ Left: rotated and cropped CryptoPhunk 9077 Right: Black Square and Red Square, b
 
 ![In honor of the 717-gigapixel image of Rembrandt’s ‘The Night Watch’ that was published on the website of the Rijksmuseum earlier this week, I made a 300 meters (984 ft.) high vectorimage of Cryptophunk 3100.](../../.gitbook/assets/FIpjMBBWUAMNZxZ.jpeg)
 
+![](<../../.gitbook/assets/image (59).png>)![](<../../.gitbook/assets/image (32).png>)\
+[Left: Phunks & Punks with shading Right: Salome with the Head of John the Baptist by Caravaggio, 1607.](https://twitter.com/piv\_piv/status/1519638417784647680?s=20\&t=TzictjlCH1fGYY7Ffrl1XQ)
