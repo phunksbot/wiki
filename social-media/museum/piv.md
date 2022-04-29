@@ -39,6 +39,8 @@ in no particular order, made by [@piv\_piv](https://twitter.com/piv\_piv)
 ![](<../../.gitbook/assets/image (44) (1).png>)![](<../../.gitbook/assets/image (23) (1).png>)\
 [Who wore it better?](https://twitter.com/piv\_piv/status/1517251273887731724?s=20\&t=\_lc0IEIuVeEzKlmIQy7CRw)
 
+![GM](<../../.gitbook/assets/image (36).png>)
+
 ![WHO WORE IT BETTER?](../../.gitbook/assets/FIRNma1XsA0ym6L.jpeg)
 
 ![](<../../.gitbook/assets/image (5) (1).png>)![](<../../.gitbook/assets/image (22) (1) (1) (1).png>)\

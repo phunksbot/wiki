@@ -71,7 +71,7 @@ in no particular order, made by [@dovetailNFT](https://twitter.com/dovetailNFT)
 
 ![](<../../.gitbook/assets/image (22).png>)
 
-![](<../../.gitbook/assets/image (36).png>)![](<../../.gitbook/assets/image (29).png>)![](<../../.gitbook/assets/image (33).png>)****\
+![](<../../.gitbook/assets/image (36) (1).png>)![](<../../.gitbook/assets/image (29).png>)![](<../../.gitbook/assets/image (33).png>)****\
 ****[**gm**](https://twitter.com/dovetailNFT/status/1512807372858740744?s=20\&t=TzictjlCH1fGYY7Ffrl1XQ)****
 
 ![giving my pupy a lil smooch](<../../.gitbook/assets/image (9).png>)
