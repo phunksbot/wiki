@@ -72,6 +72,14 @@ description: written on Phunks in Chronological order
 
 <details>
 
+<summary>August 17, 2021 - <a href="https://blog.mercuryo.io/post/explained-by-mercuryo-27">Explained by Mercuryo #27</a></summary>
+
+[https://blog.mercuryo.io/post/explained-by-mercuryo-27](https://blog.mercuryo.io/post/explained-by-mercuryo-27)
+
+</details>
+
+<details>
+
 <summary><strong>August 19, 2021 -</strong> <a href="https://editorial.superrare.com/2021/08/19/cryptophunks-cryptopunks-parody-or-copycat/"><strong>CryptoPhunks: CryptoPunks parody or copycat?</strong></a><strong></strong></summary>
 
 ****[**https://editorial.superrare.com/2021/08/19/cryptophunks-cryptopunks-parody-or-copycat/**](https://editorial.superrare.com/2021/08/19/cryptophunks-cryptopunks-parody-or-copycat/)****
