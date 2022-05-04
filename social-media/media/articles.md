@@ -357,3 +357,11 @@ description: written on Phunks in Chronological order
 [https://www.bueno.art/blog/nft-derivatives](https://www.bueno.art/blog/nft-derivatives)
 
 </details>
+
+<details>
+
+<summary>May 01, 2022 - <a href="https://eggphunk.medium.com/sup-phunks-vol-3-1305460da63f">Sup Phunks! Vol. 3</a></summary>
+
+[https://eggphunk.medium.com/sup-phunks-vol-3-1305460da63f](https://eggphunk.medium.com/sup-phunks-vol-3-1305460da63f)
+
+</details>
