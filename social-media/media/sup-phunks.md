@@ -10,7 +10,7 @@ description: >-
 
 <details>
 
-<summary>March 2022 - <a href="https://eggphunk.medium.com/sup-phunks-vol-1-928db415d8fc">Sup Phunks! Vol. 1</a></summary>
+<summary><a href="https://eggphunk.medium.com/sup-phunks-vol-1-928db415d8fc">Sup Phunks! Vol. 1</a> - March 2022</summary>
 
 [https://eggphunk.medium.com/sup-phunks-vol-1-928db415d8fc](https://eggphunk.medium.com/sup-phunks-vol-1-928db415d8fc)
 
@@ -18,7 +18,7 @@ description: >-
 
 <details>
 
-<summary>April 2022 - <a href="https://eggphunk.medium.com/sup-phunks-vol-2-5e74224be4ee">Sup Phunks! Vol. 2</a></summary>
+<summary><a href="https://eggphunk.medium.com/sup-phunks-vol-2-5e74224be4ee">Sup Phunks! Vol. 2</a> - April 2022 </summary>
 
 [https://eggphunk.medium.com/sup-phunks-vol-2-5e74224be4ee](https://eggphunk.medium.com/sup-phunks-vol-2-5e74224be4ee)
 
@@ -26,7 +26,7 @@ description: >-
 
 <details>
 
-<summary>May 2022 - <a href="https://eggphunk.medium.com/sup-phunks-vol-3-1305460da63f">Sup Phunks! Vol. 3</a></summary>
+<summary><a href="https://eggphunk.medium.com/sup-phunks-vol-3-1305460da63f">Sup Phunks! Vol. 3</a> - May 2022</summary>
 
 [https://eggphunk.medium.com/sup-phunks-vol-3-1305460da63f](https://eggphunk.medium.com/sup-phunks-vol-3-1305460da63f)
 
