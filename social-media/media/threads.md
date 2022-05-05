@@ -100,8 +100,16 @@ Takes a second to load, but it's worth it. Just click the tweet pic to see the w
 **NOVEMBER 17, 2021 - by** [**@crypto888crypto**](https://twitter.com/crypto888crypto)****
 {% endembed %}
 
+{% embed url="https://twitter.com/NotLarvaLabs/status/1461423664289648640?s=20&t=eyhmkvKdaK0Bs3iCNM-7Qg" %}
+**NOVEMBER 18, 2021 - by** [**@NotLarvaLabs**](https://twitter.com/NotLarvaLabs)****
+{% endembed %}
+
 {% embed url="https://twitter.com/Jclineshow/status/1462874325929762816?s=20&t=wgh04kjIvjbHl7bN6XuPPA" %}
 **NOVEMBER 22, 2021 - by** [**@Jclineshow**](https://twitter.com/Jclineshow) ****&#x20;
+{% endembed %}
+
+{% embed url="https://twitter.com/NotLarvaLabs/status/1463716992846753793?s=20&t=eyhmkvKdaK0Bs3iCNM-7Qg" %}
+**NOVEMBER 25, 2021 - by** [**@NotLarvaLabs**](https://twitter.com/NotLarvaLabs)****
 {% endembed %}
 
 {% embed url="https://twitter.com/JoelMittQuinn/status/1466587101588250624?s=20&t=wgh04kjIvjbHl7bN6XuPPA" %}
@@ -122,6 +130,14 @@ Takes a second to load, but it's worth it. Just click the tweet pic to see the w
 
 {% embed url="https://twitter.com/Amihaga/status/1461886105008156672?s=20&t=wgh04kjIvjbHl7bN6XuPPA" %}
 **NOVEMBER 20, 2021 - by** [**@Amihaga**](https://twitter.com/Amihaga)****
+{% endembed %}
+
+{% embed url="https://twitter.com/NotLarvaLabs/status/1470993467413307396?s=20&t=eyhmkvKdaK0Bs3iCNM-7Qg" %}
+**DECEMBER 15, 2021 - by** [**@NotLarvaLabs**](https://twitter.com/NotLarvaLabs)****
+{% endembed %}
+
+{% embed url="https://twitter.com/NotLarvaLabs/status/1471616279597441026?s=20&t=eyhmkvKdaK0Bs3iCNM-7Qg" %}
+**DECEMBER 17, 2021 - by** [**@NotLarvaLabs**](https://twitter.com/NotLarvaLabs)****
 {% endembed %}
 
 {% embed url="https://twitter.com/dumbnamenumbers/status/1478826925678342151?s=20&t=XMDu1Ang5q5L9g0c6Qvw4g" %}
@@ -158,6 +174,10 @@ Takes a second to load, but it's worth it. Just click the tweet pic to see the w
 
 {% embed url="https://twitter.com/dumbnamenumbers/status/1512916014220156929?s=20&t=o-U9RXl0pM8qkl02jMBrRw" %}
 **APRIL 10, 2022 by** [**@dumbnamenumbers**](https://twitter.com/dumbnamenumbers)****
+{% endembed %}
+
+{% embed url="https://twitter.com/NotLarvaLabs/status/1516240011796099076?s=20&t=eyhmkvKdaK0Bs3iCNM-7Qg" %}
+**APRIL 19, 2021 - by** [**@NotLarvaLabs**](https://twitter.com/NotLarvaLabs)****
 {% endembed %}
 
 {% embed url="https://twitter.com/Pauly0x/status/1518267390596988928?s=20&t=cy2_mpEtNpxejlKgenWcBw" %}
