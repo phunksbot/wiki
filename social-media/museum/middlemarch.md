@@ -24,7 +24,7 @@ in no particular order, made by [@dumbnamenumbers](https://twitter.com/dumbnamen
 [PRESENTING: '1,265,625 scrambled CryptoPunk pixels.](https://twitter.com/dumbnamenumbers/status/1509875632905555976?s=20\&t=0Shsb-HoSctIX6fkOwZW3Q)
 
 ![](<../../.gitbook/assets/image (14) (1).png>)![](<../../.gitbook/assets/image (25) (1).png>)\
-![](<../../.gitbook/assets/image (34).png>)![](<../../.gitbook/assets/image (67) (1).png>)\
+![](<../../.gitbook/assets/image (34) (1).png>)![](<../../.gitbook/assets/image (67) (1).png>)\
 ["there is a billion dollar NFT somewhere in that image"](https://twitter.com/dumbnamenumbers/status/1509879954695151618?s=20\&t=0Shsb-HoSctIX6fkOwZW3Q)
 
 ![Or I guess the background should be the same color as the Punk body?](<../../.gitbook/assets/image (1) (1).png>)
@@ -46,7 +46,7 @@ in no particular order, made by [@dumbnamenumbers](https://twitter.com/dumbnamen
 
 ![The most average Phunk is #7879. Neither busy nor minimalistic, this man could fit in as Phunk or Punk.](<../../.gitbook/assets/image (30) (1).png>)
 
-![](<../../.gitbook/assets/image (42).png>)![](<../../.gitbook/assets/image (13) (1).png>)\
+![](<../../.gitbook/assets/image (42).png>)![](<../../.gitbook/assets/image (13) (1) (1).png>)\
 [Two-Color Phunks v. Apes](https://twitter.com/dumbnamenumbers/status/1513172390133575689?s=20\&t=0Shsb-HoSctIX6fkOwZW3Q)
 
 ![](<../../.gitbook/assets/image (23).png>)![](<../../.gitbook/assets/image (12).png>)\
@@ -63,7 +63,7 @@ in no particular order, made by [@dumbnamenumbers](https://twitter.com/dumbnamen
 
 ![The first zero trait V1 Phunk has been Wrapped!](<../../.gitbook/assets/image (28).png>)
 
-![How do you wrap a V1 Phunk you might ask?? You simply send your V1 Phunk to 0x235d49774139c218034c0571ba8f717773edd923 with safeTransferFrom() and the wrapping occurs in the onERC721Received() callback!](<../../.gitbook/assets/image (58) (1).png>)
+![How do you wrap a V1 Phunk you might ask?? You simply send your V1 Phunk to 0x235d49774139c218034c0571ba8f717773edd923 with safeTransferFrom() and the wrapping occurs in the onERC721Received() callback!](<../../.gitbook/assets/image (58) (1) (1).png>)
 
 ![Own a piece of history! CryptoPhunkMarket source code available for the first time ever in PNG form. All proceeds go toward furthering the Phunk movement through technology!](<../../.gitbook/assets/image (29) (1).png>)
 

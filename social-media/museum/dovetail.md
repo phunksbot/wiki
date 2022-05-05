@@ -37,9 +37,9 @@ in no particular order, made by [@dovetailNFT](https://twitter.com/dovetailNFT)
 
 ![smartest person](<../../.gitbook/assets/Screen Shot 2022-04-29 at 00.54.02.png>)
 
-![000000 281b09 997c59 dbb180 ffd926 e25b26 ad2160 8c0d5b 690c45 142c7c 1637a4 1a43c8 a3b0b8 c6c6c6](<../../.gitbook/assets/image (58).png>)
+![000000 281b09 997c59 dbb180 ffd926 e25b26 ad2160 8c0d5b 690c45 142c7c 1637a4 1a43c8 a3b0b8 c6c6c6](<../../.gitbook/assets/image (58) (1).png>)
 
-![](<../../.gitbook/assets/image (16).png>)![](<../../.gitbook/assets/image (13).png>)\
+![](<../../.gitbook/assets/image (16).png>)![](<../../.gitbook/assets/image (13) (1).png>)\
 [14 colors](https://twitter.com/dovetailNFT/status/1513945866415058948?s=20\&t=TzictjlCH1fGYY7Ffrl1XQ)
 
 ![](<../../.gitbook/assets/image (10).png>)![](<../../.gitbook/assets/image (11).png>)\
@@ -47,7 +47,7 @@ in no particular order, made by [@dovetailNFT](https://twitter.com/dovetailNFT)
 
 ![14COLORS.ETH](<../../.gitbook/assets/image (56).png>)
 
-![dovetail joint heart](<../../.gitbook/assets/image (61).png>)
+![dovetail joint heart](<../../.gitbook/assets/image (61) (1).png>)
 
 !["If you don't believe me or don't get it, I don't have time to try to convince you, sorry."](<../../.gitbook/assets/image (57).png>)
 

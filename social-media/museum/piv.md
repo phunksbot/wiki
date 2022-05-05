@@ -18,7 +18,7 @@ in no particular order, made by [@piv\_piv](https://twitter.com/piv\_piv)
 
 ![](<../../.gitbook/assets/image (10) (1) (1) (1) (1) (1).png>)![](<../../.gitbook/assets/image (5) (1) (1).png>)
 
-![](<../../.gitbook/assets/image (13) (1) (1) (1) (1) (1).png>)![](<../../.gitbook/assets/image (9) (1) (1) (1) (1) (1).png>)
+![](<../../.gitbook/assets/image (13) (1) (1) (1) (1) (1) (1).png>)![](<../../.gitbook/assets/image (9) (1) (1) (1) (1) (1).png>)
 
 ![](<../../.gitbook/assets/image (2) (1) (1) (1) (1).png>)![](<../../.gitbook/assets/image (15) (1) (1) (1) (1).png>)
 
@@ -46,6 +46,10 @@ in no particular order, made by [@piv\_piv](https://twitter.com/piv\_piv)
 ![Composition with elements from Phunk 6222 & 6791](../../.gitbook/assets/FSBRVIUXMAQXln7.jpeg)
 
 ![WHO WORE IT BETTER?](../../.gitbook/assets/FIRNma1XsA0ym6L.jpeg)
+
+![Readymade #phunks](../../.gitbook/assets/FRgTOWbXIAIq\_bE.png)
+
+![IQ Test #phunks](../../.gitbook/assets/FRgYUFQXIAAoVOA.jpeg)
 
 ![](<../../.gitbook/assets/image (5) (1).png>)![](<../../.gitbook/assets/image (22) (1) (1) (1).png>)\
 [Who wore it better?](https://twitter.com/piv\_piv/status/1482360554614403078?s=20\&t=\_lc0IEIuVeEzKlmIQy7CRw)
@@ -104,6 +108,9 @@ Left: rotated and cropped CryptoPhunk 9077 Right: Black Square and Red Square, b
 ![](<../../.gitbook/assets/image (10) (1) (1).png>)![](<../../.gitbook/assets/image (21) (1).png>)\
 [Left: Cropped CryptoPhunk 7258, background color edited on the website Right: Andy Warhol, Self-Portrait with Platinum Bouffant Wig, 1981](https://twitter.com/piv\_piv/status/1518902876831162368?s=20\&t=\_lc0IEIuVeEzKlmIQy7CRw)
 
+![](<../../.gitbook/assets/image (61).png>)![](<../../.gitbook/assets/image (34).png>)\
+[Left: Slightly rotated mole of Phunk 961 Right: Suprematist Composition: White on White by Kazimir Malevich, 1918](https://twitter.com/piv\_piv/status/1521542215675297795?s=20\&t=HU8S4njt6xZuu271JmK8PA)
+
 ![](<../../.gitbook/assets/image (3) (1) (1).png>)![](<../../.gitbook/assets/image (12) (1) (1).png>)\
 [Psycho](https://twitter.com/piv\_piv/status/1490658023714570245?s=20\&t=\_lc0IEIuVeEzKlmIQy7CRw)
 
@@ -121,6 +128,7 @@ Left: rotated and cropped CryptoPhunk 9077 Right: Black Square and Red Square, b
 [After Man Ray - made with two printscreens, one of Phunk 118 and one of Punk 658.](https://twitter.com/piv\_piv/status/1510325291075440651?s=20\&t=\_lc0IEIuVeEzKlmIQy7CRw)
 
 ![](<../../.gitbook/assets/image (24) (1).png>)![](<../../.gitbook/assets/image (8) (1) (1).png>)![](<../../.gitbook/assets/image (66) (1).png>)![](<../../.gitbook/assets/image (37) (1).png>)\
+![](<../../.gitbook/assets/image (58).png>)![](<../../.gitbook/assets/image (13).png>)\
 [Andy. Original pictures by Duane Michals.](https://twitter.com/piv\_piv/status/1518894768511754242?s=20\&t=\_lc0IEIuVeEzKlmIQy7CRw)
 
 ![](<../../.gitbook/assets/image (31) (1) (1).png>)![](<../../.gitbook/assets/image (18) (1) (1) (1).png>)\
@@ -142,7 +150,7 @@ Left: rotated and cropped CryptoPhunk 9077 Right: Black Square and Red Square, b
 ![](<../../.gitbook/assets/image (32) (1) (1) (1).png>)![](<../../.gitbook/assets/image (1).png>)\
 [A Clockwork Orange](https://twitter.com/piv\_piv/status/1490602563246297089?s=20\&t=\_lc0IEIuVeEzKlmIQy7CRw)
 
-![](<../../.gitbook/assets/image (61) (1).png>)![](<../../.gitbook/assets/image (3) (1).png>)\
+![](<../../.gitbook/assets/image (61) (1) (1).png>)![](<../../.gitbook/assets/image (3) (1).png>)\
 [Punk and Phunks skiing down a mountain](https://twitter.com/piv\_piv/status/1517955570879369218?s=20\&t=\_lc0IEIuVeEzKlmIQy7CRw)
 
 ![](<../../.gitbook/assets/image (18) (1) (1).png>)![](<../../.gitbook/assets/image (67) (1) (1).png>)\
@@ -154,7 +162,7 @@ Left: rotated and cropped CryptoPhunk 9077 Right: Black Square and Red Square, b
 
 ![ANONYMOUS](<../../.gitbook/assets/image (65) (1) (1).png>)
 
-![](<../../.gitbook/assets/image (13) (1) (1) (1).png>)![](<../../.gitbook/assets/image (6) (1) (1).png>)\
+![](<../../.gitbook/assets/image (13) (1) (1) (1) (1).png>)![](<../../.gitbook/assets/image (6) (1) (1).png>)\
 [OpenSea](https://twitter.com/piv\_piv/status/1495165873321041920?s=20\&t=\_lc0IEIuVeEzKlmIQy7CRw)
 
 ![](<../../.gitbook/assets/image (19) (1).png>)![](<../../.gitbook/assets/image (2) (1) (1).png>)\
@@ -175,7 +183,7 @@ Left: rotated and cropped CryptoPhunk 9077 Right: Black Square and Red Square, b
 ![](<../../.gitbook/assets/image (53) (1) (1).png>)![](<../../.gitbook/assets/image (48) (1).png>)\
 [Picasso’s Eyes, 1957 by David Douglas Duncan](https://twitter.com/piv\_piv/status/1508009942191534083?s=20\&t=\_lc0IEIuVeEzKlmIQy7CRw)
 
-![](<../../.gitbook/assets/image (32) (1) (1).png>)![](<../../.gitbook/assets/image (34) (1).png>)\
+![](<../../.gitbook/assets/image (32) (1) (1).png>)![](<../../.gitbook/assets/image (34) (1) (1).png>)\
 [Jan van Eyck Phunk](https://twitter.com/piv\_piv/status/1496919620351103001?s=20\&t=\_lc0IEIuVeEzKlmIQy7CRw)
 
 ![THE KING](<../../.gitbook/assets/image (55) (1).png>)
@@ -183,10 +191,10 @@ Left: rotated and cropped CryptoPhunk 9077 Right: Black Square and Red Square, b
 ![](<../../.gitbook/assets/image (22) (1) (1).png>)![](<../../.gitbook/assets/image (59) (1).png>)\
 [Self Portrait with Masks, 1899 James Ensor](https://twitter.com/piv\_piv/status/1497622640202326023?s=20\&t=\_lc0IEIuVeEzKlmIQy7CRw)
 
-![](<../../.gitbook/assets/image (13) (1) (1).png>)![](<../../.gitbook/assets/image (56) (1) (1).png>)\
+![](<../../.gitbook/assets/image (13) (1) (1) (1).png>)![](<../../.gitbook/assets/image (56) (1) (1).png>)\
 [Group Portrait of the Amsterdam Shooting Corporation, 1532 by Dirck Jacobsz](https://twitter.com/piv\_piv/status/1498545174540169216?s=20\&t=\_lc0IEIuVeEzKlmIQy7CRw)
 
-![the Existentialists](<../../.gitbook/assets/image (58) (1) (1).png>)
+![the Existentialists](<../../.gitbook/assets/image (58) (1) (1) (1).png>)
 
 ![Louboutin Phunk 1/3](<../../.gitbook/assets/image (69) (1).png>)
 
@@ -237,7 +245,7 @@ Left: rotated and cropped CryptoPhunk 9077 Right: Black Square and Red Square, b
 ![](<../../.gitbook/assets/image (23) (1) (1).png>)![](<../../.gitbook/assets/image (26) (1) (1) (1).png>)\
 [A Dictionary of P(h)unk Color Combinations](https://twitter.com/piv\_piv/status/1489586455685050373?s=20\&t=\_lc0IEIuVeEzKlmIQy7CRw)
 
-![GM](<../../.gitbook/assets/image (13) (1) (1) (1) (1).png>)
+![GM](<../../.gitbook/assets/image (13) (1) (1) (1) (1) (1).png>)
 
 ![In honor of the 717-gigapixel image of Rembrandt’s ‘The Night Watch’ that was published on the website of the Rijksmuseum earlier this week, I made a 300 meters (984 ft.) high vectorimage of Cryptophunk 3100.](../../.gitbook/assets/FIpjMBBWUAMNZxZ.jpeg)
 
