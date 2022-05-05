@@ -41,6 +41,10 @@ in no particular order, made by [@piv\_piv](https://twitter.com/piv\_piv)
 
 ![GM](<../../.gitbook/assets/image (36).png>)
 
+![Phunk 6222 & 6791](../../.gitbook/assets/FSBR6rPXsAEFEhe.jpeg)
+
+![Composition with elements from Phunk 6222 & 6791](../../.gitbook/assets/FSBRVIUXMAQXln7.jpeg)
+
 ![WHO WORE IT BETTER?](../../.gitbook/assets/FIRNma1XsA0ym6L.jpeg)
 
 ![](<../../.gitbook/assets/image (5) (1).png>)![](<../../.gitbook/assets/image (22) (1) (1) (1).png>)\
