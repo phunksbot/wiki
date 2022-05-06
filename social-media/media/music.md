@@ -43,3 +43,9 @@ MOTIVE&#x20;
 ## Produced by [@DowJonez\_eth](https://twitter.com/DowJonez\_eth)
 
 {% embed url="https://audius.co/BRicknDAO/phunksvibe" %}
+
+## Produced by [@NadirNomad](https://twitter.com/NadirNomad)
+
+{% embed url="https://youtu.be/lUS5TCmMbIM" %}
+THE PHUNK
+{% endembed %}
