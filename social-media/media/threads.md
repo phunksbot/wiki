@@ -187,3 +187,15 @@ Takes a second to load, but it's worth it. Just click the tweet pic to see the w
 {% embed url="https://twitter.com/seanbonner/status/1518991950350716928?s=20&t=Q0F_RoskyG_U-XoisQ_6vQ" %}
 **APRIL 26, 2022 - by** [**@seanbonner**](https://twitter.com/seanbonner)****
 {% endembed %}
+
+{% embed url="https://twitter.com/ryder_ripps/status/1523359815921127425?s=20&t=j2Ejz6GYKj21ogOhiGXVsg" %}
+**MAY 08, 2022 - by** [**@ryder\_ripps**](https://twitter.com/ryder\_ripps)****
+{% endembed %}
+
+{% embed url="https://twitter.com/ZAGABOND/status/1523775812893249537?s=20&t=UQaEfpsJwG9XwrzaavVZlw" %}
+**MAY 09, 2022 - by** [**@ZAGABOND**](https://twitter.com/ZAGABOND) **(OG DEV)**
+{% endembed %}
+
+{% embed url="https://twitter.com/quamfywhale/status/1523812413610643456?s=20&t=DTyZPLbX8IP_hs-LLdt4kA" %}
+**MAY 10, 2022 - by** [**@quamfywhale**](https://twitter.com/quamfywhale)****
+{% endembed %}
