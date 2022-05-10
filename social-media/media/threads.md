@@ -203,3 +203,7 @@ Takes a second to load, but it's worth it. Just click the tweet pic to see the w
 {% embed url="https://twitter.com/investindigital/status/1523840208172511233?s=20&t=WZlyPQBRqvWyqrK_H1oyIg" %}
 **MAY 10, 2022 - by** [**@investindigital**](https://twitter.com/investindigital)****
 {% endembed %}
+
+{% embed url="https://twitter.com/Loopifyyy/status/1523995831048851459?s=20&t=2DR2GzvDBDyh9P-0rbWdLg" %}
+**MAY 10, 2022 - by** [**@Loopifyyy**](https://twitter.com/Loopifyyy)****
+{% endembed %}
