@@ -381,3 +381,11 @@ description: written on Phunks in Chronological order
 [https://nftevening.com/why-did-larva-labs-just-deleted-all-of-their-tweets/](https://nftevening.com/why-did-larva-labs-just-deleted-all-of-their-tweets/)
 
 </details>
+
+<details>
+
+<summary>May 10, 2022 - <a href="https://decrypt.co/99869/twitter-declares-death-azuki-nft-collection-following-price-drop">Twitter Declares 'Death' of Azuki NFT Collection</a><br><a href="https://decrypt.co/99869/twitter-declares-death-azuki-nft-collection-following-price-drop">https://decrypt.co/99869/twitter-declares-death-azuki-nft-collection-following-price-drop</a></summary>
+
+
+
+</details>
