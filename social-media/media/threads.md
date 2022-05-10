@@ -207,3 +207,7 @@ Takes a second to load, but it's worth it. Just click the tweet pic to see the w
 {% embed url="https://twitter.com/Loopifyyy/status/1523995831048851459?s=20&t=2DR2GzvDBDyh9P-0rbWdLg" %}
 **MAY 10, 2022 - by** [**@Loopifyyy**](https://twitter.com/Loopifyyy)****
 {% endembed %}
+
+{% embed url="https://twitter.com/EKC_DAO/status/1523939709344526337?s=20&t=3JjJ3uDVYqMhGrR2B2o_Qw" %}
+MAY 10, 2022 - by [@EKC\_DAO](https://twitter.com/EKC\_DAO)
+{% endembed %}
