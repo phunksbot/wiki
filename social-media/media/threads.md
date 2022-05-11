@@ -72,6 +72,10 @@ Takes a second to load, but it's worth it. Just click the tweet pic to see the w
 **NOVEMBER 05, 2021 - by** [**@markshaw**](https://twitter.com/markshaw)****
 {% endembed %}
 
+{% embed url="https://twitter.com/easunlu/status/1457184532629651460?s=20&t=o1LFE3odiegz69pGdchFoA" %}
+**NOVEMBER 07, 2021 - by** [**@easunlu**](https://twitter.com/easunlu)****
+{% endembed %}
+
 {% embed url="https://twitter.com/0xZomb/status/1457515172000526336?s=20&t=wgh04kjIvjbHl7bN6XuPPA" %}
 **NOVEMBER 08, 2021 - by** [**@0xZomb**](https://twitter.com/0xZomb)****
 {% endembed %}
