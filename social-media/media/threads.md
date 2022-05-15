@@ -227,3 +227,7 @@ MAY 10, 2022 - by [@EKC\_DAO](https://twitter.com/EKC\_DAO)
 {% embed url="https://twitter.com/dresmars/status/1525707490029375488?s=20&t=7XPu_-vIbgufLx_5FDTqNQ" %}
 **MAY 15, 2022 - by** [**@dresmars**](https://twitter.com/dresmars)****
 {% endembed %}
+
+{% embed url="https://twitter.com/nekitav1/status/1525928143000850433?s=20&t=475wheaPNtshxCRYxqVmKA" %}
+**MAY 15, 2022 - by** [**@nekitav1**](https://twitter.com/nekitav1)**a**
+{% endembed %}
