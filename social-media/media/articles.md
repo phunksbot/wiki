@@ -381,3 +381,139 @@ description: written on Phunks in Chronological order
 [https://nftevening.com/why-did-larva-labs-just-deleted-all-of-their-tweets/](https://nftevening.com/why-did-larva-labs-just-deleted-all-of-their-tweets/)
 
 </details>
+
+<details>
+
+<summary>May 09, 2022 - <a href="https://mirror.xyz/0x1Cb8332607fba6A780DdE78584AD3BFD1eEB1E40/yG8rI1lpQGLPhZch0kjxYRjKTtA9rAL51zg-ZrURyAc">A Builder’s Journey</a></summary>
+
+[https://mirror.xyz/0x1Cb8332607fba6A780DdE78584AD3BFD1eEB1E40/yG8rI1lpQGLPhZch0kjxYRjKTtA9rAL51zg-ZrURyAc](https://mirror.xyz/0x1Cb8332607fba6A780DdE78584AD3BFD1eEB1E40/yG8rI1lpQGLPhZch0kjxYRjKTtA9rAL51zg-ZrURyAc)
+
+</details>
+
+<details>
+
+<summary>May 10, 2022 - <a href="https://newsletter.banklesshq.com/p/azuki-nft-drama-?s=r">Azuki NFT drama</a></summary>
+
+[https://newsletter.banklesshq.com/p/azuki-nft-drama-?s=r](https://newsletter.banklesshq.com/p/azuki-nft-drama-?s=r)
+
+</details>
+
+<details>
+
+<summary>May 10, 2022 - <a href="https://luckytrader.com/news/azuki-founder-created-phunks-and-zunks">Azuki Founder Previously Created Phunks</a></summary>
+
+[https://luckytrader.com/news/azuki-founder-created-phunks-and-zunks](https://luckytrader.com/news/azuki-founder-created-phunks-and-zunks)
+
+</details>
+
+<details>
+
+<summary>May 10, 2022 - <a href="https://luckytrader.com/articles/azuki-founder-zagabond-ties-phunks-zunks-tendies">Azuki Founder Admits Ties With CryptoPhunks</a></summary>
+
+[https://luckytrader.com/articles/azuki-founder-zagabond-ties-phunks-zunks-tendies](https://luckytrader.com/articles/azuki-founder-zagabond-ties-phunks-zunks-tendies)
+
+</details>
+
+<details>
+
+<summary>May 10, 2022 - <a href="https://www.nftculture.com/nft-news/azuki-founder-rugged-3-previous-projects/">Azuki Founder Rugged 3 Previous Projects</a></summary>
+
+[https://www.nftculture.com/nft-news/azuki-founder-rugged-3-previous-projects/](https://www.nftculture.com/nft-news/azuki-founder-rugged-3-previous-projects/)
+
+</details>
+
+<details>
+
+<summary>May 10, 2022 - <a href="https://nftevening.com/azuki-nft-founder-admits-to-3-failed-projects-is-this-the-end-for-azuki/">Azuki NFT Founder Admits To 3 Failed Projects</a></summary>
+
+[https://nftevening.com/azuki-nft-founder-admits-to-3-failed-projects-is-this-the-end-for-azuki/](https://nftevening.com/azuki-nft-founder-admits-to-3-failed-projects-is-this-the-end-for-azuki/)
+
+</details>
+
+<details>
+
+<summary>May 10, 2022  - <a href="https://www.coindesk.com/business/2022/05/10/azuki-nft-founder-admits-to-abandoning-past-projects/">Azuki NFT Founder Admits to Abandoning Past Projects</a> (CoinDesk)</summary>
+
+[https://www.coindesk.com/business/2022/05/10/azuki-nft-founder-admits-to-abandoning-past-projects/](https://www.coindesk.com/business/2022/05/10/azuki-nft-founder-admits-to-abandoning-past-projects/)
+
+</details>
+
+<details>
+
+<summary>May 10, 2022 - <a href="https://www.binance.com/en/news/top/7107382">Azuki NFT Founder Admits to Abandoning Past Projects</a> (Binance)</summary>
+
+[https://www.binance.com/en/news/top/7107382](https://www.binance.com/en/news/top/7107382)
+
+</details>
+
+<details>
+
+<summary>May 10, 2022 - <a href="https://finance.yahoo.com/news/azuki-nft-founder-admits-abandoning-021104013.html">Azuki NFT Founder Admits to Abandoning Past Projects</a> (Yahoo)</summary>
+
+[https://finance.yahoo.com/news/azuki-nft-founder-admits-abandoning-021104013.html](https://finance.yahoo.com/news/azuki-nft-founder-admits-abandoning-021104013.html)
+
+</details>
+
+<details>
+
+<summary>May 10, 2022 - <a href="https://nftnow.com/news/azuki-creator-in-hot-water-amidst-rug-pull-allegations/">Azuki Creator in Hot Water Amidst Rug Pull Allegations</a></summary>
+
+[https://nftnow.com/news/azuki-creator-in-hot-water-amidst-rug-pull-allegations/](https://nftnow.com/news/azuki-creator-in-hot-water-amidst-rug-pull-allegations/)
+
+</details>
+
+<details>
+
+<summary>May 10, 2022 - <a href="https://decrypt.co/99869/twitter-declares-death-azuki-nft-collection-following-price-drop">Twitter Declares 'Death' of Azuki NFT Collection</a></summary>
+
+[https://decrypt.co/99869/twitter-declares-death-azuki-nft-collection-following-price-drop](https://decrypt.co/99869/twitter-declares-death-azuki-nft-collection-following-price-drop)
+
+</details>
+
+<details>
+
+<summary>May 10, 2022 - <a href="https://nftnewspro.com/do-you-think-this-is-the-end-of-the-road-for-azuki-nft/">Do You Think This Is The End Of The Road For Azuki NFT?</a></summary>
+
+[https://nftnewspro.com/do-you-think-this-is-the-end-of-the-road-for-azuki-nft/](https://nftnewspro.com/do-you-think-this-is-the-end-of-the-road-for-azuki-nft/)
+
+</details>
+
+<details>
+
+<summary>May 11, 2022 - <a href="https://finance.yahoo.com/news/azuki-fortunes-reverse-sales-soar-020435701.html">Yahoo Article</a></summary>
+
+[https://finance.yahoo.com/news/azuki-fortunes-reverse-sales-soar-020435701.html](https://finance.yahoo.com/news/azuki-fortunes-reverse-sales-soar-020435701.html)
+
+</details>
+
+<details>
+
+<summary>May 11, 2022 - <a href="https://cointelegraph.com/news/nifty-news-azuki-founder-under-fire-cryptopunk-sells-for-a-major-loss">Azuki founder under fire</a> (Cointelegraph)</summary>
+
+[https://cointelegraph.com/news/nifty-news-azuki-founder-under-fire-cryptopunk-sells-for-a-major-loss](https://cointelegraph.com/news/nifty-news-azuki-founder-under-fire-cryptopunk-sells-for-a-major-loss)
+
+</details>
+
+<details>
+
+<summary>May 12, 2022 - <a href="https://beincrypto.com/azuki-nfts-creator-to-refund-investors-after-admitting-to-rug-pulls/">Azuki NFTs Creator to Refund Investors After Admitting ‘Rug Pulls’</a></summary>
+
+[https://beincrypto.com/azuki-nfts-creator-to-refund-investors-after-admitting-to-rug-pulls/](https://beincrypto.com/azuki-nfts-creator-to-refund-investors-after-admitting-to-rug-pulls/)
+
+</details>
+
+<details>
+
+<summary>May 12, 2022 - <a href="https://nftevening.com/zagabond-transfers-ownership-of-the-phunks-nft-smart-contract/">Zagabond Transfers Ownership Of The Phunks NFT Smart Contract</a></summary>
+
+[https://nftevening.com/zagabond-transfers-ownership-of-the-phunks-nft-smart-contract/](https://nftevening.com/zagabond-transfers-ownership-of-the-phunks-nft-smart-contract/)
+
+</details>
+
+<details>
+
+<summary>May 14, 2022 - <a href="https://mpost.io/alleged-scammer-gives-smart-contract-back-to-cryptophunks-community/">Alleged scammer gives smart contract keys back to CryptoPhunks</a></summary>
+
+[https://mpost.io/alleged-scammer-gives-smart-contract-back-to-cryptophunks-community/](https://mpost.io/alleged-scammer-gives-smart-contract-back-to-cryptophunks-community/)
+
+</details>
