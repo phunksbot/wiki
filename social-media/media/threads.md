@@ -228,6 +228,10 @@ MAY 10, 2022 - by [@EKC\_DAO](https://twitter.com/EKC\_DAO)
 **MAY 15, 2022 - by** [**@dresmars**](https://twitter.com/dresmars)****
 {% endembed %}
 
-{% embed url="https://twitter.com/nekitav1/status/1525928143000850433?s=20&t=475wheaPNtshxCRYxqVmKA" %}
-**MAY 15, 2022 - by** [**@nekitav1**](https://twitter.com/nekitav1)**a**
+{% embed url="https://twitter.com/nekitav1/status/1525963676494315521?s=20&t=x5JnYFGbUrCFb5LE6Kx_aQ" %}
+**MAY 16, 2022 - by** [**@nekitav1**](https://twitter.com/nekitav1)****
+{% endembed %}
+
+{% embed url="https://twitter.com/_northwall/status/1526571431504580608?s=20&t=x5JnYFGbUrCFb5LE6Kx_aQ" %}
+**MAY 17, 2022 - by** [**@\_northwall**](https://twitter.com/\_northwall)****
 {% endembed %}
