@@ -4,16 +4,16 @@ cover: .gitbook/assets/image (1) (1) (1) (1) (1).png
 coverY: 0
 ---
 
-# CRYPTOPHUNKS
+# 🔳 CRYPTOPHUNKS
 
 ## Phunk is Punk
 
 CryptoPhunks (Phunks) is a [Non-Fungible Token](https://en.wikipedia.org/wiki/Non-fungible\_token) (NFT) collection on the [Ethereum](https://en.wikipedia.org/wiki/Ethereum) [blockchain](https://en.wikipedia.org/wiki/Blockchain). \
 The project was created in June 2021 by a group of [anonymous](https://twitter.com/CryptoPhunks) developers to poke fun (parody) at the high-brow, pompous group of people that were reflecting the “old-school” rules of art into this new frontier of [Web3](https://en.wikipedia.org/wiki/Web3) and NFTs. What they did is they took all 10'000 [CryptoPunks](https://www.larvalabs.com/cryptopunks) and flipped them the other way, they are the same 1:1 just facing Left.
 
-In July 2021, after receiving formal [DMCA](https://twitter.com/CryptoPhunks/status/1415001685986922499?s=20\&t=YRRn6i6uXhGV5Cgl\_pJeQA) served by [LarvaLabs](https://larvalabs.com) for copyright infringement, the biggest NFT trading Marketplace [OpenSea](https://opensea.io/assets/0xf07468ead8cf26c752c676e43c814fee9c8cf402/8348) censored and banned the collection from their platform for the third and final time. Shortly after, the original developers compiled an [Open Letter](https://foundation.app/@cryptophunks/foundation/62017) to LarvaLabs and left the project since.&#x20;
+In July 2021, after receiving formal [DMCA](https://twitter.com/CryptoPhunks/status/1415001685986922499?s=20\&t=YRRn6i6uXhGV5Cgl\_pJeQA) served by [LarvaLabs](https://larvalabs.com/) for copyright infringement, the biggest NFT trading Marketplace [OpenSea](https://opensea.io/assets/0xf07468ead8cf26c752c676e43c814fee9c8cf402/8348) censored and banned the collection from their platform for the third and final time. Shortly after, the original developers compiled an [Open Letter](https://foundation.app/@cryptophunks/foundation/62017) to LarvaLabs and left the project since.&#x20;
 
-Being censored and excluded from [98%](https://coinyuppie.com/why-is-opensea-an-absolute-monopolist-in-the-nft-trading-market/#:\~:text=In%20summary%2C%20OpenSea%20is%20currently,field%20of%20NFT%20trading%20market.) of NFT Market, Phunk holders were left to face in real time what it means to be deplatformed by Corporations (Web2) in decentralized environment (Web3) where decentralization and provenance should be paramount and old rules not applied.\
+Being censored and excluded from [98%](https://coinyuppie.com/why-is-opensea-an-absolute-monopolist-in-the-nft-trading-market/) of NFT Market, Phunk holders were left to face in real time what it means to be deplatformed by Corporations (Web2) in decentralized environment (Web3) where decentralization and provenance should be paramount and old rules not applied.\
 While NFT Collections can be banned from centralized trading platform, they really cant be censored. Phunks live in form of [ERC721 token](https://ethereum.org/en/developers/docs/standards/tokens/erc-721/) on the Ethereum blockchain, forever.
 
 It didn't take long before Phunks Community decided to take a stand and make a statement against censorship, self organised renegade group of Phunk Community builders took it upon themselves to create their own Phunks Marketplace called [NotLarvaLabs](nll/notlarvalabs/notlarvalabs.md) and [open-sourced](resources/open-sourced.md) the code for public good.
@@ -87,4 +87,4 @@ That was a beautiful performance act that sent a signal all the way to the top t
 Art is in the story, movement, culture, philosophy, interpretation and belief. JPEG embodies all that into a simple pixel image. Phunks face left cause the other way just doesn’t feel right.
 
 ![](<.gitbook/assets/Screen Shot 2022-04-10 at 07.36.00.png>)![](<.gitbook/assets/Screen Shot 2022-04-10 at 07.34.59.png>)\
-by [Monero](https://www.getmonero.org) founder [@fluffypony](https://twitter.com/fluffypony/status/1512771931484864514?s=20\&t=o-U9RXl0pM8qkl02jMBrRw)
+by [Monero](https://www.getmonero.org/) founder [@fluffypony](https://twitter.com/fluffypony/status/1512771931484864514?s=20\&t=o-U9RXl0pM8qkl02jMBrRw)

@@ -92,7 +92,7 @@ description: and Data Resources
 
 <summary>PHUNK FINDER by <a href="https://twitter.com/TreeGuyJON">@TreeGuyJON</a></summary>
 
-[https://phunkfinder.com/](https://phunkfinder.com)
+[https://phunkfinder.com/](https://phunkfinder.com/)
 
 </details>
 
@@ -100,7 +100,7 @@ description: and Data Resources
 
 <summary>PHUNK WATCH by <a href="https://twitter.com/ErlkingArt">@ErlkingArt</a></summary>
 
-[https://phunk.watch/](https://phunk.watch)
+[https://phunk.watch/](https://phunk.watch/)
 
 </details>
 
@@ -238,7 +238,7 @@ Original Developers [left](history.md) the project in Juli 2021, still they kept
 
 <summary>OG Phunk Website</summary>
 
-[https://www.cryptophunks.com/](https://www.cryptophunks.com)
+[https://www.cryptophunks.com/](https://www.cryptophunks.com/)
 
 </details>
 

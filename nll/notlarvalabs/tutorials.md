@@ -56,7 +56,7 @@ By default all Phunks for Sale are sorted by Price (Low to High).
 Use "Buy" button to purchase Phunks [Listed for Sale](https://notlarvalabs.com/cryptophunks/forsale).\
 Confirm your MetaMask transaction when prompted.
 
-![](<../../.gitbook/assets/Screen Shot 2022-03-16 at 13.46.35.png>)
+<img src="../../.gitbook/assets/Screen Shot 2022-03-16 at 13.46.35.png" alt="" data-size="original">
 
 <mark style="color:orange;">Make sure you have enough ETH in your MetaMask Wallet to cover max transaction fees.</mark>
 
@@ -106,7 +106,7 @@ Confirm your MetaMask transaction when prompted.
 <summary>TRANSFERRING PHUNKS</summary>
 
 Use "Transfer" button to transfer a Phunk to a different Ethereum address.\
-Insert receiving [ENS](https://ens.domains) or native Ethereum address and press "Submit" button.\
+Insert receiving [ENS](https://ens.domains/) or native Ethereum address and press "Submit" button.\
 Confirm your MetaMask transaction when prompted.&#x20;
 
 ![](<../../.gitbook/assets/Screen Shot 2022-03-16 at 14.12.52.png>)

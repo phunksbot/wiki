@@ -4,7 +4,7 @@
 
 <summary>What is NFTX.io?</summary>
 
-NFTX is a platform for making ERC20 tokens that are backed by NFT collectibles. These tokens are called vault tokens, and (like all ERC20s) they are fungible and composable. With NFTX, it is possible to create and trade tokens based on your favorite collectibles such as [CryptoPunks](https://www.larvalabs.com/cryptopunks), [CryptoPhunks](../notlarvalabs/), and [Avastars](https://avastars.io), right from an exchange.
+NFTX is a platform for making ERC20 tokens that are backed by NFT collectibles. These tokens are called vault tokens, and (like all ERC20s) they are fungible and composable. With NFTX, it is possible to create and trade tokens based on your favorite collectibles such as [CryptoPunks](https://www.larvalabs.com/cryptopunks), [CryptoPhunks](../notlarvalabs/), and [Avastars](https://avastars.io/), right from an exchange.
 
 NFTX's mission is to become the primary issuer of NFT vault tokens, allowing anyone to trade & invest in NFT markets without needing the underlying knowledge and expertise required when investing in individual assets. By doing so, NFTX will function as a black hole for NFT assets.
 

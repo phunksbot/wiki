@@ -94,7 +94,7 @@ Source Code: [https://github.com/maximedotair/phunksfloor](https://github.com/ma
 
 Programming Language: <mark style="color:green;">PHP</mark>
 
-<mark style="color:green;"></mark>[LIVE DEMO](https://www.phunksfloor.com) - [LIVE DEMO2](https://twitter.com/PhunksFloor)
+<mark style="color:green;"></mark>[LIVE DEMO](https://www.phunksfloor.com/) - [LIVE DEMO2](https://twitter.com/PhunksFloor)
 
 by [@MaximedotAir](https://twitter.com/MaximedotAir) [@PhunksFloor](https://twitter.com/PhunksFloor)
 
@@ -108,7 +108,7 @@ Source Code: [https://github.com/StarKeyJON/PhunkFinderv1](https://github.com/St
 
 Programming Language: <mark style="color:yellow;">JavaScript,</mark> CSS, <mark style="color:yellow;"></mark> <mark style="color:red;">HTML</mark>
 
-[LIVE DEMO](https://phunkfinder.com)
+[LIVE DEMO](https://phunkfinder.com/)
 
 by [@TreeGuyJON](https://twitter.com/TreeGuyJON)
 
@@ -170,7 +170,7 @@ Source Code: [https://github.com/IshaanRawat/phunky](https://github.com/IshaanRa
 
 Programming Language: <mark style="color:purple;">TypeScript,</mark> <mark style="color:red;">HTML,</mark> <mark style="color:purple;"></mark> CSS, <mark style="color:purple;"></mark> <mark style="color:yellow;">JavaScript</mark>
 
-<mark style="color:yellow;"></mark>[LIVE DEMO](https://phunkdao.com)
+<mark style="color:yellow;"></mark>[LIVE DEMO](https://phunkdao.com/)
 
 by [@Phunk\_DAO](https://twitter.com/Phunk\_DAO) [@IshaanRawat](https://twitter.com/IshaanRawat)
 

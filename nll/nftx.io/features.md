@@ -59,7 +59,7 @@ The above process will continue until a floor price is achieved.
 </details>
 
 {% hint style="info" %}
-#### Taken from [https://docs.nftx.io/](https://docs.nftx.io)
+#### Taken from [https://docs.nftx.io/](https://docs.nftx.io/)
 {% endhint %}
 
 {% embed url="https://nftx.io/vault/0xb39185e33e8c28e0bb3dbbce24da5dea6379ae91/buy" %}

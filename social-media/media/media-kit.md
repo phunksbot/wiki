@@ -92,7 +92,7 @@ puts "bye"
 
 ## Phunks in Poster size (1200x1200)
 
-Phunk enthusiast, amazing developer and [@Genius](https://twitter.com/Genius) co-founder [Middlemarch](https://twitter.com/dumbnamenumbers) made an effort to upload All 10'000 Phunks to [IPFS](https://ipfs.io) in HQ 1200x1200 pixel Poster Size images.
+Phunk enthusiast, amazing developer and [@Genius](https://twitter.com/Genius) co-founder [Middlemarch](https://twitter.com/dumbnamenumbers) made an effort to upload All 10'000 Phunks to [IPFS](https://ipfs.io/) in HQ 1200x1200 pixel Poster Size images.
 
 To download specific Phunk in HQ, copy link below and change Phunk #ID to the Phunk you desire at the end of the URL + **.png** extension.&#x20;
 
