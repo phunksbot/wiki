@@ -4,7 +4,7 @@ description: WELCOME TO AMAZING SERIES OF ABY
 
 # ◽ ABY's
 
-phunks story told in series by [@easunlu](https://twitter.com/easunlu)
+phunks story mode series by [@easunlu](https://twitter.com/easunlu)
 
 ![PHUNK](<../../.gitbook/assets/image (23).png>)
 
