@@ -235,3 +235,7 @@ MAY 10, 2022 - by [@EKC\_DAO](https://twitter.com/EKC\_DAO)
 {% embed url="https://twitter.com/_northwall/status/1526571431504580608?s=20&t=x5JnYFGbUrCFb5LE6Kx_aQ" %}
 **MAY 17, 2022 - by** [**@\_northwall**](https://twitter.com/\_northwall)****
 {% endembed %}
+
+{% embed url="https://twitter.com/The1Ratman/status/1528475573005062144?s=20&t=rlyJGxmpXT-zQFzW7g5C9Q" %}
+**MAY 22, 2022 - by** [**@The1Ratman**](https://twitter.com/The1Ratman)****
+{% endembed %}
