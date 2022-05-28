@@ -9,7 +9,7 @@ coverY: 0
 ## Phunk is Punk
 
 CryptoPhunks (Phunks) is a [Non-Fungible Token](https://en.wikipedia.org/wiki/Non-fungible\_token) (NFT) collection on the [Ethereum](https://en.wikipedia.org/wiki/Ethereum) [blockchain](https://en.wikipedia.org/wiki/Blockchain). \
-The project was created in June 2021 by a group of [anonymous](https://twitter.com/CryptoPhunks) developers to poke fun (parody) at the high-brow, pompous group of people that were reflecting the “old-school” rules of art into this new frontier of [Web3](https://en.wikipedia.org/wiki/Web3) and NFTs. What they did is they took all 10'000 [CryptoPunks](https://www.larvalabs.com/cryptopunks) and flipped them the other way, they are the same 1:1 just facing Left.
+The project was created in June 2021 by a group of [anonymous](https://twitter.com/CryptoPhunks)**`*`** developers to poke fun (parody) at the high-brow, pompous group of people that were reflecting the “old-school” rules of art into this new frontier of [Web3](https://en.wikipedia.org/wiki/Web3) and NFTs. What they did is they took all 10'000 [CryptoPunks](https://www.larvalabs.com/cryptopunks) and flipped them the other way, they are the same 1:1 just facing Left.
 
 In July 2021, after receiving formal [DMCA](https://twitter.com/CryptoPhunks/status/1415001685986922499?s=20\&t=YRRn6i6uXhGV5Cgl\_pJeQA) served by [LarvaLabs](https://larvalabs.com/) for copyright infringement, the biggest NFT trading Marketplace [OpenSea](https://opensea.io/assets/0xf07468ead8cf26c752c676e43c814fee9c8cf402/8348) censored and banned the collection from their platform for the third and final time. Shortly after, the original developers compiled an [Open Letter](https://foundation.app/@cryptophunks/foundation/62017) to LarvaLabs and left the project since.&#x20;
 
@@ -23,6 +23,9 @@ It didn't take long before Phunks Community decided to take a stand and make a s
 
 CryptoPhunks are the same as <mark style="color:green;"></mark> [CryptoPunks](https://www.larvalabs.com/cryptopunks) just flipped the [other way](https://phunks.gitbook.io/knowledge-base/#phunk-is-art).
 {% endhint %}
+
+`*`On May 09 2022, [Azuki](https://opensea.io/collection/azuki) developer under pseudonym [ZAGABOND](https://twitter.com/ZAGABOND/status/1523775812893249537?s=20\&t=PkhgQi3JTlR4CqL9VvgRpg) [revealed](https://mirror.xyz/0x1Cb8332607fba6A780DdE78584AD3BFD1eEB1E40/yG8rI1lpQGLPhZch0kjxYRjKTtA9rAL51zg-ZrURyAc) himself as original creator of CryptoPhunks. Followed by transfer of Smart Contract [ownership](https://twitter.com/NotLarvaLabs/status/1524603344207196161?s=20\&t=PkhgQi3JTlR4CqL9VvgRpg), 496 [CryptoPhunks](https://twitter.com/NotLarvaLabs/status/1525303741100003328?s=20\&t=PkhgQi3JTlR4CqL9VvgRpg) NFTs and [$1.44M](https://twitter.com/NotLarvaLabs/status/1525303746162479105?s=20\&t=PkhgQi3JTlR4CqL9VvgRpg) royalties back to Phunks community.\
+This was result of excessive research done by Phunks community members [@Kiosko\_eth](https://twitter.com/Kiosko\_eth), [@NFTnetworking](https://twitter.com/NFTnetworking), [@hWonderofWorld](https://twitter.com/hWonderofWorld) and [@Pauly0x](https://twitter.com/Pauly0x).
 
 ## Phunk is Web3
 
