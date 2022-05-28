@@ -1,93 +1,14 @@
 ---
-description: Phunks face left on the right side of history.
 cover: .gitbook/assets/image (1) (1) (1) (1) (1).png
 coverY: 0
 ---
 
-# 🔳 CRYPTOPHUNKS
+# CRYPTOPHUNKS
 
-## Phunk is Punk
-
-CryptoPhunks (Phunks) is a [Non-Fungible Token](https://en.wikipedia.org/wiki/Non-fungible\_token) (NFT) collection on the [Ethereum](https://en.wikipedia.org/wiki/Ethereum) [blockchain](https://en.wikipedia.org/wiki/Blockchain). \
-The project was created in June 2021 by a group of [anonymous](https://twitter.com/CryptoPhunks)**`*`** developers to poke fun (parody) at the high-brow, pompous group of people that were reflecting the “old-school” rules of art into this new frontier of [Web3](https://en.wikipedia.org/wiki/Web3) and NFTs. What they did is they took all 10'000 [CryptoPunks](https://www.larvalabs.com/cryptopunks) and flipped them the other way, they are the same 1:1 just facing Left.
-
-In July 2021, after receiving formal [DMCA](https://twitter.com/CryptoPhunks/status/1415001685986922499?s=20\&t=YRRn6i6uXhGV5Cgl\_pJeQA) served by [LarvaLabs](https://larvalabs.com/) for copyright infringement, the biggest NFT trading Marketplace [OpenSea](https://opensea.io/assets/0xf07468ead8cf26c752c676e43c814fee9c8cf402/8348) censored and banned the collection from their platform for the third and final time. Shortly after, the original developers compiled an [Open Letter](https://foundation.app/@cryptophunks/foundation/62017) to LarvaLabs and left the project since.&#x20;
-
-Being censored and excluded from [98%](https://coinyuppie.com/why-is-opensea-an-absolute-monopolist-in-the-nft-trading-market/) of NFT Market, Phunk holders were left to face in real time what it means to be deplatformed by Corporations (Web2) in decentralized environment (Web3) where decentralization and provenance should be paramount and old rules not applied.\
-While NFT Collections can be banned from centralized trading platform, they really cant be censored. Phunks live in form of [ERC721 token](https://ethereum.org/en/developers/docs/standards/tokens/erc-721/) on the Ethereum blockchain, forever.
-
-It didn't take long before Phunks Community decided to take a stand and make a statement against censorship, self organised renegade group of Phunk Community builders took it upon themselves to create their own Phunks Marketplace called [NotLarvaLabs](nll/notlarvalabs/notlarvalabs.md) and [open-sourced](resources/open-sourced.md) the code for public good.
+Every action has an equal and opposite reaction. Phunks face left on the right side of history.
 
 {% hint style="info" %}
 ![](<.gitbook/assets/Phunk\_4156 (1).png>)![](.gitbook/assets/Phunk\_4156.png)
 
 CryptoPhunks are the same as <mark style="color:green;"></mark> [CryptoPunks](https://www.larvalabs.com/cryptopunks) just flipped the [other way](https://phunks.gitbook.io/knowledge-base/#phunk-is-art).
 {% endhint %}
-
-`*`On May 09 2022, [Azuki](https://opensea.io/collection/azuki) developer under pseudonym [ZAGABOND](https://twitter.com/ZAGABOND/status/1523775812893249537?s=20\&t=PkhgQi3JTlR4CqL9VvgRpg) [revealed](https://mirror.xyz/0x1Cb8332607fba6A780DdE78584AD3BFD1eEB1E40/yG8rI1lpQGLPhZch0kjxYRjKTtA9rAL51zg-ZrURyAc) himself as original creator of CryptoPhunks. Followed by transfer of Smart Contract [ownership](https://twitter.com/NotLarvaLabs/status/1524603344207196161?s=20\&t=PkhgQi3JTlR4CqL9VvgRpg), 496 [CryptoPhunks](https://twitter.com/NotLarvaLabs/status/1525303741100003328?s=20\&t=PkhgQi3JTlR4CqL9VvgRpg) NFTs and [$1.44M](https://twitter.com/NotLarvaLabs/status/1525303746162479105?s=20\&t=PkhgQi3JTlR4CqL9VvgRpg) royalties back to Phunks community.\
-This was result of excessive research done by Phunks community members [@Kiosko\_eth](https://twitter.com/Kiosko\_eth), [@NFTnetworking](https://twitter.com/NFTnetworking), [@hWonderofWorld](https://twitter.com/hWonderofWorld) and [@Pauly0x](https://twitter.com/Pauly0x).
-
-## Phunk is Web3
-
-Since [Cypherpunk's Manifesto](https://www.activism.net/cypherpunk/manifesto.html) and [Bitcoin](https://satoshi.nakamotoinstitute.org/emails/cryptography/1/) introduction to the world, people are able to transact directly without the need of central intermediary or rule-makers using blockchain technology. This technology empowered people to freely express their thoughts and views, in writings and Art, to the world without fear of being censored.&#x20;
-
-CryptoPhunks stand for those principles of decentralization, censorship resistance, [public good](https://cryptonews.com/videos/funding-the-commons-funding-public-goods-algorithms-and-mechanisms.htm), for the people and for the freedom.&#x20;
-
-> Phunks are free-use, public domain Art, run entirely by decentralized community of artist and [builders](resources/open-sourced.md). There are no Devs, no Leaders, no Roadmaps, just Phunk Pham building cool stuff cause they care about Web3 and decentralization. :fist:
-
-Phunks are important part of the NFT history that raised important questions and [discussions](social-media/media/threads.md) around ownership, copyright, conceptual art, [CC0](https://creativecommons.org/publicdomain/zero/1.0/deed.en), blockchain provenance, touching on subjects like; Who decides what Art is? Do you really own your NFT?
-
-Phunks are challenging the status quo, they challenge power structures, for many phunks symbolise anti-establishment, counter-culture and are know for their rebel Spirit constantly pushing the boundaries, taking whole NFT ecosystem to move in the right direction of decentralization, public good, ownership and censorship resistance. Phunks were big inspiration to many NFT projects that came after and share the same ethos.
-
-If you hold a Phunk you actually own it, without fear that yours Phunks ownership can be resold from one Corporation to another as it happened to [CryptoPunks and Meebits](https://twitter.com/yugalabs/status/1502420714527334406?s=20\&t=J5ZZNygm5AQ4XfL58MAxTw). That's the beauty of Web3; Removing power from Corporations and giving power back to the People.
-
-{% hint style="info" %}
-In times when [VCs](https://www.investopedia.com/terms/v/venturecapitalist.asp) and [Big Corporations](https://www.theverge.com/2022/3/22/22991272/yuga-labs-seed-funding-a16z-bored-ape-yacht-club-bayc-metaverse-other-side) are entering Web3 to claim ownership over your NFTs and extract huge profits, CryptoPhunks are more relevant than ever as a statement against centralization in this emerging Crypto evolution built on top of decentralized, open, permissionless system called blockchain. By owning a CryptoPhunk, you will forever [commemorate](https://phunks.medium.com/the-cryptophunks-manifesto-785c7348e558) this ongoing fight against centralization.
-
-![](<.gitbook/assets/Bildschirmfoto 2022-03-10 um 21.18.54.png>)![](<.gitbook/assets/Bildschirmfoto 2022-03-10 um 21.18.31.png>)
-{% endhint %}
-
-## Phunk is Historic
-
-* They are the first project that used [Fisher–Yates shuffle](https://en.wikipedia.org/wiki/Fisher%E2%80%93Yates\_shuffle#The\_modern\_algorithm) algorithm for [provably](https://medium.com/@dumbnamenumbers/erc721r-a-new-erc721-contract-for-random-minting-so-people-dont-snipe-all-the-rares-68dd06611e5) random minting.
-* They are the first and only project to be delisted from OpenSea 3 times.&#x20;
-* They are the first project to be DMCA'd by LarvaLabs.&#x20;
-* They are the first derivative project to build a zero-fee marketplace.&#x20;
-* They are the second project ever to create a zero-fee marketplace.&#x20;
-* Phunks are a community of smart, talented, rebellious artists and [builders](resources/open-sourced.md).&#x20;
-* They are passionate about decentralization and passionately against censorship.
-* Truly decentralized NFT both as an Asset and as a Community.
-* Phunks are NFT project that is actively contributing to public good by [open sourcing all tools](resources/open-sourced.md).
-
-> An object's history is an immutable if intangible part of its value.
-
-## Phunk is Art
-
-To better understand CryptoPhunks, start by reading about [Conceptual Art](https://en.wikipedia.org/wiki/Conceptual\_art),[ Marcel Duchamp](https://en.wikipedia.org/wiki/Marcel\_Duchamp), [Dadaism](https://en.wikipedia.org/wiki/Dada), [Andy Warhol](https://en.wikipedia.org/wiki/Andy\_Warhol) and [Memetics](https://en.wikipedia.org/wiki/Memetics).&#x20;
-
-To many, the essence of Phunks comes from more than just the visual art itself. The simple but transformative flip on the y axis created a movement of digital art that blurs the lines between crypto art, conceptual art, [performance art](https://en.wikipedia.org/wiki/Performance\_art) and traditional art. A complete recontextualization.
-
-Here are few examples to better understand Concept behind Phunks:
-
-| ORIGINAL IMAGE (Crypto Punks)                             | FLIPPED IMAGE (Crypto Phunks)                                           |
-| --------------------------------------------------------- | ----------------------------------------------------------------------- |
-| Punk is facing Right                                      | Phunk is facing Left                                                    |
-| Punk is moving away from you                              | Phunk is moving towards you                                             |
-| Punk is owned by [YugaLabs](https://twitter.com/yugalabs) | Phunk is owned by [You](https://notlarvalabs.com/cryptophunks/myphunks) |
-| Punk is Centralized                                       | Phunk is Decentralized                                                  |
-| Punk is Web2                                              | Phunk is Web3                                                           |
-
-Some good examples of a simple transformation that completely changes the meaning would be :thumbsup: vs :thumbsdown: emoji or a countries flag right side up vs upside down. Powerful instances of identical symbols  with entirely different meanings based on their orientation.
-
-It’s interesting how simple flipped image can become something so controversial. CryptoPunk holders deemed phunks collection as low effort, trash art, absurd and a joke. Yet CryptoPunk founders at [LarvaLabs](https://www.larvalabs.com/cryptopunks/) felt enough threatened by phunks to force their hand and DMCA the collection. All this unfolded while CryptoPunks are trading for hundreds of thousands of dollars. This only further validates Phunks and conceptual art behind it, artistic expression that provokes reaction is art in it self.
-
-> Phunks are conceptual art that actually have context, narrative, critique on the space. \
-> There is more artistic merit in phunks than just about any pfp project. [@CsenOner](https://twitter.com/CsenOner/status/1512709948467257345?s=20\&t=W79OmfK5hl4BrLO6Shkcqg)
-
-After being banned from NFT trading ecosystem, phunks community took a stand against censorship and made their own marketplace called [**not**LarvaLabs](nll/notlarvalabs/) with 0% trading fees. \
-That was a beautiful performance act that sent a signal all the way to the top that you can't stop people that are passionate about something to build in this new paradigm called Crypto, no matter how anyone feels about it.
-
-Art is in the story, movement, culture, philosophy, interpretation and belief. JPEG embodies all that into a simple pixel image. Phunks face left cause the other way just doesn’t feel right.
-
-![](<.gitbook/assets/Screen Shot 2022-04-10 at 07.36.00.png>)![](<.gitbook/assets/Screen Shot 2022-04-10 at 07.34.59.png>)\
-by [Monero](https://www.getmonero.org/) founder [@fluffypony](https://twitter.com/fluffypony/status/1512771931484864514?s=20\&t=o-U9RXl0pM8qkl02jMBrRw)

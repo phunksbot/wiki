@@ -1,6 +1,10 @@
 # Table of contents
 
-* [🔳 CRYPTOPHUNKS](README.md)
+* [CRYPTOPHUNKS](README.md)
+  * [◽ PHUNK IS PUNK](readme/phunk-is-punk.md)
+  * [◽ PHUNK IS WEB3](readme/phunk-is-web3.md)
+  * [◽ PHUNK IS HISTORIC](readme/phunk-is-historic.md)
+  * [◽ PHUNK IS ART](readme/phunk-is-art.md)
 
 ## MARKETPLACES <a href="#nll" id="nll"></a>
 
