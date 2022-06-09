@@ -4,6 +4,9 @@ description: Phunks History and relevant events in Chronological order
 
 # 🟩 HISTORY
 
+![Chart explaining the genesis of CryptoPhunks @larvalabs @v1punks @cryptopunksnfts @CryptoPhunksV2 @NotLarvaLabs
+Made by@dovetailNFT@huckleberrygump](../.gitbook/assets/timelinelightplusdark-03.png)
+
 <details>
 
 <summary>June 23, 2017 </summary>
@@ -188,6 +191,3 @@ description: Phunks History and relevant events in Chronological order
   [Tweet](https://twitter.com/Kenogas/status/1514314569828614150?s=20\&t=xmeRflETillDBGwkz9-5Hw)
 
 </details>
-
-![Phunks made a chart explaining the genesis of CryptoPunks @larvalabs @v1punks @cryptopunksnfts @CryptoPhunksV2@NotLarvaLabs
-Made by@dovetailNFT@huckleberrygump](../.gitbook/assets/timelinelightplusdark-03.png)
