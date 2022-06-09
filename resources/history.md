@@ -190,4 +190,4 @@ description: Phunks History and relevant events in Chronological order
 </details>
 
 ![Phunks made a chart explaining the genesis of CryptoPunks @larvalabs @v1punks @cryptopunksnfts @CryptoPhunksV2@NotLarvaLabs
-Made by@dovetailNFT@huckleberrygump](../.gitbook/assets/FRxlWQzXwAUfAkz.jpeg)
+Made by@dovetailNFT@huckleberrygump](../.gitbook/assets/timelinelightplusdark-03.png)
