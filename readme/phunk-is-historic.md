@@ -8,6 +8,7 @@
 * Phunks are a community of smart, talented, rebellious artists and [builders](../resources/open-sourced.md).&#x20;
 * They are passionate about decentralization and passionately against censorship.
 * Truly decentralized NFT both as an Asset and as a Community.
+* They are the first project that regained control of smart contract back from scam devs.
 * Phunks are NFT project that is actively contributing to public good by [open sourcing all tools](../resources/open-sourced.md).
 
 > An object's history is an immutable if intangible part of its value.
