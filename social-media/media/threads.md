@@ -243,3 +243,7 @@ MAY 10, 2022 - by [@EKC\_DAO](https://twitter.com/EKC\_DAO)
 {% embed url="https://twitter.com/0xk3mper/status/1531404698842013700?s=20&t=-kF-EIFYBp6iwgjSTjPi-g" %}
 **MAY 31, 2022 - by** [**@0xk3mper**](https://twitter.com/0xk3mper)****
 {% endembed %}
+
+{% embed url="https://twitter.com/mintfaced/status/1536562203075448833?s=20&t=5tQdA6qZoUY3ega1QakzJA" %}
+**JUNE 14, 2022 - by** [**@mintfaced**](https://twitter.com/mintfaced)****
+{% endembed %}
