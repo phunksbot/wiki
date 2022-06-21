@@ -251,3 +251,7 @@ MAY 10, 2022 - by [@EKC\_DAO](https://twitter.com/EKC\_DAO)
 {% embed url="https://twitter.com/ethjcdenton/status/1537187389788942336?s=20&t=9wXK58MEXbjhm2NHc4S4mg" %}
 **JUNE 15, 2022 - by** [**@ethjcdenton**](https://twitter.com/ethjcdenton)****
 {% endembed %}
+
+{% embed url="https://twitter.com/hiuma_eth/status/1539131259917574146?s=20&t=DfoP9hC8lNymCodV3-zOkA" %}
+**JUNE 21, 2022 - by** [**@hiuma\_eth**](https://twitter.com/hiuma\_eth)****
+{% endembed %}
