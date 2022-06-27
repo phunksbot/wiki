@@ -49,7 +49,7 @@ in no particular order, made by [@dumbnamenumbers](https://twitter.com/dumbnamen
 ![](<../../.gitbook/assets/image (42).png>)![](<../../.gitbook/assets/image (13) (1) (1).png>)\
 [Two-Color Phunks v. Apes](https://twitter.com/dumbnamenumbers/status/1513172390133575689?s=20\&t=0Shsb-HoSctIX6fkOwZW3Q)
 
-![](<../../.gitbook/assets/image (23) (1).png>)![](<../../.gitbook/assets/image (12).png>)\
+![](<../../.gitbook/assets/image (23) (1).png>)![](<../../.gitbook/assets/image (12) (1).png>)\
 ["Who wore it better?" Credit to @piv\_piv](https://twitter.com/dumbnamenumbers/status/1514283655488839680?s=20\&t=0Shsb-HoSctIX6fkOwZW3Q)
 
 ![](<../../.gitbook/assets/image (20).png>)![](<../../.gitbook/assets/image (9) (1).png>)\

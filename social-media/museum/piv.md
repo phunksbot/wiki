@@ -28,7 +28,7 @@ in no particular order, made by [@piv\_piv](https://twitter.com/piv\_piv)
 
 ![](<../../.gitbook/assets/image (3) (1) (1) (1).png>)![](<../../.gitbook/assets/image (6) (1) (1) (1).png>)
 
-![](<../../.gitbook/assets/image (12) (1) (1) (1) (1).png>)![](<../../.gitbook/assets/image (18) (1) (1) (1) (1) (1) (1).png>)
+![](<../../.gitbook/assets/image (12) (1) (1) (1) (1) (1).png>)![](<../../.gitbook/assets/image (18) (1) (1) (1) (1) (1) (1).png>)
 
 ![](<../../.gitbook/assets/image (7) (1) (1) (1) (1) (1).png>)![](<../../.gitbook/assets/image (1) (1) (1) (1).png>)
 
@@ -89,7 +89,7 @@ ANDY WARHOL AND PIERROT PORTRAIT](<../../.gitbook/assets/image (21) (1) (1) (1) 
 ![
 Left: rotated and cropped CryptoPhunk 9077 Right: Black Square and Red Square, by K. Malevich, 1915](<../../.gitbook/assets/image (33) (1) (1).png>)
 
-![](<../../.gitbook/assets/image (7) (1) (1) (1) (1).png>)![](<../../.gitbook/assets/image (12) (1) (1) (1).png>)\
+![](<../../.gitbook/assets/image (7) (1) (1) (1) (1).png>)![](<../../.gitbook/assets/image (12) (1) (1) (1) (1).png>)\
 [Suprematist Composition with Phunk Clown Nose](https://twitter.com/piv\_piv/status/1489358965947478016?s=20\&t=\_lc0IEIuVeEzKlmIQy7CRw)
 
 ![Composition with female Phunk noses.](<../../.gitbook/assets/image (40).png>)
@@ -111,7 +111,7 @@ Left: rotated and cropped CryptoPhunk 9077 Right: Black Square and Red Square, b
 ![](<../../.gitbook/assets/image (61).png>)![](<../../.gitbook/assets/image (34) (1).png>)\
 [Left: Slightly rotated mole of Phunk 961 Right: Suprematist Composition: White on White by Kazimir Malevich, 1918](https://twitter.com/piv\_piv/status/1521542215675297795?s=20\&t=HU8S4njt6xZuu271JmK8PA)
 
-![](<../../.gitbook/assets/image (3) (1) (1).png>)![](<../../.gitbook/assets/image (12) (1) (1).png>)\
+![](<../../.gitbook/assets/image (3) (1) (1).png>)![](<../../.gitbook/assets/image (12) (1) (1) (1).png>)\
 [Psycho](https://twitter.com/piv\_piv/status/1490658023714570245?s=20\&t=\_lc0IEIuVeEzKlmIQy7CRw)
 
 ![](<../../.gitbook/assets/image (11) (1) (1) (1) (1).png>)![](<../../.gitbook/assets/image (20) (1) (1).png>)\
