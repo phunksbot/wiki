@@ -259,3 +259,7 @@ MAY 10, 2022 - by [@EKC\_DAO](https://twitter.com/EKC\_DAO)
 {% embed url="https://twitter.com/W1lfredoGomez/status/1539243520548012033?s=20&t=Laz6CA5W6uAq2Uw6aI89jA" %}
 **JUNE 21, 2022 - by** [**@W1lfredoGomez**](https://twitter.com/W1lfredoGomez)****
 {% endembed %}
+
+{% embed url="https://twitter.com/Jclineshow/status/1541158832428093442?s=20&t=tsxYqDB2ri9r9IDkr_NigQ" %}
+**JUNE 26, 2022 - by** [**@Jclineshow**](https://twitter.com/Jclineshow)****
+{% endembed %}
