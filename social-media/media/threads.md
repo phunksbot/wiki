@@ -263,3 +263,7 @@ MAY 10, 2022 - by [@EKC\_DAO](https://twitter.com/EKC\_DAO)
 {% embed url="https://twitter.com/Jclineshow/status/1541158832428093442?s=20&t=tsxYqDB2ri9r9IDkr_NigQ" %}
 **JUNE 26, 2022 - by** [**@Jclineshow**](https://twitter.com/Jclineshow)****
 {% endembed %}
+
+{% embed url="https://twitter.com/dovetailNFT/status/1541437323308679170?s=20&t=c6et45rjBO3kP1NQC98h5A" %}
+**JUNE 27, 2022 - by** [**@dovetailNFT**](https://twitter.com/dovetailNFT)****
+{% endembed %}
