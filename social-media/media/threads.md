@@ -271,3 +271,7 @@ MAY 10, 2022 - by [@EKC\_DAO](https://twitter.com/EKC\_DAO)
 {% embed url="https://twitter.com/VoldiemortEth/status/1544373798081904640?s=20&t=AJx7h3f2TnVOzS9RF2fNEw" %}
 **JULY 05, 2022 - by** [**@VoldiemortEth**](https://twitter.com/VoldiemortEth)****
 {% endembed %}
+
+{% embed url="https://twitter.com/beautiful_nfts_/status/1546678698430152704?s=20&t=PDmtU-MdnWu606qD_IPQzQ" %}
+**JULY 12, 2022 - by** [**@beautiful\_nfts\_**](https://twitter.com/beautiful\_nfts\_)****
+{% endembed %}
