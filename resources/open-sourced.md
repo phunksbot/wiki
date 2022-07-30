@@ -10,7 +10,7 @@ description: Contribution by Phunk Community for Global NFT Community on GitHub
 
 Source Code: [https://github.com/Crypto-Phunks/CryptoPhunksMarket](https://github.com/Crypto-Phunks/CryptoPhunksMarket)
 
-Programming Language: <mark style="color:orange;">Solidity</mark>, <mark style="color:yellow;">JavaScript</mark>
+Programming Language: <mark style="color:orange;">Solidity 76.4%</mark>, <mark style="color:yellow;">JavaScript 23.6%</mark>
 
 [LIVE DEMO](https://notlarvalabs.com/cryptophunks)
 
