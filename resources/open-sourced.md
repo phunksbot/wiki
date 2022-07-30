@@ -10,45 +10,51 @@ description: Contribution by Phunk Community for Global NFT Community on GitHub
 
 Source Code: [https://github.com/Crypto-Phunks/CryptoPhunksMarket](https://github.com/Crypto-Phunks/CryptoPhunksMarket)
 
-Programming Language: <mark style="color:orange;">Solidity 76.4%</mark>, <mark style="color:yellow;">JavaScript 23.6%</mark>
-
-Coder [@chopper\_\_dad](https://twitter.com/chopper\_\_dad) [@OG\_Kenobi\_Hello](https://twitter.com/OG\_Kenobi\_Hello) [@Pauly0x](https://twitter.com/Pauly0x) [@ryder\_ripps](https://twitter.com/ryder\_ripps)
-
-Twitter [@NotLarvaLabs](https://twitter.com/NotLarvaLabs)
+Programming Language: <mark style="color:orange;">Solidity</mark>, <mark style="color:yellow;">JavaScript</mark>
 
 [LIVE DEMO](https://notlarvalabs.com/cryptophunks)
 
-</details>
-
-<details>
-
-<summary>Phunks Auction House</summary>
-
-Source Code: [https://github.com/Crypto-Phunks/auction-house](https://github.com/Crypto-Phunks/auction-house)
-
-Programming Language: <mark style="color:purple;">TypeScript 53.8%,</mark> <mark style="color:red;">HTML 17.4%</mark><mark style="color:purple;">,</mark> <mark style="color:orange;">SCSS 16.3%</mark><mark style="color:purple;">,</mark> <mark style="color:red;">Solidity 10.4%</mark><mark style="color:purple;">,</mark> <mark style="color:yellow;">JavaScript 2.1%</mark>
-
-Coder [@chopper\_\_dad](https://twitter.com/chopper\_\_dad) and [@OG\_Kenobi\_Hello](https://twitter.com/OG\_Kenobi\_Hello)
-
-Twitter [@PhunksAuction](https://twitter.com/PhunksAuction)
-
-[LIVE DEMO](https://phunks.auction/)
+by <mark style="color:green;"></mark> [@NotLarvaLabs](https://twitter.com/NotLarvaLabs) [@chopper\_\_dad](https://twitter.com/chopper\_\_dad) [@OG\_Kenobi\_Hello](https://twitter.com/OG\_Kenobi\_Hello) [@Pauly0x](https://twitter.com/Pauly0x) [@ryder\_ripps](https://twitter.com/ryder\_ripps)
 
 </details>
 
 <details>
 
-<summary>PhunkBOT V2</summary>
+<summary>PhunkBOT</summary>
 
-Source Code: [https://github.com/Crypto-Phunks/nft-sales-twitter-bot](https://github.com/Crypto-Phunks/nft-sales-twitter-bot)
+Source Code: [https://github.com/albanow/phunks-nll-twitter-bot](https://github.com/albanow/phunks-nll-twitter-bot)
 
-Programming Language: <mark style="color:purple;">TypeScript 92.7%,</mark> <mark style="color:yellow;">JavaScript 2.3%,</mark> <mark style="color:green;">Shell 0.5%</mark>
-
-Coder [@chopper\_\_dad](https://twitter.com/chopper\_\_dad) and [@tat2bu](https://twitter.com/tat2bu)
-
-Twitter [@PhunkBot](https://twitter.com/PhunkBot)
+Programming Language: <mark style="color:blue;">Python</mark>
 
 [LIVE DEMO](https://twitter.com/PhunkBot)
+
+by [@PhunkBot](https://twitter.com/PhunkBot) [@albanow10](https://twitter.com/albanow10) [@iape\_](https://twitter.com/iape\_)
+
+</details>
+
+<details>
+
+<summary>EtherscanBOT</summary>
+
+Source Code: [https://github.com/albanow/etherscan-sales-bot](https://github.com/albanow/etherscan-sales-bot)
+
+Programming Language: <mark style="color:blue;">Python</mark>
+
+[LIVE DEMO](https://twitter.com/PhunkBot)
+
+by [@PhunkBot](https://twitter.com/PhunkBot) [@albanow10](https://twitter.com/albanow10) [@iape\_](https://twitter.com/iape\_)
+
+</details>
+
+<details>
+
+<summary>NFTSalesBOT</summary>
+
+Source Code: [https://github.com/chopperdaddy/nft-sales-twitter-bot](https://github.com/chopperdaddy/nft-sales-twitter-bot)
+
+Programming Language: <mark style="color:purple;">TypeScript,</mark> <mark style="color:yellow;">JavaScript,</mark> <mark style="color:green;">Shell</mark>
+
+by [@chopper\_\_dad](https://twitter.com/chopper\_\_dad)
 
 </details>
 
@@ -60,9 +66,9 @@ Source Code: [https://github.com/tat2bu/erc721-sale-extractor](https://github.co
 
 Programming Language: <mark style="color:purple;">TypeScript,</mark> <mark style="color:red;">HTML,</mark> <mark style="color:purple;"></mark> <mark style="color:yellow;">JavaScript,</mark> <mark style="color:green;">Shell</mark>
 
-Coder [@tat2bu](https://twitter.com/tat2bu)
-
 [LIVE DEMO](http://phunks-data.herokuapp.com/app/)
+
+by [@tat2bu](https://twitter.com/tat2bu)
 
 </details>
 
@@ -74,11 +80,9 @@ Source Code: [https://github.com/pedropregueiro/phunk-stats](https://github.com/
 
 Programming Language: <mark style="color:blue;">Python</mark>
 
-Coder [@pedropregueiro](https://twitter.com/pedropregueiro) [@krel404](https://twitter.com/krel404)
-
-Twitter [@PhunkStats](https://twitter.com/PhunkStats)
-
 [LIVE DEMO](https://twitter.com/PhunkStats)
+
+by [@PhunkStats](https://twitter.com/PhunkStats) [@krel404](https://twitter.com/krel404) [@pedropregueiro](https://twitter.com/pedropregueiro)
 
 </details>
 
@@ -90,11 +94,9 @@ Source Code: [https://github.com/maximedotair/phunksfloor](https://github.com/ma
 
 Programming Language: <mark style="color:green;">PHP</mark>
 
-Coder [@MaximedotAir](https://twitter.com/MaximedotAir)
+<mark style="color:green;"></mark>[LIVE DEMO](https://www.phunksfloor.com/) - [LIVE DEMO2](https://twitter.com/PhunksFloor)
 
-Twitter [@PhunksFloor](https://twitter.com/PhunksFloor)
-
-[LIVE DEMO](https://www.phunksfloor.com/) - [LIVE DEMO2](https://twitter.com/PhunksFloor)
+by [@MaximedotAir](https://twitter.com/MaximedotAir) [@PhunksFloor](https://twitter.com/PhunksFloor)
 
 </details>
 
@@ -106,9 +108,9 @@ Source Code: [https://github.com/StarKeyJON/PhunkFinderv1](https://github.com/St
 
 Programming Language: <mark style="color:yellow;">JavaScript,</mark> CSS, <mark style="color:yellow;"></mark> <mark style="color:red;">HTML</mark>
 
-Coder [@TreeGuyJON](https://twitter.com/TreeGuyJON)
-
 [LIVE DEMO](https://phunkfinder.com/)
+
+by [@TreeGuyJON](https://twitter.com/TreeGuyJON)
 
 </details>
 
@@ -120,7 +122,7 @@ Source Code: [https://github.com/StarKeyJON/phunky\_tweeter](https://github.com/
 
 Programming Language: <mark style="color:blue;">Python</mark>
 
-Coder [@TreeGuyJON](https://twitter.com/TreeGuyJON)
+by [@TreeGuyJON](https://twitter.com/TreeGuyJON)
 
 </details>
 
@@ -132,7 +134,7 @@ Source Code: [https://github.com/StarKeyJON/CryptoPhunksMarketGraph](https://git
 
 Programming Language: <mark style="color:purple;">TypeScript</mark>
 
-Coder [@TreeGuyJON](https://twitter.com/TreeGuyJON)
+by [@TreeGuyJON](https://twitter.com/TreeGuyJON)
 
 </details>
 
@@ -144,7 +146,19 @@ Source Code: [https://github.com/albanow/create\_phunk](https://github.com/alban
 
 Programming Language: <mark style="color:blue;">Python,</mark> <mark style="color:green;">Shell</mark>
 
-Coder [@albanow10](https://twitter.com/albanow10)&#x20;
+by [@albanow10](https://twitter.com/albanow10)&#x20;
+
+</details>
+
+<details>
+
+<summary>CryptoPhunksDAO (<mark style="color:red;">inactive</mark>) </summary>
+
+Source Code: [https://github.com/Web3Master/cryptophunks](https://github.com/Web3Master/cryptophunks)
+
+Programming Language: <mark style="color:red;">HTML,</mark> <mark style="color:purple;"></mark> CSS, <mark style="color:purple;"></mark> <mark style="color:yellow;">JavaScript</mark>
+
+by [@CryptoPhunksDAO](https://twitter.com/CryptoPhunksDAO)
 
 </details>
 
@@ -156,11 +170,9 @@ Source Code: [https://github.com/IshaanRawat/phunky](https://github.com/IshaanRa
 
 Programming Language: <mark style="color:purple;">TypeScript,</mark> <mark style="color:red;">HTML,</mark> <mark style="color:purple;"></mark> CSS, <mark style="color:purple;"></mark> <mark style="color:yellow;">JavaScript</mark>
 
-Coder [@IshaanRawat](https://twitter.com/IshaanRawat)
-
-Twitter [@Phunk\_DAO](https://twitter.com/Phunk\_DAO)&#x20;
-
 <mark style="color:yellow;"></mark>[LIVE DEMO](https://phunkdao.com/)
+
+by [@Phunk\_DAO](https://twitter.com/Phunk\_DAO) [@IshaanRawat](https://twitter.com/IshaanRawat)
 
 </details>
 
@@ -174,7 +186,7 @@ Programming Language: <mark style="color:yellow;">JavaScript</mark>
 
 [LIVE DEMO](https://phunks.gitbook.io/knowledge-base/social-media/media/media-kit#cryptophunk-viewer)
 
-Coder [@iape\_](https://twitter.com/iape\_) forked from [@mclint\_](https://twitter.com/mclint\_)
+by [@iape\_](https://twitter.com/iape\_) forked from [@mclint\_](https://twitter.com/mclint\_)
 
 </details>
 
@@ -184,50 +196,6 @@ Coder [@iape\_](https://twitter.com/iape\_) forked from [@mclint\_](https://twit
 
 Source Code: [https://github.com/phunksbot/wiki](https://github.com/phunksbot/wiki)
 
-Coder [@iape\_](https://twitter.com/iape\_)
-
-</details>
-
-<details>
-
-<summary>PhunkBOT V1 (<mark style="color:red;">depreciated</mark>)</summary>
-
-Source Code: [https://github.com/albanow/phunks-nll-twitter-bot](https://github.com/albanow/phunks-nll-twitter-bot)
-
-Programming Language: <mark style="color:blue;">Python</mark>
-
-Coder [@albanow10](https://twitter.com/albanow10) [@iape\_](https://twitter.com/iape\_)
-
-Twitter [@PhunkBot](https://twitter.com/PhunkBot)
-
-[LIVE DEMO](https://twitter.com/PhunkBot)
-
-</details>
-
-<details>
-
-<summary>EtherscanBOT (<mark style="color:red;">depreciated</mark>)</summary>
-
-Source Code: [https://github.com/albanow/etherscan-sales-bot](https://github.com/albanow/etherscan-sales-bot)
-
-Programming Language: <mark style="color:blue;">Python</mark>
-
-Coder [@albanow10](https://twitter.com/albanow10) [@iape\_](https://twitter.com/iape\_)
-
-Twitter [@PhunkBot](https://twitter.com/PhunkBot)
-
-[LIVE DEMO](https://twitter.com/PhunkBot)
-
-</details>
-
-<details>
-
-<summary>CryptoPhunksDAO (<mark style="color:red;">inactive</mark>) </summary>
-
-Source Code: [https://github.com/Web3Master/cryptophunks](https://github.com/Web3Master/cryptophunks)
-
-Programming Language: <mark style="color:red;">HTML,</mark> <mark style="color:purple;"></mark> CSS, <mark style="color:purple;"></mark> <mark style="color:yellow;">JavaScript</mark>
-
-Coder [@CryptoPhunksDAO](https://twitter.com/CryptoPhunksDAO)
+by [@iape\_](https://twitter.com/iape\_)
 
 </details>

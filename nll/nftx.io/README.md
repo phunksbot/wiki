@@ -1,5 +1,5 @@
 ---
-description: LIQUIDITY POOL FOR PHUNKS
+description: Liquidity pool for NFTs
 ---
 
 # 🟥 NFTX.io

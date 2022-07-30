@@ -1,5 +1,5 @@
 ---
-description: BEST PLACE TO BUY AND SELL PHUNKS, 0% ROYALTIES! 0% SERVICE FEES! BE PHREE!
+description: Best place to Buy and Sell Phunks, 0% royalties! 0% service! Be Phree!
 ---
 
 # 🟪 NOTLARVALABS
