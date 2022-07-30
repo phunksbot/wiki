@@ -1,10 +1,10 @@
 # Table of contents
 
-* [CRYPTOPHUNKS](README.md)
-  * [◽ PHUNK IS PUNK](readme/phunk-is-punk.md)
-  * [◽ PHUNK IS WEB3](readme/phunk-is-web3.md)
-  * [◽ PHUNK IS HISTORIC](readme/phunk-is-historic.md)
-  * [◽ PHUNK IS ART](readme/phunk-is-art.md)
+* [#⃣ CRYPTOPHUNKS](README.md)
+  * [▫ PHUNK IS PUNK](readme/phunk-is-punk.md)
+  * [▫ PHUNK IS WEB3](readme/phunk-is-web3.md)
+  * [▫ PHUNK IS HISTORIC](readme/phunk-is-historic.md)
+  * [▫ PHUNK IS ART](readme/phunk-is-art.md)
 
 ## MARKETPLACES <a href="#nll" id="nll"></a>
 
@@ -46,13 +46,13 @@
 
 ## RESOURCES
 
-* [🔲 OPEN SOURCED](resources/open-sourced.md)
-* [🟫 HISTORY](resources/history.md)
-* [🟨 LINKS](resources/links.md)
+* [⏹ OPEN SOURCED](resources/open-sourced.md)
+* [🔽 HISTORY](resources/history.md)
+* [⏺ LINKS](resources/links.md)
 
 ## PHUNK DAO
 
-* [🔳 DAO](phunk-dao/dao/README.md)
+* [🔲 DAO](phunk-dao/dao/README.md)
   * [▫ ABOUT](phunk-dao/dao/about.md)
   * [▫ PHUNKY](phunk-dao/dao/phunky.md)
   * [▫ WHITEPAPER](phunk-dao/dao/whitepaper.md)
