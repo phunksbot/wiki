@@ -33,7 +33,7 @@
   * [▫ MUSIC](social-media/media/music.md)
   * [▫ MEDIA KIT](social-media/media/media-kit.md)
   * [▫ SUP PHUNKS!](social-media/media/sup-phunks.md)
-* [🟨 MUSEUM](social-media/museum/README.md)
+* [🟩 MUSEUM](social-media/museum/README.md)
   * [◽ CURATED](social-media/museum/curated.md)
   * [◽ PIV](social-media/museum/piv.md)
   * [◽ ABY's](social-media/museum/abys.md)
@@ -47,8 +47,8 @@
 ## RESOURCES
 
 * [🔲 OPEN SOURCED](resources/open-sourced.md)
-* [🟩 HISTORY](resources/history.md)
-* [◻ LINKS](resources/links.md)
+* [🟨 HISTORY](resources/history.md)
+* [🔳 LINKS](resources/links.md)
 
 ## PHUNK DAO
 
