@@ -8,7 +8,7 @@
 
 ## MARKETPLACES <a href="#nll" id="nll"></a>
 
-* [🔲 AUCTION HOUSE](nll/auction-house/README.md)
+* [🟧 AUCTION HOUSE](nll/auction-house/README.md)
   * [▫ ABOUT](nll/auction-house/about.md)
   * [▫ FEATURES](nll/auction-house/features.md)
   * [▫ TUTORIALS](nll/auction-house/tutorials.md)
@@ -46,7 +46,7 @@
 
 ## RESOURCES
 
-* [🟧 OPEN SOURCED](resources/open-sourced.md)
+* [🔲 OPEN SOURCED](resources/open-sourced.md)
 * [🟩 HISTORY](resources/history.md)
 * [◻ LINKS](resources/links.md)
 
