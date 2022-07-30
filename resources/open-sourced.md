@@ -20,7 +20,31 @@ by <mark style="color:green;"></mark> [@NotLarvaLabs](https://twitter.com/NotLar
 
 <details>
 
-<summary>PhunkBOT</summary>
+<summary>Phunks Auction House</summary>
+
+Source Code: [https://github.com/Crypto-Phunks/auction-house](https://github.com/Crypto-Phunks/auction-house)
+
+Programming Language: <mark style="color:purple;">TypeScript 53.8%,</mark> <mark style="color:red;">HTML 17.4%</mark><mark style="color:purple;">,</mark> <mark style="color:orange;">SCSS 16.3%</mark><mark style="color:purple;">,</mark> <mark style="color:red;">Solidity 10.4%</mark><mark style="color:purple;">,</mark> <mark style="color:yellow;">JavaScript 2.1%</mark>
+
+by [@chopper\_\_dad](https://twitter.com/chopper\_\_dad) and [@OG\_Kenobi\_Hello](https://twitter.com/OG\_Kenobi\_Hello)
+
+</details>
+
+<details>
+
+<summary>PhunkBOT V2</summary>
+
+Source Code: [https://github.com/Crypto-Phunks/nft-sales-twitter-bot](https://github.com/Crypto-Phunks/nft-sales-twitter-bot)
+
+Programming Language: <mark style="color:purple;">TypeScript 92.7%,</mark> <mark style="color:yellow;">JavaScript 2.3%,</mark> <mark style="color:green;">Shell 0.5%</mark>
+
+by [@chopper\_\_dad](https://twitter.com/chopper\_\_dad) and [@tat2bu](https://twitter.com/tat2bu)
+
+</details>
+
+<details>
+
+<summary>PhunkBOT (<mark style="color:red;">depreciated</mark>)</summary>
 
 Source Code: [https://github.com/albanow/phunks-nll-twitter-bot](https://github.com/albanow/phunks-nll-twitter-bot)
 
@@ -34,7 +58,7 @@ by [@PhunkBot](https://twitter.com/PhunkBot) [@albanow10](https://twitter.com/al
 
 <details>
 
-<summary>EtherscanBOT</summary>
+<summary>EtherscanBOT (<mark style="color:red;">depreciated</mark>)</summary>
 
 Source Code: [https://github.com/albanow/etherscan-sales-bot](https://github.com/albanow/etherscan-sales-bot)
 
@@ -43,18 +67,6 @@ Programming Language: <mark style="color:blue;">Python</mark>
 [LIVE DEMO](https://twitter.com/PhunkBot)
 
 by [@PhunkBot](https://twitter.com/PhunkBot) [@albanow10](https://twitter.com/albanow10) [@iape\_](https://twitter.com/iape\_)
-
-</details>
-
-<details>
-
-<summary>NFTSalesBOT</summary>
-
-Source Code: [https://github.com/chopperdaddy/nft-sales-twitter-bot](https://github.com/chopperdaddy/nft-sales-twitter-bot)
-
-Programming Language: <mark style="color:purple;">TypeScript,</mark> <mark style="color:yellow;">JavaScript,</mark> <mark style="color:green;">Shell</mark>
-
-by [@chopper\_\_dad](https://twitter.com/chopper\_\_dad)
 
 </details>
 
