@@ -8,6 +8,7 @@
 
 ## MARKETPLACES <a href="#nll" id="nll"></a>
 
+* [🔳 AUCTION HOUSE](nll/auction-house.md)
 * [🟪 NOTLARVALABS](nll/notlarvalabs/README.md)
   * [▫ ABOUT](nll/notlarvalabs/notlarvalabs.md)
   * [▫ FEATURES](nll/notlarvalabs/features.md)
