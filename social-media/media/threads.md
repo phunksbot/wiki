@@ -8,12 +8,16 @@ description: Twitter threads on Phunks in Chronological order
 Takes a second to load, but it's worth it. Just click the tweet pic to see the whole thread.
 {% endhint %}
 
-{% embed url="https://twitter.com/AngeloArsenic/status/1410421779005251584?s=20&t=wiilZm4Q0_KSH0vFwVqjjg" %}
-**JULY 01, 2021 - by** [**@AngeloArsenic**](https://twitter.com/AngeloArsenic)****
+{% embed url="https://twitter.com/seanbonner/status/1553824671765708800" %}
+**JULY 31, 2022**
 {% endembed %}
 
-{% embed url="https://twitter.com/punk4156/status/1410637650630000644?s=20&t=UlBwbI0MHgUk43jP4-GnwQ" %}
-**JULY 01, 2021 - by** [**@punk4156**](https://twitter.com/punk4156)****
+{% embed url="https://twitter.com/beautiful_nfts_/status/1546678698430152704?s=20&t=PDmtU-MdnWu606qD_IPQzQ" %}
+**JULY 12, 2022 - by** [**@beautiful\_nfts\_**](https://twitter.com/beautiful\_nfts\_)****
+{% endembed %}
+
+{% embed url="https://twitter.com/VoldiemortEth/status/1544373798081904640?s=20&t=AJx7h3f2TnVOzS9RF2fNEw" %}
+**JULY 05, 2022 - by** [**@VoldiemortEth**](https://twitter.com/VoldiemortEth)****
 {% endembed %}
 
 {% embed url="https://twitter.com/erik_udahl/status/1415015242900324353?s=20&t=XMDu1Ang5q5L9g0c6Qvw4g" %}
@@ -268,10 +272,10 @@ MAY 10, 2022 - by [@EKC\_DAO](https://twitter.com/EKC\_DAO)
 **JUNE 27, 2022 - by** [**@dovetailNFT**](https://twitter.com/dovetailNFT)****
 {% endembed %}
 
-{% embed url="https://twitter.com/VoldiemortEth/status/1544373798081904640?s=20&t=AJx7h3f2TnVOzS9RF2fNEw" %}
-**JULY 05, 2022 - by** [**@VoldiemortEth**](https://twitter.com/VoldiemortEth)****
+{% embed url="https://twitter.com/punk4156/status/1410637650630000644?s=20&t=UlBwbI0MHgUk43jP4-GnwQ" %}
+**JULY 01, 2021 - by** [**@punk4156**](https://twitter.com/punk4156)****
 {% endembed %}
 
-{% embed url="https://twitter.com/beautiful_nfts_/status/1546678698430152704?s=20&t=PDmtU-MdnWu606qD_IPQzQ" %}
-**JULY 12, 2022 - by** [**@beautiful\_nfts\_**](https://twitter.com/beautiful\_nfts\_)****
+{% embed url="https://twitter.com/AngeloArsenic/status/1410421779005251584?s=20&t=wiilZm4Q0_KSH0vFwVqjjg" %}
+**JULY 01, 2021 - by** [**@AngeloArsenic**](https://twitter.com/AngeloArsenic)****
 {% endembed %}
