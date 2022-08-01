@@ -1,4 +1,4 @@
-# ◽ PHUNK IS ART
+# ▫ PHUNK IS ART
 
 To better understand CryptoPhunks, start by reading about [Conceptual Art](https://en.wikipedia.org/wiki/Conceptual\_art),[ Marcel Duchamp](https://en.wikipedia.org/wiki/Marcel\_Duchamp), [Dadaism](https://en.wikipedia.org/wiki/Dada), [Andy Warhol](https://en.wikipedia.org/wiki/Andy\_Warhol) and [Memetics](https://en.wikipedia.org/wiki/Memetics).&#x20;
 
@@ -16,7 +16,7 @@ Here are few examples to better understand Concept behind Phunks:
 
 Some good examples of a simple transformation that completely changes the meaning would be :thumbsup: vs :thumbsdown: emoji or a countries flag right side up vs upside down. Powerful instances of identical symbols  with entirely different meanings based on their orientation.
 
-It’s interesting how simple flipped image can become something so controversial. CryptoPunk holders deemed phunks collection as low effort, trash art, absurd and a joke. Yet CryptoPunk founders at [LarvaLabs](https://www.larvalabs.com/cryptopunks/) felt enough threatened by phunks to force their hand and DMCA the collection. All this unfolded while CryptoPunks are trading for hundreds of thousands of dollars. This only further validates Phunks and conceptual art behind it, artistic expression that provokes reaction is art in it self.
+**It’s interesting how simple flipped image can become something so controversial. CryptoPunk holders deemed Phunks collection as low effort, trash art, absurd and a joke. Yet CryptoPunk founders at** [**LarvaLabs**](https://www.larvalabs.com/cryptopunks/) **felt enough threatened by phunks to force their hand and DMCA the collection. All this unfolded while CryptoPunks are trading for hundreds of thousands of dollars. This only further validates Phunks and conceptual art behind it, artistic expression that provokes reaction is ART in itself.**
 
 > Phunks are conceptual art that actually have context, narrative, critique on the space. \
 > There is more artistic merit in phunks than just about any pfp project. [@CsenOner](https://twitter.com/CsenOner/status/1512709948467257345?s=20\&t=W79OmfK5hl4BrLO6Shkcqg)
