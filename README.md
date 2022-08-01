@@ -9,6 +9,6 @@ coverY: 0
 {% hint style="info" %}
 ![](<.gitbook/assets/Phunk\_4156 (1).png>)![](.gitbook/assets/Phunk\_4156.png)
 
-CryptoPhunks are the same as <mark style="color:green;"></mark> [CryptoPunks](https://www.larvalabs.com/cryptopunks) just flipped the [other way](readme/phunk-is-art.md).\
+CryptoPhunks are the same as <mark style="color:green;"></mark> [CryptoPunks](https://www.larvalabs.com/cryptopunks) just flipped the [other way](readme/phunk-is-art.md) still very different.\
 Punks are owned by [Corporations](https://twitter.com/yugalabs), Phunks are truly [decentralized](readme/phunk-is-web3.md) and phree.
 {% endhint %}
