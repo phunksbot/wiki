@@ -9,7 +9,9 @@ Being censored and excluded from [98%](https://coinyuppie.com/why-is-opensea-an-
 While NFT Collections can be banned from centralized trading platform, they really cant be censored. Phunks live in form of [ERC721 token](https://ethereum.org/en/developers/docs/standards/tokens/erc-721/) on the Ethereum blockchain, forever.
 
 **It didn't take long before Phunks Community decided to take a stand and make a statement against censorship, self organised renegade group of Phunk Community builders took it upon themselves to create their own Phunks Marketplace called** [**NotLarvaLabs**](../nll/notlarvalabs/notlarvalabs.md) **and** [**open-sourced**](../resources/open-sourced.md) **the code for public good.** \
-**Since then Phunk community continued to build, expand and attract many developers interested in building true decentralized web3 environment where anyone with any skillset can grow, be inspired and supported by community of builders.**
+**Since then Phunk community continued to build, expand and attract many developers interested in building true decentralized web3 environment where anyone with any skillset can grow, be inspired and supported by community of builders without fear that corporations will profit from their work.**
+
+> What is truly punk can not be stopped. Long live Phunks, on the blockchain, forever. **** :fist:****
 
 {% hint style="info" %}
 **`*`**`In`May 2022, [Azuki](https://opensea.io/collection/azuki) developer under pseudonym [ZAGABOND](https://twitter.com/ZAGABOND/status/1523775812893249537?s=20\&t=PkhgQi3JTlR4CqL9VvgRpg) [revealed](https://mirror.xyz/0x1Cb8332607fba6A780DdE78584AD3BFD1eEB1E40/yG8rI1lpQGLPhZch0kjxYRjKTtA9rAL51zg-ZrURyAc) himself as the original creator of CryptoPhunks followed by an apology and transfer of Smart Contract [ownership](https://twitter.com/NotLarvaLabs/status/1524603344207196161?s=20\&t=PkhgQi3JTlR4CqL9VvgRpg), 496 [CryptoPhunks](https://twitter.com/NotLarvaLabs/status/1525303741100003328?s=20\&t=PkhgQi3JTlR4CqL9VvgRpg) NFTs and [$1.44M](https://twitter.com/NotLarvaLabs/status/1525303746162479105?s=20\&t=PkhgQi3JTlR4CqL9VvgRpg) royalties to the Phunks community.\
