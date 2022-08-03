@@ -147,7 +147,7 @@ Left: rotated and cropped CryptoPhunk 9077 Right: Black Square and Red Square, b
 ![](<../../.gitbook/assets/image (8) (1) (1) (1).png>)![](<../../.gitbook/assets/image (28) (1) (1) (1).png>)\
 [Kill Bill](https://twitter.com/piv\_piv/status/1490595420787068928?s=20\&t=\_lc0IEIuVeEzKlmIQy7CRw)
 
-![](<../../.gitbook/assets/image (32) (1) (1) (1).png>)![](<../../.gitbook/assets/image (1).png>)\
+![](<../../.gitbook/assets/image (32) (1) (1) (1).png>)![](<../../.gitbook/assets/image (1) (2).png>)\
 [A Clockwork Orange](https://twitter.com/piv\_piv/status/1490602563246297089?s=20\&t=\_lc0IEIuVeEzKlmIQy7CRw)
 
 ![](<../../.gitbook/assets/image (61) (1) (1).png>)![](<../../.gitbook/assets/image (3) (1).png>)\

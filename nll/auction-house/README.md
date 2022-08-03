@@ -1,5 +1,5 @@
 ---
-description: 496 PHUNKS EVERY 3 DAYS UNTIL GONNE
+description: 496 PHUNKS, EVERY 3 DAYS ONE UNTIL GONNE!
 ---
 
 # 🟧 AUCTION HOUSE
