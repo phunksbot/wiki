@@ -1,5 +1,5 @@
 ---
-description: Twitter threads on Phunks in Chronological order
+description: Twitter threads on Phunks in Chronological order (newest on top).
 ---
 
 # ▫ THREADS
@@ -7,6 +7,10 @@ description: Twitter threads on Phunks in Chronological order
 {% hint style="info" %}
 Takes a second to load, but it's worth it. Just click the tweet pic to see the whole thread.
 {% endhint %}
+
+{% embed url="https://twitter.com/v1punk4217/status/1554718253011836929?s=20&t=BWiNfLvPs1aWPYn85cr3WA" %}
+**AUGUST 03, 2022**
+{% endembed %}
 
 {% embed url="https://twitter.com/seanbonner/status/1553824671765708800" %}
 **JULY 31, 2022**
