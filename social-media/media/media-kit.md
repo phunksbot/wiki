@@ -117,3 +117,19 @@ Example Phunk #6993
 {% embed url="https://middlemarch.mypinata.cloud/ipfs/QmcvdPd7Jai74e595Mgx2u6D8QZZ1TGSFC2EQQNayQVJL8/6993.png" %}
 [1200x1200](https://middlemarch.mypinata.cloud/ipfs/QmcvdPd7Jai74e595Mgx2u6D8QZZ1TGSFC2EQQNayQVJL8/6993.png)
 {% endembed %}
+
+## Transparent PNG of your Phunk
+
+A little tool for you to download your phunks as transparent PNG images for your meme needs. Enter your phunk ID wait a couple of seconds to load and download. by [@TheSkullCat](https://twitter.com/TheSkullCat)
+
+{% embed url="https://phunks.net/pfp.html" %}
+[TWEET](https://twitter.com/TheSkullCat/status/1532501160866742288)
+{% endembed %}
+
+## Generate your own custom Phunk
+
+A little tool for you to generate your own custom Phunk. Go through available attributes, add them 1 by 1 and download. You can also download transparent attribute images for your meme needs. by [@TheSkullCat](https://twitter.com/TheSkullCat)
+
+{% embed url="https://phunks.net/gen.html" %}
+[TWEET](https://twitter.com/TheSkullCat/status/1532754462284079104)
+{% endembed %}
