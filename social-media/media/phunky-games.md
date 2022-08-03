@@ -4,14 +4,14 @@ description: BY @TheSkullCat
 
 # ▫ PHUNKY GAMES
 
-![TWEET](../../.gitbook/assets/image.png)
+![PHUNK INVADERS](../../.gitbook/assets/image.png)
 
 {% embed url="https://pixeleight.io/invader.html" %}
-NFT INVADERS
+[PLAY](https://pixeleight.io/invader.html)
 {% endembed %}
 
-![](<../../.gitbook/assets/Screen Shot 2022-08-03 at 15.06.59.png>)
+![PHUNK SWEEPER](<../../.gitbook/assets/Screen Shot 2022-08-03 at 15.06.59.png>)
 
 {% embed url="https://pixeleight.io/sweeper.html" %}
-PHUNK SWEEPER
+[PLAY](https://pixeleight.io/sweeper.html)
 {% endembed %}
