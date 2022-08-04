@@ -4,7 +4,7 @@ description: and Data Resources
 
 # ⏹ LINKS
 
-## SMART CONTRACT
+## SMART CONTRACTS
 
 <details>
 
@@ -42,7 +42,7 @@ description: and Data Resources
 
 <details>
 
-<summary>Phunks Marketplace</summary>
+<summary>Phunks Marketplace (<mark style="color:green;">0% Fees</mark>)</summary>
 
 [https://notlarvalabs.com/cryptophunks](https://notlarvalabs.com/cryptophunks)
 
@@ -50,7 +50,7 @@ description: and Data Resources
 
 <details>
 
-<summary>Phunks Auction House</summary>
+<summary>Phunks Auction House (<mark style="color:green;">0% Fees</mark>)</summary>
 
 [https://phunks.auction/](https://phunks.auction/)
 
@@ -58,7 +58,7 @@ description: and Data Resources
 
 <details>
 
-<summary>NFTX Vault (Liquidity pool)</summary>
+<summary>NFTX Vault (Liquidity pool) (<mark style="color:red;">10% Fees</mark>)</summary>
 
 [https://nftx.io/vault/0xb39185e33e8c28e0bb3dbbce24da5dea6379ae91/buy/](https://nftx.io/vault/0xb39185e33e8c28e0bb3dbbce24da5dea6379ae91/buy/)
 
@@ -66,9 +66,25 @@ description: and Data Resources
 
 <details>
 
-<summary>LooksRare Marketplace</summary>
+<summary>OpenSea Marketplace (<mark style="color:red;">2.5% Fees</mark>)</summary>
+
+[https://opensea.io/collection/crypto-phunks](https://opensea.io/collection/crypto-phunks)
+
+</details>
+
+<details>
+
+<summary>LooksRare Marketplace  (<mark style="color:red;">2% Fees</mark>)</summary>
 
 [https://looksrare.org/collections/0xf07468eAd8cf26c752C676E43C814FEe9c8CF402](https://looksrare.org/collections/0xf07468eAd8cf26c752C676E43C814FEe9c8CF402)
+
+</details>
+
+<details>
+
+<summary>X2Y2 Marketplace (<mark style="color:red;">0.5% Fees</mark>)</summary>
+
+[https://x2y2.io/collection/crypto-phunks/items](https://x2y2.io/collection/crypto-phunks/items)
 
 </details>
 
@@ -93,14 +109,6 @@ description: and Data Resources
 <summary>Rarible Marketplace</summary>
 
 [https://rarible.com/collection/0xf07468ead8cf26c752c676e43c814fee9c8cf402/items](https://rarible.com/collection/0xf07468ead8cf26c752c676e43c814fee9c8cf402/items)
-
-</details>
-
-<details>
-
-<summary>X2Y2 Marketplace</summary>
-
-[https://x2y2.io/collection/crypto-phunks/items](https://x2y2.io/collection/crypto-phunks/items)
 
 </details>
 
