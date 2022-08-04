@@ -204,7 +204,7 @@ description: and Data Resources
 
 <details>
 
-<summary>PHUNK Token DEX tools</summary>
+<summary>DEX TOOLS for <mark style="color:blue;">$PHUNK</mark> Token</summary>
 
 [https://www.dextools.io/app/ether/pair-explorer/0xd3e31f8aac930e354283ca3efda1e22525f98af1](https://www.dextools.io/app/ether/pair-explorer/0xd3e31f8aac930e354283ca3efda1e22525f98af1)
 
@@ -212,7 +212,7 @@ description: and Data Resources
 
 <details>
 
-<summary>COINGECKO</summary>
+<summary>COINGECKO for <mark style="color:blue;">$PHUNK</mark> Token</summary>
 
 [https://www.coingecko.com/en/coins/phunk-vault-nftx](https://www.coingecko.com/en/coins/phunk-vault-nftx)
 
