@@ -20,7 +20,7 @@ in no particular order, made by [@piv\_piv](https://twitter.com/piv\_piv)
 
 ![](<../../.gitbook/assets/image (13) (1) (1) (1) (1) (1) (1).png>)![](<../../.gitbook/assets/image (9) (1) (1) (1) (1) (1).png>)
 
-![](<../../.gitbook/assets/image (2) (1) (1) (1) (1) (1).png>)![](<../../.gitbook/assets/image (15) (1) (1) (1) (1).png>)
+![](<../../.gitbook/assets/image (2) (1) (1) (1) (1).png>)![](<../../.gitbook/assets/image (15) (1) (1) (1) (1).png>)
 
 ![](<../../.gitbook/assets/image (8) (1) (1) (1) (1) (1).png>)![](<../../.gitbook/assets/image (4) (1) (1).png>)
 
@@ -121,7 +121,7 @@ Left: rotated and cropped CryptoPhunk 9077 Right: Black Square and Red Square, b
 
 ![NPhC](<../../.gitbook/assets/image (38).png>)
 
-![](<../../.gitbook/assets/image (2) (1) (1) (1) (1).png>)![](<../../.gitbook/assets/image (22) (1) (1) (1) (1).png>)\
+![](<../../.gitbook/assets/image (2) (1) (1) (1).png>)![](<../../.gitbook/assets/image (22) (1) (1) (1) (1).png>)\
 [The Blair Witch Project](https://twitter.com/piv\_piv/status/1490350495298424834?s=20\&t=\_lc0IEIuVeEzKlmIQy7CRw)
 
 ![](<../../.gitbook/assets/image (45).png>)![](<../../.gitbook/assets/image (17) (1).png>)\
@@ -165,7 +165,7 @@ Left: rotated and cropped CryptoPhunk 9077 Right: Black Square and Red Square, b
 ![](<../../.gitbook/assets/image (13) (1) (1) (1) (1).png>)![](<../../.gitbook/assets/image (6) (1) (1).png>)\
 [OpenSea](https://twitter.com/piv\_piv/status/1495165873321041920?s=20\&t=\_lc0IEIuVeEzKlmIQy7CRw)
 
-![](<../../.gitbook/assets/image (19) (1).png>)![](<../../.gitbook/assets/image (2) (1) (1) (1).png>)\
+![](<../../.gitbook/assets/image (19) (1).png>)![](<../../.gitbook/assets/image (2) (1) (1).png>)\
 [Phumpkins](https://twitter.com/piv\_piv/status/1495170092178550786?s=20\&t=\_lc0IEIuVeEzKlmIQy7CRw)
 
 ![](<../../.gitbook/assets/image (4) (1).png>)![](<../../.gitbook/assets/image (15) (1) (1).png>)\
@@ -177,7 +177,7 @@ Left: rotated and cropped CryptoPhunk 9077 Right: Black Square and Red Square, b
 ![](<../../.gitbook/assets/image (7) (1) (1) (1).png>)![](<../../.gitbook/assets/image (16) (1) (1) (1).png>)\
 [Pointing mirror guy](https://twitter.com/piv\_piv/status/1496555252258156548?s=20\&t=\_lc0IEIuVeEzKlmIQy7CRw)
 
-![](<../../.gitbook/assets/image (35) (1).png>)![](<../../.gitbook/assets/image (2) (1) (1).png>)\
+![](<../../.gitbook/assets/image (35) (1).png>)![](<../../.gitbook/assets/image (2) (1).png>)\
 [Picasso, Villa Californie, CANNES , c.1953 by André Villers](https://twitter.com/piv\_piv/status/1507744395302522880?s=20\&t=\_lc0IEIuVeEzKlmIQy7CRw)
 
 ![](<../../.gitbook/assets/image (53) (1) (1) (1).png>)![](<../../.gitbook/assets/image (48) (1).png>)\
