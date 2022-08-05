@@ -4,7 +4,7 @@ description: BY @TheSkullCat
 
 # ▫ PHUNKY GAMES
 
-![PHUNK INVADERS](<../../.gitbook/assets/image (2).png>)
+![PHUNK INVADERS](<../../.gitbook/assets/image (19).png>)
 
 {% embed url="https://pixeleight.io/invader.html" %}
 [PLAY](https://pixeleight.io/invader.html)

@@ -177,7 +177,7 @@ Left: rotated and cropped CryptoPhunk 9077 Right: Black Square and Red Square, b
 ![](<../../.gitbook/assets/image (7) (1) (1) (1).png>)![](<../../.gitbook/assets/image (16) (1) (1) (1).png>)\
 [Pointing mirror guy](https://twitter.com/piv\_piv/status/1496555252258156548?s=20\&t=\_lc0IEIuVeEzKlmIQy7CRw)
 
-![](<../../.gitbook/assets/image (35) (1).png>)![](<../../.gitbook/assets/image (2) (1) (2).png>)\
+![](<../../.gitbook/assets/image (35) (1).png>)![](<../../.gitbook/assets/image (2) (1).png>)\
 [Picasso, Villa Californie, CANNES , c.1953 by André Villers](https://twitter.com/piv\_piv/status/1507744395302522880?s=20\&t=\_lc0IEIuVeEzKlmIQy7CRw)
 
 ![](<../../.gitbook/assets/image (53) (1) (1) (1).png>)![](<../../.gitbook/assets/image (48) (1).png>)\
@@ -204,7 +204,7 @@ Left: rotated and cropped CryptoPhunk 9077 Right: Black Square and Red Square, b
 ![](<../../.gitbook/assets/image (62) (1) (1).png>)![](<../../.gitbook/assets/image (26) (1) (1).png>)\
 [Where's the Phunk? -after 'Where's Wally?'](https://twitter.com/piv\_piv/status/1498940034208120833?s=20\&t=\_lc0IEIuVeEzKlmIQy7CRw)
 
-![a Belgian politician](<../../.gitbook/assets/image (19).png>)
+![a Belgian politician](<../../.gitbook/assets/image (19) (2).png>)
 
 ![](<../../.gitbook/assets/image (47).png>)![](<../../.gitbook/assets/image (30) (1) (1).png>)\
 [Albert Einstein](https://twitter.com/piv\_piv/status/1500893678910464000?s=20\&t=\_lc0IEIuVeEzKlmIQy7CRw)
