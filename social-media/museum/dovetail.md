@@ -23,10 +23,10 @@ in no particular order, made by [@dovetailNFT](https://twitter.com/dovetailNFT)
 
 ![had to do it to 'em](<../../.gitbook/assets/image (44).png>)
 
-![](<../../.gitbook/assets/image (1).png>)![](<../../.gitbook/assets/image (51).png>)****\
+![](<../../.gitbook/assets/image (1) (3).png>)![](<../../.gitbook/assets/image (51).png>)****\
 ****[**who wore it better?**](https://twitter.com/dovetailNFT/status/1513928939567206416?s=20\&t=TzictjlCH1fGYY7Ffrl1XQ)
 
-![](<../../.gitbook/assets/image (2).png>)![](<../../.gitbook/assets/image (52).png>)\
+![](<../../.gitbook/assets/image (2) (1).png>)![](<../../.gitbook/assets/image (52).png>)\
 [painted punk/phunk 3065 this weekend.](https://twitter.com/dovetailNFT/status/1516043898174554122?s=20\&t=TzictjlCH1fGYY7Ffrl1XQ)
 
 ![phunk eye (dovetail, 2022) digital + acryllic on canvas](<../../.gitbook/assets/image (7).png>)
