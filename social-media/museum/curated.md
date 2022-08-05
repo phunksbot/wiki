@@ -12,6 +12,8 @@ Artists: [@wolfgangeth](https://twitter.com/wolfgangeth) [@PhunkyVasilios](https
 
 ![](../../.gitbook/assets/FSHAr3hWYAQHkxx.jpeg)
 
+![](<../../.gitbook/assets/image (2).png>)
+
 ![](<../../.gitbook/assets/FLoSjOgacAER94g (1).jpeg>)
 
 ![](../../.gitbook/assets/FOjCnhTXsAQiHWA.jpeg)
