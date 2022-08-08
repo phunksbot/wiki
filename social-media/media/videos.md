@@ -4,9 +4,9 @@ description: on Phunks in no particular order
 
 # ▫ VIDEOS
 
-{% embed url="https://www.youtube.com/watch?v=C1odtSVoKKc" %}
+{% embed url="https://youtu.be/o4eqMQatv_Y" %}
 
-{% embed url="https://www.youtube.com/watch?v=pxR-DtXjAWM" %}
+{% embed url="https://www.youtube.com/watch?v=C1odtSVoKKc" %}
 
 {% embed url="https://www.youtube.com/watch?v=Heev1CwwGj4" %}
 
