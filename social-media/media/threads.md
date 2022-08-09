@@ -8,6 +8,10 @@ description: Twitter threads on Phunks in Chronological order (newest on top).
 Takes a minute to load, but it's worth it. Just click the tweet pic to see the whole thread.
 {% endhint %}
 
+{% embed url="https://twitter.com/dbc___/status/1556839317598773249?s=20&t=BiAH6ms0JSX_Hhz9rI2nVA" %}
+**AUGUST 09, 2022**
+{% endembed %}
+
 {% embed url="https://twitter.com/iape_/status/1555995775502635009?s=20&t=wtjUeZ9LqBdr6HJ1Nh92Ng" %}
 **AUGUST 06. 2022**
 {% endembed %}
