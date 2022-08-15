@@ -4,7 +4,9 @@ description: made by Phunk Pham, meant to be contemplated in silence
 
 # ◽ CURATED
 
-Artists: [@wolfgangeth](https://twitter.com/wolfgangeth) [@PhunkyVasilios](https://twitter.com/PhunkyVasilios) [@The\_MegaVega](https://twitter.com/The\_MegaVega) [@VeryWilliam3](https://twitter.com/VeryWilliam3) [@dovetailNFT](https://twitter.com/dovetailNFT) [@Pauly0x](https://twitter.com/Pauly0x)
+Artists: [wolfgangeth](https://twitter.com/wolfgangeth) [PhunkyVasilios](https://twitter.com/PhunkyVasilios) [The\_MegaVega](https://twitter.com/The\_MegaVega) [VeryWilliam3](https://twitter.com/VeryWilliam3) [dovetailNFT](https://twitter.com/dovetailNFT) [Pauly0x](https://twitter.com/Pauly0x) [NfTenchi](https://twitter.com/NfTenchi)
+
+![](../../.gitbook/assets/A1F07E7B-370E-42EF-BD2A-D49B49C9AFEB.jpg)
 
 ![](../../.gitbook/assets/FQKh-lsWQAwxE-X.jpeg)
 
@@ -12,9 +14,9 @@ Artists: [@wolfgangeth](https://twitter.com/wolfgangeth) [@PhunkyVasilios](https
 
 ![](../../.gitbook/assets/FSHAr3hWYAQHkxx.jpeg)
 
-![](../../.gitbook/assets/image.png)
+![](<../../.gitbook/assets/image (34).png>)
 
-![](<../../.gitbook/assets/FLoSjOgacAER94g (1).jpeg>)
+![](../../.gitbook/assets/FLoSjOgacAER94g.jpeg)
 
 ![](../../.gitbook/assets/FOjCnhTXsAQiHWA.jpeg)
 
@@ -38,9 +40,9 @@ Artists: [@wolfgangeth](https://twitter.com/wolfgangeth) [@PhunkyVasilios](https
 
 ![](../../.gitbook/assets/FEwEjoTX0AU\_TVV.jpeg)
 
-![](<../../.gitbook/assets/phartinLuther (1).jpg>)
+![](../../.gitbook/assets/phartinLuther.jpg)
 
-![](<../../.gitbook/assets/PHOc35c03a6-55e1-11e4-ab69-d14bddea9e1e-805x453 (1).jpg>)
+![](../../.gitbook/assets/PHOc35c03a6-55e1-11e4-ab69-d14bddea9e1e-805x453.jpg)
 
 ![](../../.gitbook/assets/FGcRPArWQAMz34x.jpeg)
 
@@ -84,6 +86,6 @@ Artists: [@wolfgangeth](https://twitter.com/wolfgangeth) [@PhunkyVasilios](https
 
 ![](../../.gitbook/assets/IMG\_5186.png)
 
-![](<../../.gitbook/assets/IMG\_5199 (1).png>)
+![](../../.gitbook/assets/IMG\_5199.png)
 
 ![](../../.gitbook/assets/FPxOws-XsAYVich.jpeg)
