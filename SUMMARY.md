@@ -1,7 +1,7 @@
 # Table of contents
 
 * [CRYPTOPHUNKS](README.md)
-  * [![image](https://user-images.githubusercontent.com/86929652/184616037-f9b486c6-f34e-4eb4-ad8c-c4a987f0d29e.png) PHUNK IS PUNK](readme/phunk-is-punk.md)
+  * [▫ PHUNK IS PUNK](readme/phunk-is-punk.md)
   * [▫ PHUNK IS WEB3](readme/phunk-is-web3.md)
   * [▫ PHUNK IS HISTORIC](readme/phunk-is-historic.md)
   * [▫ PHUNK IS ART](readme/phunk-is-art.md)
