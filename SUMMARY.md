@@ -1,6 +1,6 @@
 # Table of contents
 
-* [CRYPTOPHUNKS](README.md)
+* [🟪 CRYPTOPHUNKS](README.md)
   * [▫ PHUNK IS PUNK](readme/phunk-is-punk.md)
   * [▫ PHUNK IS WEB3](readme/phunk-is-web3.md)
   * [▫ PHUNK IS HISTORIC](readme/phunk-is-historic.md)
@@ -34,8 +34,7 @@
   * [▫ FEATURES](nll/auction-house/features.md)
   * [▫ TUTORIALS](nll/auction-house/tutorials.md)
   * [▫ FAQ](nll/auction-house/faq.md)
-  * [Untitled](nll/auction-house/untitled.md)
-* [🟪 NOTLARVALABS](nll/notlarvalabs/README.md)
+* [🟨 NOTLARVALABS](nll/notlarvalabs/README.md)
   * [▫ ABOUT](nll/notlarvalabs/notlarvalabs.md)
   * [▫ FEATURES](nll/notlarvalabs/features.md)
   * [▫ TUTORIALS](nll/notlarvalabs/tutorials.md)
