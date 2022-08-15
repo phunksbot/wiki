@@ -113,7 +113,7 @@ Takes a minute to load, but it's worth it. Just click the tweet pic to see the w
 {% endembed %}
 
 {% embed url="https://twitter.com/Loopifyyy/status/1523995831048851459?s=20&t=2DR2GzvDBDyh9P-0rbWdLg" %}
-**MAY 10, 2022 - by** [**@Loopifyyy**](https://twitter.com/Loopifyyy)****
+**MAY 10, 2022**
 {% endembed %}
 
 {% embed url="https://twitter.com/investindigital/status/1523840208172511233?s=20&t=WZlyPQBRqvWyqrK_H1oyIg" %}
@@ -125,7 +125,7 @@ Takes a minute to load, but it's worth it. Just click the tweet pic to see the w
 {% endembed %}
 
 {% embed url="https://twitter.com/ZAGABOND/status/1523775812893249537?s=20&t=UQaEfpsJwG9XwrzaavVZlw" %}
-**MAY 09, 2022 - by OG DEV**
+**MAY 09, 2022**
 {% endembed %}
 
 {% embed url="https://twitter.com/ryder_ripps/status/1523359815921127425?s=20&t=j2Ejz6GYKj21ogOhiGXVsg" %}
