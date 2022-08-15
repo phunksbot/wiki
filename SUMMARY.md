@@ -34,6 +34,7 @@
   * [▫ FEATURES](nll/auction-house/features.md)
   * [▫ TUTORIALS](nll/auction-house/tutorials.md)
   * [▫ FAQ](nll/auction-house/faq.md)
+  * [Untitled](nll/auction-house/untitled.md)
 * [🟪 NOTLARVALABS](nll/notlarvalabs/README.md)
   * [▫ ABOUT](nll/notlarvalabs/notlarvalabs.md)
   * [▫ FEATURES](nll/notlarvalabs/features.md)
