@@ -10,6 +10,18 @@ description: if you feel Phunky and want to be Creative
 
 ![WHITE](../../.gitbook/assets/unknown.png)
 
+## Phunks Font Style
+
+![](<../../.gitbook/assets/Bildschirmfoto 2022-08-16 um 12.41.35.png>)
+
+<details>
+
+<summary>DOWNLOAD 04b_30 FONT</summary>
+
+[https://dl.dafont.com/dl/?f=04b\_30](https://dl.dafont.com/dl/?f=04b\_30)
+
+</details>
+
 ## CryptoPhunk Viewer
 
 Start by clicking on "Run Pen", change scale to 0.25x for compact preview and enter your Phunk ID.\
