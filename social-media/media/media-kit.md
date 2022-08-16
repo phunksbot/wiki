@@ -4,12 +4,6 @@ description: if you feel Phunky and want to be Creative
 
 # ▫ MEDIA KIT
 
-## Transparent Phunks PNG
-
-![BLACK](../../.gitbook/assets/4b30phunks-01.png)
-
-![WHITE](../../.gitbook/assets/unknown.png)
-
 ## Phunks Font Style
 
 ![](<../../.gitbook/assets/Bildschirmfoto 2022-08-16 um 12.41.35.png>)
@@ -21,6 +15,12 @@ description: if you feel Phunky and want to be Creative
 [https://dl.dafont.com/dl/?f=04b\_30](https://dl.dafont.com/dl/?f=04b\_30)
 
 </details>
+
+## Transparent Phunks PNG
+
+![WHITE](../../.gitbook/assets/unknown.png)
+
+![BLACK](../../.gitbook/assets/4b30phunks-01.png)
 
 ## CryptoPhunk Viewer
 
