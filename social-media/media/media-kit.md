@@ -37,7 +37,7 @@ For Phunk Custom PFP (Profile Picture) use [**Phunk Box**](../../nll/notlarvalab
 
 ## Phunk Collage
 
-All 10'000 Phunks in one Collage, this collage is very scalable when viewed locally on your PC. \
+All 10'000 Phunks in one Collage. When viewed locally on your PC, this collage is very scalable. \
 Just Right Click and Save, then zoom in to the max.
 
 ![PHUNK COLLAGE](../../.gitbook/assets/phunks-all.png)
@@ -133,7 +133,7 @@ https://middlemarch.mypinata.cloud/ipfs/QmR4zNYDSLttz4VbTohU3bg7pf7CiDg6iMAbor2e
 Example Phunk #6993
 
 {% embed url="https://middlemarch.mypinata.cloud/ipfs/QmcvdPd7Jai74e595Mgx2u6D8QZZ1TGSFC2EQQNayQVJL8/6993.png" %}
-[1200x1200](https://middlemarch.mypinata.cloud/ipfs/QmcvdPd7Jai74e595Mgx2u6D8QZZ1TGSFC2EQQNayQVJL8/6993.png)
+****[**1200x1200**](https://middlemarch.mypinata.cloud/ipfs/QmcvdPd7Jai74e595Mgx2u6D8QZZ1TGSFC2EQQNayQVJL8/6993.png)****
 {% endembed %}
 
 ## Transparent PNG of your Phunk
@@ -141,7 +141,7 @@ Example Phunk #6993
 A little tool for you to download your phunks as transparent PNG images for your meme needs. Enter your phunk ID wait a couple of seconds to load and download. by [@TheSkullCat](https://twitter.com/TheSkullCat)
 
 {% embed url="https://phunks.net/pfp.html" %}
-[TWEET](https://twitter.com/TheSkullCat/status/1532501160866742288)
+****[**TWEET**](https://twitter.com/TheSkullCat/status/1532501160866742288)****
 {% endembed %}
 
 ## Generate your own custom Phunk
@@ -149,5 +149,5 @@ A little tool for you to download your phunks as transparent PNG images for your
 A little tool for you to generate your own custom Phunk. Go through available attributes, add them 1 by 1 and download. You can also download transparent attribute images for your meme needs. by [@TheSkullCat](https://twitter.com/TheSkullCat)
 
 {% embed url="https://phunks.net/gen.html" %}
-[TWEET](https://twitter.com/TheSkullCat/status/1532754462284079104)
+****[**TWEET**](https://twitter.com/TheSkullCat/status/1532754462284079104)****
 {% endembed %}
