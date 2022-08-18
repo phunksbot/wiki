@@ -23,7 +23,7 @@
   * [▫ FEATURES](nll/nftx.io/features.md)
   * [▫ TUTORIALS](nll/nftx.io/tutorials.md)
   * [▫ FAQ](nll/nftx.io/faq.md)
-* [🟨 API](nll/api.md)
+* [🟫 API](nll/api.md)
 
 ## SOCIAL MEDIA
 
