@@ -151,3 +151,9 @@ A little tool for you to generate your own custom Phunk. Go through available at
 {% embed url="https://phunks.net/gen.html" %}
 ****[**TWEET**](https://twitter.com/TheSkullCat/status/1532754462284079104)****
 {% endembed %}
+
+## Phunks Meme Minter
+
+Mint your Phunky memes under a single Phunk Meme Contract as ERC721s with all data stored on IPFS. Set your own royalty for your meme and any address to receive your royalty. Free minting and 0 Contract royalty. by [@TheSkullCat](https://twitter.com/TheSkullCat)
+
+{% embed url="https://meme.phunks.net/" %}
