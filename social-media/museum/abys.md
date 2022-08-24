@@ -16,7 +16,7 @@ phunks story mode series by [@easunlu](https://twitter.com/easunlu)
 
 ![ABY's PHUNKISM Vol. 4](<../../.gitbook/assets/image (59).png>)
 
-![ABY's PHUNKISM Vol. 5](<../../.gitbook/assets/image (54).png>)
+![ABY's PHUNKISM Vol. 5](<../../.gitbook/assets/image (56).png>)
 
 ![ABY's PHUNKISM Vol. 6](<../../.gitbook/assets/image (63).png>)
 
@@ -46,7 +46,7 @@ phunks story mode series by [@easunlu](https://twitter.com/easunlu)
 
 ![ABY's PHUNKISM Vol. 19](<../../.gitbook/assets/image (49).png>)
 
-![ABY's PHUNKISM Vol. 20](<../../.gitbook/assets/image (53) (2).png>)
+![ABY's PHUNKISM Vol. 20](<../../.gitbook/assets/image (53).png>)
 
 ![ABY's PHUNKISM Vol. 21](<../../.gitbook/assets/image (36).png>)
 

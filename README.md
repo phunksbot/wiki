@@ -4,7 +4,7 @@ cover: .gitbook/assets/image (1) (1) (1) (1) (1).png
 coverY: 0
 ---
 
-# 🔲 CRYPTOPHUNKS
+# 🔳 CRYPTOPHUNKS
 
 {% hint style="info" %}
 ![](<.gitbook/assets/Phunk\_4156 (1).png>)![](.gitbook/assets/Phunk\_4156.png)

@@ -10,7 +10,7 @@ in no particular order, made by [@piv\_piv](https://twitter.com/piv\_piv)
 
 ![SIX MARILYNS BY ANDY WARHOL](../../.gitbook/assets/FH3ZNK-X0AEcVNN.jpeg)
 
-![SIX MARILYNS BY PIV ](<../../.gitbook/assets/FH3ZBioXsAMGYRj (1).jpeg>)
+![SIX MARILYNS BY PIV ](../../.gitbook/assets/FH3ZBioXsAMGYRj.jpeg)
 
 ![](../../.gitbook/assets/FIv\_VkCXoAIEZNJ.jpeg)![](../../.gitbook/assets/FIv\_YQMWUAE2DNF.jpeg)
 
@@ -18,9 +18,9 @@ in no particular order, made by [@piv\_piv](https://twitter.com/piv\_piv)
 
 ![](<../../.gitbook/assets/image (10) (1) (1) (1) (1) (1) (1).png>)![](<../../.gitbook/assets/image (5) (1) (1) (1).png>)
 
-![](<../../.gitbook/assets/image (1) (1) (1) (3) (2).png>)![](<../../.gitbook/assets/image (9) (1) (1) (1) (1) (1).png>)
+![](<../../.gitbook/assets/image (1) (1) (1) (2).png>)![](<../../.gitbook/assets/image (9) (1) (1) (1) (1) (1).png>)
 
-![](<../../.gitbook/assets/image (2) (1) (1) (1) (1) (1).png>)![](<../../.gitbook/assets/image (15) (1) (1) (1) (1).png>)
+![](<../../.gitbook/assets/image (2) (1) (1) (1) (1).png>)![](<../../.gitbook/assets/image (15) (1) (1) (1) (1).png>)
 
 ![](<../../.gitbook/assets/image (8) (1) (1) (1) (1) (1).png>)![](<../../.gitbook/assets/image (4) (1) (1).png>)
 
@@ -177,7 +177,7 @@ Left: rotated and cropped CryptoPhunk 9077 Right: Black Square and Red Square, b
 ![](<../../.gitbook/assets/image (7) (1) (1) (1).png>)![](<../../.gitbook/assets/image (16) (1) (1) (1).png>)\
 [Pointing mirror guy](https://twitter.com/piv\_piv/status/1496555252258156548?s=20\&t=\_lc0IEIuVeEzKlmIQy7CRw)
 
-![](<../../.gitbook/assets/image (36) (1) (1) (1).png>)![](<../../.gitbook/assets/image (2) (1) (2).png>)\
+![](<../../.gitbook/assets/image (35) (1).png>)![](<../../.gitbook/assets/image (2) (1).png>)\
 [Picasso, Villa Californie, CANNES , c.1953 by André Villers](https://twitter.com/piv\_piv/status/1507744395302522880?s=20\&t=\_lc0IEIuVeEzKlmIQy7CRw)
 
 ![](<../../.gitbook/assets/image (53) (1) (1) (1).png>)![](<../../.gitbook/assets/image (48) (1).png>)\

@@ -2,7 +2,7 @@
 description: Contribution by Phunk Community for Global NFT Community on GitHub
 ---
 
-# ⏹ OPEN SOURCED
+# ⏺ OPEN SOURCED
 
 <details>
 
@@ -58,7 +58,7 @@ Twitter [@PhunkBot](https://twitter.com/PhunkBot)
 
 Source Code: [https://github.com/tat2bu/erc721-sale-extractor](https://github.com/tat2bu/erc721-sale-extractor)
 
-Programming Language: <mark style="color:purple;">TypeScript,</mark> <mark style="color:red;">HTML,</mark> <mark style="color:purple;"></mark> <mark style="color:yellow;">JavaScript,</mark> <mark style="color:green;">Shell</mark>
+Programming Language: <mark style="color:purple;">TypeScript,</mark> <mark style="color:red;">HTML,</mark> <mark style="color:yellow;">JavaScript,</mark> <mark style="color:green;">Shell</mark>
 
 Coder [@tat2bu](https://twitter.com/tat2bu)
 
@@ -104,7 +104,7 @@ Twitter [@PhunksFloor](https://twitter.com/PhunksFloor)
 
 Source Code: [https://github.com/StarKeyJON/PhunkFinderv1](https://github.com/StarKeyJON/PhunkFinderv1)
 
-Programming Language: <mark style="color:yellow;">JavaScript,</mark> CSS, <mark style="color:yellow;"></mark> <mark style="color:red;">HTML</mark>
+Programming Language: <mark style="color:yellow;">JavaScript,</mark> CSS, <mark style="color:red;">HTML</mark>
 
 Coder [@TreeGuyJON](https://twitter.com/TreeGuyJON)
 
@@ -144,7 +144,7 @@ Source Code: [https://github.com/albanow/create\_phunk](https://github.com/alban
 
 Programming Language: <mark style="color:blue;">Python,</mark> <mark style="color:green;">Shell</mark>
 
-Coder [@albanow10](https://twitter.com/albanow10)&#x20;
+Coder [@albanow10](https://twitter.com/albanow10)
 
 </details>
 
@@ -154,13 +154,13 @@ Coder [@albanow10](https://twitter.com/albanow10)&#x20;
 
 Source Code: [https://github.com/IshaanRawat/phunky](https://github.com/IshaanRawat/phunky)
 
-Programming Language: <mark style="color:purple;">TypeScript,</mark> <mark style="color:red;">HTML,</mark> <mark style="color:purple;"></mark> CSS, <mark style="color:purple;"></mark> <mark style="color:yellow;">JavaScript</mark>
+Programming Language: <mark style="color:purple;">TypeScript,</mark> <mark style="color:red;">HTML,</mark> CSS, <mark style="color:yellow;">JavaScript</mark>
 
 Coder [@IshaanRawat](https://twitter.com/IshaanRawat)
 
-Twitter [@Phunk\_DAO](https://twitter.com/Phunk\_DAO)&#x20;
+Twitter [@Phunk\_DAO](https://twitter.com/Phunk\_DAO)
 
-<mark style="color:yellow;"></mark>[LIVE DEMO](https://phunkdao.com/)
+[LIVE DEMO](https://phunkdao.com/)
 
 </details>
 
@@ -184,7 +184,7 @@ Coder [@iape\_](https://twitter.com/iape\_) forked from [@mclint\_](https://twit
 
 Source Code: [https://etherscan.io/address/0x235d49774139c218034c0571ba8f717773edd923#code](https://etherscan.io/address/0x235d49774139c218034c0571ba8f717773edd923#code)
 
-Programming Language: <mark style="color:red;">Solidity</mark>
+Programming Language: <mark style="color:orange;">Solidity</mark>
 
 Coder [@dumbnamenumbers](https://twitter.com/dumbnamenumbers)
 
@@ -196,7 +196,7 @@ Website [v1phunks.io](https://www.v1phunks.io/)
 
 <details>
 
-<summary>This Website </summary>
+<summary>This Website</summary>
 
 Source Code: [https://github.com/phunksbot/wiki](https://github.com/phunksbot/wiki)
 
@@ -238,11 +238,11 @@ Twitter [@PhunkBot](https://twitter.com/PhunkBot)
 
 <details>
 
-<summary>CryptoPhunksDAO (<mark style="color:red;">inactive</mark>) </summary>
+<summary>CryptoPhunksDAO (<mark style="color:red;">inactive</mark>)</summary>
 
 Source Code: [https://github.com/Web3Master/cryptophunks](https://github.com/Web3Master/cryptophunks)
 
-Programming Language: <mark style="color:red;">HTML,</mark> <mark style="color:purple;"></mark> CSS, <mark style="color:purple;"></mark> <mark style="color:yellow;">JavaScript</mark>
+Programming Language: <mark style="color:red;">HTML,</mark> CSS, <mark style="color:yellow;">JavaScript</mark>
 
 Coder [@CryptoPhunksDAO](https://twitter.com/CryptoPhunksDAO)
 
