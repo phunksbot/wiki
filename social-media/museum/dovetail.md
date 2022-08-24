@@ -92,5 +92,5 @@ the very first "whats the utility?", "roadmap?" guy in NFTs.](<../../.gitbook/as
 ![](../../.gitbook/assets/retrophunk.gif)![](../../.gitbook/assets/robberphunk.gif)![](../../.gitbook/assets/robocopphunk.gif)\
 ![](../../.gitbook/assets/shadesgif.gif)![](../../.gitbook/assets/simulationphunk.gif)![](../../.gitbook/assets/vamp.gif)\
 ![](../../.gitbook/assets/vapephunk.gif)![](../../.gitbook/assets/wizardphunk.gif)![](<../../.gitbook/assets/antifragilephunk (1).gif>)\
-![](../../.gitbook/assets/flippinphunk.gif)![](../../.gitbook/assets/punkclown.gif)![](<../../.gitbook/assets/phunksphud (1) (1).gif>)\
+![](../../.gitbook/assets/flippinphunk.gif)![](../../.gitbook/assets/punkclown.gif)![](<../../.gitbook/assets/phunksphud (1) (1) (1).gif>)\
 ![](<../../.gitbook/assets/phunkdodge (1).gif>)![](<../../.gitbook/assets/phunkali (1) (2).gif>)\
