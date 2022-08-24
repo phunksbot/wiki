@@ -180,6 +180,22 @@ Coder [@iape\_](https://twitter.com/iape\_) forked from [@mclint\_](https://twit
 
 <details>
 
+<summary>PhunksV1 Wrapper</summary>
+
+Source Code: [https://etherscan.io/address/0x235d49774139c218034c0571ba8f717773edd923#code](https://etherscan.io/address/0x235d49774139c218034c0571ba8f717773edd923#code)
+
+Programming Language: <mark style="color:red;">Solidity</mark>
+
+Coder [@dumbnamenumbers](https://twitter.com/dumbnamenumbers)
+
+Twitter [@CryptoPhunksV1](https://twitter.com/CryptoPhunksV1)
+
+Website [v1phunks.io](https://www.v1phunks.io/)
+
+</details>
+
+<details>
+
 <summary>This Website </summary>
 
 Source Code: [https://github.com/phunksbot/wiki](https://github.com/phunksbot/wiki)
