@@ -222,6 +222,18 @@ Contributors [@phunk2243](https://twitter.com/phunk2243)
 
 <details>
 
+<summary>Phunky Bootstrap 5 CSS Template</summary>
+
+Source Code: [https://github.com/theblockchaineth/phunks-bootstrap-css](https://github.com/theblockchaineth/phunks-bootstrap-css)
+
+Coder [@theblockchain.eth](https://twitter.com/tbc\_eth)
+
+Contributors [@theblockchain.eth](https://twitter.com/tbc\_eth)
+
+</details>
+
+<details>
+
 <summary>PhunkBOT V1 (<mark style="color:red;">depreciated</mark>)</summary>
 
 Source Code: [https://github.com/albanow/phunks-nll-twitter-bot](https://github.com/albanow/phunks-nll-twitter-bot)
