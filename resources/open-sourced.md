@@ -152,6 +152,18 @@ Coder [@albanow10](https://twitter.com/albanow10)
 
 <details>
 
+<summary>Phunk Auction Auto-Bidder</summary>
+
+Source Code: [https://gist.github.com/RogerPodacter/4dccaa65d13f940bd0d87e41276b182b](https://gist.github.com/RogerPodacter/4dccaa65d13f940bd0d87e41276b182b)
+
+Programming Language: <mark style="color:yellow;">JavaScript</mark>
+
+Coder [@dumbnamenumbers](https://twitter.com/dumbnamenumbers)
+
+</details>
+
+<details>
+
 <summary>PhunkDAO Website</summary>
 
 Source Code: [https://github.com/IshaanRawat/phunky](https://github.com/IshaanRawat/phunky)
