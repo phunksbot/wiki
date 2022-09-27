@@ -246,3 +246,12 @@ description: Phunks History and relevant events in Chronological order
   [Tweet](https://twitter.com/CryptoPhunksV2/status/1559308830823092233?s=20\&t=eP3I24L7vPvAzi3vuiI1TA)
 
 </details>
+
+<details>
+
+<summary>September 27, 2022 </summary>
+
+* CryptoPhunks Smart contract gets blue Verified Checkmark [@etherscan](https://twitter.com/etherscan) \
+  [Tweet](https://twitter.com/iape\_/status/1574726012381839360?s=20\&t=X041d5lqfTPMlwTNW5tuJA)
+
+</details>
