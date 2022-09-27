@@ -234,8 +234,6 @@ description: Phunks History and relevant events in Chronological order
 * YugaLabs officially releases Licence Terms for CryptoPunks\
   [Tweet](https://twitter.com/cryptopunksnfts/status/1559284220442320897?s=20\&t=w\_e25GoThGud6Zcz04vdPQ)
 
-
-
 </details>
 
 <details>
@@ -251,7 +249,7 @@ description: Phunks History and relevant events in Chronological order
 
 <summary>September 27, 2022 </summary>
 
-* CryptoPhunks Smart contract gets blue Verified Checkmark [@etherscan](https://twitter.com/etherscan) \
+* CryptoPhunks Smart Contract gets blue Verified Checkmark [@etherscan](https://twitter.com/etherscan) \
   [Tweet](https://twitter.com/iape\_/status/1574726012381839360?s=20\&t=X041d5lqfTPMlwTNW5tuJA)
 
 </details>
