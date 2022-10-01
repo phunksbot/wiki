@@ -2,7 +2,7 @@
 
 ## ABOUT
 
-* [CRYPTOPHUNKS](README.md)
+* [➖ CRYPTOPHUNKS](README.md)
   * [▫ PHUNK IS PUNK](about/phunks/phunk-is-punk.md)
   * [▫ PHUNK IS WEB3](about/phunks/phunk-is-web3.md)
   * [▫ PHUNK IS HISTORIC](about/phunks/phunk-is-historic.md)
