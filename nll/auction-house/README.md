@@ -1,5 +1,5 @@
 ---
-description: 496 PHUNKS, EVERY 3 DAYS ONE UNTIL GONNE!
+description: 496 PHUNKS, ONE EVERY 3 DAYS, UNTIL GONNE!
 ---
 
 # 🟧 AUCTION HOUSE
@@ -28,4 +28,4 @@ There are 496 CryptoPhunks that used to belong to original Phunk devs, now they 
 **WEBSITE**
 {% endembed %}
 
-<figure><img src="../.gitbook/assets/Bildschirmfoto 2022-10-02 um 00.54.34.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Bildschirmfoto 2022-10-02 um 00.54.34.png" alt=""><figcaption></figcaption></figure>
