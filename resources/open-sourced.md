@@ -1,5 +1,5 @@
 ---
-description: Contribution by Phunk Community for Global NFT Community on GitHub
+description: PHUNKS CONTRIBUTION TO GLOBAL NFT COMMUNITY ON GITHUB
 ---
 
 # ⏺ OPEN SOURCED
@@ -12,7 +12,7 @@ Source Code: [https://github.com/Crypto-Phunks/CryptoPhunksMarket](https://githu
 
 Programming Language: <mark style="color:orange;">Solidity 76.4%</mark>, <mark style="color:yellow;">JavaScript 23.6%</mark>
 
-Coder [@chopper\_\_dad](https://twitter.com/chopper\_\_dad) [@OG\_Kenobi\_Hello](https://twitter.com/OG\_Kenobi\_Hello)&#x20;
+Coder [@chopper\_\_dad](https://twitter.com/chopper\_\_dad) [@OG\_Kenobi\_Hello](https://twitter.com/OG\_Kenobi\_Hello)
 
 Contributors [@Pauly0x](https://twitter.com/Pauly0x) [@ryder\_ripps](https://twitter.com/ryder\_ripps)
 
