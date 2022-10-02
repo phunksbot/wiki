@@ -12,7 +12,7 @@
 
 * [🟧 AUCTION HOUSE](nll/auction-house/README.md)
 * [🟪 NOTLARVALABS](nll/notlarvalabs/README.md)
-  * [▫ ABOUT](nll/notlarvalabs/notlarvalabs.md)
+  * [▫ ABOUT](marketplaces/notlarvalabs/about.md)
   * [▫ FEATURES](nll/notlarvalabs/features.md)
   * [▫ TUTORIALS](nll/notlarvalabs/tutorials.md)
   * [▫ FAQ](nll/notlarvalabs/faq.md)
