@@ -38,6 +38,14 @@ description: and Data Resources
 
 </details>
 
+<details>
+
+<summary>Phunks FlyWheel (AMM)</summary>
+
+[https://etherscan.io/address/0x86b525ab8c5c9b8852f3a1bc79376335bcd2f962#code](https://etherscan.io/address/0x86b525ab8c5c9b8852f3a1bc79376335bcd2f962#code)
+
+</details>
+
 ## MARKETPLACES
 
 <details>
@@ -53,6 +61,14 @@ description: and Data Resources
 <summary>Phunks Auction House (<mark style="color:green;">0% Fees</mark>)</summary>
 
 [https://phunks.auction/](https://phunks.auction/)
+
+</details>
+
+<details>
+
+<summary>Phunks FlyWheel (<mark style="color:green;">0% Fees</mark>)</summary>
+
+[https://www.phunks.pro/](https://www.phunks.pro/)
 
 </details>
 
