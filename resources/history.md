@@ -1,5 +1,5 @@
 ---
-description: PHUNKS HISTORY AND RELEVANT EVENTS IN CHRONOLOGICAL ORDER
+description: Phunks History and relevant events in Chronological order
 ---
 
 # ⏹ HISTORY

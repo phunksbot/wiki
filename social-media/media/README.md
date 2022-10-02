@@ -1,5 +1,5 @@
 ---
-description: PHUNKS STORY IN MEDIA EXPRESSION
+description: on Phunks
 ---
 
 # 🟦 MEDIA
