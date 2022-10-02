@@ -9,7 +9,7 @@ The FlyWheel is a [DAPP](https://www.phunks.pro/) that appraises mid- and top-ti
 CryptoPhunks FlyWheel was built by [Hwonder](https://twitter.com/hWonderofWorld) and [MiddleMarch](https://twitter.com/dumbnamenumbers) with the purpose of providing access to liquidity for CryptoPhunks community and in the process it enriches Phunks treasury with rare phunks, that eventually enter the loop for future public auctions using [phunks auction house](auction-house/).
 
 {% embed url="https://www.phunks.pro/" %}
-**WEBSITE**
+WEBSITE
 {% endembed %}
 
 <details>
@@ -28,4 +28,4 @@ CryptoPhunks FlyWheel was built by [Hwonder](https://twitter.com/hWonderofWorld)
 
 </details>
 
-<figure><img src="../.gitbook/assets/Bildschirmfoto 2022-10-02 um 00.45.17.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/Bildschirmfoto 2022-10-02 um 00.45.17.png" alt=""><figcaption><p>PREVIEW</p></figcaption></figure>
