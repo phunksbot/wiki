@@ -19,6 +19,10 @@ NLL smart contract successfully processed over 20'000 on-chain transactions and 
 Code has been [audited](https://github.com/Crypto-Phunks/CryptoPhunksMarket/blob/main/zMarketplaceAudit.pdf) by several developers and [documented](https://github.com/Crypto-Phunks/CryptoPhunksMarket/blob/main/zMarketplaceAudit.pdf) by Solidity developer [@t\_snark](https://twitter.com/t\_snark).\
 You can find source code [here](../../resources/links.md#smart-contract) for review or to fork it.
 
+{% embed url="https://notlarvalabs.com/cryptophunks" %}
+WEBSITE
+{% endembed %}
+
 <details>
 
 <summary>NotLarvaLabs Smart Contract</summary>
@@ -26,7 +30,3 @@ You can find source code [here](../../resources/links.md#smart-contract) for rev
 [https://etherscan.io/address/0xd6c037bE7FA60587e174db7A6710f7635d2971e7#code](https://etherscan.io/address/0xd6c037bE7FA60587e174db7A6710f7635d2971e7#code)
 
 </details>
-
-{% embed url="https://notlarvalabs.com/cryptophunks" %}
-WEBSITE
-{% endembed %}

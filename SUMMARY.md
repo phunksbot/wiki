@@ -8,20 +8,20 @@
   * [▫ PHUNK IS HISTORIC](about/phunks/phunk-is-historic.md)
   * [▫ PHUNK IS ART](about/phunks/phunk-is-art.md)
 
-## MARKETPLACES <a href="#nll" id="nll"></a>
+## MARKETPLACES
 
-* [🟧 AUCTION HOUSE](nll/auction-house/README.md)
-* [🟪 NOTLARVALABS](nll/notlarvalabs/README.md)
-  * [▫ ABOUT](nll/notlarvalabs/notlarvalabs.md)
-  * [▫ FEATURES](nll/notlarvalabs/features.md)
-  * [▫ TUTORIALS](nll/notlarvalabs/tutorials.md)
-  * [▫ FAQ](nll/notlarvalabs/faq.md)
-* [🟨 FLYWHEEL](nll/api.md)
-* [🟥 NFTX.io](nll/nftx.io/README.md)
-  * [▫ ABOUT](nll/nftx.io/about.md)
-  * [▫ FEATURES](nll/nftx.io/features.md)
-  * [▫ TUTORIALS](nll/nftx.io/tutorials.md)
-  * [▫ FAQ](nll/nftx.io/faq.md)
+* [🟧 AUCTION HOUSE](marketplaces/auction-house.md)
+* [🟪 NOTLARVALABS](marketplaces/notlarvalabs/README.md)
+  * [▫ ABOUT](marketplaces/notlarvalabs/notlarvalabs.md)
+  * [▫ FEATURES](marketplaces/notlarvalabs/features.md)
+  * [▫ TUTORIALS](marketplaces/notlarvalabs/tutorials.md)
+  * [▫ FAQ](marketplaces/notlarvalabs/faq.md)
+* [🟨 FLYWHEEL](marketplaces/flywheel.md)
+* [🟥 NFTX.io](marketplaces/nftx.io/README.md)
+  * [▫ ABOUT](marketplaces/nftx.io/about.md)
+  * [▫ FEATURES](marketplaces/nftx.io/features.md)
+  * [▫ TUTORIALS](marketplaces/nftx.io/tutorials.md)
+  * [▫ FAQ](marketplaces/nftx.io/faq.md)
 
 ## SOCIAL MEDIA
 
