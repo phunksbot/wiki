@@ -32,7 +32,7 @@ You can also change background colour by choosing one below, download will only 
 {% endembed %}
 
 {% hint style="info" %}
-**For Phunk Custom PFP (Profile Picture) use** [**Phunk Box**](../../marketplaces/notlarvalabs/tutorials.md#tutorials) **by** [**NotLarvaLabs**](../../marketplaces/notlarvalabs/)**.**
+**For Phunk Custom PFP (Profile Picture) use** [**Phunk Box**](../../nll/notlarvalabs/tutorials.md#tutorials) **by** [**NotLarvaLabs**](../../nll/notlarvalabs/)**.**
 {% endhint %}
 
 ## Phunk Collage
