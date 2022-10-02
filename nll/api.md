@@ -12,4 +12,20 @@ CryptoPhunks FlyWheel was built by [Hwonder](https://twitter.com/hWonderofWorld)
 **WEBSITE**
 {% endembed %}
 
+<details>
+
+<summary>FlyWheel Smart Contract</summary>
+
+[https://etherscan.io/address/0x86b525ab8c5c9b8852f3a1bc79376335bcd2f962](https://etherscan.io/address/0x86b525ab8c5c9b8852f3a1bc79376335bcd2f962)
+
+</details>
+
+<details>
+
+<summary>FlyWheel PhunkBox</summary>
+
+[https://notlarvalabs.com/cryptophunks/phunkbox?address=0x769a9fe72ad5dd35d7a28ca85248f5ffd17916e9](https://notlarvalabs.com/cryptophunks/phunkbox?address=0x769a9fe72ad5dd35d7a28ca85248f5ffd17916e9)
+
+</details>
+
 <figure><img src="../.gitbook/assets/Bildschirmfoto 2022-10-02 um 00.45.17.png" alt=""><figcaption></figcaption></figure>
