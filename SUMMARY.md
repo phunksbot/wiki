@@ -10,12 +10,12 @@
 
 ## MARKETPLACES
 
-* [🟧 AUCTION HOUSE](nll/auction-house/README.md)
-* [🟪 NOTLARVALABS](nll/notlarvalabs/README.md)
+* [🟪 NOTLARVALABS.COM](nll/notlarvalabs/README.md)
   * [▫ ABOUT](marketplaces/notlarvalabs/about.md)
   * [▫ FEATURES](nll/notlarvalabs/features.md)
   * [▫ TUTORIALS](nll/notlarvalabs/tutorials.md)
   * [▫ FAQ](nll/notlarvalabs/faq.md)
+* [🟧 AUCTION HOUSE](nll/auction-house/README.md)
 * [🟨 FLYWHEEL](nll/api.md)
 * [🟥 NFTX.io](nll/nftx.io/README.md)
   * [▫ ABOUT](nll/nftx.io/about.md)
