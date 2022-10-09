@@ -2,7 +2,7 @@
 description: 0% royalties! 0% service! Be Phree!
 ---
 
-# ▫ ABOUT
+# ➖ ABOUT
 
 ## What is NotLarvaLabs?
 

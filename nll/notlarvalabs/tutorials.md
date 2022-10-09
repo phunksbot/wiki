@@ -2,7 +2,7 @@
 description: how to use NotLarvaLabs Marketplace
 ---
 
-# ▫ TUTORIALS
+# ➖ TUTORIALS
 
 ## Getting Started
 

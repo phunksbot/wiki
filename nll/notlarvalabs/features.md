@@ -2,7 +2,7 @@
 description: NLL innovative UI offers many useful Features
 ---
 
-# ▫ FEATURES
+# ➖ FEATURES
 
 <details>
 

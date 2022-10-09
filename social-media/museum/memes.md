@@ -1,3 +1,0 @@
-# ◽ MEMES
-
-:shushing\_face:

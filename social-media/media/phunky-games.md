@@ -2,7 +2,7 @@
 description: BY @TheSkullCat
 ---
 
-# ▫ PHUNKY GAMES
+# ➖ PHUNKY GAMES
 
 ![PHUNK INVADERS](<../../.gitbook/assets/image (19).png>)
 

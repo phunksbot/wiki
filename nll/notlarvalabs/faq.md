@@ -2,7 +2,7 @@
 description: from notlarvalabs.com Website
 ---
 
-# ▫ FAQ
+# ➖ FAQ
 
 <details>
 

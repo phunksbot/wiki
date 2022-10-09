@@ -2,7 +2,7 @@
 description: Twitter threads on Phunks in Chronological order (newest on top).
 ---
 
-# ▫ THREADS
+# ➖ THREADS
 
 {% hint style="info" %}
 Takes a minute to load, but it's worth it. Just click the tweet pic to see the whole thread.
