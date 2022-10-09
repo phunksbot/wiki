@@ -1,4 +1,4 @@
-# ▫ PHUNK IS ART
+# ➖ PHUNK IS ART
 
 To better understand CryptoPhunks, start by reading about [Conceptual Art](https://en.wikipedia.org/wiki/Conceptual\_art),[ Marcel Duchamp](https://en.wikipedia.org/wiki/Marcel\_Duchamp), [Dadaism](https://en.wikipedia.org/wiki/Dada), [Andy Warhol](https://en.wikipedia.org/wiki/Andy\_Warhol) and [Memetics](https://en.wikipedia.org/wiki/Memetics).&#x20;
 

@@ -2,13 +2,13 @@
 
 ## ABOUT
 
-* [➖ CRYPTOPHUNKS](README.md)
+* [🟥 CRYPTOPHUNKS](README.md)
   * [➖ PHUNK IS PUNK](about/phunks/phunk-is-punk.md)
   * [➖ PHUNK IS WEB3](about/phunks/phunk-is-web3.md)
   * [➖ PHUNK IS HISTORIC](about/phunks/phunk-is-historic.md)
   * [➖ PHUNK IS ART](about/phunks/phunk-is-art.md)
 
-## MARKETPLACES
+## MADE BY PHUNKS <a href="#marketplaces" id="marketplaces"></a>
 
 * [🟪 NOTLARVALABS.COM](nll/notlarvalabs/README.md)
   * [▫ ABOUT](marketplaces/notlarvalabs/about.md)
@@ -17,11 +17,6 @@
   * [▫ FAQ](nll/notlarvalabs/faq.md)
 * [🟧 AUCTION HOUSE](nll/auction-house/README.md)
 * [🟨 FLYWHEEL](nll/api.md)
-* [🟥 NFTX.io](nll/nftx.io/README.md)
-  * [▫ ABOUT](nll/nftx.io/about.md)
-  * [▫ FEATURES](nll/nftx.io/features.md)
-  * [▫ TUTORIALS](nll/nftx.io/tutorials.md)
-  * [▫ FAQ](nll/nftx.io/faq.md)
 
 ## SOCIAL MEDIA
 
