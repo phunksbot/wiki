@@ -11,10 +11,10 @@
 ## MADE BY PHUNKS <a href="#marketplaces" id="marketplaces"></a>
 
 * [🟪 NOTLARVALABS.COM](nll/notlarvalabs/README.md)
-  * [▫ ABOUT](marketplaces/notlarvalabs/about.md)
-  * [▫ FEATURES](nll/notlarvalabs/features.md)
-  * [▫ TUTORIALS](nll/notlarvalabs/tutorials.md)
-  * [▫ FAQ](nll/notlarvalabs/faq.md)
+  * [➖ ABOUT](marketplaces/notlarvalabs/about.md)
+  * [➖ FEATURES](nll/notlarvalabs/features.md)
+  * [➖ TUTORIALS](nll/notlarvalabs/tutorials.md)
+  * [➖ FAQ](nll/notlarvalabs/faq.md)
 * [🟧 AUCTION HOUSE](nll/auction-house/README.md)
 * [🟨 FLYWHEEL](nll/api.md)
 
