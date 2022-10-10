@@ -31,11 +31,3 @@ description: >-
 [https://eggphunk.medium.com/sup-phunks-vol-3-1305460da63f](https://eggphunk.medium.com/sup-phunks-vol-3-1305460da63f)
 
 </details>
-
-<details>
-
-<summary><a href="https://medium.com/@gabangel0723/sup-phunks-vol-4-39412745a010">Sup Phunks! Vol. 4</a> - Okt 2022</summary>
-
-[https://medium.com/@gabangel0723/sup-phunks-vol-4-39412745a010](https://medium.com/@gabangel0723/sup-phunks-vol-4-39412745a010)
-
-</details>
