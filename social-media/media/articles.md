@@ -525,11 +525,3 @@ description: written on Phunks in Chronological order
 [https://medium.com/@northwall/phunkism-a5fed5081def](https://medium.com/@northwall/phunkism-a5fed5081def)
 
 </details>
-
-<details>
-
-<summary>Oktober 07, 2022 - <a href="https://medium.com/@gabangel0723/sup-phunks-vol-4-39412745a010">Sup Phunks! Vol. 4</a></summary>
-
-[https://medium.com/@gabangel0723/sup-phunks-vol-4-39412745a010](https://medium.com/@gabangel0723/sup-phunks-vol-4-39412745a010)
-
-</details>
