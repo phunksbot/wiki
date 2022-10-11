@@ -5,8 +5,8 @@
 * [🟥 CRYPTOPHUNKS](README.md)
   * [➖ PHUNK IS PUNK](about/phunks/phunk-is-punk.md)
   * [➖ WEB3](about/phunks/web3.md)
-  * [➖ HISTORIC](about/phunks/historic.md)
   * [➖ ART](about/phunks/art.md)
+  * [➖ HISTORIC](about/phunks/historic.md)
   * [➖ CODE](about/phunks/code.md)
 
 ## MADE BY PHUNKS <a href="#marketplaces" id="marketplaces"></a>

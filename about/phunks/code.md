@@ -4,7 +4,7 @@ description: CODE IS LAW?
 
 # ➖ CODE
 
-In link below you will find direct comparison between Punk and Phunk code.\
+In the [link](https://www.diffchecker.com/1tp5RsrI) below you will find direct comparison between Punk and Phunk code.\
 Spoiler: Phunks code is not a fork, it’s built from scratch and was first to pioneer [Fisher–Yates shuffle](https://en.wikipedia.org/wiki/Fisher%E2%80%93Yates\_shuffle#The\_modern\_algorithm) algorithm for provably [random](https://medium.com/@dumbnamenumbers/erc721r-a-new-erc721-contract-for-random-minting-so-people-dont-snipe-all-the-rares-68dd06611e5) minting.
 
 {% embed url="https://www.diffchecker.com/1tp5RsrI" %}

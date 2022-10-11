@@ -1,4 +1,4 @@
-# ➖ PHUNK IS HISTORIC
+# ➖ HISTORIC
 
 * They are the first project that used [Fisher–Yates shuffle](https://en.wikipedia.org/wiki/Fisher%E2%80%93Yates\_shuffle#The\_modern\_algorithm) algorithm for [provably](https://medium.com/@dumbnamenumbers/erc721r-a-new-erc721-contract-for-random-minting-so-people-dont-snipe-all-the-rares-68dd06611e5) random minting.
 * They are the first and only project to be delisted from OpenSea 3 times.&#x20;
