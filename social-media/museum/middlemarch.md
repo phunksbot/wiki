@@ -27,7 +27,7 @@ in no particular order, made by [@dumbnamenumbers](https://twitter.com/dumbnamen
 ![](<../../.gitbook/assets/image (34) (1) (1).png>)![](<../../.gitbook/assets/image (67) (1) (1).png>)\
 ["there is a billion dollar NFT somewhere in that image"](https://twitter.com/dumbnamenumbers/status/1509879954695151618?s=20\&t=0Shsb-HoSctIX6fkOwZW3Q)
 
-![Or I guess the background should be the same color as the Punk body?](<../../.gitbook/assets/image (1) (1).png>)
+![Or I guess the background should be the same color as the Punk body?](<../../.gitbook/assets/image (1) (1) (1).png>)
 
 ![](<../../.gitbook/assets/image (22) (1).png>)![](<../../.gitbook/assets/image (24).png>)\
 [These scatter plots show the difference between sequential and random minting (via ERC721R)](https://twitter.com/dumbnamenumbers/status/1511056751252148226?s=20\&t=0Shsb-HoSctIX6fkOwZW3Q)
