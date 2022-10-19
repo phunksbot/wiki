@@ -1,7 +1,7 @@
 ---
 description: PHUNKS FACE LEFT ON THE RIGHT SIDE OF HISTORY
-cover: .gitbook/assets/A1F07E7B-370E-42EF-BD2A-D49B49C9AFEB.jpg
-coverY: 172.53197405004633
+cover: .gitbook/assets/image (1) (1) (1).png
+coverY: -145.3197405004634
 ---
 
 # 🟥 CRYPTOPHUNKS
