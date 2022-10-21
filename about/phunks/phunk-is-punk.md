@@ -17,7 +17,6 @@ While NFT Collections can be banned from centralized trading platform, they real
 **`*`**In July 2021, the anonymous devs went out for a pack of smokes and never came back, completely abandoning the Phunks community. They did not transfer the smart contract, social media accounts, or the 496 CryptoPhunks NFTs held in the dev wallet.
 
 In May 2022, [Azuki](https://opensea.io/collection/azuki) developer under pseudonym [ZAGABOND](https://twitter.com/ZAGABOND/status/1523775812893249537?s=20\&t=PkhgQi3JTlR4CqL9VvgRpg) [revealed](https://mirror.xyz/0x1Cb8332607fba6A780DdE78584AD3BFD1eEB1E40/yG8rI1lpQGLPhZch0kjxYRjKTtA9rAL51zg-ZrURyAc) himself as the original creator of CryptoPhunks followed by an apology and transfer of Smart Contract [ownership](https://twitter.com/NotLarvaLabs/status/1524603344207196161?s=20\&t=PkhgQi3JTlR4CqL9VvgRpg), 496 [CryptoPhunks](https://twitter.com/NotLarvaLabs/status/1525303741100003328?s=20\&t=PkhgQi3JTlR4CqL9VvgRpg) and [$1.44M](https://twitter.com/NotLarvaLabs/status/1525303746162479105?s=20\&t=PkhgQi3JTlR4CqL9VvgRpg) from royalties to the Phunks community.\
-\
 This was result of excessive research done by Phunks community members \
 [Kiosko](https://twitter.com/Kiosko\_eth), [Jpeg Papi](https://twitter.com/NFTnetworking), [hwonder](https://twitter.com/hWonderofWorld) and[ Pauly](https://twitter.com/Pauly0x).
 {% endhint %}
