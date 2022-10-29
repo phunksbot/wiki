@@ -528,8 +528,16 @@ description: written on Phunks in Chronological order
 
 <details>
 
-<summary>Oktober 07, 2022 - <a href="https://medium.com/@gabangel0723/sup-phunks-vol-4-39412745a010">Sup Phunks! Vol. 4</a></summary>
+<summary>October 07, 2022 - <a href="https://medium.com/@gabangel0723/sup-phunks-vol-4-39412745a010">Sup Phunks! Vol. 4</a></summary>
 
 [https://medium.com/@gabangel0723/sup-phunks-vol-4-39412745a010](https://medium.com/@gabangel0723/sup-phunks-vol-4-39412745a010)
+
+</details>
+
+<details>
+
+<summary>October 29, 2022 - <a href="https://mirror.xyz/0x753e9283e7bD8Be3a74097B7186Ea9DeFFAEe071/L0pdxVIR7cg6NARt9rq50VfqCSxPuijLqNgoJdurusQ">Phresh Kicks: TEJI's Release of Phunk Force 1 </a></summary>
+
+[https://mirror.xyz/0x753e9283e7bD8Be3a74097B7186Ea9DeFFAEe071/L0pdxVIR7cg6NARt9rq50VfqCSxPuijLqNgoJdurusQ](https://mirror.xyz/0x753e9283e7bD8Be3a74097B7186Ea9DeFFAEe071/L0pdxVIR7cg6NARt9rq50VfqCSxPuijLqNgoJdurusQ)
 
 </details>
