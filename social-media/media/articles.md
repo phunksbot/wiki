@@ -544,6 +544,14 @@ description: written on Phunks in Chronological order
 
 <details>
 
+<summary>November 06, 2022 - <a href="https://www.artazine.com/features/opinion-phunkism-flipping-nfts-for-a-good-cause">Opinion: Phunkism, or flipping NFTs for a good cause</a></summary>
+
+[https://www.artazine.com/features/opinion-phunkism-flipping-nfts-for-a-good-cause](https://www.artazine.com/features/opinion-phunkism-flipping-nfts-for-a-good-cause)
+
+</details>
+
+<details>
+
 <summary>November 07, 2022 - <a href="https://www.decential.io/features/the-phygital-guerrillanbsp-the-blockchain-provocations-of-jet-williams">The Phygital Guerrilla: The Blockchain Provocations of Jet Williams, aka Teji</a></summary>
 
 [https://www.decential.io/features/the-phygital-guerrillanbsp-the-blockchain-provocations-of-jet-williams](https://www.decential.io/features/the-phygital-guerrillanbsp-the-blockchain-provocations-of-jet-williams)
