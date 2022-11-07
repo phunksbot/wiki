@@ -541,3 +541,11 @@ description: written on Phunks in Chronological order
 [https://medium.com/@gabangel0723/sup-phunks-vol-4-39412745a010](https://medium.com/@gabangel0723/sup-phunks-vol-4-39412745a010)
 
 </details>
+
+<details>
+
+<summary>November 07, 2022 - <a href="https://www.decential.io/features/the-phygital-guerrillanbsp-the-blockchain-provocations-of-jet-williams">The Phygital Guerrilla: The Blockchain Provocations of Jet Williams, aka Teji</a></summary>
+
+[https://www.decential.io/features/the-phygital-guerrillanbsp-the-blockchain-provocations-of-jet-williams](https://www.decential.io/features/the-phygital-guerrillanbsp-the-blockchain-provocations-of-jet-williams)
+
+</details>
