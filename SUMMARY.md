@@ -17,7 +17,7 @@
   * [➖ FAQ](nll/notlarvalabs/faq.md)
 * [🟧 AUCTION HOUSE](nll/auction-house/README.md)
 * [🟨 FLYWHEEL](nll/api.md)
-* [⬜ SOCKS](marketplaces/socks.md)
+* [🟫 SOCKS](marketplaces/socks.md)
 
 ## SOCIAL MEDIA
 
