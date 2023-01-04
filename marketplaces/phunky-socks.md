@@ -38,3 +38,29 @@ Buying or selling phunky socks uses the [uniswap](https://phunkysocks.website/ap
 Use on-site claim mechanism to lock-up tokens in the contract correctly, effectively removing supply, and then redeem physical socks.
 
 <figure><img src="../.gitbook/assets/Bildschirmfoto 2023-01-03 um 15.40.18.png" alt=""><figcaption><p><a href="https://phunkysocks.website/app/claim">LINK TO CLAIM A PAIR OF PHUNKY SOCKS</a></p></figcaption></figure>
+
+## LINKS
+
+<details>
+
+<summary>WEBSITE</summary>
+
+[https://phunkysocks.website/app/home](https://phunkysocks.website/app/home)
+
+</details>
+
+<details>
+
+<summary>DEXTOOLS</summary>
+
+[https://www.dextools.io/app/en/ether/pair-explorer/0x85c6806d339f1a07d0f7614918e3602ea80023a2](https://www.dextools.io/app/en/ether/pair-explorer/0x85c6806d339f1a07d0f7614918e3602ea80023a2)
+
+</details>
+
+<details>
+
+<summary>SMART CONTRACT</summary>
+
+[https://etherscan.io/token/0x1f2efab635ec3ec8618101103db4e1f718434a71](https://etherscan.io/token/0x1f2efab635ec3ec8618101103db4e1f718434a71)
+
+</details>
