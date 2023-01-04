@@ -2,9 +2,9 @@
 description: BUY AND SELL REAL PHUNKY SOCKS WITH DIGITAL CURRENCY. DELIVERED ON DEMAND.
 ---
 
-# 🟫 SOCKS
+# 🟫 PHUNKY SOCKS
 
-[Phunkysocks](https://phunkysocks.website/app/home) is experiment on Ethereum blockchain where each real pair of phunk Socks, limited to 50 pairs, is backed by 22 ERC20 tokens. $[PHUNKYSOCKS](https://etherscan.io/token/0x1f2efab635ec3ec8618101103db4e1f718434a71) tokens can be used to trade, swap or to be burned for real pair of Phunky Socks shipped anywhere in the world.
+[Phunkysocks](https://phunkysocks.website/app/home) is experiment on Ethereum blockchain where real physical pair of Socks, limited to 50 pairs, are backed by 22 ERC20 tokens. $[PHUNKYSOCKS](https://etherscan.io/token/0x1f2efab635ec3ec8618101103db4e1f718434a71) tokens can be used to trade, swap or to be burned for real pair of Phunky Socks shipped anywhere in the world.
 
 {% hint style="info" %}
 Phunkysocks are created by OG [unisocks](https://socks.uniswap.org/) Designer [Leander Capuozzo](https://twitter.com/leandercapuozzo), Burn & Claim smart contract and [website](https://phunkysocks.website/app/home) is created by Phunk holder and enthusiast [theblockchain](https://twitter.com/tbc\_eth).
