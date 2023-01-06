@@ -19,4 +19,10 @@ Punks are owned by [Corporations](https://twitter.com/cryptopunksnfts/status/150
 by [@Pauly0x](https://twitter.com/Pauly0x)
 {% endembed %}
 
+## Why?!
+
+{% embed url="https://video.twimg.com/ext_tw_video/1611324183677669377/pu/vid/1280x720/Wydr-XCiDs07KrZu.mp4?tag=12" %}
+edited by [@dresmars](https://twitter.com/dresmars/status/1611325328181559302?s=20\&t=SUfeYIWTjKouHw0xueNL3w)
+{% endembed %}
+
 ## Follow-up :point\_down:

@@ -4,6 +4,8 @@ description: on Phunks in no particular order
 
 # ➖ VIDEOS
 
+{% embed url="https://video.twimg.com/ext_tw_video/1611324183677669377/pu/vid/1280x720/Wydr-XCiDs07KrZu.mp4?tag=12" %}
+
 {% embed url="https://youtu.be/o4eqMQatv_Y" %}
 
 {% embed url="https://www.youtube.com/watch?v=C1odtSVoKKc" %}
