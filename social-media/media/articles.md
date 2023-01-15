@@ -536,6 +536,14 @@ description: written on Phunks in Chronological order
 
 <details>
 
+<summary>September 29, 2022 - <a href="https://seanbonner.medium.com/online-identity-ownership-b379973cfdb3">Online Identity &#x26; Ownership</a></summary>
+
+[https://seanbonner.medium.com/online-identity-ownership-b379973cfdb3](https://seanbonner.medium.com/online-identity-ownership-b379973cfdb3)
+
+</details>
+
+<details>
+
 <summary>October 07, 2022 - <a href="https://medium.com/@gabangel0723/sup-phunks-vol-4-39412745a010">Sup Phunks! Vol. 4</a></summary>
 
 [https://medium.com/@gabangel0723/sup-phunks-vol-4-39412745a010](https://medium.com/@gabangel0723/sup-phunks-vol-4-39412745a010)
