@@ -7,20 +7,33 @@ description: DECENTRALIZED CODE, DATA, API AND CONTENT MANAGMENT
 Need Phunk data for a site but either don’t want to or don’t know how to write an API layer? \
 I got you covered..... by [@tbc\_eth](https://twitter.com/tbc\_eth)
 
-{% swagger method="get" path="" baseUrl="https://github.com/theblockchaineth/PhunkyData" summary="Full return (Paginated): " %}
-{% swagger-description %}
+```java
+Full return (Paginated): 
+https://data.phunky.dev/api/v2-phunks-nfts
 
+Find One:
+/api/v2-phunks-nfts/{:id}
+i.e. https://data.phunky.dev/api/v2-phunks-nfts/69
 
-[https://data.phunky.dev/api/v2-phunks-nfts](https://data.phunky.dev/api/v2-phunks-nfts)
+How to filter:
+https://docs.strapi.io/developer-docs/latest/developer-resources/database-apis-reference/rest/api-parameters.html
 
+Examples:
 
-{% endswagger-description %}
+All Hoodies w/ Cigarettes
+https://data.phunky.dev/api/v2-phunks-nfts?filters[hair][$eqi]=hoodie&filters[mouth][$eqi]=cigarette
 
-{% swagger-parameter in="query" name="" %}
+All Aliens w/ Earrings
+https://data.phunky.dev/api/v2-phunks-nfts?filters[sex][$eqi]=alien&filters[ears][$eqi]=earring
 
-{% endswagger-parameter %}
+All 4T w/ Fedoras
+https://data.phunky.dev/api/v2-phunks-nfts?filters[hair][$eqi]=fedora&filters[traitTag][$eq]=4T
+```
 
-{% swagger-parameter in="path" type="/api/v2-phunks-nfts/{:id} i.e. https://data.phunky.dev/api/v2-phunks-nfts/69" %}
-Find phunk
-{% endswagger-parameter %}
-{% endswagger %}
+<details>
+
+<summary>GitHub</summary>
+
+[https://github.com/theblockchaineth/PhunkyData](https://github.com/theblockchaineth/PhunkyData)
+
+</details>
