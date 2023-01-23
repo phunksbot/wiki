@@ -56,6 +56,22 @@ Twitter [@PhunkBot](https://twitter.com/PhunkBot)
 
 <details>
 
+<summary>Phunky Data</summary>
+
+Source Code: [https://github.com/theblockchaineth/PhunkyData](https://github.com/theblockchaineth/PhunkyData)
+
+Programming Language: <mark style="color:yellow;">JavaScript 96.6%,</mark> <mark style="color:green;">Shell 3.4%</mark>
+
+Coder [@tbc\_eth](https://twitter.com/tbc\_eth)
+
+Twitter [@tbc\_eth](https://twitter.com/tbc\_eth)
+
+[LIVE DEMO](https://data.phunky.dev/api/v2-phunks-nfts)
+
+</details>
+
+<details>
+
 <summary>Volume tracker</summary>
 
 Source Code: [https://github.com/tat2bu/erc721-sale-extractor](https://github.com/tat2bu/erc721-sale-extractor)
