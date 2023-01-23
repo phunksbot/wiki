@@ -64,8 +64,6 @@ Programming Language: <mark style="color:yellow;">JavaScript 96.6%,</mark> <mark
 
 Coder [@tbc\_eth](https://twitter.com/tbc\_eth)
 
-Twitter [@tbc\_eth](https://twitter.com/tbc\_eth)
-
 [LIVE DEMO](https://data.phunky.dev/api/v2-phunks-nfts)
 
 </details>
@@ -79,8 +77,6 @@ Source Code: [https://github.com/soupydolph/CryptoPhunks](https://github.com/sou
 Programming Language: <mark style="color:purple;">TypeScript 88.9%,</mark> CSS 6.5%, <mark style="color:red;">HTML 2.6%</mark><mark style="color:purple;">,</mark> <mark style="color:yellow;">JavaScript 2.0%</mark>
 
 Coder [@soupydolph](https://twitter.com/soupydolph)
-
-Twitter [@CryptoPhunksV2](https://twitter.com/CryptoPhunksV2)
 
 [LIVE DEMO](https://illustrious-panda-1d7c89.netlify.app/)
 
