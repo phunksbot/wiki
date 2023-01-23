@@ -30,6 +30,10 @@ All 4T w/ Fedoras
 https://data.phunky.dev/api/v2-phunks-nfts?filters[hair][$eqi]=fedora&filters[traitTag][$eq]=4T
 ```
 
+{% hint style="info" %}
+Run by whoever, wherever, whenever - Servers have to be centralized but their definition and the ability to spin one up doesn't have to be. Want to add a new processor, datasource, or static content? Contribute to the repo or fork and go!
+{% endhint %}
+
 <details>
 
 <summary>GitHub</summary>
