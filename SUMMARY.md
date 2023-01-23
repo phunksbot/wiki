@@ -31,7 +31,7 @@
   * [➖ PHUNKY GAMES](social-media/media/phunky-games.md)
   * [➖ PHUNKY SPACES](social-media/media/phunky-spaces.md)
   * [➖ SUP PHUNKS!](social-media/media/sup-phunks.md)
-* [🖼 MUSEUM](social-media/museum/README.md)
+* [🪅 MUSEUM](social-media/museum/README.md)
   * [➖ CURATED](social-media/museum/curated.md)
   * [➖ PIV](social-media/museum/piv.md)
   * [➖ ABY's](social-media/museum/abys.md)
