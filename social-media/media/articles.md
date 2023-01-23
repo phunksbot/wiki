@@ -144,7 +144,7 @@ description: written on Phunks in Chronological order
 
 <details>
 
-<summary>November 14, 2022 - <a href="https://medium.com/@joanwestenberg/we-the-phunks-a-small-manifesto-for-an-indie-web3-28d1d5744154">We the Phunks: A Small Manifesto For An Indie Web3</a></summary>
+<summary>November 14, 2021 - <a href="https://medium.com/@joanwestenberg/we-the-phunks-a-small-manifesto-for-an-indie-web3-28d1d5744154">We the Phunks: A Small Manifesto For An Indie Web3</a></summary>
 
 [https://medium.com/@joanwestenberg/we-the-phunks-a-small-manifesto-for-an-indie-web3-28d1d5744154](https://medium.com/@joanwestenberg/we-the-phunks-a-small-manifesto-for-an-indie-web3-28d1d5744154)
 

@@ -18,6 +18,7 @@
 * [🟧 AUCTION HOUSE](nll/auction-house/README.md)
 * [🟨 FLYWHEEL](nll/api.md)
 * [🟫 PHUNKY SOCKS](marketplaces/phunky-socks.md)
+* [🔲 PHUNKY DATA](marketplaces/phunky-data.md)
 
 ## SOCIAL MEDIA
 
