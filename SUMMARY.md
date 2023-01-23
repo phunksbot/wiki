@@ -17,12 +17,12 @@
   * [➖ FAQ](nll/notlarvalabs/faq.md)
 * [🟧 AUCTION HOUSE](nll/auction-house/README.md)
 * [🟨 FLYWHEEL](nll/api.md)
-* [🔲 PHUNKY SOCKS](marketplaces/phunky-socks.md)
+* [🟦 PHUNKY SOCKS](marketplaces/phunky-socks.md)
 * [🟩 PHUNKY DATA](marketplaces/phunky-data.md)
 
 ## SOCIAL MEDIA
 
-* [🟦 MEDIA](social-media/media/README.md)
+* [🔊 MEDIA](social-media/media/README.md)
   * [➖ ARTICLES](social-media/media/articles.md)
   * [➖ THREADS](social-media/media/threads.md)
   * [➖ VIDEOS](social-media/media/videos.md)
@@ -31,7 +31,7 @@
   * [➖ PHUNKY GAMES](social-media/media/phunky-games.md)
   * [➖ PHUNKY SPACES](social-media/media/phunky-spaces.md)
   * [➖ SUP PHUNKS!](social-media/media/sup-phunks.md)
-* [🟫 MUSEUM](social-media/museum/README.md)
+* [🖼 MUSEUM](social-media/museum/README.md)
   * [➖ CURATED](social-media/museum/curated.md)
   * [➖ PIV](social-media/museum/piv.md)
   * [➖ ABY's](social-media/museum/abys.md)
