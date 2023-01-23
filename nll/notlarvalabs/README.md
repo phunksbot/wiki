@@ -12,13 +12,15 @@ Idea came to life after two Big Corporations (LarvaLabs and OpenSea) decided to 
 
 NLL developers decided to [open-source](https://github.com/Crypto-Phunks/CryptoPhunksMarket) the code and renounce the [ownership](https://twitter.com/NotLarvaLabs/status/1503576060448985089?s=20\&t=Tbap3ogy88gjcQXn\_DGRYQ), this means that Phunks Marketplace (backend) operates autonomously on Ethereum blockchain forever.
 
+> Code has been [audited](https://github.com/Crypto-Phunks/CryptoPhunksMarket/blob/main/zMarketplaceAudit.pdf) by several developers and [documented](https://github.com/Crypto-Phunks/CryptoPhunksMarket/blob/main/zMarketplaceAudit.pdf) by Solidity developer [@t\_snark](https://twitter.com/t\_snark).\
+> You can find source code [here](../../resources/links.md#smart-contract) for review or to fork it.
+
 {% hint style="info" %}
 Since inception in November 2021 and until May 2022 \
 NLL smart contract successfully processed over 20'000 on-chain transactions and accounts for **Ξ**11623 ($35M) in trading volume. (incl. Cargo backend v1 contract).
 {% endhint %}
 
-> Code has been [audited](https://github.com/Crypto-Phunks/CryptoPhunksMarket/blob/main/zMarketplaceAudit.pdf) by several developers and [documented](https://github.com/Crypto-Phunks/CryptoPhunksMarket/blob/main/zMarketplaceAudit.pdf) by Solidity developer [@t\_snark](https://twitter.com/t\_snark).\
-> You can find source code [here](../../resources/links.md#smart-contract) for review or to fork it.
+## LINKS
 
 <details>
 
