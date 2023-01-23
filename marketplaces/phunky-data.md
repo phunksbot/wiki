@@ -31,7 +31,7 @@ https://data.phunky.dev/api/v2-phunks-nfts?filters[hair][$eqi]=fedora&filters[tr
 ```
 
 {% hint style="info" %}
-Run by whoever, wherever, whenever - Servers have to be centralized but their definition and the ability to spin one up doesn't have to be. Want to add a new processor, datasource, or static content? Contribute to the repo or fork and go!
+Run by whoever, wherever, whenever - Servers have to be centralized but their definition and the ability to spin one up doesn't have to be. Want to add a new processor, datasource, or static content? Contribute to the [repo](https://github.com/theblockchaineth/PhunkyData) or fork and go!
 {% endhint %}
 
 <details>
