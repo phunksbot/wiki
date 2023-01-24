@@ -40,7 +40,8 @@ api/v2-phunks-nfts/{:id}
 api/v3-phunks-nfts
 api/v3-phunks-nfts/{:id}
 
-Link to examples and how to filter/search: https://github.com/theblockchaineth/PhunkyData/blob/main/examples.md
+Link to examples and how to filter/search: 
+https://github.com/theblockchaineth/PhunkyData/blob/main/examples.md
 ```
 
 {% hint style="info" %}
