@@ -8,6 +8,8 @@ Need Phunk data for a site but either don’t want to or don’t know how to wri
 I got you covered..... by [@tbc\_eth](https://twitter.com/tbc\_eth)
 
 ```java
+Endpoint: https://data.phunky.dev/
+
 Full return (Paginated): 
 https://data.phunky.dev/api/v2-phunks-nfts
 
@@ -28,11 +30,24 @@ https://data.phunky.dev/api/v2-phunks-nfts?filters[sex][$eqi]=alien&filters[ears
 
 All 4T w/ Fedoras
 https://data.phunky.dev/api/v2-phunks-nfts?filters[hair][$eqi]=fedora&filters[traitTag][$eq]=4T
+
+Example: https://data.phunky.dev/api/smart-contracts
+
+api/smart-contracts
+api/spotlights
+api/v2-phunks-nfts
+api/v2-phunks-nfts/{:id}
+api/v3-phunks-nfts
+api/v3-phunks-nfts/{:id}
+
+Link to examples and how to filter/search: https://github.com/theblockchaineth/PhunkyData/blob/main/examples.md
 ```
 
 {% hint style="info" %}
 Run by whoever, wherever, whenever - Servers have to be centralized but their definition and the ability to spin one up doesn't have to be. Want to add a new processor, datasource, or static content? Contribute to the [repo](https://github.com/theblockchaineth/PhunkyData) or fork and go!
 {% endhint %}
+
+## LINKS
 
 <details>
 
@@ -42,7 +57,15 @@ Run by whoever, wherever, whenever - Servers have to be centralized but their de
 
 </details>
 
-## ABOUT
+<details>
+
+<summary>Examples</summary>
+
+[https://github.com/theblockchaineth/PhunkyData/blob/main/examples.md](https://github.com/theblockchaineth/PhunkyData/blob/main/examples.md)
+
+</details>
+
+## RETROSPECTIVE
 
 {% embed url="https://twitter.com/tbc_eth/status/1617753342511575040?s=20&t=1amiepW5oPGUP3CgpGWZXw" %}
 [CLICK FOR MORE](https://twitter.com/tbc\_eth/status/1617753342511575040?s=20\&t=1amiepW5oPGUP3CgpGWZXw)
