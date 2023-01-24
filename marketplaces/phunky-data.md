@@ -45,3 +45,5 @@ Run by whoever, wherever, whenever - Servers have to be centralized but their de
 ## ABOUT
 
 {% embed url="https://twitter.com/tbc_eth/status/1617753342511575040?s=20&t=1amiepW5oPGUP3CgpGWZXw" %}
+[CLICK FOR MORE](https://twitter.com/tbc\_eth/status/1617753342511575040?s=20\&t=1amiepW5oPGUP3CgpGWZXw)
+{% endembed %}
