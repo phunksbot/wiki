@@ -8,7 +8,8 @@ Need Phunk data for a site but either don’t want to or don’t know how to wri
 I got you covered..... by [@tbc\_eth](https://twitter.com/tbc\_eth)
 
 ```java
-Endpoint: https://data.phunky.dev/
+Endpoint: 
+https://data.phunky.dev/
 
 Full return (Paginated): 
 https://data.phunky.dev/api/v2-phunks-nfts
@@ -20,8 +21,6 @@ i.e. https://data.phunky.dev/api/v2-phunks-nfts/69
 How to filter:
 https://docs.strapi.io/developer-docs/latest/developer-resources/database-apis-reference/rest/api-parameters.html
 
-Examples:
-
 All Hoodies w/ Cigarettes
 https://data.phunky.dev/api/v2-phunks-nfts?filters[hair][$eqi]=hoodie&filters[mouth][$eqi]=cigarette
 
@@ -31,7 +30,8 @@ https://data.phunky.dev/api/v2-phunks-nfts?filters[sex][$eqi]=alien&filters[ears
 All 4T w/ Fedoras
 https://data.phunky.dev/api/v2-phunks-nfts?filters[hair][$eqi]=fedora&filters[traitTag][$eq]=4T
 
-Example: https://data.phunky.dev/api/smart-contracts
+Extract Data: 
+https://data.phunky.dev/api/smart-contracts
 
 api/smart-contracts
 api/spotlights
