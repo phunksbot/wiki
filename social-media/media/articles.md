@@ -320,6 +320,14 @@ description: written on Phunks in Chronological order
 
 <details>
 
+<summary>March 15, 2022 - <a href="https://digitalcommons.pepperdine.edu/cgi/viewcontent.cgi?article=2620&#x26;context=plr">Are CryptoPunks Copyrightable?</a> (Pepperdine University)</summary>
+
+[https://digitalcommons.pepperdine.edu/cgi/viewcontent.cgi?article=2620\&context=plr](https://digitalcommons.pepperdine.edu/cgi/viewcontent.cgi?article=2620\&context=plr)
+
+</details>
+
+<details>
+
 <summary>April 01, 2022 - <a href="https://eggphunk.medium.com/sup-phunks-vol-2-5e74224be4ee">Sup Phunks! Vol. 2</a></summary>
 
 [https://eggphunk.medium.com/sup-phunks-vol-2-5e74224be4ee](https://eggphunk.medium.com/sup-phunks-vol-2-5e74224be4ee)
@@ -536,9 +544,57 @@ description: written on Phunks in Chronological order
 
 <details>
 
-<summary>August 19th, 2022 - <a href="https://mirror.xyz/0x753e9283e7bD8Be3a74097B7186Ea9DeFFAEe071/L0pdxVIR7cg6NARt9rq50VfqCSxPuijLqNgoJdurusQ">Phresh Kicks: TEJI's Release of Phunk Force 1 </a></summary>
+<summary>July 11, 2022 - <a href="https://dexterlab.com/nft-derivatives/">NFT Derivatives Collections Explained</a></summary>
+
+[https://dexterlab.com/nft-derivatives/](https://dexterlab.com/nft-derivatives/)
+
+</details>
+
+<details>
+
+<summary>August 08, 2022 - <a href="https://news.cnyes.com/news/id/4928238">CC0分岔路：CryptoPunks向左，Moonbirds向右</a></summary>
+
+[https://news.cnyes.com/news/id/4928238](https://news.cnyes.com/news/id/4928238)
+
+</details>
+
+<details>
+
+<summary>August 16, 2022 - <a href="https://nftnow.com/features/a-new-cryptopunks-license-is-finally-live-heres-why-it-matters/">A New CryptoPunks License Is Finally Live. Here’s Why It Matters</a></summary>
+
+[https://nftnow.com/features/a-new-cryptopunks-license-is-finally-live-heres-why-it-matters/](https://nftnow.com/features/a-new-cryptopunks-license-is-finally-live-heres-why-it-matters/)
+
+</details>
+
+<details>
+
+<summary>August 19, 2022 - <a href="https://mirror.xyz/0x753e9283e7bD8Be3a74097B7186Ea9DeFFAEe071/L0pdxVIR7cg6NARt9rq50VfqCSxPuijLqNgoJdurusQ">Phresh Kicks: TEJI's Release of Phunk Force 1 </a></summary>
 
 [https://mirror.xyz/0x753e9283e7bD8Be3a74097B7186Ea9DeFFAEe071/L0pdxVIR7cg6NARt9rq50VfqCSxPuijLqNgoJdurusQ](https://mirror.xyz/0x753e9283e7bD8Be3a74097B7186Ea9DeFFAEe071/L0pdxVIR7cg6NARt9rq50VfqCSxPuijLqNgoJdurusQ)
+
+</details>
+
+<details>
+
+<summary>August 19, 2022 - <a href="https://piperalderman.com.au/insight/blockchain-bites-half-of-asic-study-participants-held-crypto-a-lot-at-stake-with-staking-nftlord-new-eth-token-standard-the-safetypin-in-cryptopunks-licence-appeal-to-tulip-developers-duty-cas/"><strong>Putting a (safety)pin in it: reviewing the CryptoPunks NFT licence</strong></a><strong></strong></summary>
+
+[https://piperalderman.com.au/insight/blockchain-bites-half-of-asic-study-participants-held-crypto-a-lot-at-stake-with-staking-nftlord-new-eth-token-standard-the-safetypin-in-cryptopunks-licence-appeal-to-tulip-developers-duty-cas/](https://piperalderman.com.au/insight/blockchain-bites-half-of-asic-study-participants-held-crypto-a-lot-at-stake-with-staking-nftlord-new-eth-token-standard-the-safetypin-in-cryptopunks-licence-appeal-to-tulip-developers-duty-cas/)
+
+</details>
+
+<details>
+
+<summary>August 31, 2022 - <a href="https://www.mintface.xyz/mintcards-2/">Make Your Own MintCard</a></summary>
+
+[https://www.mintface.xyz/mintcards-2/](https://www.mintface.xyz/mintcards-2/)
+
+</details>
+
+<details>
+
+<summary>September 13, 2022 - <a href="https://thenftbrief.com/best-pixel-art-nfts/">9 Best Pixel Art NFTs for Collectors and Enthusiasts</a></summary>
+
+[https://thenftbrief.com/best-pixel-art-nfts/](https://thenftbrief.com/best-pixel-art-nfts/)
 
 </details>
 
@@ -560,6 +616,14 @@ description: written on Phunks in Chronological order
 
 <details>
 
+<summary>October 27, 2022 - <a href="https://nftevening.com/yuga-labs-vs-ryder-ripps-azuki-founder-zagabond-gets-dragged-in/">Yuga Labs Vs. Ryder Ripps: Azuki Founder Gets Dragged In</a></summary>
+
+[https://nftevening.com/yuga-labs-vs-ryder-ripps-azuki-founder-zagabond-gets-dragged-in/](https://nftevening.com/yuga-labs-vs-ryder-ripps-azuki-founder-zagabond-gets-dragged-in/)
+
+</details>
+
+<details>
+
 <summary>November 06, 2022 - <a href="https://www.artazine.com/features/opinion-phunkism-flipping-nfts-for-a-good-cause">Opinion: Phunkism, or flipping NFTs for a good cause</a></summary>
 
 [https://www.artazine.com/features/opinion-phunkism-flipping-nfts-for-a-good-cause](https://www.artazine.com/features/opinion-phunkism-flipping-nfts-for-a-good-cause)
@@ -568,8 +632,32 @@ description: written on Phunks in Chronological order
 
 <details>
 
-<summary>November 07, 2022 - <a href="https://www.decential.io/features/the-phygital-guerrillanbsp-the-blockchain-provocations-of-jet-williams">The Phygital Guerrilla: The Blockchain Provocations of Jet Williams, aka Teji</a></summary>
+<summary>November 07, 2022 - <a href="https://www.decential.io/features/the-phygital-guerrillanbsp-the-blockchain-provocations-of-jet-williams">The Phygital Guerrilla: The Blockchain Provocations of Teji</a></summary>
 
 [https://www.decential.io/features/the-phygital-guerrillanbsp-the-blockchain-provocations-of-jet-williams](https://www.decential.io/features/the-phygital-guerrillanbsp-the-blockchain-provocations-of-jet-williams)
+
+</details>
+
+<details>
+
+<summary>December 12, 2022 - <a href="https://www.todaynftnews.com/what-are-nft-derivatives-what-separates-them-from-original-nfts/">What are NFT Derivatives &#x26; what separates them from original</a></summary>
+
+[https://www.todaynftnews.com/what-are-nft-derivatives-what-separates-them-from-original-nfts/](https://www.todaynftnews.com/what-are-nft-derivatives-what-separates-them-from-original-nfts/)
+
+</details>
+
+<details>
+
+<summary>December 31, 2022 - <a href="https://artplugged.co.uk/nfts-a-recap-of-non-fungible-tokens-most-notable-moments-in-2022/">NFTs: A Recap Of Most Notable Moments In 2022</a></summary>
+
+[https://artplugged.co.uk/nfts-a-recap-of-non-fungible-tokens-most-notable-moments-in-2022/](https://artplugged.co.uk/nfts-a-recap-of-non-fungible-tokens-most-notable-moments-in-2022/)
+
+</details>
+
+<details>
+
+<summary>January 2, 2023 - <a href="https://techmoneyculture.com/the-50-biggest-nft-stories-of-2022/">The 50 Biggest NFT Stories of 2022</a></summary>
+
+[https://techmoneyculture.com/the-50-biggest-nft-stories-of-2022/](https://techmoneyculture.com/the-50-biggest-nft-stories-of-2022/)
 
 </details>
