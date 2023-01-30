@@ -2,7 +2,7 @@
 description: written on Phunks in Chronological order
 ---
 
-# ➖ ARTICLES
+# 📚 ARTICLES
 
 ****
 
@@ -144,7 +144,7 @@ description: written on Phunks in Chronological order
 
 <details>
 
-<summary>November 14, 2022 - <a href="https://medium.com/@joanwestenberg/we-the-phunks-a-small-manifesto-for-an-indie-web3-28d1d5744154">We the Phunks: A Small Manifesto For An Indie Web3</a></summary>
+<summary>November 14, 2021 - <a href="https://medium.com/@joanwestenberg/we-the-phunks-a-small-manifesto-for-an-indie-web3-28d1d5744154">We the Phunks: A Small Manifesto For An Indie Web3</a></summary>
 
 [https://medium.com/@joanwestenberg/we-the-phunks-a-small-manifesto-for-an-indie-web3-28d1d5744154](https://medium.com/@joanwestenberg/we-the-phunks-a-small-manifesto-for-an-indie-web3-28d1d5744154)
 
@@ -528,9 +528,25 @@ description: written on Phunks in Chronological order
 
 <details>
 
+<summary>May 21, 2022 - <a href="https://blog.seanbonner.com/2022/05/21/marilyn-and-punks-and-art-oh-my/">MARILYN AND PUNKS AND ART, OH MY!</a></summary>
+
+[https://blog.seanbonner.com/2022/05/21/marilyn-and-punks-and-art-oh-my/](https://blog.seanbonner.com/2022/05/21/marilyn-and-punks-and-art-oh-my/)
+
+</details>
+
+<details>
+
 <summary>August 19th, 2022 - <a href="https://mirror.xyz/0x753e9283e7bD8Be3a74097B7186Ea9DeFFAEe071/L0pdxVIR7cg6NARt9rq50VfqCSxPuijLqNgoJdurusQ">Phresh Kicks: TEJI's Release of Phunk Force 1 </a></summary>
 
 [https://mirror.xyz/0x753e9283e7bD8Be3a74097B7186Ea9DeFFAEe071/L0pdxVIR7cg6NARt9rq50VfqCSxPuijLqNgoJdurusQ](https://mirror.xyz/0x753e9283e7bD8Be3a74097B7186Ea9DeFFAEe071/L0pdxVIR7cg6NARt9rq50VfqCSxPuijLqNgoJdurusQ)
+
+</details>
+
+<details>
+
+<summary>September 29, 2022 - <a href="https://seanbonner.medium.com/online-identity-ownership-b379973cfdb3">Online Identity &#x26; Ownership</a></summary>
+
+[https://seanbonner.medium.com/online-identity-ownership-b379973cfdb3](https://seanbonner.medium.com/online-identity-ownership-b379973cfdb3)
 
 </details>
 
