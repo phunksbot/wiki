@@ -2,11 +2,15 @@
 description: Twitter threads on Phunks in Chronological order (newest on top).
 ---
 
-# ➖ THREADS
+# 🐦 THREADS
 
 {% hint style="info" %}
 Takes a minute to load, but it's worth it. Just click the tweet pic to see the whole thread.
 {% endhint %}
+
+{% embed url="https://twitter.com/Jclineshow/status/1621548179597697024?s=20&t=RefApPxv_r_3_0iJ59NdFg" %}
+**FEBRUARY 03, 2022**
+{% endembed %}
 
 {% embed url="https://twitter.com/tbc_eth/status/1617753342511575040?s=20&t=1amiepW5oPGUP3CgpGWZXw" %}
 **JANUARY 24, 2023**
@@ -18,6 +22,10 @@ Takes a minute to load, but it's worth it. Just click the tweet pic to see the w
 
 {% embed url="https://twitter.com/OG_Kenobi_Hello/status/1612845235209637890?s=20&t=CYws0FT4KfV8fcZjmZYM9Q" %}
 **JANUARY 10, 2023**
+{% endembed %}
+
+{% embed url="https://twitter.com/DerekDiggler_/status/1612208042241822720?s=20&t=RefApPxv_r_3_0iJ59NdFg" %}
+**JANUARY 08, 2023**
 {% endembed %}
 
 {% embed url="https://twitter.com/dresmars/status/1611325328181559302?s=20&t=CYws0FT4KfV8fcZjmZYM9Q" %}
