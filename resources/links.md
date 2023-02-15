@@ -114,14 +114,6 @@ description: AND DATA RESOURCES
 
 <details>
 
-<summary>Genie NFT Aggregator</summary>
-
-[https://www.genie.xyz/collection/0xf07468ead8cf26c752c676e43c814fee9c8cf402](https://www.genie.xyz/collection/0xf07468ead8cf26c752c676e43c814fee9c8cf402)
-
-</details>
-
-<details>
-
 <summary>GEM NFT Aggregator</summary>
 
 [https://www.gem.xyz/collection/crypto-phunks/](https://www.gem.xyz/collection/crypto-phunks/)
@@ -133,14 +125,6 @@ description: AND DATA RESOURCES
 <summary>Rarible Marketplace</summary>
 
 [https://rarible.com/collection/0xf07468ead8cf26c752c676e43c814fee9c8cf402/items](https://rarible.com/collection/0xf07468ead8cf26c752c676e43c814fee9c8cf402/items)
-
-</details>
-
-<details>
-
-<summary>ZORA Marketplace</summary>
-
-[https://zora.co/collections/0xf07468eAd8cf26c752C676E43C814FEe9c8CF402](https://zora.co/collections/0xf07468eAd8cf26c752C676E43C814FEe9c8CF402)
 
 </details>
 
@@ -285,10 +269,6 @@ description: AND DATA RESOURCES
 * [@CryptoPhunks](https://twitter.com/CryptoPhunks)
 
 ## OTHER
-
-{% hint style="warning" %}
-Original Developers [left](history.md) the project in Juli 2021, still they kept OG website running.
-{% endhint %}
 
 <details>
 
