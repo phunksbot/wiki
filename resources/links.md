@@ -106,6 +106,14 @@ description: AND DATA RESOURCES
 
 <details>
 
+<summary>BLUR Marketplace (<mark style="color:green;">0% Fees</mark>)</summary>
+
+[https://blur.io/collection/crypto-phunks](https://blur.io/collection/crypto-phunks)
+
+</details>
+
+<details>
+
 <summary>Genie NFT Aggregator</summary>
 
 [https://www.genie.xyz/collection/0xf07468ead8cf26c752c676e43c814fee9c8cf402](https://www.genie.xyz/collection/0xf07468ead8cf26c752c676e43c814fee9c8cf402)
