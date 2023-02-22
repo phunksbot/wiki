@@ -2,7 +2,7 @@
 description: PHUNK ROCK POSTERS MADE WITH LOVE BY OG KENOBI
 ---
 
-# ➖ POSTERS
+# 🟢 POSTERS
 
 "Please allow me to introduce myself.." by [@OG\_Kenobi\_Hello](https://twitter.com/OG\_Kenobi\_Hello)
 

@@ -2,7 +2,7 @@
 description: if you feel Phunky and want to be Creative
 ---
 
-# ➖ MEDIA KIT
+# 💠 MEDIA KIT
 
 ## Phunks Font Style
 

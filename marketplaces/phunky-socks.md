@@ -2,7 +2,7 @@
 description: BUY AND SELL REAL PHUNKY SOCKS WITH DIGITAL CURRENCY. DELIVERED ON DEMAND.
 ---
 
-# 🔲 PHUNKY SOCKS
+# 🟦 PHUNKY SOCKS
 
 [Phunkysocks](https://phunkysocks.website/app/home) is experiment on Ethereum blockchain where real physical pair of Socks, limited to 50 pairs, are backed by 22 ERC20 tokens each. $[PHUNKYSOCKS](https://etherscan.io/token/0x1f2efab635ec3ec8618101103db4e1f718434a71) tokens can be used to trade, swap or to be burned for real pair of Phunky Socks shipped anywhere in the world.
 

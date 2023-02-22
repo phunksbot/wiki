@@ -2,7 +2,7 @@
 description: made by Phunk Pham, meant to be contemplated in silence
 ---
 
-# ➖ CURATED
+# 🎭 CURATED
 
 Artists: [wolfgangeth](https://twitter.com/wolfgangeth) [PhunkyVasilios](https://twitter.com/PhunkyVasilios) [The\_MegaVega](https://twitter.com/The\_MegaVega) [VeryWilliam3](https://twitter.com/VeryWilliam3) [dovetailNFT](https://twitter.com/dovetailNFT) [Pauly0x](https://twitter.com/Pauly0x) [NfTenchi](https://twitter.com/NfTenchi)
 

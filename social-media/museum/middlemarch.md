@@ -2,7 +2,7 @@
 description: GENIUS.COM CO-FOUNDER MIDDLEMARCH ON PHUNKS CONCEPTUAL ART
 ---
 
-# ➖ MIDDLEMARCH
+# 🟠 MIDDLEMARCH
 
 in no particular order, made by [@dumbnamenumbers](https://twitter.com/dumbnamenumbers)
 

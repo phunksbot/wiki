@@ -2,7 +2,7 @@
 description: WELCOME TO AMAZING SERIES OF ABY
 ---
 
-# ➖ ABY's
+# 🔵 ABY's
 
 phunks story mode series by [@easunlu](https://twitter.com/easunlu)
 
