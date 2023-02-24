@@ -164,7 +164,7 @@ Programming Language: [TypeScript87.3%](https://github.com/shep-eth/phunk-wallpa
 
 Coder [@shep\_eth](https://twitter.com/shep\_eth)
 
-[LIVE DEMO](https://phunk-wallpaper.vercel.app/)
+[LIVE DEMO](https://phunk-wallpaper.vercel.app/8770)
 
 </details>
 
