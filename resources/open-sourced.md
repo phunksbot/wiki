@@ -88,7 +88,7 @@ Twitter [@PhunkStats](https://twitter.com/PhunkStats)
 
 <details>
 
-<summary><mark style="color:yellow;background-color:blue;">WIP</mark> Phunky Data</summary>
+<summary><mark style="color:blue;background-color:blue;">WIP</mark> Phunky Data</summary>
 
 Source Code: [https://github.com/theblockchaineth/PhunkyData](https://github.com/theblockchaineth/PhunkyData)
 
@@ -102,7 +102,7 @@ Coder [@tbc\_eth](https://twitter.com/tbc\_eth)
 
 <details>
 
-<summary><mark style="color:yellow;background-color:yellow;">WIP</mark> Volume tracker</summary>
+<summary><mark style="color:blue;background-color:yellow;">WIP</mark> Volume tracker</summary>
 
 Source Code: [https://github.com/tat2bu/erc721-sale-extractor](https://github.com/tat2bu/erc721-sale-extractor)
 
