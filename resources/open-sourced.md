@@ -110,6 +110,8 @@ Programming Language: <mark style="color:blue;">Python,</mark> <mark style="colo
 
 Coder [@albanow10](https://twitter.com/albanow10)
 
+LOCALHOST
+
 </details>
 
 <details>
@@ -120,9 +122,9 @@ Source Code: [https://gist.github.com/phunksbot/139ba9efc1d2c26e80b2109005d450e4
 
 Programming Language: <mark style="color:yellow;">JavaScript</mark>
 
-[LIVE DEMO](https://phunks.gitbook.io/knowledge-base/social-media/media/media-kit#cryptophunk-viewer)
-
 Coder [@iape\_](https://twitter.com/iape\_) forked from [@mclint\_](https://twitter.com/mclint\_)
+
+[LIVE DEMO](https://phunks.gitbook.io/knowledge-base/social-media/media/media-kit#cryptophunk-viewer)
 
 </details>
 
@@ -138,7 +140,7 @@ Coder [@dumbnamenumbers](https://twitter.com/dumbnamenumbers)
 
 Twitter [@CryptoPhunksV1](https://twitter.com/CryptoPhunksV1)
 
-Website [v1phunks.io](https://www.v1phunks.io/)
+[LIVE DEMO](https://www.v1phunks.io/)
 
 </details>
 
