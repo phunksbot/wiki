@@ -88,7 +88,7 @@ Twitter [@PhunkStats](https://twitter.com/PhunkStats)
 
 <details>
 
-<summary><em><mark style="color:green;background-color:green;">active</mark></em> Phunky Data</summary>
+<summary><em><mark style="color:green;background-color:green;">active</mark></em> <em><mark style="color:orange;background-color:orange;">API</mark></em> Phunky Data</summary>
 
 Source Code: [https://github.com/theblockchaineth/PhunkyData](https://github.com/theblockchaineth/PhunkyData)
 
