@@ -246,7 +246,7 @@ Coder [@TEJITOPIA](https://twitter.com/TEJITOPIA)
 
 <details>
 
-<summary><em><mark style="color:red;background-color:red;">depreciated</mark></em> PhunkBOT V1 </summary>
+<summary><em><mark style="color:red;background-color:red;">deprecated</mark></em> PhunkBOT V1 </summary>
 
 Source Code: [https://github.com/albanow/phunks-nll-twitter-bot](https://github.com/albanow/phunks-nll-twitter-bot)
 
@@ -262,7 +262,7 @@ Twitter [@PhunkBot](https://twitter.com/PhunkBot)
 
 <details>
 
-<summary><em><mark style="color:red;background-color:red;">depreciated</mark></em> EtherscanBOT </summary>
+<summary><em><mark style="color:red;background-color:red;">deprecated</mark></em> EtherscanBOT </summary>
 
 Source Code: [https://github.com/albanow/etherscan-sales-bot](https://github.com/albanow/etherscan-sales-bot)
 
