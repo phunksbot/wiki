@@ -172,7 +172,7 @@ Coder [@TreeGuyJON](https://twitter.com/TreeGuyJON)
 
 <summary>CreatePhunk</summary>
 
-Source Code: [https://github.com/KenTheWhaleGoddess/V3PhunksThing](https://github.com/KenTheWhaleGoddess/V3PhunksThing)
+Source Code: [https://github.com/albanow/create\_phunk](https://github.com/albanow/create\_phunk)
 
 Programming Language: <mark style="color:blue;">Python,</mark> <mark style="color:green;">Shell</mark>
 
@@ -184,7 +184,7 @@ Coder [@albanow10](https://twitter.com/albanow10)
 
 <summary>On-Chain Charity</summary>
 
-Source Code: [https://github.com/albanow/create\_phunk](https://github.com/albanow/create\_phunk)
+Source Code: [https://github.com/KenTheWhaleGoddess/V3PhunksThing](https://github.com/KenTheWhaleGoddess/V3PhunksThing)
 
 Programming Language: <mark style="color:red;">Solidity</mark><mark style="color:purple;">,</mark> <mark style="color:yellow;">JavaScript</mark>
 
