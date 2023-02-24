@@ -276,7 +276,7 @@ Contributors [@theblockchain.eth](https://twitter.com/tbc\_eth)
 
 <details>
 
-<summary>Phunks v4 (<mark style="color:orange;background-color:orange;">archive</mark>)</summary>
+<summary><mark style="color:orange;background-color:orange;">archive</mark> Phunks v4 </summary>
 
 Source Code: [https://github.com/tfnlab/V4Phunks](https://github.com/tfnlab/V4Phunks)
 
@@ -288,7 +288,7 @@ Coder [@tfnlab](https://twitter.com/tfnlab)
 
 <details>
 
-<summary>2D FrankenPhunks (<mark style="color:orange;background-color:orange;">archive</mark>)</summary>
+<summary>2D FrankenPhunks <mark style="color:orange;background-color:orange;">archive</mark></summary>
 
 Source: [https://github.com/sekaieth/2DFrankenPhunks](https://github.com/sekaieth/2DFrankenPhunks)
 
@@ -300,7 +300,7 @@ Coder [@sekaieth](https://twitter.com/sekaieth)
 
 <details>
 
-<summary>PhunkBOT V1 (<mark style="color:red;background-color:red;">depreciated</mark>)</summary>
+<summary>PhunkBOT V1 <mark style="color:red;background-color:red;">depreciated</mark></summary>
 
 Source Code: [https://github.com/albanow/phunks-nll-twitter-bot](https://github.com/albanow/phunks-nll-twitter-bot)
 
@@ -316,7 +316,7 @@ Twitter [@PhunkBot](https://twitter.com/PhunkBot)
 
 <details>
 
-<summary>EtherscanBOT (<mark style="color:red;background-color:red;">depreciated</mark>)</summary>
+<summary>EtherscanBOT <mark style="color:red;background-color:red;">depreciated</mark></summary>
 
 Source Code: [https://github.com/albanow/etherscan-sales-bot](https://github.com/albanow/etherscan-sales-bot)
 
@@ -332,7 +332,7 @@ Twitter [@PhunkBot](https://twitter.com/PhunkBot)
 
 <details>
 
-<summary>CryptoPhunksDAO (<mark style="color:red;background-color:red;">inactive</mark>)</summary>
+<summary>CryptoPhunksDAO <mark style="color:red;background-color:red;">inactive</mark></summary>
 
 Source Code: [https://github.com/Web3Master/cryptophunks](https://github.com/Web3Master/cryptophunks)
 
