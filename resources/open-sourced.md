@@ -88,7 +88,7 @@ Twitter [@PhunkStats](https://twitter.com/PhunkStats)
 
 <details>
 
-<summary><mark style="color:blue;background-color:blue;">WIP</mark> Phunky Data</summary>
+<summary><mark style="color:green;background-color:green;">active</mark> Phunky Data</summary>
 
 Source Code: [https://github.com/theblockchaineth/PhunkyData](https://github.com/theblockchaineth/PhunkyData)
 
@@ -102,7 +102,7 @@ Coder [@tbc\_eth](https://twitter.com/tbc\_eth)
 
 <details>
 
-<summary><mark style="color:blue;background-color:yellow;">WIP</mark> Volume tracker</summary>
+<summary><mark style="color:blue;background-color:blue;">WIP</mark> Volume tracker</summary>
 
 Source Code: [https://github.com/tat2bu/erc721-sale-extractor](https://github.com/tat2bu/erc721-sale-extractor)
 
@@ -158,7 +158,7 @@ Coder [@TreeGuyJON](https://twitter.com/TreeGuyJON)
 
 <details>
 
-<summary><mark style="color:yellow;background-color:yellow;">WIP</mark> PhunksMarketGraph</summary>
+<summary><mark style="color:blue;background-color:blue;">WIP</mark> PhunksMarketGraph</summary>
 
 Source Code: [https://github.com/StarKeyJON/CryptoPhunksMarketGraph](https://github.com/StarKeyJON/CryptoPhunksMarketGraph)
 
@@ -182,7 +182,7 @@ Coder [@albanow10](https://twitter.com/albanow10)
 
 <details>
 
-<summary><mark style="color:yellow;background-color:yellow;">WIP</mark> On-Chain Charity</summary>
+<summary><mark style="color:blue;background-color:blue;">WIP</mark> On-Chain Charity</summary>
 
 Source Code: [https://github.com/KenTheWhaleGoddess/V3PhunksThing](https://github.com/KenTheWhaleGoddess/V3PhunksThing)
 
@@ -194,7 +194,7 @@ Coder [@whalegoddess](https://twitter.com/whalegoddess)
 
 <details>
 
-<summary><mark style="color:yellow;background-color:yellow;">WIP</mark> Phunk Auction Auto-Bidder</summary>
+<summary><mark style="color:blue;background-color:blue;">WIP</mark> Phunk Auction Auto-Bidder</summary>
 
 Source Code: [https://gist.github.com/RogerPodacter/4dccaa65d13f940bd0d87e41276b182b](https://gist.github.com/RogerPodacter/4dccaa65d13f940bd0d87e41276b182b)
 
@@ -264,7 +264,7 @@ Contributors [@phunk2243](https://twitter.com/phunk2243)
 
 <details>
 
-<summary><mark style="color:yellow;background-color:yellow;">WIP</mark> Phunky Bootstrap 5 CSS Template</summary>
+<summary><mark style="color:blue;background-color:blue;">WIP</mark> Phunky Bootstrap 5 CSS Template</summary>
 
 Source Code: [https://github.com/theblockchaineth/phunks-bootstrap-css](https://github.com/theblockchaineth/phunks-bootstrap-css)
 
