@@ -8,7 +8,7 @@ description: written on Phunks in Chronological order
 
 <details>
 
-<summary><mark style="color:purple;background-color:purple;"><strong>July 11, 2021</strong></mark><strong> -</strong> <a href="https://phunks.medium.com/the-cryptophunks-manifesto-785c7348e558"><strong>The CryptoPhunks Manifesto</strong></a><strong></strong></summary>
+<summary><mark style="background-color:blue;"><strong>July 11, 2021</strong></mark><strong> -</strong> <a href="https://phunks.medium.com/the-cryptophunks-manifesto-785c7348e558"><strong>The CryptoPhunks Manifesto</strong></a><strong></strong></summary>
 
 ****[**https://phunks.medium.com/the-cryptophunks-manifesto-785c7348e558**](https://phunks.medium.com/the-cryptophunks-manifesto-785c7348e558)****
 
