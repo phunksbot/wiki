@@ -8,7 +8,7 @@ description: written on Phunks in Chronological order
 
 <details>
 
-<summary><mark style="background-color:yellow;"><strong>July 11, 2021</strong></mark><strong> </strong> <a href="https://phunks.medium.com/the-cryptophunks-manifesto-785c7348e558"><strong>The CryptoPhunks Manifesto</strong></a><strong></strong></summary>
+<summary><strong>July 11, 2021 -</strong> <a href="https://phunks.medium.com/the-cryptophunks-manifesto-785c7348e558"><strong>The CryptoPhunks Manifesto</strong></a><strong></strong></summary>
 
 ****[**https://phunks.medium.com/the-cryptophunks-manifesto-785c7348e558**](https://phunks.medium.com/the-cryptophunks-manifesto-785c7348e558)****
 
@@ -16,7 +16,7 @@ description: written on Phunks in Chronological order
 
 <details>
 
-<summary><mark style="background-color:yellow;"><strong>July 12, 2021</strong></mark><a href="https://www.theouterrealm.io/blog/cryptopunks-copyrights"> <strong>CryptoPunks and Copyrights: What’s All The Fuss About?</strong></a><strong></strong></summary>
+<summary><strong>July 12, 2021 -</strong> <a href="https://www.theouterrealm.io/blog/cryptopunks-copyrights"><strong>CryptoPunks and Copyrights: What’s All The Fuss About?</strong></a><strong></strong></summary>
 
 ****[**https://www.theouterrealm.io/blog/cryptopunks-copyrights**](https://www.theouterrealm.io/blog/cryptopunks-copyrights)****
 
@@ -24,7 +24,7 @@ description: written on Phunks in Chronological order
 
 <details>
 
-<summary><mark style="background-color:yellow;"><strong>July 12, 2021</strong></mark><strong> </strong> <a href="https://newday.substack.com/p/hydra?r=ot32x&#x26;s=r"><strong>The Hydra</strong></a><strong></strong></summary>
+<summary><strong>July 12, 2021 -</strong> <a href="https://newday.substack.com/p/hydra?r=ot32x&#x26;s=r"><strong>The Hydra</strong></a><strong></strong></summary>
 
 ****[**https://newday.substack.com/p/hydra?r=ot32x\&s=r**](https://newday.substack.com/p/hydra?r=ot32x\&s=r)****
 
@@ -32,7 +32,7 @@ description: written on Phunks in Chronological order
 
 <details>
 
-<summary><mark style="background-color:blue;"><strong>July 17, 2021</strong></mark><strong> -</strong> <a href="https://medium.com/all-things-fansi/%E6%B2%92%E6%9C%89%E5%81%87%E8%B2%A8%E7%9A%84%E4%B8%96%E7%95%8C-%E9%82%84%E9%9C%80%E8%A6%81%E7%89%88%E6%AC%8A%E5%97%8E-36fe76f53a13"><strong>Chinese Article on Phunks</strong></a><strong></strong></summary>
+<summary><strong>July 17, 2021 -</strong> <a href="https://medium.com/all-things-fansi/%E6%B2%92%E6%9C%89%E5%81%87%E8%B2%A8%E7%9A%84%E4%B8%96%E7%95%8C-%E9%82%84%E9%9C%80%E8%A6%81%E7%89%88%E6%AC%8A%E5%97%8E-36fe76f53a13"><strong>Chinese Article on Phunks</strong></a><strong></strong></summary>
 
 ****[**https://medium.com/all-things-fansi/%E6%B2%92%E6%9C%89%E5%81%87%E8%B2%A8%E7%9A%84%E4%B8%96%E7%95%8C-%E9%82%84%E9%9C%80%E8%A6%81%E7%89%88%E6%AC%8A%E5%97%8E-36fe76f53a13**](https://medium.com/all-things-fansi/%E6%B2%92%E6%9C%89%E5%81%87%E8%B2%A8%E7%9A%84%E4%B8%96%E7%95%8C-%E9%82%84%E9%9C%80%E8%A6%81%E7%89%88%E6%AC%8A%E5%97%8E-36fe76f53a13)****
 
@@ -40,7 +40,7 @@ description: written on Phunks in Chronological order
 
 <details>
 
-<summary><mark style="background-color:purple;"><strong>July 20, 2021</strong></mark><strong> -</strong> <a href="https://hackernoon.com/cryptophunks-just-a-flip-or-a-movement-4p2o372t"><strong>CryptoPhunks: Just a Flip or a Movement?</strong></a><strong></strong></summary>
+<summary><strong>July 20, 2021 -</strong> <a href="https://hackernoon.com/cryptophunks-just-a-flip-or-a-movement-4p2o372t"><strong>CryptoPhunks: Just a Flip or a Movement?</strong></a><strong></strong></summary>
 
 ****[**https://hackernoon.com/cryptophunks-just-a-flip-or-a-movement-4p2o372t**](https://hackernoon.com/cryptophunks-just-a-flip-or-a-movement-4p2o372t)****
 
@@ -48,7 +48,7 @@ description: written on Phunks in Chronological order
 
 <details>
 
-<summary><mark style="background-color:orange;"><strong>July 20, 2021</strong></mark><strong> -</strong> <a href="http://blog.seanbonner.com/tag/cryptophunks"><strong>Adventures from the frontlines of the IP wars</strong></a><strong></strong></summary>
+<summary><strong>July 20, 2021 -</strong> <a href="http://blog.seanbonner.com/tag/cryptophunks"><strong>Adventures from the frontlines of the IP wars</strong></a><strong></strong></summary>
 
 ****[**http://blog.seanbonner.com/tag/cryptophunks**](http://blog.seanbonner.com/tag/cryptophunks)****
 
@@ -56,7 +56,7 @@ description: written on Phunks in Chronological order
 
 <details>
 
-<summary><mark style="background-color:red;"><strong>July 20, 2021</strong></mark><strong> -</strong> <a href="https://news.artnet.com/news-pro/kenny-schachter-july-nft-opus-1990514"><strong>In the Wild West of NFTs</strong></a><strong></strong></summary>
+<summary><strong>July 20, 2021 -</strong> <a href="https://news.artnet.com/news-pro/kenny-schachter-july-nft-opus-1990514"><strong>In the Wild West of NFTs</strong></a><strong></strong></summary>
 
 ****[**https://news.artnet.com/news-pro/kenny-schachter-july-nft-opus-1990514**](https://news.artnet.com/news-pro/kenny-schachter-july-nft-opus-1990514)****
 
@@ -64,7 +64,7 @@ description: written on Phunks in Chronological order
 
 <details>
 
-<summary><mark style="background-color:yellow;">July 25, 2021</mark> - <a href="https://medium.com/sidechain/cryptophunks-influencer-disclosures-and-nba-top-shot-sentiment-pardon-the-gas-episode-1-aa923272f79e">Podcast Cryptopunks vs. Cryptophunks</a></summary>
+<summary>July 25, 2021 - <a href="https://medium.com/sidechain/cryptophunks-influencer-disclosures-and-nba-top-shot-sentiment-pardon-the-gas-episode-1-aa923272f79e">Podcast Cryptopunks vs. Cryptophunks</a></summary>
 
 [https://medium.com/sidechain/cryptophunks-influencer-disclosures-and-nba-top-shot-sentiment-pardon-the-gas-episode-1-aa923272f79e](https://medium.com/sidechain/cryptophunks-influencer-disclosures-and-nba-top-shot-sentiment-pardon-the-gas-episode-1-aa923272f79e)
 
@@ -72,7 +72,7 @@ description: written on Phunks in Chronological order
 
 <details>
 
-<summary><mark style="background-color:green;">August 17, 2021</mark> - <a href="https://blog.mercuryo.io/post/explained-by-mercuryo-27">Explained by Mercuryo #27</a></summary>
+<summary>August 17, 2021 - <a href="https://blog.mercuryo.io/post/explained-by-mercuryo-27">Explained by Mercuryo #27</a></summary>
 
 [https://blog.mercuryo.io/post/explained-by-mercuryo-27](https://blog.mercuryo.io/post/explained-by-mercuryo-27)
 
