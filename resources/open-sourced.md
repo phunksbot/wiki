@@ -24,7 +24,7 @@ Twitter [@NotLarvaLabs](https://twitter.com/NotLarvaLabs)
 
 <details>
 
-<summary>Phunks Auction House</summary>
+<summary><mark style="color:green;background-color:green;">active</mark> Phunks Auction House</summary>
 
 Source Code: [https://github.com/Crypto-Phunks/auction-house](https://github.com/Crypto-Phunks/auction-house)
 
@@ -42,7 +42,21 @@ Twitter [@PhunksAuction](https://twitter.com/PhunksAuction)
 
 <details>
 
-<summary>PhunkBOT V2</summary>
+<summary><mark style="color:green;background-color:green;">active</mark> CryptoPunks.com Website</summary>
+
+Source Code: [https://github.com/soupydolph/CryptoPhunks](https://github.com/soupydolph/CryptoPhunks)
+
+Programming Language: <mark style="color:purple;">TypeScript 88.9%,</mark> CSS 6.5%, <mark style="color:red;">HTML 2.6%</mark><mark style="color:purple;">,</mark> <mark style="color:yellow;">JavaScript 2.0%</mark>
+
+Coder [@soupydolph](https://twitter.com/soupydolph)
+
+[LIVE DEMO](https://illustrious-panda-1d7c89.netlify.app/)
+
+</details>
+
+<details>
+
+<summary><mark style="color:green;background-color:green;">active</mark> PhunkBOT V2</summary>
 
 Source Code: [https://github.com/Crypto-Phunks/nft-sales-twitter-bot](https://github.com/Crypto-Phunks/nft-sales-twitter-bot)
 
@@ -58,49 +72,7 @@ Twitter [@PhunkBot](https://twitter.com/PhunkBot)
 
 <details>
 
-<summary>Phunky Data</summary>
-
-Source Code: [https://github.com/theblockchaineth/PhunkyData](https://github.com/theblockchaineth/PhunkyData)
-
-Programming Language: <mark style="color:yellow;">JavaScript 96.6%,</mark> <mark style="color:green;">Shell 3.4%</mark>
-
-Coder [@tbc\_eth](https://twitter.com/tbc\_eth)
-
-[LIVE DEMO](https://data.phunky.dev/api/v2-phunks-nfts)
-
-</details>
-
-<details>
-
-<summary>CryptoPunks.com Website</summary>
-
-Source Code: [https://github.com/soupydolph/CryptoPhunks](https://github.com/soupydolph/CryptoPhunks)
-
-Programming Language: <mark style="color:purple;">TypeScript 88.9%,</mark> CSS 6.5%, <mark style="color:red;">HTML 2.6%</mark><mark style="color:purple;">,</mark> <mark style="color:yellow;">JavaScript 2.0%</mark>
-
-Coder [@soupydolph](https://twitter.com/soupydolph)
-
-[LIVE DEMO](https://illustrious-panda-1d7c89.netlify.app/)
-
-</details>
-
-<details>
-
-<summary>Volume tracker</summary>
-
-Source Code: [https://github.com/tat2bu/erc721-sale-extractor](https://github.com/tat2bu/erc721-sale-extractor)
-
-Programming Language: <mark style="color:purple;">TypeScript,</mark> <mark style="color:red;">HTML,</mark> <mark style="color:yellow;">JavaScript,</mark> <mark style="color:green;">Shell</mark>
-
-Coder [@tat2bu](https://twitter.com/tat2bu)
-
-[LIVE DEMO](http://phunks-data.herokuapp.com/app/)
-
-</details>
-
-<details>
-
-<summary>PhunkStats</summary>
+<summary><mark style="color:green;background-color:green;">active</mark> PhunkStats</summary>
 
 Source Code: [https://github.com/pedropregueiro/phunk-stats](https://github.com/pedropregueiro/phunk-stats)
 
@@ -116,7 +88,35 @@ Twitter [@PhunkStats](https://twitter.com/PhunkStats)
 
 <details>
 
-<summary>PhunksFloor</summary>
+<summary><mark style="color:yellow;background-color:yellow;">WIP</mark> Phunky Data</summary>
+
+Source Code: [https://github.com/theblockchaineth/PhunkyData](https://github.com/theblockchaineth/PhunkyData)
+
+Programming Language: <mark style="color:yellow;">JavaScript 96.6%,</mark> <mark style="color:green;">Shell 3.4%</mark>
+
+Coder [@tbc\_eth](https://twitter.com/tbc\_eth)
+
+[LIVE DEMO](https://data.phunky.dev/api/v2-phunks-nfts)
+
+</details>
+
+<details>
+
+<summary><mark style="color:yellow;background-color:yellow;">WIP</mark> Volume tracker</summary>
+
+Source Code: [https://github.com/tat2bu/erc721-sale-extractor](https://github.com/tat2bu/erc721-sale-extractor)
+
+Programming Language: <mark style="color:purple;">TypeScript,</mark> <mark style="color:red;">HTML,</mark> <mark style="color:yellow;">JavaScript,</mark> <mark style="color:green;">Shell</mark>
+
+Coder [@tat2bu](https://twitter.com/tat2bu)
+
+[LIVE DEMO](http://phunks-data.herokuapp.com/app/)
+
+</details>
+
+<details>
+
+<summary><mark style="color:red;background-color:red;">inactive</mark> PhunksFloor</summary>
 
 Source Code: [https://github.com/maximedotair/phunksfloor](https://github.com/maximedotair/phunksfloor)
 
@@ -132,7 +132,7 @@ Twitter [@PhunksFloor](https://twitter.com/PhunksFloor)
 
 <details>
 
-<summary>PhunkFinder</summary>
+<summary><mark style="color:red;background-color:red;">inactive</mark> PhunkFinder</summary>
 
 Source Code: [https://github.com/StarKeyJON/PhunkFinderv1](https://github.com/StarKeyJON/PhunkFinderv1)
 
@@ -146,7 +146,7 @@ Coder [@TreeGuyJON](https://twitter.com/TreeGuyJON)
 
 <details>
 
-<summary>PhunkyTweeter</summary>
+<summary><mark style="color:red;background-color:red;">inactive</mark> PhunkyTweeter</summary>
 
 Source Code: [https://github.com/StarKeyJON/phunky\_tweeter](https://github.com/StarKeyJON/phunky\_tweeter)
 
@@ -158,7 +158,7 @@ Coder [@TreeGuyJON](https://twitter.com/TreeGuyJON)
 
 <details>
 
-<summary>PhunksMarketGraph</summary>
+<summary><mark style="color:yellow;background-color:yellow;">WIP</mark> PhunksMarketGraph</summary>
 
 Source Code: [https://github.com/StarKeyJON/CryptoPhunksMarketGraph](https://github.com/StarKeyJON/CryptoPhunksMarketGraph)
 
@@ -170,7 +170,7 @@ Coder [@TreeGuyJON](https://twitter.com/TreeGuyJON)
 
 <details>
 
-<summary>CreatePhunk</summary>
+<summary><mark style="color:green;background-color:green;">active</mark> CreatePhunk</summary>
 
 Source Code: [https://github.com/albanow/create\_phunk](https://github.com/albanow/create\_phunk)
 
@@ -182,7 +182,7 @@ Coder [@albanow10](https://twitter.com/albanow10)
 
 <details>
 
-<summary>On-Chain Charity</summary>
+<summary><mark style="color:yellow;background-color:yellow;">WIP</mark> On-Chain Charity</summary>
 
 Source Code: [https://github.com/KenTheWhaleGoddess/V3PhunksThing](https://github.com/KenTheWhaleGoddess/V3PhunksThing)
 
@@ -194,7 +194,7 @@ Coder [@whalegoddess](https://twitter.com/whalegoddess)
 
 <details>
 
-<summary>Phunk Auction Auto-Bidder</summary>
+<summary><mark style="color:yellow;background-color:yellow;">WIP</mark> Phunk Auction Auto-Bidder</summary>
 
 Source Code: [https://gist.github.com/RogerPodacter/4dccaa65d13f940bd0d87e41276b182b](https://gist.github.com/RogerPodacter/4dccaa65d13f940bd0d87e41276b182b)
 
@@ -206,7 +206,7 @@ Coder [@dumbnamenumbers](https://twitter.com/dumbnamenumbers)
 
 <details>
 
-<summary>PhunkDAO Website</summary>
+<summary><mark style="color:red;background-color:red;">inactive</mark> PhunkDAO Website</summary>
 
 Source Code: [https://github.com/IshaanRawat/phunky](https://github.com/IshaanRawat/phunky)
 
@@ -222,7 +222,7 @@ Twitter [@Phunk\_DAO](https://twitter.com/Phunk\_DAO)
 
 <details>
 
-<summary>Phunk Viewer</summary>
+<summary><mark style="color:green;background-color:green;">active</mark> Phunk Viewer</summary>
 
 Source Code: [https://gist.github.com/phunksbot/139ba9efc1d2c26e80b2109005d450e4](https://gist.github.com/phunksbot/139ba9efc1d2c26e80b2109005d450e4)
 
@@ -236,7 +236,7 @@ Coder [@iape\_](https://twitter.com/iape\_) forked from [@mclint\_](https://twit
 
 <details>
 
-<summary>PhunksV1 Wrapper</summary>
+<summary><mark style="color:green;background-color:green;">active</mark> Phunks V1 Wrapper</summary>
 
 Source Code: [https://etherscan.io/address/0x235d49774139c218034c0571ba8f717773edd923#code](https://etherscan.io/address/0x235d49774139c218034c0571ba8f717773edd923#code)
 
@@ -252,7 +252,7 @@ Website [v1phunks.io](https://www.v1phunks.io/)
 
 <details>
 
-<summary>This Website</summary>
+<summary><mark style="color:green;background-color:green;">active</mark> This Website</summary>
 
 Source Code: [https://github.com/phunksbot/wiki](https://github.com/phunksbot/wiki)
 
@@ -264,7 +264,7 @@ Contributors [@phunk2243](https://twitter.com/phunk2243)
 
 <details>
 
-<summary>Phunky Bootstrap 5 CSS Template</summary>
+<summary><mark style="color:yellow;background-color:yellow;">WIP</mark> Phunky Bootstrap 5 CSS Template</summary>
 
 Source Code: [https://github.com/theblockchaineth/phunks-bootstrap-css](https://github.com/theblockchaineth/phunks-bootstrap-css)
 
