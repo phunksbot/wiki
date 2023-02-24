@@ -8,7 +8,7 @@ description: written on Phunks in Chronological order
 
 <details>
 
-<summary><mark style="background-color:blue;"><strong>July 11, 2021</strong></mark><strong> </strong> <a href="https://phunks.medium.com/the-cryptophunks-manifesto-785c7348e558"><strong>The CryptoPhunks Manifesto</strong></a><strong></strong></summary>
+<summary><mark style="background-color:yellow;"><strong>July 11, 2021</strong></mark><strong> </strong> <a href="https://phunks.medium.com/the-cryptophunks-manifesto-785c7348e558"><strong>The CryptoPhunks Manifesto</strong></a><strong></strong></summary>
 
 ****[**https://phunks.medium.com/the-cryptophunks-manifesto-785c7348e558**](https://phunks.medium.com/the-cryptophunks-manifesto-785c7348e558)****
 
@@ -16,7 +16,7 @@ description: written on Phunks in Chronological order
 
 <details>
 
-<summary><mark style="background-color:blue;"><strong>July 12, 2021</strong></mark><strong> </strong> <a href="https://www.theouterrealm.io/blog/cryptopunks-copyrights"><strong>CryptoPunks and Copyrights: What’s All The Fuss About?</strong></a><strong></strong></summary>
+<summary><mark style="background-color:yellow;"><strong>July 12, 2021</strong></mark><a href="https://www.theouterrealm.io/blog/cryptopunks-copyrights"> <strong>CryptoPunks and Copyrights: What’s All The Fuss About?</strong></a><strong></strong></summary>
 
 ****[**https://www.theouterrealm.io/blog/cryptopunks-copyrights**](https://www.theouterrealm.io/blog/cryptopunks-copyrights)****
 
@@ -24,7 +24,7 @@ description: written on Phunks in Chronological order
 
 <details>
 
-<summary><mark style="background-color:blue;"><strong>July 12, 2021</strong></mark><strong> -</strong> <a href="https://newday.substack.com/p/hydra?r=ot32x&#x26;s=r"><strong>The Hydra</strong></a><strong></strong></summary>
+<summary><mark style="background-color:yellow;"><strong>July 12, 2021</strong></mark><strong> </strong> <a href="https://newday.substack.com/p/hydra?r=ot32x&#x26;s=r"><strong>The Hydra</strong></a><strong></strong></summary>
 
 ****[**https://newday.substack.com/p/hydra?r=ot32x\&s=r**](https://newday.substack.com/p/hydra?r=ot32x\&s=r)****
 
