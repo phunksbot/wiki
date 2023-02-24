@@ -276,6 +276,30 @@ Contributors [@theblockchain.eth](https://twitter.com/tbc\_eth)
 
 <details>
 
+<summary>Phunks v4 (<mark style="background-color:orange;">archive</mark>)</summary>
+
+Source Code: [https://github.com/tfnlab/V4Phunks](https://github.com/tfnlab/V4Phunks)
+
+Programming Language: <mark style="color:yellow;">JavaScript</mark>
+
+Coder [@tfnlab](https://twitter.com/tfnlab)
+
+</details>
+
+<details>
+
+<summary>2D FrankenPhunks (<mark style="background-color:yellow;">archive</mark>)</summary>
+
+Source: [https://github.com/sekaieth/2DFrankenPhunks](https://github.com/sekaieth/2DFrankenPhunks)
+
+Programming Language: [JavaScript82.0%](https://github.com/sekaieth/2DFrankenPhunks/search?l=javascript) [CSS7.7%](https://github.com/sekaieth/2DFrankenPhunks/search?l=css) [Solidity6.8%](https://github.com/sekaieth/2DFrankenPhunks/search?l=solidity) [HTML3.3%](https://github.com/sekaieth/2DFrankenPhunks/search?l=html) [Shell0.2%](https://github.com/sekaieth/2DFrankenPhunks/search?l=shell)
+
+Coder [@sekaieth](https://twitter.com/sekaieth)
+
+</details>
+
+<details>
+
 <summary>PhunkBOT V1 (<mark style="color:red;">depreciated</mark>)</summary>
 
 Source Code: [https://github.com/albanow/phunks-nll-twitter-bot](https://github.com/albanow/phunks-nll-twitter-bot)
