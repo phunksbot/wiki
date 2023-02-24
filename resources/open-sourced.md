@@ -42,7 +42,7 @@ Twitter [@PhunksAuction](https://twitter.com/PhunksAuction)
 
 <details>
 
-<summary><em><mark style="color:green;background-color:green;">active</mark></em> CryptoPunks.com Website</summary>
+<summary><em><mark style="color:green;background-color:green;">active</mark></em> CryptoPhunks.com Website</summary>
 
 Source Code: [https://github.com/soupydolph/CryptoPhunks](https://github.com/soupydolph/CryptoPhunks)
 
