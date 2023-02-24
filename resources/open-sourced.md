@@ -226,7 +226,21 @@ Coder [@dumbnamenumbers](https://twitter.com/dumbnamenumbers)
 
 Source Code: [https://github.com/theblockchaineth/phunks-bootstrap-css](https://github.com/theblockchaineth/phunks-bootstrap-css)
 
+Programming Language: [CSS100.0%](https://github.com/theblockchaineth/phunks-bootstrap-css/search?l=css)
+
 Coder [@theblockchain.eth](https://twitter.com/tbc\_eth)
+
+</details>
+
+<details>
+
+<summary><em><mark style="color:blue;background-color:blue;">WIP</mark> </em> PHUNK FORCE1 Blender</summary>
+
+Source Code: [https://github.com/0xTeji/PHUNK-FORCE-1](https://github.com/0xTeji/PHUNK-FORCE-1)
+
+Programming Language: [Rich Text Format100.0%](https://github.com/0xTeji/PHUNK-FORCE-1/search?l=rich-text-format)
+
+Coder [@TEJITOPIA](https://twitter.com/TEJITOPIA)
 
 </details>
 
