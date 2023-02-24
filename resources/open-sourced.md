@@ -56,6 +56,20 @@ Coder [@soupydolph](https://twitter.com/soupydolph)
 
 <details>
 
+<summary><em><mark style="color:green;background-color:green;">active</mark></em> <em><mark style="color:orange;background-color:orange;">API</mark></em> Phunky Data</summary>
+
+Source Code: [https://github.com/theblockchaineth/PhunkyData](https://github.com/theblockchaineth/PhunkyData)
+
+Programming Language: <mark style="color:yellow;">JavaScript 96.6%,</mark> <mark style="color:green;">Shell 3.4%</mark>
+
+Coder [@tbc\_eth](https://twitter.com/tbc\_eth)
+
+[LIVE DEMO](https://data.phunky.dev/api/v2-phunks-nfts)
+
+</details>
+
+<details>
+
 <summary><em><mark style="color:green;background-color:green;">active</mark></em> PhunkBOT V2</summary>
 
 Source Code: [https://github.com/Crypto-Phunks/nft-sales-twitter-bot](https://github.com/Crypto-Phunks/nft-sales-twitter-bot)
@@ -83,20 +97,6 @@ Coder [@pedropregueiro](https://twitter.com/pedropregueiro) [@krel404](https://t
 Twitter [@PhunkStats](https://twitter.com/PhunkStats)
 
 [LIVE DEMO](https://twitter.com/PhunkStats)
-
-</details>
-
-<details>
-
-<summary><em><mark style="color:green;background-color:green;">active</mark></em> <em><mark style="color:orange;background-color:orange;">API</mark></em> Phunky Data</summary>
-
-Source Code: [https://github.com/theblockchaineth/PhunkyData](https://github.com/theblockchaineth/PhunkyData)
-
-Programming Language: <mark style="color:yellow;">JavaScript 96.6%,</mark> <mark style="color:green;">Shell 3.4%</mark>
-
-Coder [@tbc\_eth](https://twitter.com/tbc\_eth)
-
-[LIVE DEMO](https://data.phunky.dev/api/v2-phunks-nfts)
 
 </details>
 
