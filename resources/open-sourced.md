@@ -6,7 +6,7 @@ description: PHUNKS CONTRIBUTION TO GLOBAL NFT COMMUNITY ON GITHUB
 
 <details>
 
-<summary>Phunks Marketplace</summary>
+<summary><mark style="color:green;background-color:green;">active</mark> Phunks Marketplace</summary>
 
 Source Code: [https://github.com/Crypto-Phunks/CryptoPhunksMarket](https://github.com/Crypto-Phunks/CryptoPhunksMarket)
 
@@ -288,7 +288,7 @@ Coder [@tfnlab](https://twitter.com/tfnlab)
 
 <details>
 
-<summary>2D FrankenPhunks <mark style="color:orange;background-color:orange;">archive</mark></summary>
+<summary><mark style="color:orange;background-color:orange;">archive</mark> 2D FrankenPhunks </summary>
 
 Source: [https://github.com/sekaieth/2DFrankenPhunks](https://github.com/sekaieth/2DFrankenPhunks)
 
@@ -300,7 +300,7 @@ Coder [@sekaieth](https://twitter.com/sekaieth)
 
 <details>
 
-<summary>PhunkBOT V1 <mark style="color:red;background-color:red;">depreciated</mark></summary>
+<summary><mark style="color:red;background-color:red;">depreciated</mark> PhunkBOT V1 </summary>
 
 Source Code: [https://github.com/albanow/phunks-nll-twitter-bot](https://github.com/albanow/phunks-nll-twitter-bot)
 
@@ -316,7 +316,7 @@ Twitter [@PhunkBot](https://twitter.com/PhunkBot)
 
 <details>
 
-<summary>EtherscanBOT <mark style="color:red;background-color:red;">depreciated</mark></summary>
+<summary><mark style="color:red;background-color:red;">depreciated</mark> EtherscanBOT </summary>
 
 Source Code: [https://github.com/albanow/etherscan-sales-bot](https://github.com/albanow/etherscan-sales-bot)
 
@@ -332,7 +332,7 @@ Twitter [@PhunkBot](https://twitter.com/PhunkBot)
 
 <details>
 
-<summary>CryptoPhunksDAO <mark style="color:red;background-color:red;">inactive</mark></summary>
+<summary><mark style="color:red;background-color:red;">inactive</mark> CryptoPhunksDAO </summary>
 
 Source Code: [https://github.com/Web3Master/cryptophunks](https://github.com/Web3Master/cryptophunks)
 
