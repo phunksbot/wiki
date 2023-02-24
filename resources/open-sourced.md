@@ -320,7 +320,7 @@ Coder [@TreeGuyJON](https://twitter.com/TreeGuyJON)
 
 <details>
 
-<summary><mark style="color:orange;background-color:orange;">archive</mark> Phunks v4 </summary>
+<summary><mark style="color:orange;background-color:orange;">derivative</mark> Phunks v4 </summary>
 
 Source Code: [https://github.com/tfnlab/V4Phunks](https://github.com/tfnlab/V4Phunks)
 
@@ -332,7 +332,7 @@ Coder [@tfnlab](https://twitter.com/tfnlab)
 
 <details>
 
-<summary><mark style="color:orange;background-color:orange;">archive</mark> 2D FrankenPhunks </summary>
+<summary><mark style="color:orange;background-color:orange;">derivative</mark> 2D FrankenPhunks </summary>
 
 Source: [https://github.com/sekaieth/2DFrankenPhunks](https://github.com/sekaieth/2DFrankenPhunks)
 
