@@ -180,7 +180,7 @@ Source Code: [https://github.com/phunksbot/wiki](https://github.com/phunksbot/wi
 
 Coder [@iape\_](https://twitter.com/iape\_)
 
-Contributors [@phunk2243](https://twitter.com/phunk2243)
+Contributors [@phunk2243](https://twitter.com/phunk2243) [@tbc\_eth](https://twitter.com/tbc\_eth)&#x20;
 
 </details>
 
