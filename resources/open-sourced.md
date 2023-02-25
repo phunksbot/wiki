@@ -42,7 +42,7 @@ Twitter [@PhunksAuction](https://twitter.com/PhunksAuction)
 
 <details>
 
-<summary><em><mark style="color:green;background-color:green;">active</mark></em> CryptoPunks.com Website</summary>
+<summary><em><mark style="color:green;background-color:green;">active</mark></em> CryptoPhunks.com Website</summary>
 
 Source Code: [https://github.com/soupydolph/CryptoPhunks](https://github.com/soupydolph/CryptoPhunks)
 
@@ -51,6 +51,20 @@ Programming Language: <mark style="color:purple;">TypeScript 88.9%,</mark> CSS 6
 Coder [@soupydolph](https://twitter.com/soupydolph)
 
 [LIVE DEMO](https://illustrious-panda-1d7c89.netlify.app/)
+
+</details>
+
+<details>
+
+<summary><em><mark style="color:green;background-color:green;">active</mark></em> <em><mark style="color:orange;background-color:orange;">API</mark></em> Phunky Data</summary>
+
+Source Code: [https://github.com/theblockchaineth/PhunkyData](https://github.com/theblockchaineth/PhunkyData)
+
+Programming Language: <mark style="color:yellow;">JavaScript 96.6%,</mark> <mark style="color:green;">Shell 3.4%</mark>
+
+Coder [@tbc\_eth](https://twitter.com/tbc\_eth)
+
+[LIVE DEMO](https://data.phunky.dev/api/v2-phunks-nfts)
 
 </details>
 
@@ -88,15 +102,45 @@ Twitter [@PhunkStats](https://twitter.com/PhunkStats)
 
 <details>
 
-<summary><em><mark style="color:green;background-color:green;">active</mark></em> <em><mark style="color:orange;background-color:orange;">API</mark></em> Phunky Data</summary>
+<summary><em><mark style="color:green;background-color:green;">active</mark></em> Phunky Spotlight</summary>
 
-Source Code: [https://github.com/theblockchaineth/PhunkyData](https://github.com/theblockchaineth/PhunkyData)
+Source Code: [https://github.com/theblockchaineth/phunks-bootstrap-css](https://github.com/theblockchaineth/phunks-bootstrap-css)
 
-Programming Language: <mark style="color:yellow;">JavaScript 96.6%,</mark> <mark style="color:green;">Shell 3.4%</mark>
+Programming Language: [CSS100.0%](https://github.com/theblockchaineth/phunks-bootstrap-css/search?l=css)
 
-Coder [@tbc\_eth](https://twitter.com/tbc\_eth)
+Coder [@theblockchain.eth](https://twitter.com/tbc\_eth)
 
-[LIVE DEMO](https://data.phunky.dev/api/v2-phunks-nfts)
+[LIVE DEMO](https://phunkyspotlight.xyz/)
+
+</details>
+
+<details>
+
+<summary><em><mark style="color:green;background-color:green;">active</mark></em> Phunk Wallpaper </summary>
+
+Source code: [https://github.com/shep-eth/phunk-wallpaper](https://github.com/shep-eth/phunk-wallpaper)
+
+Programming Language: [TypeScript87.3%](https://github.com/shep-eth/phunk-wallpaper/search?l=typescript) [JavaScript10.9%](https://github.com/shep-eth/phunk-wallpaper/search?l=javascript) [CSS1.8%](https://github.com/shep-eth/phunk-wallpaper/search?l=css)
+
+Coder [@shep\_eth](https://twitter.com/shep\_eth)
+
+[LIVE DEMO](https://phunk-wallpaper.vercel.app/8770)
+
+</details>
+
+<details>
+
+<summary><em><mark style="color:green;background-color:green;">active</mark></em> Phunks V1 Wrapper</summary>
+
+Source Code: [https://etherscan.io/address/0x235d49774139c218034c0571ba8f717773edd923#code](https://etherscan.io/address/0x235d49774139c218034c0571ba8f717773edd923#code)
+
+Programming Language: <mark style="color:orange;">Solidity</mark>
+
+Coder [@dumbnamenumbers](https://twitter.com/dumbnamenumbers)
+
+Twitter [@CryptoPhunksV1](https://twitter.com/CryptoPhunksV1)
+
+[LIVE DEMO](https://www.v1phunks.io/)
 
 </details>
 
@@ -125,36 +169,6 @@ Programming Language: <mark style="color:yellow;">JavaScript</mark>
 Coder [@iape\_](https://twitter.com/iape\_) forked from [@mclint\_](https://twitter.com/mclint\_)
 
 [LIVE DEMO](https://phunks.gitbook.io/knowledge-base/social-media/media/media-kit#cryptophunk-viewer)
-
-</details>
-
-<details>
-
-<summary><em><mark style="color:green;background-color:green;">active</mark></em> Phunks V1 Wrapper</summary>
-
-Source Code: [https://etherscan.io/address/0x235d49774139c218034c0571ba8f717773edd923#code](https://etherscan.io/address/0x235d49774139c218034c0571ba8f717773edd923#code)
-
-Programming Language: <mark style="color:orange;">Solidity</mark>
-
-Coder [@dumbnamenumbers](https://twitter.com/dumbnamenumbers)
-
-Twitter [@CryptoPhunksV1](https://twitter.com/CryptoPhunksV1)
-
-[LIVE DEMO](https://www.v1phunks.io/)
-
-</details>
-
-<details>
-
-<summary><em><mark style="color:green;background-color:green;">active</mark></em> Phunk Wallpaper </summary>
-
-Source code: [https://github.com/shep-eth/phunk-wallpaper](https://github.com/shep-eth/phunk-wallpaper)
-
-Programming Language: [TypeScript87.3%](https://github.com/shep-eth/phunk-wallpaper/search?l=typescript) [JavaScript10.9%](https://github.com/shep-eth/phunk-wallpaper/search?l=javascript) [CSS1.8%](https://github.com/shep-eth/phunk-wallpaper/search?l=css)
-
-Coder [@shep\_eth](https://twitter.com/shep\_eth)
-
-[LIVE DEMO](https://phunk-wallpaper.vercel.app/8770)
 
 </details>
 
@@ -217,18 +231,6 @@ Source Code: [https://gist.github.com/RogerPodacter/4dccaa65d13f940bd0d87e41276b
 Programming Language: <mark style="color:yellow;">JavaScript</mark>
 
 Coder [@dumbnamenumbers](https://twitter.com/dumbnamenumbers)
-
-</details>
-
-<details>
-
-<summary><em><mark style="color:blue;background-color:blue;">WIP</mark> </em> Phunky Bootstrap 5 CSS Template</summary>
-
-Source Code: [https://github.com/theblockchaineth/phunks-bootstrap-css](https://github.com/theblockchaineth/phunks-bootstrap-css)
-
-Programming Language: [CSS100.0%](https://github.com/theblockchaineth/phunks-bootstrap-css/search?l=css)
-
-Coder [@theblockchain.eth](https://twitter.com/tbc\_eth)
 
 </details>
 

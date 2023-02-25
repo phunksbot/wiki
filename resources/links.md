@@ -74,22 +74,6 @@ description: AND DATA RESOURCES
 
 <details>
 
-<summary>BLUR Marketplace (<mark style="color:green;">0% Fees</mark>)</summary>
-
-[https://blur.io/collection/crypto-phunks](https://blur.io/collection/crypto-phunks)
-
-</details>
-
-<details>
-
-<summary><mark style="background-color:yellow;">OKX</mark> Marketplace (<mark style="color:green;">0% Fees</mark>)</summary>
-
-[https://www.okx.com/web3/nft/markets/collection/eth/cryptophunks](https://www.okx.com/web3/nft/markets/collection/eth/cryptophunks)
-
-</details>
-
-<details>
-
 <summary>NFTX Vault (Liquidity pool) (<mark style="color:red;">10% Fees</mark>)</summary>
 
 [https://nftx.io/vault/0xb39185e33e8c28e0bb3dbbce24da5dea6379ae91/buy/](https://nftx.io/vault/0xb39185e33e8c28e0bb3dbbce24da5dea6379ae91/buy/)
@@ -117,6 +101,14 @@ description: AND DATA RESOURCES
 <summary>X2Y2 Marketplace (<mark style="color:red;">0.5% Fees</mark>)</summary>
 
 [https://x2y2.io/collection/crypto-phunks/items](https://x2y2.io/collection/crypto-phunks/items)
+
+</details>
+
+<details>
+
+<summary>BLUR Marketplace (<mark style="color:green;">0% Fees</mark>)</summary>
+
+[https://blur.io/collection/crypto-phunks](https://blur.io/collection/crypto-phunks)
 
 </details>
 
