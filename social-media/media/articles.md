@@ -8,7 +8,7 @@ description: written on Phunks in Chronological order
 
 <details>
 
-<summary><mark style="background-color:yellow;"><strong>July 11, 2021</strong></mark><strong> </strong> <a href="https://phunks.medium.com/the-cryptophunks-manifesto-785c7348e558"><strong>The CryptoPhunks Manifesto</strong></a><strong></strong></summary>
+<summary><mark style="background-color:orange;"><strong>July 11, 2021</strong></mark><strong> </strong> <a href="https://phunks.medium.com/the-cryptophunks-manifesto-785c7348e558"><strong>The CryptoPhunks Manifesto</strong></a><strong></strong></summary>
 
 ****[**https://phunks.medium.com/the-cryptophunks-manifesto-785c7348e558**](https://phunks.medium.com/the-cryptophunks-manifesto-785c7348e558)****
 
@@ -16,7 +16,7 @@ description: written on Phunks in Chronological order
 
 <details>
 
-<summary><mark style="background-color:yellow;"><strong>July 12, 2021</strong></mark><a href="https://www.theouterrealm.io/blog/cryptopunks-copyrights"> <strong>CryptoPunks and Copyrights: What’s All The Fuss About?</strong></a><strong></strong></summary>
+<summary><mark style="background-color:orange;"><strong>July 12, 2021</strong></mark><a href="https://www.theouterrealm.io/blog/cryptopunks-copyrights"> <strong>CryptoPunks and Copyrights: What’s All The Fuss About?</strong></a><strong></strong></summary>
 
 ****[**https://www.theouterrealm.io/blog/cryptopunks-copyrights**](https://www.theouterrealm.io/blog/cryptopunks-copyrights)****
 
@@ -659,5 +659,13 @@ description: written on Phunks in Chronological order
 <summary>January 2, 2023 - <a href="https://techmoneyculture.com/the-50-biggest-nft-stories-of-2022/">The 50 Biggest NFT Stories of 2022</a></summary>
 
 [https://techmoneyculture.com/the-50-biggest-nft-stories-of-2022/](https://techmoneyculture.com/the-50-biggest-nft-stories-of-2022/)
+
+</details>
+
+<details>
+
+<summary>February 21, 2023 - <a href="https://coingape.com/education/what-are-nft-derivatives-how-are-they-different-from-original-nft/">What Are NFT Derivatives? How Are They Different From Original NFT?</a></summary>
+
+[https://coingape.com/education/what-are-nft-derivatives-how-are-they-different-from-original-nft/](https://coingape.com/education/what-are-nft-derivatives-how-are-they-different-from-original-nft/)
 
 </details>
