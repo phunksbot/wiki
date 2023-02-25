@@ -661,3 +661,11 @@ description: written on Phunks in Chronological order
 [https://techmoneyculture.com/the-50-biggest-nft-stories-of-2022/](https://techmoneyculture.com/the-50-biggest-nft-stories-of-2022/)
 
 </details>
+
+<details>
+
+<summary>February 21, 2023 - <a href="https://coingape.com/education/what-are-nft-derivatives-how-are-they-different-from-original-nft/">What Are NFT Derivatives? How Are They Different From Original NFT?</a></summary>
+
+[https://coingape.com/education/what-are-nft-derivatives-how-are-they-different-from-original-nft/](https://coingape.com/education/what-are-nft-derivatives-how-are-they-different-from-original-nft/)
+
+</details>
