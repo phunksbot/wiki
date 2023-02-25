@@ -42,7 +42,7 @@ Twitter [@PhunksAuction](https://twitter.com/PhunksAuction)
 
 <details>
 
-<summary><em><mark style="color:green;background-color:green;">active</mark></em> CryptoPhunks.com Website</summary>
+<summary><em><mark style="color:green;background-color:green;">active</mark></em> CryptoPunks.com Website</summary>
 
 Source Code: [https://github.com/soupydolph/CryptoPhunks](https://github.com/soupydolph/CryptoPhunks)
 
@@ -51,20 +51,6 @@ Programming Language: <mark style="color:purple;">TypeScript 88.9%,</mark> CSS 6
 Coder [@soupydolph](https://twitter.com/soupydolph)
 
 [LIVE DEMO](https://illustrious-panda-1d7c89.netlify.app/)
-
-</details>
-
-<details>
-
-<summary><em><mark style="color:green;background-color:green;">active</mark></em> <em><mark style="color:orange;background-color:orange;">API</mark></em> Phunky Data</summary>
-
-Source Code: [https://github.com/theblockchaineth/PhunkyData](https://github.com/theblockchaineth/PhunkyData)
-
-Programming Language: <mark style="color:yellow;">JavaScript 96.6%,</mark> <mark style="color:green;">Shell 3.4%</mark>
-
-Coder [@tbc\_eth](https://twitter.com/tbc\_eth)
-
-[LIVE DEMO](https://data.phunky.dev/api/v2-phunks-nfts)
 
 </details>
 
@@ -97,6 +83,20 @@ Coder [@pedropregueiro](https://twitter.com/pedropregueiro) [@krel404](https://t
 Twitter [@PhunkStats](https://twitter.com/PhunkStats)
 
 [LIVE DEMO](https://twitter.com/PhunkStats)
+
+</details>
+
+<details>
+
+<summary><em><mark style="color:green;background-color:green;">active</mark></em> <em><mark style="color:orange;background-color:orange;">API</mark></em> Phunky Data</summary>
+
+Source Code: [https://github.com/theblockchaineth/PhunkyData](https://github.com/theblockchaineth/PhunkyData)
+
+Programming Language: <mark style="color:yellow;">JavaScript 96.6%,</mark> <mark style="color:green;">Shell 3.4%</mark>
+
+Coder [@tbc\_eth](https://twitter.com/tbc\_eth)
+
+[LIVE DEMO](https://data.phunky.dev/api/v2-phunks-nfts)
 
 </details>
 
