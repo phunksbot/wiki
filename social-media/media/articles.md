@@ -669,3 +669,11 @@ description: written on Phunks in Chronological order
 [https://coingape.com/education/what-are-nft-derivatives-how-are-they-different-from-original-nft/](https://coingape.com/education/what-are-nft-derivatives-how-are-they-different-from-original-nft/)
 
 </details>
+
+<details>
+
+<summary><mark style="background-color:orange;">February 27, 2023</mark> CryptoPhunks Price, Stats, And Review</summary>
+
+[https://cryptodaily.co.uk/2023/02/nft-collection-cryptophunks-price-stats-and-review](https://cryptodaily.co.uk/2023/02/nft-collection-cryptophunks-price-stats-and-review)
+
+</details>
