@@ -4,13 +4,15 @@ description: on Phunks in no particular order
 
 # 📺 VIDEOS
 
-{% embed url="https://video.twimg.com/ext_tw_video/1611324183677669377/pu/vid/1280x720/Wydr-XCiDs07KrZu.mp4?tag=12" %}
+{% embed url="https://files.gitbook.com/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FZX46fZLl1vCmsmnasnrn%2Fuploads%2F7xEYFsfyriT2jkbPtzYd%2Frapidsave.com_south_park_nailed_it_with_the_nft_crowd_lol-9vzddadj4w581.mp4?alt=media&token=edfdc61f-d092-4088-b77c-ce71b5ae2de4" %}
 
 {% embed url="https://youtu.be/o4eqMQatv_Y" %}
 
 {% embed url="https://www.youtube.com/watch?v=C1odtSVoKKc" %}
 
 {% embed url="https://www.youtube.com/watch?v=Heev1CwwGj4" %}
+
+{% embed url="https://youtu.be/No5Q1bVxAS0?t=276" %}
 
 {% embed url="https://www.youtube.com/watch?v=kySTodss1wc" %}
 
@@ -29,6 +31,8 @@ SPANISH
 {% embed url="https://www.youtube.com/watch?v=LIUkwc45Mm0" %}
 
 {% embed url="https://www.youtube.com/watch?v=rl7ee6q_Hds" %}
+
+{% embed url="https://www.youtube.com/watch?v=No5Q1bVxAS0&t=170s" %}
 
 {% embed url="https://www.youtube.com/watch?v=ylGT2zo4jV4" %}
 
