@@ -9,11 +9,11 @@ Takes a minute to load, but it's worth it. Just click the tweet pic to see the w
 {% endhint %}
 
 {% embed url="https://twitter.com/gmdveth/status/1623303224043110400?s=20&t=aPMixkkuJzJI8l5hxRhGug" %}
-**FEBRUARY 08, 2022**
+**FEBRUARY 08, 2023**
 {% endembed %}
 
 {% embed url="https://twitter.com/Jclineshow/status/1621548179597697024?s=20&t=RefApPxv_r_3_0iJ59NdFg" %}
-**FEBRUARY 03, 2022**
+**FEBRUARY 03, 2023**
 {% endembed %}
 
 {% embed url="https://twitter.com/tbc_eth/status/1617753342511575040?s=20&t=1amiepW5oPGUP3CgpGWZXw" %}
