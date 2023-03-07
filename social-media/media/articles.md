@@ -672,7 +672,7 @@ description: written on Phunks in Chronological order
 
 <details>
 
-<summary><mark style="background-color:orange;">February 27, 2023</mark> <a href="https://cryptodaily.co.uk/2023/02/nft-collection-cryptophunks-price-stats-and-review">CryptoPhunks Price, Stats, And Review</a></summary>
+<summary><em><mark style="background-color:orange;">February 27, 2023</mark></em> <a href="https://cryptodaily.co.uk/2023/02/nft-collection-cryptophunks-price-stats-and-review">CryptoPhunks Price, Stats, And Review</a></summary>
 
 [https://cryptodaily.co.uk/2023/02/nft-collection-cryptophunks-price-stats-and-review](https://cryptodaily.co.uk/2023/02/nft-collection-cryptophunks-price-stats-and-review)
 
