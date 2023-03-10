@@ -10,7 +10,7 @@
 
 <details>
 
-<summary><mark style="color:orange;"><code></code></mark><a href="https://twitter.com/i/spaces/1zqKVPVjAwaJB"><mark style="color:orange;"><code>CRYPTOPHUNKS TOWNHALL VOL. 2</code></mark></a><mark style="color:orange;"><code></code></mark></summary>
+<summary><code></code><a href="https://twitter.com/i/spaces/1zqKVPVjAwaJB"><code>CRYPTOPHUNKS TOWNHALL VOL. 2</code></a><code></code></summary>
 
 [https://twitter.com/i/spaces/1zqKVPVjAwaJB](https://twitter.com/i/spaces/1zqKVPVjAwaJB)
 
@@ -18,7 +18,7 @@
 
 <details>
 
-<summary><mark style="color:orange;"><code></code></mark><a href="https://twitter.com/i/spaces/1lDGLnmAPDkxm"><mark style="color:orange;"><code>CRYPTOPHUNKS TOWNHALL VOL. 3</code></mark></a><mark style="color:orange;"><code></code></mark></summary>
+<summary><code></code><a href="https://twitter.com/i/spaces/1lDGLnmAPDkxm"><code>CRYPTOPHUNKS TOWNHALL VOL. 3</code></a><code></code></summary>
 
 [https://twitter.com/i/spaces/1lDGLnmAPDkxm](https://twitter.com/i/spaces/1lDGLnmAPDkxm)
 
@@ -26,7 +26,7 @@
 
 <details>
 
-<summary><mark style="color:orange;"><code></code></mark><a href="https://twitter.com/i/spaces/1nAJErMqoPnxL"><mark style="color:orange;"><code>CRYPTOPHUNKS TOWNHALL VOL. 4</code></mark></a><mark style="color:orange;"><code></code></mark></summary>
+<summary><code></code><a href="https://twitter.com/i/spaces/1nAJErMqoPnxL"><code>CRYPTOPHUNKS TOWNHALL VOL. 4</code></a><code></code></summary>
 
 [https://twitter.com/i/spaces/1nAJErMqoPnxL](https://twitter.com/i/spaces/1nAJErMqoPnxL)
 
