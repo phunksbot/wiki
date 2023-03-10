@@ -2,7 +2,7 @@
 description: AUTOMATIC MARKET MAKER FOR MID- AND TOP-TIER PHUNKS
 ---
 
-# 🟨 FLYWHEEL
+# 🟦 FLYWHEEL
 
 The FlyWheel is a [DAPP](https://www.phunks.pro/) that appraises mid- and top-tier CryptoPhunks and gives holders the option to sell them to the Treasury at a small discount to fair market value in a trustless, fair, and automatic way.
 
