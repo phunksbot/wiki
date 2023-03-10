@@ -18,8 +18,8 @@
 * [🟧 AUCTION HOUSE](nll/auction-house/README.md)
 * [🟦 FLYWHEEL](nll/api.md)
 * [🟩 PHUNKY](marketplaces/phunky/README.md)
-  * [📊 PHUNKY DATA](marketplaces/phunky/phunky-data.md)
-  * [🧦 PHUNKY SOCKS](marketplaces/phunky/phunky-socks.md)
+  * [📊 PHUNKY DATA](marketplaces/phunky-data.md)
+  * [🧦 PHUNKY SOCKS](marketplaces/phunky-socks.md)
   * [🗣 PHUNKY SPACES](marketplaces/phunky/phunky-spaces.md)
 
 ## SOCIAL MEDIA
@@ -31,6 +31,7 @@
   * [🎧 MUSIC](social-media/media/music.md)
   * [💠 MEDIA KIT](social-media/media/media-kit.md)
   * [🎮 PHUNKY GAMES](social-media/media/phunky-games.md)
+  * [🗣 PHUNKY SPACES](social-media/media/phunky-spaces.md)
   * [♨ SUP PHUNKS!](social-media/media/sup-phunks.md)
 * [🪅 MUSEUM](social-media/museum/README.md)
   * [🎭 CURATED](social-media/museum/curated.md)
