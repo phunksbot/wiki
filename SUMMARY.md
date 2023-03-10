@@ -16,10 +16,10 @@
   * [➖ TUTORIALS](nll/notlarvalabs/tutorials.md)
   * [➖ FAQ](nll/notlarvalabs/faq.md)
 * [🟧 AUCTION HOUSE](nll/auction-house/README.md)
-* [🟨 FLYWHEEL](nll/api.md)
+* [🟦 FLYWHEEL](nll/api.md)
 * [🟩 PHUNKY DATA](marketplaces/phunky-data.md)
-* [🟦 PHUNKY SOCKS](marketplaces/phunky-socks.md)
-* [◻ PHUNKY SPACES](marketplaces/phunky-spaces.md)
+* [🟨 PHUNKY SOCKS](marketplaces/phunky-socks.md)
+* [🗣 PHUNKY SPACES](marketplaces/phunky-spaces.md)
 
 ## SOCIAL MEDIA
 
