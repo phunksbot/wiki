@@ -13,16 +13,16 @@ CryptoPhunks are the same as <mark style="color:green;"></mark> [CryptoPunks](ht
 Punks are owned by [Corporations](https://twitter.com/cryptopunksnfts/status/1502421713153318918?s=20\&t=sf95wtqypGRjjYHGxaH5lg), Phunks are truly [decentralised](about/phunks/phunk-is-web3.md) and phree.
 {% endhint %}
 
-## So, what happened?
+## <mark style="color:orange;">`So, what happened?`</mark>
 
 {% embed url="https://video.twimg.com/ext_tw_video/1585125735416549376/pu/vid/1280x960/t4c0Er5RKeNHJbLd.mp4?tag=14" %}
 by [@Pauly0x](https://twitter.com/Pauly0x)
 {% endembed %}
 
-## Why?!
+## <mark style="color:purple;">`Why?!`</mark>
 
 {% embed url="https://video.twimg.com/ext_tw_video/1628515939632271362/pu/vid/1280x720/xOecge27AQgwzxif.mp4?tag=12" %}
 by [@dresmars](https://twitter.com/dresmars/status/1611325328181559302?s=20\&t=SUfeYIWTjKouHw0xueNL3w)
 {% endembed %}
 
-## Follow-up :point\_down:
+## <mark style="color:purple;">`Follow-up`</mark> :point\_down:<mark style="color:purple;">``</mark>
