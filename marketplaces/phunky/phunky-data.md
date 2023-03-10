@@ -2,7 +2,7 @@
 description: DECENTRALIZED CODE, DATA, API AND CONTENT MANAGMENT
 ---
 
-# 🟩 PHUNKY DATA
+# 📊 PHUNKY DATA
 
 Need Phunk data for a site but either don’t want to or don’t know how to write an API layer? \
 I got you covered..... by [@tbc\_eth](https://twitter.com/tbc\_eth)
