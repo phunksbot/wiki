@@ -1,3 +1,7 @@
+---
+description: LISTEN ABOUT PHUNKS HISTORY, ETHICS AND COMMUNITY ON TWITTER
+---
+
 # ◻ PHUNKY SPACES
 
 <details>
