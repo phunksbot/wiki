@@ -4,7 +4,7 @@ description: AND DATA RESOURCES
 
 # ↗ LINKS
 
-## SMART CONTRACTS
+## <mark style="color:orange;">`SMART CONTRACTS`</mark>
 
 <details>
 
@@ -46,7 +46,7 @@ description: AND DATA RESOURCES
 
 </details>
 
-## MARKETPLACES
+## <mark style="color:orange;">`MARKETPLACES`</mark>
 
 <details>
 
@@ -152,7 +152,7 @@ description: AND DATA RESOURCES
 
 </details>
 
-## ANALYTICS
+## <mark style="color:orange;">`ANALYTICS`</mark>
 
 <details>
 
@@ -250,7 +250,7 @@ description: AND DATA RESOURCES
 
 </details>
 
-## DISCORD
+## <mark style="color:orange;">`DISCORD`</mark>
 
 <details>
 
@@ -268,7 +268,7 @@ description: AND DATA RESOURCES
 
 </details>
 
-## TWITTER
+## <mark style="color:orange;">`TWITTER`</mark>
 
 * [@NotLarvaLabs](https://twitter.com/NotLarvaLabs)&#x20;
 * [@PhunkBot](https://twitter.com/PhunkBot)
@@ -276,7 +276,7 @@ description: AND DATA RESOURCES
 * [@CryptoPhunksV2](https://twitter.com/CryptoPhunksV2)
 * [@CryptoPhunks](https://twitter.com/CryptoPhunks)
 
-## OTHER
+## <mark style="color:orange;">`OTHER`</mark>
 
 <details>
 
