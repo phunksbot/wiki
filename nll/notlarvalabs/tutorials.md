@@ -4,7 +4,7 @@ description: how to use NotLarvaLabs Marketplace
 
 # ➖ TUTORIALS
 
-## Getting Started
+## <mark style="color:orange;">`Getting Started`</mark>
 
 <details>
 
@@ -18,7 +18,7 @@ Connect your MetaMask Wallet to the Marketplace using tutorial below.
 
 </details>
 
-## Tutorials
+## <mark style="color:orange;">`Tutorials`</mark>
 
 <details>
 

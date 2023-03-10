@@ -48,7 +48,7 @@ https://github.com/theblockchaineth/PhunkyData/blob/main/examples.md
 Run by whoever, wherever, whenever - Servers have to be centralized but their definition and the ability to spin one up doesn't have to be. Want to add a new processor, datasource, or static content? Contribute to the [repo](https://github.com/theblockchaineth/PhunkyData) or fork and go!
 {% endhint %}
 
-## LINKS
+## <mark style="color:orange;">`LINKS`</mark>
 
 <details>
 
@@ -66,7 +66,7 @@ Run by whoever, wherever, whenever - Servers have to be centralized but their de
 
 </details>
 
-## RETROSPECTIVE
+## <mark style="color:orange;">`RETROSPECTIVE`</mark>
 
 {% embed url="https://twitter.com/tbc_eth/status/1617753342511575040?s=20&t=1amiepW5oPGUP3CgpGWZXw" %}
 [CLICK FOR MORE](https://twitter.com/tbc\_eth/status/1617753342511575040?s=20\&t=1amiepW5oPGUP3CgpGWZXw)

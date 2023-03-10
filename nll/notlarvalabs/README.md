@@ -16,11 +16,10 @@ NLL developers decided to [open-source](https://github.com/Crypto-Phunks/CryptoP
 > You can find source code [here](../../resources/links.md#smart-contract) for review or to fork it.
 
 {% hint style="info" %}
-Since inception in November 2021 and until May 2022 \
-NLL smart contract successfully processed over 20'000 on-chain transactions and accounts for **Ξ**11623 ($35M) in trading volume. (incl. Cargo backend v1 contract).
+Since inception in November 2021 and until May 2022 NLL smart contract successfully processed over 20'000 on-chain transactions and accounts for **Ξ**11623 ($35M) in trading volume. (incl. Cargo backend v1 contract).
 {% endhint %}
 
-## LINKS
+## <mark style="color:orange;">`LINKS`</mark>
 
 <details>
 
