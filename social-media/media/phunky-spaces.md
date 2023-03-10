@@ -1,6 +1,6 @@
 # 🗣 PHUNKY SPACES
 
-## <mark style="background-color:purple;">`CRYPTOPHUNKS TOWNHALL VOL. 1`</mark>
+## <mark style="background-color:orange;">`CRYPTOPHUNKS TOWNHALL VOL. 1`</mark>
 
 {% embed url="https://twitter.com/i/spaces/1eaKbrXLayBKX" %}
 
