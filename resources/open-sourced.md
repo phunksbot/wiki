@@ -206,7 +206,7 @@ Source Code: [https://github.com/rdupo/mintysea](https://github.com/rdupo/mintys
 
 Programming Language: [HTML64.7%](https://github.com/rdupo/mintysea/search?l=html) [JavaScript18.3%](https://github.com/rdupo/mintysea/search?l=javascript) [CSS17.0%](https://github.com/rdupo/mintysea/search?l=css)
 
-Coder [rdupo](https://github.com/rdupo)
+Coder [@0xDuplo](https://twitter.com/0xDuplo)
 
 [LIVE DEMO](https://rdupo.github.io/)
 
