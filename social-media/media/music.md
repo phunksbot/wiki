@@ -4,25 +4,33 @@ description: on Phunks
 
 # 🎧 MUSIC
 
-## Produced by [@Billyracxx](https://twitter.com/Billyracxx)
+## <mark style="background-color:purple;">Produced by</mark> [<mark style="background-color:purple;">@Billyracxx</mark>](https://twitter.com/Billyracxx)<mark style="background-color:purple;"></mark>
 
-{% embed url="https://soundcloud.com/billyoc/crypto-phunk-anthem" %}
+{% embed url="https://soundcloud.com/billyracxx/crypto-phunk-anthem?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing" %}
 CRYPTOPHUNK ANTHEM
 {% endembed %}
 
-{% embed url="https://soundcloud.com/billyoc/phunk-town" %}
+{% embed url="https://soundcloud.com/billyracxx/phunk-town?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing" %}
 PHUNK TOWN
 {% endembed %}
 
-{% embed url="https://soundcloud.com/billyoc/sweep-the-floor" %}
+{% embed url="https://soundcloud.com/billyracxx/sweep-the-floor?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing" %}
 SWEEP THE FLOOR
 {% endembed %}
 
-{% embed url="https://soundcloud.com/billyoc/jpeg-rich" %}
+{% embed url="https://soundcloud.com/billyracxx/jpeg-rich?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing" %}
 JPEG RICH
 {% endembed %}
 
-## Produced by [@SlickJermaine](https://twitter.com/SlickJermaine)
+{% embed url="https://soundcloud.com/billyracxx/billyracxx-cryptophunk-anthem-pt2?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing" %}
+CRYPTOPHUNK ANTHEM pt 2
+{% endembed %}
+
+{% embed url="https://soundcloud.com/billyracxx/billyracxx-x-slick-jermaine-phutopia?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing" %}
+PHUTOPIA
+{% endembed %}
+
+## <mark style="background-color:purple;">Produced by</mark> [<mark style="background-color:purple;">@SlickJermaine</mark>](https://twitter.com/SlickJermaine)<mark style="background-color:purple;"></mark>
 
 {% embed url="https://soundcloud.com/slickjermaine/phunk-love" %}
 PHUNK LOVE&#x20;
@@ -40,13 +48,13 @@ PHUTOPIA
 MOTIVE&#x20;
 {% endembed %}
 
-## Produced by [@DowJonez\_eth](https://twitter.com/DowJonez\_eth)
+## <mark style="background-color:purple;">Produced by</mark> [<mark style="background-color:purple;">@DowJonez\_eth</mark>](https://twitter.com/DowJonez\_eth)<mark style="background-color:purple;"></mark>
 
 {% embed url="https://audius.co/BRicknDAO/phunksvibe" %}
 PHUNKS VIBE
 {% endembed %}
 
-## Produced by [@NadirNomad](https://twitter.com/NadirNomad)
+## <mark style="background-color:purple;">Produced by</mark> [<mark style="background-color:purple;">@NadirNomad</mark>](https://twitter.com/NadirNomad)<mark style="background-color:purple;"></mark>
 
 {% embed url="https://youtu.be/lUS5TCmMbIM" %}
 THE PHUNK
