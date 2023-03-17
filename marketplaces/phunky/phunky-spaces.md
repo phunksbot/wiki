@@ -40,6 +40,14 @@ description: LISTEN ABOUT PHUNKS HISTORY, ETHICS AND COMMUNITY ON TWITTER
 
 <summary><code></code><a href="https://twitter.com/i/spaces/1MnxnpaZlpNGO?s=20"><code>CRYPTOPHUNKS TOWNHALL VOL. 5</code></a><code></code></summary>
 
-[https://twitter.com/i/spaces/1MnxnpaZlpNGO?s=20](https://twitter.com/i/spaces/1MnxnpaZlpNGO?s=20)
+[https://twitter.com/i/spaces/1MnxnpaZlpNGO](https://twitter.com/i/spaces/1MnxnpaZlpNGO?s=20)
+
+</details>
+
+<details>
+
+<summary><code></code><a href="https://twitter.com/i/spaces/1PlKQpYokMkxE"><code>CRYPTOPHUNKS TOWNHALL VOL. 6</code> </a></summary>
+
+[https://twitter.com/i/spaces/1PlKQpYokMkxE](https://twitter.com/i/spaces/1PlKQpYokMkxE?s=20)
 
 </details>
