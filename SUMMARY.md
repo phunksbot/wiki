@@ -48,3 +48,7 @@
 * [⏺ OPEN SOURCED](resources/open-sourced.md)
 * [⏹ HISTORY](resources/history.md)
 * [↗ LINKS](resources/links.md)
+
+## TREASURY
+
+* [🔀 FEED](treasury/feed.md)
