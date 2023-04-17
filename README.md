@@ -1,6 +1,6 @@
 ---
 description: PHUNKS FACE LEFT ON THE RIGHT SIDE OF HISTORY
-cover: .gitbook/assets/image (1) (1) (1) (1) (1).png
+cover: .gitbook/assets/image (1) (1).png
 coverY: -11.862835959221513
 ---
 

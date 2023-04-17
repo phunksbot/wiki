@@ -16,7 +16,7 @@ phunks story mode series by [@easunlu](https://twitter.com/easunlu)
 
 ![ABY's PHUNKISM Vol. 4](<../../.gitbook/assets/image (59).png>)
 
-![ABY's PHUNKISM Vol. 5](<../../.gitbook/assets/image (56).png>)
+![ABY's PHUNKISM Vol. 5](<../../.gitbook/assets/image (54).png>)
 
 ![ABY's PHUNKISM Vol. 6](<../../.gitbook/assets/image (63).png>)
 

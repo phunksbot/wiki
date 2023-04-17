@@ -37,9 +37,9 @@ in no particular order, made by [@dovetailNFT](https://twitter.com/dovetailNFT)
 
 ![smartest person](<../../.gitbook/assets/Screen Shot 2022-04-29 at 00.54.02.png>)
 
-![000000 281b09 997c59 dbb180 ffd926 e25b26 ad2160 8c0d5b 690c45 142c7c 1637a4 1a43c8 a3b0b8 c6c6c6](<../../.gitbook/assets/image (58) (1).png>)
+![000000 281b09 997c59 dbb180 ffd926 e25b26 ad2160 8c0d5b 690c45 142c7c 1637a4 1a43c8 a3b0b8 c6c6c6](<../../.gitbook/assets/image (13) (1).png>)
 
-![](<../../.gitbook/assets/image (16).png>)![](<../../.gitbook/assets/image (13) (1).png>)\
+![](<../../.gitbook/assets/image (16).png>)![](<../../.gitbook/assets/image (58) (1).png>)\
 [14 colors](https://twitter.com/dovetailNFT/status/1513945866415058948?s=20\&t=TzictjlCH1fGYY7Ffrl1XQ)
 
 ![](<../../.gitbook/assets/image (10) (1).png>)![](<../../.gitbook/assets/image (11) (1).png>)\
@@ -83,7 +83,7 @@ the very first "whats the utility?", "roadmap?" guy in NFTs.](<../../.gitbook/as
 
 ## **GIFS (**warning sensitive content)&#x20;
 
-![](../../.gitbook/assets/3dphunk.gif)![](<../../.gitbook/assets/3dphunk2 (1).gif>)![](<../../.gitbook/assets/alienphunk (1).gif>)\
+![](../../.gitbook/assets/3dphunk.gif)![](../../.gitbook/assets/3dphunk2.gif)![](../../.gitbook/assets/alienphunk.gif)\
 ![](../../.gitbook/assets/ballerphunk.gif)![](../../.gitbook/assets/beaniespin.gif)![](../../.gitbook/assets/confuarmy.gif)\
 ![](../../.gitbook/assets/copphunk.gif)![](../../.gitbook/assets/cowboyphunk.gif)![](../../.gitbook/assets/explodephunk.gif)\
 ![](../../.gitbook/assets/floorphunk.gif)![](../../.gitbook/assets/hackerdevphunk.gif)![](../../.gitbook/assets/hoodiecigfix.gif)\
@@ -91,6 +91,6 @@ the very first "whats the utility?", "roadmap?" guy in NFTs.](<../../.gitbook/as
 ![](../../.gitbook/assets/pigtailsphunk.gif)![](../../.gitbook/assets/pipesmoke.gif)![](../../.gitbook/assets/piratejam.gif)\
 ![](../../.gitbook/assets/retrophunk.gif)![](../../.gitbook/assets/robberphunk.gif)![](../../.gitbook/assets/robocopphunk.gif)\
 ![](../../.gitbook/assets/shadesgif.gif)![](../../.gitbook/assets/simulationphunk.gif)![](../../.gitbook/assets/vamp.gif)\
-![](../../.gitbook/assets/vapephunk.gif)![](../../.gitbook/assets/wizardphunk.gif)![](<../../.gitbook/assets/antifragilephunk (1).gif>)\
-![](../../.gitbook/assets/flippinphunk.gif)![](../../.gitbook/assets/punkclown.gif)![](<../../.gitbook/assets/phunksphud (1) (1) (1) (1) (1).gif>)\
-![](<../../.gitbook/assets/phunkdodge (1).gif>)![](<../../.gitbook/assets/phunkali (1) (1) (1).gif>)\
+![](../../.gitbook/assets/vapephunk.gif)![](../../.gitbook/assets/wizardphunk.gif)![](../../.gitbook/assets/antifragilephunk.gif)\
+![](../../.gitbook/assets/flippinphunk.gif)![](../../.gitbook/assets/punkclown.gif)![](<../../.gitbook/assets/phunksphud (1) (1) (1) (1).gif>)\
+![](../../.gitbook/assets/phunkdodge.gif)![](<../../.gitbook/assets/phunkali (1) (1) (1) (1) (1).gif>)\

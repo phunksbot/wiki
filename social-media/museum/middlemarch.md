@@ -36,9 +36,9 @@ in no particular order, made by [@dumbnamenumbers](https://twitter.com/dumbnamen
 
 ![2 color Phunks are the most valuable bc they most directly express the idea of the flipping art and upsetting ppl.](<../../.gitbook/assets/image (18) (1).png>)
 
-![The nice thing about owning Phunk #3065, as I do, is that within his deceptively simple frame lives a lifetime of PFPs and 1/1s.](<../../.gitbook/assets/image (50) (1).png>)
+![The nice thing about owning Phunk #3065, as I do, is that within his deceptively simple frame lives a lifetime of PFPs and 1/1s.](<../../.gitbook/assets/image (41) (1) (1).png>)
 
-![More precisely, every combination of the 221 Punk colors looks good, meaning he contains 221 \* 221 = 48,841 PFPs.](<../../.gitbook/assets/image (65) (1).png>)
+![More precisely, every combination of the 221 Punk colors looks good, meaning he contains 221 \* 221 = 48,841 PFPs.](<../../.gitbook/assets/image (16) (1).png>)
 
 ![If you need to explain Phunks to the aliens, you should send them #8623, the Phunk Mona Lisa.](<../../.gitbook/assets/image (56) (1) (1).png>)
 

@@ -123,11 +123,11 @@ Use Phunk Box to browse collections for any account holding Phunks.
 
 Start by searching for a ETH wallet address or ENS.
 
-![](<../../.gitbook/assets/Screen Shot 2022-04-03 at 23.26.18 (1).png>)
+![](<../../.gitbook/assets/Screen Shot 2022-04-03 at 23.26.18.png>)
 
 You should be able to see Phunks held by that account address.
 
-![](<../../.gitbook/assets/Screen Shot 2022-04-03 at 23.26.44 (1).png>)
+![](<../../.gitbook/assets/Screen Shot 2022-04-03 at 23.26.44.png>)
 
 </details>
 
@@ -139,11 +139,11 @@ You can customise any Phunk using Phunk Box.
 
 Search for a wallet address or your ENS.
 
-![](<../../.gitbook/assets/Screen Shot 2022-04-03 at 23.26.18 (1).png>)
+![](<../../.gitbook/assets/Screen Shot 2022-04-03 at 23.26.18.png>)
 
 Choose a Phunk you would like to customise.
 
-![](<../../.gitbook/assets/Screen Shot 2022-04-03 at 23.26.44 (1).png>)
+![](<../../.gitbook/assets/Screen Shot 2022-04-03 at 23.26.44.png>)
 
 You will see two white Circles on right corner, use them to edit Border or Background.
 
@@ -158,7 +158,7 @@ After you chosen your Color combo klick on "Save PFP" top right corner.
 You can chose type and Shape between Square, Round and Hexagon. \
 With or without Color Border and press Download.
 
-![](<../../.gitbook/assets/Screen Shot 2022-04-03 at 23.23.45.png>)![](<../../.gitbook/assets/Screen Shot 2022-04-03 at 23.23.54 (1).png>)
+![](<../../.gitbook/assets/Screen Shot 2022-04-03 at 23.23.45.png>)![](<../../.gitbook/assets/Screen Shot 2022-04-03 at 23.23.54.png>)
 
 </details>
 
