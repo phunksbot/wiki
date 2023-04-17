@@ -11,7 +11,7 @@ While NFT Collections can be banned from centralized trading platform, they real
 **It didn't take long before Phunks Community decided to take a stand and make a statement against censorship, self organised renegade group of Phunk Community builders took it upon themselves to create their own Phunks Marketplace called** [**NotLarvaLabs**](../../nll/notlarvalabs/) **and** [**open-sourced**](../../resources/open-sourced.md) **the code for public good.** \
 **Since then, Phunk community continued to** [**build, innovate, pioneer**](../../resources/open-sourced.md) **and attract many developers interested in building in true decentralized web3 environment where anyone with any skillset can grow, be inspired and supported by community of builders.**
 
-> What is truly punk can not be stopped. Long live Phunks, on the blockchain, forever. **** :fist:****
+> What is truly punk can not be stopped. Long live Phunks, on the blockchain, forever. :fist:
 
 ##
 

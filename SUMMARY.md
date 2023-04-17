@@ -51,4 +51,4 @@
 
 ## TREASURY
 
-* [🔀 FEED](treasury/feed.md)
+* [💸 OUTGOING TX HISTORY](treasury/feed.md)

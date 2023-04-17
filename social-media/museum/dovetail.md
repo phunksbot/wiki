@@ -23,8 +23,8 @@ in no particular order, made by [@dovetailNFT](https://twitter.com/dovetailNFT)
 
 ![had to do it to 'em](<../../.gitbook/assets/image (44).png>)
 
-![](<../../.gitbook/assets/image (1) (3).png>)![](<../../.gitbook/assets/image (51).png>)****\
-****[**who wore it better?**](https://twitter.com/dovetailNFT/status/1513928939567206416?s=20\&t=TzictjlCH1fGYY7Ffrl1XQ)
+![](<../../.gitbook/assets/image (1) (3).png>)![](<../../.gitbook/assets/image (51).png>)\
+[**who wore it better?**](https://twitter.com/dovetailNFT/status/1513928939567206416?s=20\&t=TzictjlCH1fGYY7Ffrl1XQ)
 
 ![](<../../.gitbook/assets/image (2).png>)![](<../../.gitbook/assets/image (52).png>)\
 [painted punk/phunk 3065 this weekend.](https://twitter.com/dovetailNFT/status/1516043898174554122?s=20\&t=TzictjlCH1fGYY7Ffrl1XQ)
@@ -37,9 +37,9 @@ in no particular order, made by [@dovetailNFT](https://twitter.com/dovetailNFT)
 
 ![smartest person](<../../.gitbook/assets/Screen Shot 2022-04-29 at 00.54.02.png>)
 
-![000000 281b09 997c59 dbb180 ffd926 e25b26 ad2160 8c0d5b 690c45 142c7c 1637a4 1a43c8 a3b0b8 c6c6c6](<../../.gitbook/assets/image (13) (1).png>)
+![000000 281b09 997c59 dbb180 ffd926 e25b26 ad2160 8c0d5b 690c45 142c7c 1637a4 1a43c8 a3b0b8 c6c6c6](<../../.gitbook/assets/image (58) (1).png>)
 
-![](<../../.gitbook/assets/image (16).png>)![](<../../.gitbook/assets/image (58) (1).png>)\
+![](<../../.gitbook/assets/image (16).png>)![](<../../.gitbook/assets/image (13) (1).png>)\
 [14 colors](https://twitter.com/dovetailNFT/status/1513945866415058948?s=20\&t=TzictjlCH1fGYY7Ffrl1XQ)
 
 ![](<../../.gitbook/assets/image (10) (1).png>)![](<../../.gitbook/assets/image (11) (1).png>)\
@@ -55,15 +55,15 @@ in no particular order, made by [@dovetailNFT](https://twitter.com/dovetailNFT)
 
 ![topographic map (dovetail, 2022) 335x250px, hand-drawn in aseprite](<../../.gitbook/assets/image (50).png>)
 
-![](<../../.gitbook/assets/image (54) (1).png>)![](<../../.gitbook/assets/image (68).png>)![](<../../.gitbook/assets/image (66).png>)![](<../../.gitbook/assets/image (49) (1).png>)****[**dark mode: on**](https://twitter.com/dovetailNFT/status/1513615245650153474?s=20\&t=TzictjlCH1fGYY7Ffrl1XQ)****
+![](<../../.gitbook/assets/image (54) (1).png>)![](<../../.gitbook/assets/image (68).png>)![](<../../.gitbook/assets/image (66).png>)![](<../../.gitbook/assets/image (49) (1).png>)[**dark mode: on**](https://twitter.com/dovetailNFT/status/1513615245650153474?s=20\&t=TzictjlCH1fGYY7Ffrl1XQ)
 
-****![](<../../.gitbook/assets/image (35).png>)****![](<../../.gitbook/assets/image (60).png>)****\
-****phunk mondrian (dovetail, 2022) inspired by [@PhunkyVasilios](https://twitter.com/PhunkyVasilios) and [@piv\_piv](https://twitter.com/piv\_piv)
+![](<../../.gitbook/assets/image (35).png>)![](<../../.gitbook/assets/image (60).png>)\
+phunk mondrian (dovetail, 2022) inspired by [@PhunkyVasilios](https://twitter.com/PhunkyVasilios) and [@piv\_piv](https://twitter.com/piv\_piv)
 
 ![emotionally unavailable (dovetail, 2022) inspired by marcel duchamp's series of "readymades"](<../../.gitbook/assets/image (71) (1).png>)
 
-****![](<../../.gitbook/assets/image (18).png>)****![](<../../.gitbook/assets/image (62) (1).png>)****![](<../../.gitbook/assets/image (25).png>)****\
-****[experimenting with creating new traits](https://twitter.com/dovetailNFT/status/1513198697542205442?s=20\&t=TzictjlCH1fGYY7Ffrl1XQ)
+![](<../../.gitbook/assets/image (18).png>)![](<../../.gitbook/assets/image (62) (1).png>)![](<../../.gitbook/assets/image (25).png>)\
+[experimenting with creating new traits](https://twitter.com/dovetailNFT/status/1513198697542205442?s=20\&t=TzictjlCH1fGYY7Ffrl1XQ)
 
 ![](<../../.gitbook/assets/image (14).png>)
 
@@ -71,8 +71,8 @@ in no particular order, made by [@dovetailNFT](https://twitter.com/dovetailNFT)
 
 ![](<../../.gitbook/assets/image (22).png>)
 
-![](<../../.gitbook/assets/image (36) (1) (1).png>)![](<../../.gitbook/assets/image (29).png>)![](<../../.gitbook/assets/image (33) (1).png>)****\
-****[**gm**](https://twitter.com/dovetailNFT/status/1512807372858740744?s=20\&t=TzictjlCH1fGYY7Ffrl1XQ)****
+![](<../../.gitbook/assets/image (36) (1) (1).png>)![](<../../.gitbook/assets/image (29).png>)![](<../../.gitbook/assets/image (33) (1).png>)\
+[**gm**](https://twitter.com/dovetailNFT/status/1512807372858740744?s=20\&t=TzictjlCH1fGYY7Ffrl1XQ)
 
 ![giving my pupy a lil smooch](<../../.gitbook/assets/image (9).png>)
 
@@ -81,9 +81,9 @@ in no particular order, made by [@dovetailNFT](https://twitter.com/dovetailNFT)
 ![5 years ago, @larvalabs Discord, @pents90 and "ringo".
 the very first "whats the utility?", "roadmap?" guy in NFTs.](<../../.gitbook/assets/image (55) (1).png>)
 
-## **GIFS (**warning sensitive content) ****&#x20;
+## **GIFS (**warning sensitive content)&#x20;
 
-![](../../.gitbook/assets/3dphunk.gif)![](../../.gitbook/assets/3dphunk2.gif)![](../../.gitbook/assets/alienphunk.gif)\
+![](../../.gitbook/assets/3dphunk.gif)![](<../../.gitbook/assets/3dphunk2 (1).gif>)![](<../../.gitbook/assets/alienphunk (1).gif>)\
 ![](../../.gitbook/assets/ballerphunk.gif)![](../../.gitbook/assets/beaniespin.gif)![](../../.gitbook/assets/confuarmy.gif)\
 ![](../../.gitbook/assets/copphunk.gif)![](../../.gitbook/assets/cowboyphunk.gif)![](../../.gitbook/assets/explodephunk.gif)\
 ![](../../.gitbook/assets/floorphunk.gif)![](../../.gitbook/assets/hackerdevphunk.gif)![](../../.gitbook/assets/hoodiecigfix.gif)\
@@ -91,6 +91,6 @@ the very first "whats the utility?", "roadmap?" guy in NFTs.](<../../.gitbook/as
 ![](../../.gitbook/assets/pigtailsphunk.gif)![](../../.gitbook/assets/pipesmoke.gif)![](../../.gitbook/assets/piratejam.gif)\
 ![](../../.gitbook/assets/retrophunk.gif)![](../../.gitbook/assets/robberphunk.gif)![](../../.gitbook/assets/robocopphunk.gif)\
 ![](../../.gitbook/assets/shadesgif.gif)![](../../.gitbook/assets/simulationphunk.gif)![](../../.gitbook/assets/vamp.gif)\
-![](../../.gitbook/assets/vapephunk.gif)![](../../.gitbook/assets/wizardphunk.gif)![](../../.gitbook/assets/antifragilephunk.gif)\
-![](../../.gitbook/assets/flippinphunk.gif)![](../../.gitbook/assets/punkclown.gif)![](<../../.gitbook/assets/phunksphud (1) (1) (1).gif>)\
-![](../../.gitbook/assets/phunkdodge.gif)![](<../../.gitbook/assets/phunkali (1) (1) (1) (1).gif>)\
+![](../../.gitbook/assets/vapephunk.gif)![](../../.gitbook/assets/wizardphunk.gif)![](<../../.gitbook/assets/antifragilephunk (1).gif>)\
+![](../../.gitbook/assets/flippinphunk.gif)![](../../.gitbook/assets/punkclown.gif)![](<../../.gitbook/assets/phunksphud (1) (1) (1) (1).gif>)\
+![](<../../.gitbook/assets/phunkdodge (1).gif>)![](<../../.gitbook/assets/phunkali (1) (1) (1).gif>)\

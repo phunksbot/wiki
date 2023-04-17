@@ -72,9 +72,9 @@ View all Phunks you own in one place.
 
 Use Phunk Box to browse collections for any account holding Phunks.
 
-![](<../../.gitbook/assets/Screen Shot 2022-04-03 at 23.26.18 (1).png>)
+![](<../../.gitbook/assets/Screen Shot 2022-04-03 at 23.26.18.png>)
 
-![](<../../.gitbook/assets/Screen Shot 2022-04-03 at 23.26.44 (1).png>)
+![](<../../.gitbook/assets/Screen Shot 2022-04-03 at 23.26.44.png>)
 
 </details>
 
