@@ -18,7 +18,7 @@ in no particular order, made by [@piv\_piv](https://twitter.com/piv\_piv)
 
 ![](<../../.gitbook/assets/image (10) (1) (1) (1) (1) (1) (1).png>)![](<../../.gitbook/assets/image (5) (1) (1) (1).png>)
 
-![](<../../.gitbook/assets/image (1) (1) (1) (2) (1) (1) (2).png>)![](<../../.gitbook/assets/image (9) (1) (1) (1) (1) (1).png>)
+![](<../../.gitbook/assets/image (1) (1) (1) (2) (1) (1).png>)![](<../../.gitbook/assets/image (9) (1) (1) (1) (1) (1).png>)
 
 ![](<../../.gitbook/assets/image (2) (1) (1) (1) (1) (1).png>)![](<../../.gitbook/assets/image (15) (1) (1) (1) (1).png>)
 
