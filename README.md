@@ -9,8 +9,8 @@ coverY: -11.862835959221513
 {% hint style="info" %}
 ![](<.gitbook/assets/Phunk\_4156 (1).png>)![](.gitbook/assets/Phunk\_4156.png)
 
-CryptoPhunks are the same as [CryptoPunks](https://www.larvalabs.com/cryptopunks) just flipped the [other way](about/phunks/phunk-is-art.md), simple yet powerful transformation. Facing the other way sparked a movement of true [ownership](about/phunks/phunk-is-web3.md).\
-Punks are owned by [Corporations](https://twitter.com/cryptopunksnfts/status/1502421713153318918?s=20\&t=sf95wtqypGRjjYHGxaH5lg), Phunks are truly [decentralised](about/phunks/phunk-is-web3.md) and phree.
+CryptoPhunks are the same as [CryptoPunks](https://www.larvalabs.com/cryptopunks) just flipped the [other way](about/readme/phunk-is/phunk-is-art.md), simple yet powerful transformation. Facing the other way sparked a movement of true [ownership](about/readme/phunk-is/phunk-is-web3.md).\
+Punks are owned by [Corporations](https://twitter.com/cryptopunksnfts/status/1502421713153318918?s=20\&t=sf95wtqypGRjjYHGxaH5lg), Phunks are truly [decentralised](about/readme/phunk-is/phunk-is-web3.md) and phree.
 {% endhint %}
 
 ## <mark style="color:orange;">`So, what happened?`</mark>
