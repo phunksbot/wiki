@@ -677,3 +677,11 @@ description: written on Phunks in Chronological order
 [https://cryptodaily.co.uk/2023/02/nft-collection-cryptophunks-price-stats-and-review](https://cryptodaily.co.uk/2023/02/nft-collection-cryptophunks-price-stats-and-review)
 
 </details>
+
+<details>
+
+<summary><mark style="background-color:orange;">April 15, 2023</mark> <a href="https://arxiv.org/abs/2304.07598">Understanding Rug Pulls</a> (Academic Paper)</summary>
+
+[https://arxiv.org/abs/2304.07598](https://arxiv.org/abs/2304.07598)
+
+</details>
