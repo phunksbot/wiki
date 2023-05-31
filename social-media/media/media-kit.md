@@ -40,7 +40,11 @@ You can also change background colour by choosing one below, download will only 
 All 10'000 Phunks in one Collage. When viewed locally on your PC, this collage is very scalable. \
 Just Right Click and Save, then zoom in to the max.
 
-![PHUNK COLLAGE](../../.gitbook/assets/phunks-all.png)
+<div align="left">
+
+<img src="../../.gitbook/assets/phunks-all.png" alt="PHUNK COLLAGE">
+
+</div>
 
 ## <mark style="color:orange;">`Download All`</mark>
 
@@ -133,7 +137,7 @@ https://middlemarch.mypinata.cloud/ipfs/QmR4zNYDSLttz4VbTohU3bg7pf7CiDg6iMAbor2e
 Example Phunk #6993
 
 {% embed url="https://middlemarch.mypinata.cloud/ipfs/QmcvdPd7Jai74e595Mgx2u6D8QZZ1TGSFC2EQQNayQVJL8/6993.png" %}
-****[**1200x1200**](https://middlemarch.mypinata.cloud/ipfs/QmcvdPd7Jai74e595Mgx2u6D8QZZ1TGSFC2EQQNayQVJL8/6993.png)****
+[**1200x1200**](https://middlemarch.mypinata.cloud/ipfs/QmcvdPd7Jai74e595Mgx2u6D8QZZ1TGSFC2EQQNayQVJL8/6993.png)
 {% endembed %}
 
 ## <mark style="color:orange;">`Transparent PNG of your Phunk`</mark>
@@ -141,7 +145,7 @@ Example Phunk #6993
 A little tool for you to download your phunks as transparent PNG images for your meme needs. Enter your phunk ID wait a couple of seconds to load and download. by [@TheSkullCat](https://twitter.com/TheSkullCat)
 
 {% embed url="https://phunks.net/pfp.html" %}
-****[**TWEET**](https://twitter.com/TheSkullCat/status/1532501160866742288)****
+[**TWEET**](https://twitter.com/TheSkullCat/status/1532501160866742288)
 {% endembed %}
 
 ## <mark style="color:orange;">`Generate your own custom Phunk`</mark>
@@ -149,7 +153,7 @@ A little tool for you to download your phunks as transparent PNG images for your
 A little tool for you to generate your own custom Phunk. Go through available attributes, add them 1 by 1 and download. You can also download transparent attribute images for your meme needs. by [@TheSkullCat](https://twitter.com/TheSkullCat)
 
 {% embed url="https://phunks.net/gen.html" %}
-****[**TWEET**](https://twitter.com/TheSkullCat/status/1532754462284079104)****
+[**TWEET**](https://twitter.com/TheSkullCat/status/1532754462284079104)
 {% endembed %}
 
 ## <mark style="color:orange;">`Phunks Meme Minter`</mark>
@@ -157,5 +161,5 @@ A little tool for you to generate your own custom Phunk. Go through available at
 Mint your Phunky memes under a single Phunk Meme Contract as ERC721s with all data stored on IPFS. Set your own royalty for your meme and any address to receive your royalty. Free minting and 0 Contract royalty. by [@TheSkullCat](https://twitter.com/TheSkullCat)
 
 {% embed url="https://meme.phunks.net/" %}
-****[**TWEET**](https://twitter.com/TheSkullCat/status/1560736776573968384)****
+[**TWEET**](https://twitter.com/TheSkullCat/status/1560736776573968384)
 {% endembed %}
