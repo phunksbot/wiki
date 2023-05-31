@@ -672,7 +672,7 @@ description: written on Phunks in Chronological order
 
 <details>
 
-<summary><em><mark style="background-color:orange;">February 27, 2023</mark></em> <a href="https://cryptodaily.co.uk/2023/02/nft-collection-cryptophunks-price-stats-and-review">CryptoPhunks Price, Stats, And Review</a></summary>
+<summary><mark style="background-color:orange;">February 27, 2023</mark> <a href="https://cryptodaily.co.uk/2023/02/nft-collection-cryptophunks-price-stats-and-review">CryptoPhunks Price, Stats, And Review</a></summary>
 
 [https://cryptodaily.co.uk/2023/02/nft-collection-cryptophunks-price-stats-and-review](https://cryptodaily.co.uk/2023/02/nft-collection-cryptophunks-price-stats-and-review)
 
@@ -683,5 +683,13 @@ description: written on Phunks in Chronological order
 <summary><mark style="background-color:orange;">April 15, 2023</mark> <a href="https://arxiv.org/abs/2304.07598">Understanding Rug Pulls</a> (Academic Paper)</summary>
 
 [https://arxiv.org/abs/2304.07598](https://arxiv.org/abs/2304.07598)
+
+</details>
+
+<details>
+
+<summary><mark style="background-color:orange;">May 31, 2023</mark> <a href="https://www.theblock.co/post/232666/crypto-folks-send-1-1-million-to-notlarvalabs-founder-for-nothing-in-return?utm_source=twitter&#x26;utm_medium=social">Crypto folks send $1.1 million to NotLarvaLabs founder</a></summary>
+
+[https://www.theblock.co/post/232666/crypto-folks-send-1-1-million-to-notlarvalabs-founder-for-nothing-in-return?utm\_source=twitter\&utm\_medium=social](https://www.theblock.co/post/232666/crypto-folks-send-1-1-million-to-notlarvalabs-founder-for-nothing-in-return?utm\_source=twitter\&utm\_medium=social)
 
 </details>
