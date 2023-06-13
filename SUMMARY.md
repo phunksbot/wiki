@@ -3,7 +3,7 @@
 ## ABOUT
 
 * [🟥 CRYPTOPHUNKS](README.md)
-  * [➖ PHUNK IS ..](about/readme/phunk-is-../README.md)
+  * [PHUNK IS ..](about/readme/phunk-is-../README.md)
     * [➖ PUNK](about/readme/phunk-is-../phunk-is-punk.md)
     * [➖ WEB3](about/readme/phunk-is-../phunk-is-web3.md)
     * [➖ ART](about/readme/phunk-is-../phunk-is-art.md)
