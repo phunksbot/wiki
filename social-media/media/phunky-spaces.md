@@ -59,3 +59,11 @@ description: LISTEN ABOUT PHUNKS HISTORY, ETHICS AND COMMUNITY ON TWITTER
 [https://twitter.com/i/spaces/1zqKVPrXDqLJB](https://twitter.com/i/spaces/1zqKVPrXDqLJB?s=20)
 
 </details>
+
+<details>
+
+<summary><a href="https://twitter.com/i/spaces/1YpKkgNPOEYKj"><code>CRYPTOPHUNKS TOWNHALL VOL. 8</code></a></summary>
+
+[https://twitter.com/i/spaces/1YpKkgNPOEYKj](https://twitter.com/i/spaces/1YpKkgNPOEYKj)
+
+</details>
