@@ -5,8 +5,12 @@ description: Twitter threads on Phunks in Chronological order (newest on top).
 # 🐦 THREADS
 
 {% hint style="info" %}
-Takes a minute to load, but it's worth it. Just click the tweet pic to see the whole thread.
+Takes a minute to load. Just click the tweet pic to see the whole thread.
 {% endhint %}
+
+{% embed url="https://twitter.com/lazslice/status/1673158371300593664?s=20" %}
+**JUNE 26, 2023**
+{% endembed %}
 
 {% embed url="https://twitter.com/PixSorcerer/status/1650866383994114048?s=20" %}
 **APRIL 25, 2023**
