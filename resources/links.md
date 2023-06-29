@@ -4,6 +4,16 @@ description: AND DATA RESOURCES
 
 # ↗ LINKS
 
+## <mark style="color:orange;">`WEBSITE`</mark>
+
+<details>
+
+<summary>CryptoPhunks.com</summary>
+
+[https://www.cryptophunks.com/](https://www.cryptophunks.com/)
+
+</details>
+
 ## <mark style="color:orange;">`SMART CONTRACTS`</mark>
 
 <details>
@@ -279,14 +289,6 @@ description: AND DATA RESOURCES
 * [@PhunkFlywheel](https://twitter.com/PhunkFlywheel)
 
 ## <mark style="color:orange;">`OTHER`</mark>
-
-<details>
-
-<summary>OG Phunk Website</summary>
-
-[https://www.cryptophunks.com/](https://www.cryptophunks.com/)
-
-</details>
 
 <details>
 
