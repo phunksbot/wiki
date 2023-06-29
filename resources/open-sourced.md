@@ -288,7 +288,7 @@ Coder [@TEJITOPIA](https://twitter.com/TEJITOPIA) [@saintmaxiv](https://twitter.
 
 <details>
 
-<summary><em><mark style="color:blue;background-color:yellow;">inspired</mark></em> Flipper</summary>
+<summary><em><mark style="color:blue;background-color:blue;">inspired</mark></em> Flipper</summary>
 
 Source Code: [https://github.com/Anish-Agnihotri/flipper](https://github.com/Anish-Agnihotri/flipper)
 
@@ -300,7 +300,7 @@ Coder [@\_anishagnihotri](https://twitter.com/\_anishagnihotri)
 
 <details>
 
-<summary><em><mark style="color:blue;background-color:yellow;">inspired</mark></em> Phunk Engine</summary>
+<summary><em><mark style="color:blue;background-color:blue;">inspired</mark></em> Phunk Engine</summary>
 
 Source Code: [https://github.com/TootyPang/PhunkEngine](https://github.com/TootyPang/PhunkEngine)
 
@@ -312,7 +312,7 @@ Coder [@tootypang](https://twitter.com/tootypang)
 
 <details>
 
-<summary><em><mark style="color:blue;background-color:yellow;">inspired</mark></em> On-Chain Phunks</summary>
+<summary><em><mark style="color:blue;background-color:blue;">inspired</mark></em> On-Chain Phunks</summary>
 
 Source: [https://docs.onchainphunks.com/](https://docs.onchainphunks.com/)
 
@@ -324,7 +324,7 @@ Coder [@onchainphunks](https://twitter.com/onchainphunks)
 
 <details>
 
-<summary><em><mark style="color:blue;background-color:yellow;">inspired</mark></em> PAYC Marketplace</summary>
+<summary><em><mark style="color:blue;background-color:blue;">inspired</mark></em> PAYC Marketplace</summary>
 
 Source Code: [https://github.com/Phunky-Ape-Yacht-Club/phunky-mp](https://github.com/Phunky-Ape-Yacht-Club/phunky-mp)
 
@@ -336,7 +336,7 @@ Coder [@2paycshakur](https://twitter.com/2paycshakur)
 
 <details>
 
-<summary><em><mark style="color:blue;background-color:yellow;">inspired</mark></em> 2D FrankenPhunks </summary>
+<summary><em><mark style="color:blue;background-color:blue;">inspired</mark></em> 2D FrankenPhunks </summary>
 
 Source: [https://github.com/sekaieth/2DFrankenPhunks](https://github.com/sekaieth/2DFrankenPhunks)
 
@@ -348,7 +348,7 @@ Coder [@sekaieth](https://twitter.com/sekaieth)
 
 <details>
 
-<summary><em><mark style="color:blue;background-color:yellow;">inspired</mark></em> Phunks v4 </summary>
+<summary><em><mark style="color:blue;background-color:blue;">inspired</mark></em> Phunks v4 </summary>
 
 Source Code: [https://github.com/tfnlab/V4Phunks](https://github.com/tfnlab/V4Phunks)
 
@@ -392,7 +392,7 @@ Twitter [@PhunkBot](https://twitter.com/PhunkBot)
 
 <details>
 
-<summary><em><mark style="color:red;background-color:red;">inactive</mark></em> CryptoPhunksDAO </summary>
+<summary><em><mark style="color:red;background-color:orange;">inactive</mark></em> CryptoPhunksDAO </summary>
 
 Source Code: [https://github.com/Web3Master/cryptophunks](https://github.com/Web3Master/cryptophunks)
 
@@ -404,7 +404,7 @@ Coder [@CryptoPhunksDAO](https://twitter.com/CryptoPhunksDAO)
 
 <details>
 
-<summary><em><mark style="color:red;background-color:red;">inactive</mark></em> PhunkDAO Website</summary>
+<summary><em><mark style="color:red;background-color:orange;">inactive</mark></em> PhunkDAO Website</summary>
 
 Source Code: [https://github.com/IshaanRawat/phunky](https://github.com/IshaanRawat/phunky)
 
@@ -420,7 +420,7 @@ Twitter [@Phunk\_DAO](https://twitter.com/Phunk\_DAO)
 
 <details>
 
-<summary><em><mark style="color:red;background-color:red;">inactive</mark></em> PhunksFloor</summary>
+<summary><em><mark style="color:red;background-color:orange;">inactive</mark></em> PhunksFloor</summary>
 
 Source Code: [https://github.com/maximedotair/phunksfloor](https://github.com/maximedotair/phunksfloor)
 
@@ -436,7 +436,7 @@ Twitter [@PhunksFloor](https://twitter.com/PhunksFloor)
 
 <details>
 
-<summary><em><mark style="color:red;background-color:red;">inactive</mark></em> PhunkFinder</summary>
+<summary><em><mark style="color:red;background-color:orange;">inactive</mark></em> PhunkFinder</summary>
 
 Source Code: [https://github.com/StarKeyJON/PhunkFinderv1](https://github.com/StarKeyJON/PhunkFinderv1)
 
@@ -450,7 +450,7 @@ Coder [@TreeGuyJON](https://twitter.com/TreeGuyJON)
 
 <details>
 
-<summary><em><mark style="color:red;background-color:red;">inactive</mark></em> PhunkyTweeter</summary>
+<summary><em><mark style="color:red;background-color:orange;">inactive</mark></em> PhunkyTweeter</summary>
 
 Source Code: [https://github.com/StarKeyJON/phunky\_tweeter](https://github.com/StarKeyJON/phunky\_tweeter)
 
