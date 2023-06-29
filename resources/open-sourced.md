@@ -6,18 +6,6 @@ description: PHUNKS CONTRIBUTION TO GLOBAL NFT COMMUNITY ON GITHUB
 
 <details>
 
-<summary><em><mark style="color:purple;background-color:yellow;">WIP</mark></em> V3PhunksThing (on-chain charity)</summary>
-
-Source Code: [https://github.com/KenTheWhaleGoddess/V3PhunksThing](https://github.com/KenTheWhaleGoddess/V3PhunksThing)
-
-Programming Language: [Solidity73.4%](https://github.com/KenTheWhaleGoddess/V3PhunksThing/search?l=solidity) [JavaScript26.6%](https://github.com/KenTheWhaleGoddess/V3PhunksThing/search?l=javascript)
-
-Coder [@whalegoddess](https://twitter.com/whalegoddess) [@tbc\_eth](https://twitter.com/tbc\_eth)
-
-</details>
-
-<details>
-
 <summary><em><mark style="color:green;background-color:green;">active</mark></em> Phunks Marketplace</summary>
 
 Source Code: [https://github.com/Crypto-Phunks/CryptoPhunksMarket](https://github.com/Crypto-Phunks/CryptoPhunksMarket)
@@ -212,7 +200,19 @@ Coder [@TreeGuyJON](https://twitter.com/TreeGuyJON)
 
 <details>
 
-<summary><em><mark style="color:purple;background-color:blue;">WIP</mark></em> vphree (v3phunks Marketplace)</summary>
+<summary><em><mark style="color:purple;background-color:yellow;">WIP</mark></em> V3PhunksThing (on-chain charity)</summary>
+
+Source Code: [https://github.com/KenTheWhaleGoddess/V3PhunksThing](https://github.com/KenTheWhaleGoddess/V3PhunksThing)
+
+Programming Language: [Solidity73.4%](https://github.com/KenTheWhaleGoddess/V3PhunksThing/search?l=solidity) [JavaScript26.6%](https://github.com/KenTheWhaleGoddess/V3PhunksThing/search?l=javascript)
+
+Coder [@whalegoddess](https://twitter.com/whalegoddess) [@tbc\_eth](https://twitter.com/tbc\_eth)
+
+</details>
+
+<details>
+
+<summary><em><mark style="color:purple;background-color:yellow;">WIP</mark></em> vphree (v3phunks Marketplace)</summary>
 
 Source Code: [https://github.com/rdupo/vphree](https://github.com/rdupo/vphree)
 
@@ -224,7 +224,7 @@ Coder [@0xDuplo](https://twitter.com/0xDuplo)
 
 <details>
 
-<summary><em><mark style="color:purple;background-color:blue;">WIP</mark></em> MintySea Marketplace</summary>
+<summary><em><mark style="color:purple;background-color:yellow;">WIP</mark></em> MintySea Marketplace</summary>
 
 Source Code: [https://github.com/rdupo/mintysea](https://github.com/rdupo/mintysea)
 
@@ -238,7 +238,7 @@ Coder [@0xDuplo](https://twitter.com/0xDuplo)
 
 <details>
 
-<summary><em><mark style="color:purple;background-color:blue;">WIP</mark></em> Volume tracker</summary>
+<summary><em><mark style="color:purple;background-color:yellow;">WIP</mark></em> Volume tracker</summary>
 
 Source Code: [https://github.com/tat2bu/erc721-sale-extractor](https://github.com/tat2bu/erc721-sale-extractor)
 
@@ -252,7 +252,7 @@ Coder [@tat2bu](https://twitter.com/tat2bu)
 
 <details>
 
-<summary><em><mark style="color:purple;background-color:blue;">WIP</mark></em> PhunksMarketGraph</summary>
+<summary><em><mark style="color:purple;background-color:yellow;">WIP</mark></em> PhunksMarketGraph</summary>
 
 Source Code: [https://github.com/StarKeyJON/CryptoPhunksMarketGraph](https://github.com/StarKeyJON/CryptoPhunksMarketGraph)
 
@@ -264,7 +264,7 @@ Coder [@TreeGuyJON](https://twitter.com/TreeGuyJON)
 
 <details>
 
-<summary><em><mark style="color:purple;background-color:blue;">WIP</mark></em> On-Chain Charity</summary>
+<summary><em><mark style="color:purple;background-color:yellow;">WIP</mark></em> On-Chain Charity</summary>
 
 Source Code: [https://github.com/KenTheWhaleGoddess/V3PhunksThing](https://github.com/KenTheWhaleGoddess/V3PhunksThing)
 
@@ -276,7 +276,7 @@ Coder [@whalegoddess](https://twitter.com/whalegoddess)
 
 <details>
 
-<summary><em><mark style="color:purple;background-color:blue;">WIP</mark></em> Phunk Auction Auto-Bidder</summary>
+<summary><em><mark style="color:purple;background-color:yellow;">WIP</mark></em> Phunk Auction Auto-Bidder</summary>
 
 Source Code: [https://gist.github.com/RogerPodacter/4dccaa65d13f940bd0d87e41276b182b](https://gist.github.com/RogerPodacter/4dccaa65d13f940bd0d87e41276b182b)
 
@@ -288,7 +288,7 @@ Coder [@dumbnamenumbers](https://twitter.com/dumbnamenumbers)
 
 <details>
 
-<summary><em><mark style="color:purple;background-color:blue;">WIP</mark></em> PHUNK FORCE1 Blender and Website</summary>
+<summary><em><mark style="color:purple;background-color:yellow;">WIP</mark></em> PHUNK FORCE1 Blender and Website</summary>
 
 Source Code: [https://github.com/0xTeji/PHUNK-FORCE-1](https://github.com/0xTeji/PHUNK-FORCE-1) [https://github.com/saintmaxi/teji-sneaker](https://github.com/saintmaxi/teji-sneaker)
 
