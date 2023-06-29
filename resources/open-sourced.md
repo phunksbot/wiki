@@ -76,7 +76,7 @@ Source Code: [https://github.com/Crypto-Phunks/nft-sales-twitter-bot](https://gi
 
 Programming Language: <mark style="color:purple;">TypeScript 92.7%,</mark> <mark style="color:yellow;">JavaScript 2.3%,</mark> <mark style="color:green;">Shell 0.5%</mark>
 
-Coder [@chopper\_\_dad](https://twitter.com/chopper\_\_dad) [@tat2bu](https://twitter.com/tat2bu)
+Coder [@chopper\_\_dad](https://twitter.com/chopper\_\_dad) [@tat2bu](https://twitter.com/tat2bu) [@iape\_](https://twitter.com/iape\_)
 
 Twitter [@PhunkBot](https://twitter.com/PhunkBot)
 
