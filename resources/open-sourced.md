@@ -200,7 +200,7 @@ Coder [@TreeGuyJON](https://twitter.com/TreeGuyJON)
 
 <details>
 
-<summary><em><mark style="color:purple;background-color:yellow;">WIP</mark></em> V3PhunksThing (on-chain charity)</summary>
+<summary><em><mark style="color:purple;background-color:yellow;">WIP</mark></em> V3PhunksThing (On-Chain Charity)</summary>
 
 Source Code: [https://github.com/KenTheWhaleGoddess/V3PhunksThing](https://github.com/KenTheWhaleGoddess/V3PhunksThing)
 
@@ -259,18 +259,6 @@ Source Code: [https://github.com/StarKeyJON/CryptoPhunksMarketGraph](https://git
 Programming Language: <mark style="color:purple;">TypeScript</mark>
 
 Coder [@TreeGuyJON](https://twitter.com/TreeGuyJON)
-
-</details>
-
-<details>
-
-<summary><em><mark style="color:purple;background-color:yellow;">WIP</mark></em> On-Chain Charity</summary>
-
-Source Code: [https://github.com/KenTheWhaleGoddess/V3PhunksThing](https://github.com/KenTheWhaleGoddess/V3PhunksThing)
-
-Programming Language: <mark style="color:red;">Solidity</mark><mark style="color:purple;">,</mark> <mark style="color:yellow;">JavaScript</mark>
-
-Coder [@whalegoddess](https://twitter.com/whalegoddess)
 
 </details>
 
