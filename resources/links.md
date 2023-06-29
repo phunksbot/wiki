@@ -275,6 +275,8 @@ description: AND DATA RESOURCES
 * [@PhunkStats](https://twitter.com/PhunkStats)
 * [@CryptoPhunksV2](https://twitter.com/CryptoPhunksV2)
 * [@CryptoPhunks](https://twitter.com/CryptoPhunks)
+* [@PhunksAuction](https://twitter.com/PhunksAuction)
+* [@PhunkFlywheel](https://twitter.com/PhunkFlywheel)
 
 ## <mark style="color:orange;">`OTHER`</mark>
 
