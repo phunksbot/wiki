@@ -6,6 +6,18 @@ description: PHUNKS CONTRIBUTION TO GLOBAL NFT COMMUNITY ON GITHUB
 
 <details>
 
+<summary><em><mark style="color:purple;background-color:yellow;">WIP</mark></em> V3PhunksThing (on-chain charity)</summary>
+
+Source Code: [https://github.com/KenTheWhaleGoddess/V3PhunksThing](https://github.com/KenTheWhaleGoddess/V3PhunksThing)
+
+Programming Language: [Solidity73.4%](https://github.com/KenTheWhaleGoddess/V3PhunksThing/search?l=solidity) [JavaScript26.6%](https://github.com/KenTheWhaleGoddess/V3PhunksThing/search?l=javascript)
+
+Coder [@whalegoddess](https://twitter.com/whalegoddess) [@tbc\_eth](https://twitter.com/tbc\_eth)
+
+</details>
+
+<details>
+
 <summary><em><mark style="color:green;background-color:green;">active</mark></em> Phunks Marketplace</summary>
 
 Source Code: [https://github.com/Crypto-Phunks/CryptoPhunksMarket](https://github.com/Crypto-Phunks/CryptoPhunksMarket)
