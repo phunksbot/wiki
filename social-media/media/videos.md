@@ -4,6 +4,8 @@ description: on Phunks in no particular order
 
 # 📺 VIDEOS
 
+{% embed url="https://youtu.be/Fnwa9veNM-0" %}
+
 {% embed url="https://cdn.discordapp.com/attachments/873564453227094081/1087085758218776677/ua7iTNhGS0XKSpbU.mp4" %}
 
 {% embed url="https://files.gitbook.com/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FZX46fZLl1vCmsmnasnrn%2Fuploads%2F7xEYFsfyriT2jkbPtzYd%2Frapidsave.com_south_park_nailed_it_with_the_nft_crowd_lol-9vzddadj4w581.mp4?alt=media&token=edfdc61f-d092-4088-b77c-ce71b5ae2de4" %}
