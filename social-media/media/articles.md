@@ -4,8 +4,6 @@ description: written on Phunks in Chronological order
 
 # 📚 ARTICLES
 
-
-
 <details>
 
 <summary><mark style="background-color:orange;"><strong>July 11, 2021</strong></mark> <a href="https://phunks.medium.com/the-cryptophunks-manifesto-785c7348e558"><strong>The CryptoPhunks Manifesto</strong></a></summary>
@@ -691,5 +689,13 @@ description: written on Phunks in Chronological order
 <summary><mark style="background-color:orange;">May 31, 2023</mark> <a href="https://www.theblock.co/post/232666/crypto-folks-send-1-1-million-to-notlarvalabs-founder-for-nothing-in-return?utm_source=twitter&#x26;utm_medium=social">Crypto folks send $1.1 million to NotLarvaLabs founder</a></summary>
 
 [https://www.theblock.co/post/232666/crypto-folks-send-1-1-million-to-notlarvalabs-founder-for-nothing-in-return?utm\_source=twitter\&utm\_medium=social](https://www.theblock.co/post/232666/crypto-folks-send-1-1-million-to-notlarvalabs-founder-for-nothing-in-return?utm\_source=twitter\&utm\_medium=social)
+
+</details>
+
+<details>
+
+<summary><mark style="background-color:orange;"><strong>June 05, 2023</strong></mark> <a href="https://www.banklesstimes.com/cryptocurrency/top-nft-rug-pulls/"><strong>Top NFT Rug Pulls</strong></a></summary>
+
+[https://www.banklesstimes.com/cryptocurrency/top-nft-rug-pulls/](https://www.banklesstimes.com/cryptocurrency/top-nft-rug-pulls/)
 
 </details>
