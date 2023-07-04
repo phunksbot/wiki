@@ -38,4 +38,4 @@ Since inception in November 2021 and until May 2022 NLL smart contract successfu
 
 ##
 
-<figure><img src="../../.gitbook/assets/Bildschirmfoto 2022-10-26 um 20.58.41.png" alt=""><figcaption><p>PREVIEW</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Bildschirmfoto 2023-07-04 um 12.18.58.png" alt=""><figcaption><p>PREVIEW</p></figcaption></figure>
