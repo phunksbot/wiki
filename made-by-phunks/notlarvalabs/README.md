@@ -3,7 +3,7 @@ description: >-
   BEST PLACE TO BUY AND SELL PHUNKS, 0% ROYALTIES! 0% SERVICE FEES! BE PHUKNY!
   BE PHREE!
 cover: ../../.gitbook/assets/Bildschirmfoto 2023-07-10 um 21.07.42.png
-coverY: -56.36329935125116
+coverY: -46.96941612604263
 layout:
   cover:
     visible: true
