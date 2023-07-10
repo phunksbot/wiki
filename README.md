@@ -21,6 +21,7 @@ layout:
 # 🟥 CRYPTOPHUNKS
 
 {% hint style="info" %}
+
 <img src=".gitbook/assets/Phunk_4156 (1).png" alt="" data-size="original"><img src=".gitbook/assets/Phunk_4156.png" alt="" data-size="original">
 
 CryptoPhunks are the same as [CryptoPunks](https://www.larvalabs.com/cryptopunks) just flipped the [other way](about/readme/phunk-is-../phunk-is-art.md), simple yet powerful transformation. Facing the other way sparked a movement of true [ownership](about/readme/phunk-is-../phunk-is-web3.md).\
