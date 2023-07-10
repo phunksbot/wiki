@@ -10,19 +10,19 @@
     * [➖ CODE](about/readme/phunk-is-../code.md)
     * [➖ HISTORIC](about/readme/phunk-is-../phunk-is-historic.md)
 
-## MADE BY PHUNKS <a href="#marketplaces" id="marketplaces"></a>
+## MADE BY PHUNKS
 
-* [🟪 NOTLARVALABS.COM](nll/notlarvalabs/README.md)
-  * [➖ FEATURES](nll/notlarvalabs/features.md)
-  * [➖ TUTORIALS](nll/notlarvalabs/tutorials.md)
-  * [➖ FAQ](nll/notlarvalabs/faq.md)
-* [🟧 AUCTION HOUSE](nll/auction-house/README.md)
-* [🟦 FLYWHEEL](nll/api.md)
-* [🟩 PHUNKY](marketplaces/phunky/README.md)
-  * [📊 PHUNKY DATA](marketplaces/phunky-data.md)
-  * [🧦 PHUNKY SOCKS](marketplaces/phunky-socks.md)
-  * [🗣 PHUNKY SPACES](marketplaces/phunky/phunky-spaces.md)
-  * [📰 DOSE OF PHUNKS](marketplaces/phunky/dose-of-phunks.md)
+* [🟪 NOTLARVALABS.COM](made-by-phunks/notlarvalabs/README.md)
+  * [➖ FEATURES](made-by-phunks/notlarvalabs/features.md)
+  * [➖ TUTORIALS](made-by-phunks/notlarvalabs/tutorials.md)
+  * [➖ FAQ](made-by-phunks/notlarvalabs/faq.md)
+* [🟧 AUCTION HOUSE](made-by-phunks/auction-house.md)
+* [🟦 FLYWHEEL](made-by-phunks/api.md)
+* [🟩 PHUNKY](made-by-phunks/phunky/README.md)
+  * [📊 PHUNKY DATA](made-by-phunks/phunky/phunky-data.md)
+  * [🧦 PHUNKY SOCKS](made-by-phunks/phunky/phunky-socks.md)
+  * [🗣 PHUNKY SPACES](made-by-phunks/phunky/phunky-spaces.md)
+  * [📰 DOSE OF PHUNKS](made-by-phunks/phunky/dose-of-phunks.md)
 
 ## SOCIAL MEDIA
 
