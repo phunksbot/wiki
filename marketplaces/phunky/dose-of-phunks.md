@@ -2,6 +2,17 @@
 description: >-
   A weekly, Phunky, and concise  newsletter aiming to spread Phunkism on a
   consistent basis by @NfTenchi
+layout:
+  title:
+    visible: true
+  description:
+    visible: true
+  tableOfContents:
+    visible: false
+  outline:
+    visible: false
+  pagination:
+    visible: true
 ---
 
 # 📰 DOSE OF PHUNKS

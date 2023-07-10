@@ -4,6 +4,20 @@ description: >-
   BE PHREE!
 cover: ../../.gitbook/assets/Bildschirmfoto 2023-07-04 um 12.18.58.png
 coverY: -263.3761638733706
+layout:
+  cover:
+    visible: true
+    size: hero
+  title:
+    visible: true
+  description:
+    visible: true
+  tableOfContents:
+    visible: false
+  outline:
+    visible: false
+  pagination:
+    visible: true
 ---
 
 # 🟪 NOTLARVALABS.COM
