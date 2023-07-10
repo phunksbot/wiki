@@ -2,13 +2,26 @@
 description: PHUNKS FACE LEFT ON THE RIGHT SIDE OF HISTORY
 cover: .gitbook/assets/image (1) (1).png
 coverY: -11.862835959221513
+layout:
+  cover:
+    visible: true
+    size: full
+  title:
+    visible: true
+  description:
+    visible: true
+  tableOfContents:
+    visible: true
+  outline:
+    visible: false
+  pagination:
+    visible: true
 ---
 
 # 🟥 CRYPTOPHUNKS
 
 {% hint style="info" %}
-
-![](<.gitbook/assets/Phunk\_4156 (1).png>)![](.gitbook/assets/Phunk\_4156.png)
+<img src=".gitbook/assets/Phunk_4156 (1).png" alt="" data-size="original"><img src=".gitbook/assets/Phunk_4156.png" alt="" data-size="original">
 
 CryptoPhunks are the same as [CryptoPunks](https://www.larvalabs.com/cryptopunks) just flipped the [other way](about/readme/phunk-is-../phunk-is-art.md), simple yet powerful transformation. Facing the other way sparked a movement of true [ownership](about/readme/phunk-is-../phunk-is-web3.md).\
 Punks are owned by [Corporations](https://twitter.com/cryptopunksnfts/status/1502421713153318918?s=20\&t=sf95wtqypGRjjYHGxaH5lg), Phunks are truly [decentralised](about/readme/phunk-is-../phunk-is-web3.md) and phree.

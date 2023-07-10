@@ -1,5 +1,16 @@
 ---
 description: 496 DEV PHUNKS, ONE EVERY 3 DAYS, UNTIL THEY ARE ALL GONE!
+layout:
+  title:
+    visible: true
+  description:
+    visible: true
+  tableOfContents:
+    visible: true
+  outline:
+    visible: false
+  pagination:
+    visible: true
 ---
 
 # 🟧 AUCTION HOUSE
@@ -44,4 +55,4 @@ There are [496 CryptoPhunks](https://notlarvalabs.com/cryptophunks/phunkbox?addr
 
 ##
 
-<figure><img src="../../.gitbook/assets/Bildschirmfoto 2022-10-02 um 00.54.34.png" alt=""><figcaption><p>PREVIEW</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/Bildschirmfoto 2022-10-02 um 00.54.34.png" alt=""><figcaption><p>PREVIEW</p></figcaption></figure>

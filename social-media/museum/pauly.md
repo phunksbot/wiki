@@ -1,3 +1,17 @@
+---
+layout:
+  title:
+    visible: true
+  description:
+    visible: true
+  tableOfContents:
+    visible: true
+  outline:
+    visible: false
+  pagination:
+    visible: true
+---
+
 # 🟣 PAULY
 
 ![](<../../.gitbook/assets/image (12) (2).png>)

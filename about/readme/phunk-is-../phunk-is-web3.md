@@ -1,3 +1,17 @@
+---
+layout:
+  title:
+    visible: true
+  description:
+    visible: false
+  tableOfContents:
+    visible: true
+  outline:
+    visible: false
+  pagination:
+    visible: true
+---
+
 # ➖ WEB3
 
 Since [Cypherpunk's Manifesto](https://www.activism.net/cypherpunk/manifesto.html) and [Bitcoin](https://satoshi.nakamotoinstitute.org/emails/cryptography/1/) introduction to the world, people are able to transact directly without the need of central intermediary or rule-makers using blockchain technology. This technology empowered people to freely express their thoughts and views, in writings and Art, to the world without fear of being censored.&#x20;

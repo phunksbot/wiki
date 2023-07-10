@@ -1,5 +1,16 @@
 ---
 description: AUTOMATIC MARKET MAKER FOR MID- AND TOP-TIER PHUNKS
+layout:
+  title:
+    visible: true
+  description:
+    visible: true
+  tableOfContents:
+    visible: true
+  outline:
+    visible: false
+  pagination:
+    visible: true
 ---
 
 # 🟦 FLYWHEEL

@@ -1,5 +1,16 @@
 ---
 description: PHUNKS CONTRIBUTION TO GLOBAL NFT COMMUNITY ON GITHUB
+layout:
+  title:
+    visible: true
+  description:
+    visible: true
+  tableOfContents:
+    visible: true
+  outline:
+    visible: false
+  pagination:
+    visible: true
 ---
 
 # ⏺ OPEN SOURCED
