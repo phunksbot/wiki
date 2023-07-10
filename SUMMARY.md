@@ -22,6 +22,7 @@
   * [📊 PHUNKY DATA](marketplaces/phunky-data.md)
   * [🧦 PHUNKY SOCKS](marketplaces/phunky-socks.md)
   * [🗣 PHUNKY SPACES](marketplaces/phunky/phunky-spaces.md)
+  * [📰 DOSE OF PHUNKS](marketplaces/phunky/dose-of-phunks.md)
 
 ## SOCIAL MEDIA
 
