@@ -1,6 +1,11 @@
 ---
 description: AUTOMATIC MARKET MAKER FOR MID- AND TOP-TIER PHUNKS
+cover: ../.gitbook/assets/Bildschirmfoto 2023-07-11 um 21.05.05.png
+coverY: -91.25486561631139
 layout:
+  cover:
+    visible: true
+    size: full
   title:
     visible: true
   description:
