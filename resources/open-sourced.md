@@ -197,6 +197,20 @@ Contributors [@phunk2243](https://twitter.com/phunk2243) [@tbc\_eth](https://twi
 
 <details>
 
+<summary><em><mark style="color:green;background-color:green;">active</mark></em> ethereumphunks.com</summary>
+
+Source Code: [https://github.com/chopperdaddy/ethereumphunks.com](https://github.com/chopperdaddy/ethereumphunks.com)
+
+Programming Language: [TypeScript52.5%](https://github.com/chopperdaddy/ethereumphunks.com/search?l=typescript) [SCSS38.0%](https://github.com/chopperdaddy/ethereumphunks.com/search?l=scss) [HTML9.5%](https://github.com/chopperdaddy/ethereumphunks.com/search?l=html)
+
+Coder [@chopper\_\_dad](https://twitter.com/chopper\_\_dad)
+
+[DEMO](https://ethereumphunks.com/)
+
+</details>
+
+<details>
+
 <summary><em><mark style="color:green;background-color:green;">active</mark></em> PharOut Marketplace</summary>
 
 Source Code: [https://github.com/StarKeyJON/PharOut-Marketplace](https://github.com/StarKeyJON/PharOut-Marketplace)
