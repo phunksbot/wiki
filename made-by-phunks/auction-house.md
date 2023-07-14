@@ -1,7 +1,7 @@
 ---
 description: 496 DEV PHUNKS, ONE EVERY 3 DAYS, UNTIL THEY ARE ALL GONE!
 cover: ../.gitbook/assets/F1As5TWXsBE9Ura.png
-coverY: 0
+coverY: -6.709916589434661
 layout:
   cover:
     visible: true
