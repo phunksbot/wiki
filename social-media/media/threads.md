@@ -19,6 +19,10 @@ layout:
 Takes a minute to load. Just click the tweet pic to see the whole thread.
 {% endhint %}
 
+{% embed url="https://twitter.com/EggBoisNFT/status/1680308693882089472" %}
+**JULY 15, 2023**
+{% endembed %}
+
 {% embed url="https://twitter.com/ReignBoat/status/1680106411240587264" %}
 **JULY 15, 2023**
 {% endembed %}
