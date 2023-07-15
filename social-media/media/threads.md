@@ -19,6 +19,10 @@ layout:
 Takes a minute to load. Just click the tweet pic to see the whole thread.
 {% endhint %}
 
+{% embed url="https://twitter.com/ReignBoat/status/1680106411240587264?s=20" %}
+**JULY 15, 2023**
+{% endembed %}
+
 {% embed url="https://twitter.com/lazslice/status/1673158371300593664?s=20" %}
 **JUNE 26, 2023**
 {% endembed %}
