@@ -28,7 +28,7 @@
 
 * [🔊 MEDIA](social-media/media/README.md)
   * [📚 ARTICLES](social-media/media/articles.md)
-  * [🐦 THREADS](social-media/media/threads.md)
+  * [✖ THREADS](social-media/media/threads.md)
   * [📺 VIDEOS](social-media/media/videos.md)
   * [🎧 MUSIC](social-media/media/music.md)
   * [💠 MEDIA KIT](social-media/media/media-kit.md)

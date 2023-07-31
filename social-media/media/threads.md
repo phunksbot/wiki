@@ -1,6 +1,11 @@
 ---
 description: Twitter threads on Phunks in Chronological order (newest on top).
+cover: ../../.gitbook/assets/twitter-x-logo-scaled.jpeg
+coverY: 0
 layout:
+  cover:
+    visible: true
+    size: full
   title:
     visible: true
   description:
@@ -13,7 +18,7 @@ layout:
     visible: true
 ---
 
-# 🐦 THREADS
+# ✖ THREADS
 
 {% hint style="info" %}
 Takes a minute to load. Just click the tweet pic to see the whole thread.
