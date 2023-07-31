@@ -19,6 +19,14 @@ layout:
 Takes a minute to load. Just click the tweet pic to see the whole thread.
 {% endhint %}
 
+{% embed url="https://twitter.com/TheSkullCat/status/1686111689555537920" %}
+**JULY 31, 2023**
+{% endembed %}
+
+{% embed url="https://twitter.com/e7iks/status/1682115019281170432?s=20" %}
+**JULY 20, 2023**
+{% endembed %}
+
 {% embed url="https://twitter.com/phunk6663/status/1680638301785694208" %}
 **JULY 16, 2023**
 {% endembed %}
