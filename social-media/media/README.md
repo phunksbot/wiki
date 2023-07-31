@@ -1,7 +1,7 @@
 ---
 description: PHUNKS STORY IN MEDIA EXPRESSION
 cover: ../../.gitbook/assets/A1F07E7B-370E-42EF-BD2A-D49B49C9AFEB.jpg
-coverY: 112
+coverY: 163.8827361563518
 layout:
   cover:
     visible: true
