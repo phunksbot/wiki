@@ -17,7 +17,7 @@
   * [➖ TUTORIALS](made-by-phunks/notlarvalabs/tutorials.md)
   * [➖ FAQ](made-by-phunks/notlarvalabs/faq.md)
 * [🟧 AUCTION HOUSE](made-by-phunks/auction-house.md)
-* [🟦 FLYWHEEL](made-by-phunks/api.md)
+* [🟦 FLYWHEEL](made-by-phunks/flywheel.md)
 * [🟩 PHUNKY](made-by-phunks/phunky/README.md)
   * [📊 PHUNKY DATA](made-by-phunks/phunky/phunky-data.md)
   * [🧦 PHUNKY SOCKS](made-by-phunks/phunky/phunky-socks.md)
