@@ -23,7 +23,7 @@ layout:
 
 ![POSTER #2 - PISTOLS](<../../.gitbook/assets/unnamed (98).png>)
 
-![POSTER #3 - BLACK FLAG FEAT. BERNIE SANDERS](<../../.gitbook/assets/unnamed (100).png>)
+![POSTER #3 - BLACK FLAG FEAT. BERNIE SANDERS](<../../.gitbook/assets/unnamed (100) (1).png>)
 
 ![POSTER #4 - SONIC YOUTH](<../../.gitbook/assets/unnamed - 2022-04-14T230451.233.png>)
 

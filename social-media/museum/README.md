@@ -1,7 +1,7 @@
 ---
 description: PHUNKS STORY IN ARTISTIC EXPRESSION
-cover: ../../.gitbook/assets/image (23).png
-coverY: 0
+cover: ../../.gitbook/assets/unnamed (100).png
+coverY: -23.583061889250814
 layout:
   cover:
     visible: true
