@@ -2,8 +2,8 @@
 description: >-
   A weekly, Phunky, and concise  newsletter aiming to spread Phunkism on a
   consistent basis by @NfTenchi
-cover: ../../.gitbook/assets/F0yZXz1WIAAv4Fv.jpeg
-coverY: 0
+cover: ../../.gitbook/assets/98238BF2-7279-4C75-B947-CAE83329953F.png
+coverY: 40.71666666666667
 layout:
   cover:
     visible: true
