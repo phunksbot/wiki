@@ -125,6 +125,8 @@ Switch between supported Collections with ease.
 
 </details>
 
+***
+
 {% embed url="https://notlarvalabs.com/cryptophunks" %}
 [WEBSITE](https://notlarvalabs.com/cryptophunks)
 {% endembed %}
