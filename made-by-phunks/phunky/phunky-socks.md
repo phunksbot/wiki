@@ -1,6 +1,11 @@
 ---
 description: BUY AND SELL REAL PHUNKY SOCKS WITH DIGITAL CURRENCY. DELIVERED ON DEMAND.
+cover: ../../.gitbook/assets/promo-3-min.4665ee78 (1).jpg
+coverY: 0
 layout:
+  cover:
+    visible: true
+    size: hero
   title:
     visible: true
   description:
