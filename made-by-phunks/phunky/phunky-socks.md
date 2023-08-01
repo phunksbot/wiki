@@ -1,11 +1,11 @@
 ---
 description: BUY AND SELL REAL PHUNKY SOCKS WITH DIGITAL CURRENCY. DELIVERED ON DEMAND.
 cover: ../../.gitbook/assets/promo-3-min.4665ee78 (1).jpg
-coverY: 0
+coverY: 557.9626666666666
 layout:
   cover:
     visible: true
-    size: hero
+    size: full
   title:
     visible: true
   description:
@@ -25,8 +25,6 @@ layout:
 {% hint style="info" %}
 Phunkysocks are created by OG [unisocks](https://socks.uniswap.org/) Designer [Leander Capuozzo](https://twitter.com/leandercapuozzo), Burn & Claim smart contract and [website](https://phunkysocks.website/app/home) is created by Phunk holder and enthusiast [theblockchain](https://twitter.com/tbc\_eth).
 {% endhint %}
-
-<figure><img src="../../.gitbook/assets/promo-3-min.4665ee78.jpg" alt=""><figcaption><p><a href="https://phunkysocks.website/app/home">WEBSITE</a></p></figcaption></figure>
 
 ***
 
