@@ -1,5 +1,10 @@
 ---
+cover: ../../../.gitbook/assets/FPrHO_sWYAEELcm (1).jpeg
+coverY: -216
 layout:
+  cover:
+    visible: true
+    size: full
   title:
     visible: true
   description:

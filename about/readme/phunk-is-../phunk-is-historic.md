@@ -1,5 +1,10 @@
 ---
+cover: ../../../.gitbook/assets/FFy52QrXIAMAmfH (1).jpeg
+coverY: -79
 layout:
+  cover:
+    visible: true
+    size: full
   title:
     visible: true
   description:
