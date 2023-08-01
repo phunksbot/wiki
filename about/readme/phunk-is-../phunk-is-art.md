@@ -1,6 +1,6 @@
 ---
-cover: ../../../.gitbook/assets/FPrHO_sWYAEELcm (1).jpeg
-coverY: -216
+cover: ../../../.gitbook/assets/1_6GA6r_N8zHBHFygSBUWxMQ@2x (1).jpeg
+coverY: 266.7337723424271
 layout:
   cover:
     visible: true
