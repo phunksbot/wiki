@@ -40,6 +40,10 @@ layout:
 
 <figure><img src="../../.gitbook/assets/F1z1eGyWIAU9kI4.jpeg" alt=""><figcaption><p><a href="https://twitter.com/NfTenchi/status/1683483915984535554?s=20"><strong>JULY 16-23, 2023</strong></a></p></figcaption></figure>
 
+***
+
 ## EDITION #4
 
 <figure><img src="../../.gitbook/assets/F2cVv3qWAAE2iiP.jpeg" alt=""><figcaption><p><a href="https://twitter.com/NfTenchi/status/1686340561282711552?s=20"><strong>JULY 23-30, 2023</strong></a></p></figcaption></figure>
+
+***
