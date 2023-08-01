@@ -27,7 +27,7 @@ While NFT Collections can be banned from centralized trading platform, they real
 
 > What is truly punk can not be stopped. Long live Phunks, on the blockchain, forever. :fist:
 
-##
+***
 
 {% hint style="info" %}
 **`*`**In July 2021, the anonymous devs went out for a pack of smokes and never came back, completely abandoning the Phunks community. They did not transfer the smart contract, social media accounts, or the 496 CryptoPhunks NFTs held in the dev wallet.

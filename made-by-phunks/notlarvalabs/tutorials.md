@@ -15,6 +15,8 @@ layout:
 
 # ➖ TUTORIALS
 
+***
+
 ## <mark style="color:orange;">`Getting Started`</mark>
 
 <details>
@@ -28,6 +30,8 @@ layout:
 Connect your MetaMask Wallet to the Marketplace using tutorial below.
 
 </details>
+
+***
 
 ## <mark style="color:orange;">`Tutorials`</mark>
 
@@ -172,6 +176,8 @@ With or without Color Border and press Download.
 ![](<../../.gitbook/assets/Screen Shot 2022-04-03 at 23.23.45.png>)![](<../../.gitbook/assets/Screen Shot 2022-04-03 at 23.23.54.png>)
 
 </details>
+
+***
 
 {% embed url="https://notlarvalabs.com/cryptophunks" %}
 [WEBSITE](https://notlarvalabs.com/cryptophunks)

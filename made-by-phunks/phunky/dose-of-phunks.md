@@ -22,13 +22,19 @@ layout:
 
 # 📰 DOSE OF PHUNKS
 
+***
+
 ## EDITION #1
 
 <figure><img src="../../.gitbook/assets/F0oyovkXsAMVmPx.jpeg" alt=""><figcaption><p><a href="https://twitter.com/NfTenchi/status/1678209496336805888?s=20"><strong>JULY 02-09, 2023</strong></a></p></figcaption></figure>
 
+***
+
 ## EDITION #2
 
 <figure><img src="../../.gitbook/assets/F1auwVcWcAEO1ni.jpeg" alt=""><figcaption><p><a href="https://twitter.com/NfTenchi/status/1681723668924121103?s=20"><strong>JULY 09-16, 2023</strong></a></p></figcaption></figure>
+
+***
 
 ## EDITION #3
 

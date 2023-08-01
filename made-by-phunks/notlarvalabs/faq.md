@@ -93,6 +93,8 @@ CryptoPhunksV2 Token: [0xf07468ead8cf26c752c676e43c814fee9c8cf402](https://ether
 
 </details>
 
+***
+
 {% embed url="https://notlarvalabs.com/faq-history" %}
 [WEBSITE](https://notlarvalabs.com/cryptophunks)
 {% endembed %}

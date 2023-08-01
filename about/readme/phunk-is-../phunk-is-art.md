@@ -40,7 +40,7 @@ That was a beautiful performance act that sent a signal all the way to the top t
 
 Art is in the story, movement, culture, philosophy, interpretation and belief. JPEG embodies all that into a simple pixel image. Phunks face left cause the other way just doesn’t feel right.
 
-##
+***
 
 ![](<../../../.gitbook/assets/Screen Shot 2022-04-10 at 07.36.00.png>)![](<../../../.gitbook/assets/Screen Shot 2022-04-10 at 07.34.59.png>)\
 by [Monero](https://www.getmonero.org/) founder [@fluffypony](https://twitter.com/fluffypony/status/1512771931484864514?s=20\&t=o-U9RXl0pM8qkl02jMBrRw)

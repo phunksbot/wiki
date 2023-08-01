@@ -26,7 +26,7 @@ Phunks are important part of the NFT history that raised important questions and
 
 **If you hold a Phunk you actually own it, without fear that yours Phunks ownership can be resold from one Corporation to another as it happened to** [**CryptoPunks and Meebits**](https://twitter.com/yugalabs/status/1502420714527334406?s=20\&t=J5ZZNygm5AQ4XfL58MAxTw)**. That's the beauty of Web3; Removing power from Corporations and giving power back to the People.**
 
-##
+***
 
 {% hint style="info" %}
 In times when [VCs](https://www.investopedia.com/terms/v/venturecapitalist.asp) and [Big Corporations](https://www.theverge.com/2022/3/22/22991272/yuga-labs-seed-funding-a16z-bored-ape-yacht-club-bayc-metaverse-other-side) are entering Web3 to claim ownership over your NFTs and extract huge profits, being a Phunk is more relevant than ever as a statement against centralization in this emerging Crypto evolution built on top of decentralized, open, permissionless system called blockchain.\

@@ -15,6 +15,8 @@ layout:
 
 # 🗣 PHUNKY SPACES
 
+***
+
 <details>
 
 <summary><a href="https://twitter.com/i/spaces/1eaKbrXLayBKX"><code>CRYPTOPHUNKS TOWNHALL VOL. 1</code></a></summary>
@@ -22,6 +24,8 @@ layout:
 [https://twitter.com/i/spaces/1eaKbrXLayBKX](https://twitter.com/i/spaces/1eaKbrXLayBKX)
 
 </details>
+
+***
 
 <details>
 
@@ -31,6 +35,8 @@ layout:
 
 </details>
 
+***
+
 <details>
 
 <summary><a href="https://twitter.com/i/spaces/1lDGLnmAPDkxm"><code>CRYPTOPHUNKS TOWNHALL VOL. 3</code></a></summary>
@@ -38,6 +44,8 @@ layout:
 [https://twitter.com/i/spaces/1lDGLnmAPDkxm](https://twitter.com/i/spaces/1lDGLnmAPDkxm)
 
 </details>
+
+***
 
 <details>
 
@@ -47,6 +55,8 @@ layout:
 
 </details>
 
+***
+
 <details>
 
 <summary><a href="https://twitter.com/i/spaces/1MnxnpaZlpNGO?s=20"><code>CRYPTOPHUNKS TOWNHALL VOL. 5</code></a></summary>
@@ -54,6 +64,8 @@ layout:
 [https://twitter.com/i/spaces/1MnxnpaZlpNGO](https://twitter.com/i/spaces/1MnxnpaZlpNGO?s=20)
 
 </details>
+
+***
 
 <details>
 
@@ -63,6 +75,8 @@ layout:
 
 </details>
 
+***
+
 <details>
 
 <summary><a href="https://twitter.com/i/spaces/1zqKVPrXDqLJB"><code>CRYPTOPHUNKS TOWNHALL VOL. 7</code></a></summary>
@@ -70,6 +84,8 @@ layout:
 [https://twitter.com/i/spaces/1zqKVPrXDqLJB](https://twitter.com/i/spaces/1zqKVPrXDqLJB?s=20)
 
 </details>
+
+***
 
 <details>
 
@@ -79,6 +95,8 @@ layout:
 
 </details>
 
+***
+
 <details>
 
 <summary><a href="https://twitter.com/i/spaces/1rmGPkznWEnKN?s=20"><code>CRYPTOPHUNKS TOWNHALL VOL. 9</code></a></summary>
@@ -86,3 +104,5 @@ layout:
 [https://twitter.com/i/spaces/1rmGPkznWEnKN](https://twitter.com/i/spaces/1rmGPkznWEnKN?s=20)
 
 </details>
+
+***

@@ -34,6 +34,8 @@ NLL developers decided to [open-source](https://github.com/Crypto-Phunks/CryptoP
 Since inception in November 2021 and until May 2022 NLL smart contract successfully processed over 20'000 on-chain transactions and accounts for **Ξ**11623 ($35M) in trading volume. (incl. Cargo backend v1 contract).
 {% endhint %}
 
+***
+
 ## <mark style="color:orange;">`LINKS`</mark>
 
 <details>
@@ -52,6 +54,6 @@ Since inception in November 2021 and until May 2022 NLL smart contract successfu
 
 </details>
 
-##
+***
 
 <figure><img src="../../.gitbook/assets/Bildschirmfoto 2023-07-04 um 12.18.58.png" alt=""><figcaption><p>PREVIEW</p></figcaption></figure>
