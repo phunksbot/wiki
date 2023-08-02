@@ -1,6 +1,11 @@
 ---
 description: written on Phunks in Chronological order
+cover: ../../.gitbook/assets/Bildschirmfoto 2023-08-02 um 23.23.16.png
+coverY: 0
 layout:
+  cover:
+    visible: true
+    size: full
   title:
     visible: true
   description:
