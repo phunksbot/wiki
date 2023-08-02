@@ -1,6 +1,6 @@
 ---
 description: Twitter threads on Phunks in Chronological order (newest on top).
-cover: ../../.gitbook/assets/twitter-x-logo-scaled.jpeg
+cover: ../../.gitbook/assets/Bildschirmfoto 2023-08-02 um 23.19.46.png
 coverY: 0
 layout:
   cover:
