@@ -53,6 +53,10 @@
 * [⏺ OPEN SOURCED](resources/open-sourced.md)
 * [⏹ HISTORY](resources/history.md)
 * [↗ LINKS](resources/links.md)
+* [ℹ PHUNK V1 V2 V3](resources/phunk-v1-v2-v3/README.md)
+  * [V1](resources/phunk-v1-v2-v3/v1.md)
+  * [V2](resources/phunk-v1-v2-v3/v2.md)
+  * [V3](resources/phunk-v1-v2-v3/v3.md)
 
 ## TREASURY
 
