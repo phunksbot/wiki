@@ -1,7 +1,7 @@
 ---
 description: CODE IS LAW?
 cover: ../../../.gitbook/assets/image (3) (2).png
-coverY: 0
+coverY: 5.367933271547729
 layout:
   cover:
     visible: true
