@@ -24,6 +24,10 @@ layout:
 Takes a minute to load. Just click the tweet pic to see the whole thread.
 {% endhint %}
 
+{% embed url="https://twitter.com/Hypevestor/status/1687484945000800256" %}
+**AUGUST 04, 2023**
+{% endembed %}
+
 {% embed url="https://twitter.com/TheSkullCat/status/1686111689555537920" %}
 **JULY 31, 2023**
 {% endembed %}
