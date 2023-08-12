@@ -24,6 +24,10 @@ layout:
 Takes a minute to load. Just click the tweet pic to see the whole thread.
 {% endhint %}
 
+{% embed url="https://twitter.com/NFTrebels/status/1690024040356888576?s=20" %}
+**AUGUST 11, 2023**
+{% endembed %}
+
 {% embed url="https://twitter.com/phunk6519/status/1687533983880650752" %}
 **AUGUST 04, 2023**
 {% endembed %}
