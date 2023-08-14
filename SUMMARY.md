@@ -23,6 +23,7 @@
   * [🧦 PHUNKY SOCKS](made-by-phunks/phunky/phunky-socks.md)
   * [🗣 PHUNKY SPACES](made-by-phunks/phunky/phunky-spaces.md)
   * [📰 DOSE OF PHUNKS](made-by-phunks/phunky/dose-of-phunks.md)
+  * [🔦 PHUNKYSPOTLIGHT](made-by-phunks/phunky/phunkyspotlight.md)
 
 ## SOCIAL MEDIA
 
