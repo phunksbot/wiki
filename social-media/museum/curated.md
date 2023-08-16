@@ -51,6 +51,8 @@ Artists: [wolfgangeth](https://twitter.com/wolfgangeth) [PhunkyVasilios](https:/
 
 ![](../../.gitbook/assets/FEwEjoTX0AU\_TVV.jpeg)
 
+<figure><img src="../../.gitbook/assets/F3mUdg9XQAAKuKj.webp" alt=""><figcaption></figcaption></figure>
+
 ![](../../.gitbook/assets/phartinLuther.jpg)
 
 ![](../../.gitbook/assets/PHOc35c03a6-55e1-11e4-ab69-d14bddea9e1e-805x453.jpg)
