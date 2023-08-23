@@ -51,3 +51,13 @@ layout:
 ## EDITION #5
 
 <figure><img src="../../.gitbook/assets/F3C9EJwWQAAI12j.webp" alt=""><figcaption><p><a href="https://twitter.com/nftenchi/status/1689057756555194368"> <strong>AUGUST 01-06, 2023</strong></a></p></figcaption></figure>
+
+***
+
+## EDITION #6
+
+<figure><img src="../../.gitbook/assets/F3mCCUzWQAEDz2_.jpeg" alt=""><figcaption><p><a href="https://twitter.com/NfTenchi/status/1691526125984374785?s=20"><strong>AUGUST 06-13, 2023</strong></a></p></figcaption></figure>
+
+## EDITION #7
+
+<figure><img src="../../.gitbook/assets/F4Lgdg9X0AA9PCA.webp" alt=""><figcaption><p><a href="https://twitter.com/NfTenchi/status/1694163238731047195?s=20"><strong>AUGUST 13-20, 2023</strong></a></p></figcaption></figure>
