@@ -35,6 +35,12 @@ You can also change background colour by choosing one below, download will only 
 **For Phunk Custom PFP (Profile Picture) use** [**Phunk Box**](../../made-by-phunks/notlarvalabs/tutorials.md#tutorials) **by** [**NotLarvaLabs**](../../made-by-phunks/notlarvalabs/)**.**
 {% endhint %}
 
+## <mark style="color:orange;">`All Phunks in one Video sequence`</mark>
+
+{% embed url="https://video.twimg.com/amplify_video/1691480844580372480/vid/500x500/selWSI2SjIn2VAM1.mp4?tag=14" %}
+**by** [**@RaphaelBettan**](https://twitter.com/RaphaelBettan/status/1691536455686832129?s=20)
+{% endembed %}
+
 ## <mark style="color:orange;">`Phunk Collage`</mark>
 
 All 10'000 Phunks in one Collage. When viewed locally on your PC, this collage is very scalable. \
