@@ -1,6 +1,11 @@
 ---
 description: LISTEN ABOUT PHUNKS HISTORY, ETHICS AND COMMUNITY ON TWITTER
+cover: ../../.gitbook/assets/FzQlVZqagAEp8kX.jpg
+coverY: -98.46400000000003
 layout:
+  cover:
+    visible: true
+    size: full
   title:
     visible: true
   description:
@@ -102,6 +107,16 @@ layout:
 <summary><a href="https://twitter.com/i/spaces/1rmGPkznWEnKN?s=20"><code>CRYPTOPHUNKS TOWNHALL VOL. 9</code></a></summary>
 
 [https://twitter.com/i/spaces/1rmGPkznWEnKN](https://twitter.com/i/spaces/1rmGPkznWEnKN?s=20)
+
+</details>
+
+***
+
+<details>
+
+<summary><a href="https://twitter.com/i/spaces/1PlJQppPNvaGE?s=20"><code>CRYPTOPHUNKS TOWNHALL VOL. 10</code></a></summary>
+
+[https://twitter.com/i/spaces/1PlJQppPNvaGE](https://twitter.com/i/spaces/1PlJQppPNvaGE?s=20)
 
 </details>
 
