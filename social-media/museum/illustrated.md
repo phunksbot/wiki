@@ -13,7 +13,7 @@ layout:
     visible: true
 ---
 
-# 🟤 ILLUSTRATED
+# ⚫ ILLUSTRATED
 
 The satirical Storyboard based on CryptoPhunk matter by [@VeryWilliam3](https://twitter.com/VeryWilliam3)
 

@@ -44,10 +44,10 @@
   * [🔵 ABY's](social-media/museum/abys.md)
   * [🟣 PAULY](social-media/museum/pauly.md)
   * [⚪ TENCHI](social-media/museum/tenchi.md)
-  * [⚫ M0\_NFTS](social-media/museum/m0\_nfts.md)
+  * [🟤 M0\_NFTS](social-media/museum/m0\_nfts.md)
   * [🟢 POSTERS](social-media/museum/posters.md)
   * [🟡 DOVETAIL](social-media/museum/dovetail.md)
-  * [🟤 ILLUSTRATED](social-media/museum/illustrated.md)
+  * [⚫ ILLUSTRATED](social-media/museum/illustrated.md)
   * [🟠 MIDDLEMARCH](social-media/museum/middlemarch.md)
 
 ## RESOURCES
