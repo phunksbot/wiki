@@ -17,13 +17,14 @@
   * [➖ TUTORIALS](made-by-phunks/notlarvalabs/tutorials.md)
   * [➖ FAQ](made-by-phunks/notlarvalabs/faq.md)
 * [🟧 AUCTION HOUSE](made-by-phunks/auction-house.md)
-* [🟦 FLYWHEEL](made-by-phunks/flywheel.md)
+* [🟨 FLYWHEEL](made-by-phunks/flywheel.md)
 * [🟩 PHUNKY](made-by-phunks/phunky/README.md)
   * [📊 PHUNKY DATA](made-by-phunks/phunky/phunky-data.md)
   * [🧦 PHUNKY SOCKS](made-by-phunks/phunky/phunky-socks.md)
   * [🗣 PHUNKY SPACES](made-by-phunks/phunky/phunky-spaces.md)
   * [📰 DOSE OF PHUNKS](made-by-phunks/phunky/dose-of-phunks.md)
   * [🔦 PHUNKYSPOTLIGHT](made-by-phunks/phunky/phunkyspotlight.md)
+* [🟦 PHUNKBOT](made-by-phunks/phunkbot.md)
 
 ## SOCIAL MEDIA
 
