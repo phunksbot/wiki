@@ -13,7 +13,7 @@ layout:
     visible: true
 ---
 
-# 🔵 ABY's
+# 🟡 ABY's
 
 phunks story mode series by [@easunlu](https://twitter.com/easunlu)
 

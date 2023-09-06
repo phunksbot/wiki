@@ -13,7 +13,7 @@ layout:
     visible: true
 ---
 
-# 🟡 DOVETAIL
+# 🔵 DOVETAIL
 
 in no particular order, made by [@dovetailNFT](https://twitter.com/dovetailNFT)
 
