@@ -1,4 +1,4 @@
-# ⚫ M0\_NFTS
+# 🟤 M0\_NFTS
 
 {% file src="../../.gitbook/assets/Photo Aug 02 2023, 10 43 07 AM.gif" %}
 
