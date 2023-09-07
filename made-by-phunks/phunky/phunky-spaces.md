@@ -22,6 +22,8 @@ layout:
 
 ***
 
+## VOL. 1
+
 <details>
 
 <summary><a href="https://twitter.com/i/spaces/1eaKbrXLayBKX"><code>CRYPTOPHUNKS TOWNHALL VOL. 1</code></a></summary>
@@ -31,6 +33,8 @@ layout:
 </details>
 
 ***
+
+## VOL. 2
 
 <details>
 
@@ -42,6 +46,8 @@ layout:
 
 ***
 
+## VOL. 3
+
 <details>
 
 <summary><a href="https://twitter.com/i/spaces/1lDGLnmAPDkxm"><code>CRYPTOPHUNKS TOWNHALL VOL. 3</code></a></summary>
@@ -51,6 +57,8 @@ layout:
 </details>
 
 ***
+
+## VOL. 4
 
 <details>
 
@@ -62,6 +70,8 @@ layout:
 
 ***
 
+## VOL. 5
+
 <details>
 
 <summary><a href="https://twitter.com/i/spaces/1MnxnpaZlpNGO?s=20"><code>CRYPTOPHUNKS TOWNHALL VOL. 5</code></a></summary>
@@ -71,6 +81,8 @@ layout:
 </details>
 
 ***
+
+## VOL. 6
 
 <details>
 
@@ -82,6 +94,8 @@ layout:
 
 ***
 
+## VOL. 7
+
 <details>
 
 <summary><a href="https://twitter.com/i/spaces/1zqKVPrXDqLJB"><code>CRYPTOPHUNKS TOWNHALL VOL. 7</code></a></summary>
@@ -91,6 +105,8 @@ layout:
 </details>
 
 ***
+
+## VOL. 8
 
 <details>
 
@@ -102,6 +118,8 @@ layout:
 
 ***
 
+## VOL. 9
+
 <details>
 
 <summary><a href="https://twitter.com/i/spaces/1rmGPkznWEnKN?s=20"><code>CRYPTOPHUNKS TOWNHALL VOL. 9</code></a></summary>
@@ -111,6 +129,8 @@ layout:
 </details>
 
 ***
+
+## VOL. 10
 
 <details>
 
