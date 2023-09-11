@@ -46,7 +46,7 @@ You can also change background colour by choosing one below, download will only 
 All 10'000 Phunks in one Collage. When viewed locally on your PC, this collage is very scalable. \
 Just Right Click and Save, then zoom in to the max.
 
-<div align="left">
+<div align="center" data-full-width="true">
 
 <img src="../../.gitbook/assets/phunks-all.png" alt="PHUNK COLLAGE">
 
