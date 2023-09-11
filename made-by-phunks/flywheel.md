@@ -54,4 +54,18 @@ CryptoPhunks FlyWheel was built by [Hwonder](https://twitter.com/hWonderofWorld)
 
 ***
 
+<div data-full-width="false">
+
 <figure><img src="../.gitbook/assets/Bildschirmfoto 2022-10-02 um 00.45.17.png" alt=""><figcaption><p>PREVIEW</p></figcaption></figure>
+
+</div>
+
+***
+
+## <mark style="color:orange;">`FLYWHEEL PHUNKS FINAL`</mark>
+
+<div data-full-width="true">
+
+<figure><img src="../.gitbook/assets/flywheelphunks.jpg" alt=""><figcaption><p><a href="https://notlarvalabs.com/cryptophunks/phunkbox?address=0x769a9fe72ad5dd35d7a28ca85248f5ffd17916e9"><strong>AUGUST 31, 2023</strong> </a></p></figcaption></figure>
+
+</div>
