@@ -4,6 +4,21 @@ description: if you feel Phunky and want to be Creative
 
 # 💠 MEDIA KIT
 
+***
+
+## <mark style="color:orange;">`Phunk Collage`</mark>
+
+All 10'000 Phunks in one Collage. When viewed locally on your PC, this collage is very scalable. \
+Just Right Click and Save, then zoom in to the max.
+
+<div align="center" data-full-width="true">
+
+<img src="../../.gitbook/assets/phunks-all.png" alt="PHUNK COLLAGE">
+
+</div>
+
+***
+
 ## <mark style="color:orange;">`Phunks Font Style`</mark>
 
 ![](<../../.gitbook/assets/Bildschirmfoto 2022-08-16 um 12.41.35.png>)
@@ -16,11 +31,17 @@ description: if you feel Phunky and want to be Creative
 
 </details>
 
+***
+
 ## <mark style="color:orange;">`Transparent Phunks PNG`</mark>
 
 ![WHITE](../../.gitbook/assets/unknown.png)
 
+***
+
 ![BLACK](../../.gitbook/assets/4b30phunks-01.png)
+
+***
 
 ## <mark style="color:orange;">`CryptoPhunk Viewer`</mark>
 
@@ -35,22 +56,15 @@ You can also change background colour by choosing one below, download will only 
 **For Phunk Custom PFP (Profile Picture) use** [**Phunk Box**](../../made-by-phunks/notlarvalabs/tutorials.md#tutorials) **by** [**NotLarvaLabs**](../../made-by-phunks/notlarvalabs/)**.**
 {% endhint %}
 
+***
+
 ## <mark style="color:orange;">`All Phunks in one Video sequence`</mark>
 
 {% embed url="https://video.twimg.com/amplify_video/1691480844580372480/vid/500x500/selWSI2SjIn2VAM1.mp4?tag=14" %}
 **by** [**@RaphaelBettan**](https://twitter.com/RaphaelBettan/status/1691536455686832129?s=20)
 {% endembed %}
 
-## <mark style="color:orange;">`Phunk Collage`</mark>
-
-All 10'000 Phunks in one Collage. When viewed locally on your PC, this collage is very scalable. \
-Just Right Click and Save, then zoom in to the max.
-
-<div align="center" data-full-width="true">
-
-<img src="../../.gitbook/assets/phunks-all.png" alt="PHUNK COLLAGE">
-
-</div>
+***
 
 ## <mark style="color:orange;">`Download All`</mark>
 
@@ -118,6 +132,8 @@ print "OK\n"
 puts "bye"
 ```
 
+***
+
 ## <mark style="color:orange;">`Phunks in Poster size (1200x1200)`</mark>
 
 Phunk enthusiast, amazing developer and [@Genius](https://twitter.com/Genius) co-founder [Middlemarch](https://twitter.com/dumbnamenumbers) made an effort to upload All 10'000 Phunks to [IPFS](https://ipfs.io/) in HQ 1200x1200 pixel Poster Size images.
@@ -146,6 +162,8 @@ Example Phunk #6993
 [**1200x1200**](https://middlemarch.mypinata.cloud/ipfs/QmcvdPd7Jai74e595Mgx2u6D8QZZ1TGSFC2EQQNayQVJL8/6993.png)
 {% endembed %}
 
+***
+
 ## <mark style="color:orange;">`Transparent PNG of your Phunk`</mark>
 
 A little tool for you to download your phunks as transparent PNG images for your meme needs. Enter your phunk ID wait a couple of seconds to load and download. by [@TheSkullCat](https://twitter.com/TheSkullCat)
@@ -154,6 +172,8 @@ A little tool for you to download your phunks as transparent PNG images for your
 [**TWEET**](https://twitter.com/TheSkullCat/status/1532501160866742288)
 {% endembed %}
 
+***
+
 ## <mark style="color:orange;">`Generate your own custom Phunk`</mark>
 
 A little tool for you to generate your own custom Phunk. Go through available attributes, add them 1 by 1 and download. You can also download transparent attribute images for your meme needs. by [@TheSkullCat](https://twitter.com/TheSkullCat)
@@ -161,6 +181,8 @@ A little tool for you to generate your own custom Phunk. Go through available at
 {% embed url="https://phunks.net/gen.html" %}
 [**TWEET**](https://twitter.com/TheSkullCat/status/1532754462284079104)
 {% endembed %}
+
+***
 
 ## <mark style="color:orange;">`Phunks Meme Minter`</mark>
 
