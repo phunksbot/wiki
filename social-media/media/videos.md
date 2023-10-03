@@ -25,6 +25,8 @@ layout:
 
 {% embed url="https://www.youtube.com/watch?v=C1odtSVoKKc" %}
 
+{% embed url="https://youtu.be/K7tuMwpBdRs" %}
+
 {% embed url="https://www.youtube.com/watch?v=Heev1CwwGj4" %}
 
 {% embed url="https://youtu.be/No5Q1bVxAS0?t=276" %}
