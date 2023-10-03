@@ -24,6 +24,7 @@
   * [🗣 PHUNKY SPACES](made-by-phunks/phunky/phunky-spaces.md)
   * [📰 DOSE OF PHUNKS](made-by-phunks/phunky/dose-of-phunks.md)
   * [🔦 PHUNKYSPOTLIGHT](made-by-phunks/phunky/phunkyspotlight.md)
+  * [♨ SUP PHUNKS!](made-by-phunks/phunky/sup-phunks.md)
 * [🟦 PHUNKBOT](made-by-phunks/phunkbot.md)
 
 ## SOCIAL MEDIA

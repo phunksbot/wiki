@@ -1,6 +1,11 @@
 ---
 description: LISTEN ABOUT PHUNKS HISTORY, ETHICS AND COMMUNITY ON TWITTER
+cover: ../../.gitbook/assets/FzQlVZqagAEp8kX.jpg
+coverY: -98.46400000000003
 layout:
+  cover:
+    visible: true
+    size: full
   title:
     visible: true
   description:
@@ -8,12 +13,16 @@ layout:
   tableOfContents:
     visible: true
   outline:
-    visible: false
+    visible: true
   pagination:
     visible: true
 ---
 
 # 🗣 PHUNKY SPACES
+
+***
+
+## VOL. 1
 
 <details>
 
@@ -23,6 +32,10 @@ layout:
 
 </details>
 
+***
+
+## VOL. 2
+
 <details>
 
 <summary><a href="https://twitter.com/i/spaces/1zqKVPVjAwaJB"><code>CRYPTOPHUNKS TOWNHALL VOL. 2</code></a></summary>
@@ -30,6 +43,10 @@ layout:
 [https://twitter.com/i/spaces/1zqKVPVjAwaJB](https://twitter.com/i/spaces/1zqKVPVjAwaJB)
 
 </details>
+
+***
+
+## VOL. 3
 
 <details>
 
@@ -39,6 +56,10 @@ layout:
 
 </details>
 
+***
+
+## VOL. 4
+
 <details>
 
 <summary><a href="https://twitter.com/i/spaces/1nAJErMqoPnxL"><code>CRYPTOPHUNKS TOWNHALL VOL. 4</code></a></summary>
@@ -47,13 +68,21 @@ layout:
 
 </details>
 
+***
+
+## VOL. 5
+
 <details>
 
 <summary><a href="https://twitter.com/i/spaces/1MnxnpaZlpNGO?s=20"><code>CRYPTOPHUNKS TOWNHALL VOL. 5</code></a></summary>
 
-[https://twitter.com/i/spaces/1MnxnpaZlpNGO?s=20](https://twitter.com/i/spaces/1MnxnpaZlpNGO?s=20)
+[https://twitter.com/i/spaces/1MnxnpaZlpNGO](https://twitter.com/i/spaces/1MnxnpaZlpNGO?s=20)
 
 </details>
+
+***
+
+## VOL. 6
 
 <details>
 
@@ -63,6 +92,10 @@ layout:
 
 </details>
 
+***
+
+## VOL. 7
+
 <details>
 
 <summary><a href="https://twitter.com/i/spaces/1zqKVPrXDqLJB"><code>CRYPTOPHUNKS TOWNHALL VOL. 7</code></a></summary>
@@ -70,6 +103,10 @@ layout:
 [https://twitter.com/i/spaces/1zqKVPrXDqLJB](https://twitter.com/i/spaces/1zqKVPrXDqLJB?s=20)
 
 </details>
+
+***
+
+## VOL. 8
 
 <details>
 
@@ -79,10 +116,28 @@ layout:
 
 </details>
 
+***
+
+## VOL. 9
+
 <details>
 
-<summary> <a href="https://twitter.com/i/spaces/1rmGPkznWEnKN?s=20"><code>CRYPTOPHUNKS TOWNHALL VOL. 9</code></a></summary>
+<summary><a href="https://twitter.com/i/spaces/1rmGPkznWEnKN?s=20"><code>CRYPTOPHUNKS TOWNHALL VOL. 9</code></a></summary>
 
 [https://twitter.com/i/spaces/1rmGPkznWEnKN](https://twitter.com/i/spaces/1rmGPkznWEnKN?s=20)
 
 </details>
+
+***
+
+## VOL. 10
+
+<details>
+
+<summary><a href="https://twitter.com/i/spaces/1PlJQppPNvaGE?s=20"><code>CRYPTOPHUNKS TOWNHALL VOL. 10</code></a></summary>
+
+[https://twitter.com/i/spaces/1PlJQppPNvaGE](https://twitter.com/i/spaces/1PlJQppPNvaGE?s=20)
+
+</details>
+
+***
