@@ -25,7 +25,10 @@
   * [📰 DOSE OF PHUNKS](made-by-phunks/phunky/dose-of-phunks.md)
   * [🔦 PHUNKYSPOTLIGHT](made-by-phunks/phunky/phunkyspotlight.md)
   * [♨ SUP PHUNKS!](made-by-phunks/phunky/sup-phunks.md)
-* [🟦 PHUNKBOT](made-by-phunks/phunkbot.md)
+* [🟦 PHUNKBOT](made-by-phunks/phunkbot/README.md)
+  * [➖ FEATURES](made-by-phunks/phunkbot/features.md)
+  * [➖ TUTORIALS](made-by-phunks/phunkbot/tutorials.md)
+  * [➖ CREDITS](made-by-phunks/phunkbot/credits.md)
 
 ## SOCIAL MEDIA
 
