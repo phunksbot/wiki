@@ -223,6 +223,8 @@ Coder [@TreeGuyJON](https://twitter.com/TreeGuyJON)
 
 </details>
 
+***
+
 <details>
 
 <summary><em><mark style="color:purple;background-color:yellow;">WIP</mark></em> V3PhunksThing (On-Chain Charity)</summary>
@@ -311,6 +313,8 @@ Coder [@TEJITOPIA](https://twitter.com/TEJITOPIA) [@saintmaxiv](https://twitter.
 
 </details>
 
+***
+
 <details>
 
 <summary><em><mark style="color:blue;background-color:blue;">inspired</mark></em> Flipper</summary>
@@ -383,6 +387,8 @@ Coder [@tfnlab](https://twitter.com/tfnlab)
 
 </details>
 
+***
+
 <details>
 
 <summary><em><mark style="color:red;background-color:red;">deprecated</mark></em> PhunkBOT V1 </summary>
@@ -414,6 +420,8 @@ Twitter [@PhunkBot](https://twitter.com/PhunkBot)
 [LIVE DEMO](https://twitter.com/PhunkBot)
 
 </details>
+
+***
 
 <details>
 
