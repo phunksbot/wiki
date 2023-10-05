@@ -66,4 +66,8 @@ There are [496 CryptoPhunks](https://notlarvalabs.com/cryptophunks/phunkbox?addr
 
 ## <mark style="color:orange;">`AUCTION HOUSE PHUNKS`</mark>
 
+<div data-full-width="true">
+
 <figure><img src="../.gitbook/assets/phunktreasury.eth.jpg" alt=""><figcaption><p><a href="https://notlarvalabs.com/cryptophunks/phunkbox?address=0x61f874551c69f0E40c9f55219107B408C989aDEc"><strong>OCTOBER 04, 2023</strong></a></p></figcaption></figure>
+
+</div>
