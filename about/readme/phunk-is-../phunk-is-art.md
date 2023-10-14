@@ -43,7 +43,7 @@ Some good examples of a simple transformation that completely changes the meanin
 After being banned from NFT trading ecosystem, phunks community took a stand against censorship and made their own marketplace called [**not**LarvaLabs](../../../made-by-phunks/notlarvalabs/) with 0% trading fees. \
 That was a beautiful performance act that sent a signal all the way to the top that you can't stop people that are passionate about something to build in this new paradigm called Crypto, no matter how anyone feels about it.
 
-Art is in the story, movement, culture, philosophy, interpretation and belief. JPEG embodies all that into a simple pixel image. Phunks face left cause the other way just doesn’t feel right.
+Art is in the story, movement, culture, philosophy, interpretation and belief. JPEG embodies all that into a simple pixel image. Phunks face left, because the other way just doesn't feel right.
 
 ***
 
