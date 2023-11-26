@@ -47,3 +47,11 @@
 <figure><img src="../../.gitbook/assets/Bildschirmfoto 2023-11-15 um 16.25.33.png" alt=""><figcaption></figcaption></figure>
 
 <figure><img src="../../.gitbook/assets/Bildschirmfoto 2023-11-26 um 21.08.16.png" alt=""><figcaption></figcaption></figure>
+
+***
+
+## VOTE
+
+<figure><img src="../../.gitbook/assets/Bildschirmfoto 2023-11-26 um 21.11.31.png" alt=""><figcaption></figcaption></figure>
+
+<figure><img src="../../.gitbook/assets/Bildschirmfoto 2023-11-26 um 21.12.18.png" alt=""><figcaption></figcaption></figure>
