@@ -28,6 +28,7 @@
 * [🟦 PHUNKBOT](made-by-phunks/phunkbot/README.md)
   * [➖ FEATURES](made-by-phunks/phunkbot/features.md)
   * [➖ TUTORIALS](made-by-phunks/phunkbot/tutorials.md)
+  * [➖ VOTE](made-by-phunks/phunkbot/vote.md)
   * [➖ CREDITS](made-by-phunks/phunkbot/credits.md)
 
 ## SOCIAL MEDIA
