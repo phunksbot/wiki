@@ -55,3 +55,9 @@
 <figure><img src="../../.gitbook/assets/Bildschirmfoto 2023-11-26 um 21.11.31.png" alt=""><figcaption></figcaption></figure>
 
 <figure><img src="../../.gitbook/assets/Bildschirmfoto 2023-11-26 um 21.12.18.png" alt=""><figcaption></figcaption></figure>
+
+***
+
+## RESULTS
+
+<figure><img src="../../.gitbook/assets/Bildschirmfoto 2023-11-27 um 03.19.18.png" alt=""><figcaption></figcaption></figure>
