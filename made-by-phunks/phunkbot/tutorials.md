@@ -47,7 +47,7 @@ layout:
 #### TWITTER
 
 * To get your twitter API keys, follow this [tutorial](https://developer.talkwalker.com/guides/rehydrating-tweet/getting-started).
-* Now you need Access token with **read and write** permission, follow this [tutorial](https://docs.tibco.com/pub/activematrix\_businessworks\_plugin\_for\_twitter/6.1.0/doc/html/GUID-3FAC9352-94BE-4D21-9DAC-7AE79E24BECA.html).
+* Now you need Access keys with **read and write** permission, follow this [tutorial](https://docs.tibco.com/pub/activematrix\_businessworks\_plugin\_for\_twitter/6.1.0/doc/html/GUID-3FAC9352-94BE-4D21-9DAC-7AE79E24BECA.html).
 * Save both, your API and Access keys for [deployment](tutorials.md#deployment).
 
 DISCORD
