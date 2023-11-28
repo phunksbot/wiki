@@ -1,7 +1,7 @@
 ---
 description: PHUNKBOT IS MODULAR AND CAN EVOLVE EVEN FURTHER IN THE FUTURE
-cover: ../../.gitbook/assets/Bildschirmfoto 2023-11-28 um 16.28.58.png
-coverY: -32.508017960230916
+cover: ../../.gitbook/assets/Bildschirmfoto 2023-11-28 um 16.34.06.png
+coverY: 44
 layout:
   cover:
     visible: true
