@@ -54,7 +54,7 @@ DISCORD
 
 * To get Discord bot token, follow this [tutorial](https://www.writebots.com/discord-bot-token/).
 * Save your Discord token for [deployment](tutorials.md#deployment).
-* Now you will need to generate link with proper permissions to invite your Discord bot to your Server. In your developer portal under `0Auth2/URL Generator` check this boxes:
+* Now you will need to generate link with proper permissions to invite your Discord bot to your Server. In your [developer portal](https://discord.com/developers) under `0Auth2/URL Generator` check this boxes:
 
 <img src="../../.gitbook/assets/image (73).png" alt="" data-size="original">
 
