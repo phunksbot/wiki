@@ -1,6 +1,11 @@
 ---
 description: IN FEW EASY STEPS YOU WILL BE ABLE TO DEPLOY VERY POWERFUL BOT
+cover: ../../.gitbook/assets/Bildschirmfoto 2023-11-28 um 21.58.22.png
+coverY: 0
 layout:
+  cover:
+    visible: true
+    size: full
   title:
     visible: true
   description:
