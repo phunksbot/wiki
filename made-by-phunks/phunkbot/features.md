@@ -104,7 +104,7 @@ For all `StatisticsService` Commands available check out [tutorials.md](tutorial
 
 ## <mark style="color:orange;">`DAO SERVICE`</mark>
 
-This module is called DAOService and enables PhunkBot to autonomously govern custom Discord roles and provably fair token gated Voting system. in depth explanation and functions can be found under [governance.md](governance.md "mention").&#x20;
+This module is called DAOService and enables PhunkBot to autonomously govern custom Discord roles and provably fair token gated Voting system. in depth explanation and functions can be found under [wip-governance.md](wip-governance.md "mention").&#x20;
 
 <details>
 
@@ -132,7 +132,7 @@ import { DAOController } from './extensions/dao/dao.controller';
 </details>
 
 {% hint style="info" %}
-For all `DAOService` Commands available check out [governance.md](governance.md "mention")
+For all `DAOService` Commands available check out [wip-governance.md](wip-governance.md "mention")
 {% endhint %}
 
 ***
