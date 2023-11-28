@@ -73,8 +73,8 @@ import { Erc721SalesService } from './erc721sales.service';
 * BLUR.io - Sweeps, Buys and Sells & support for **ERC20** "blurio pool" wrapped ETH.
 * **MEV** sniping bot exotic transactions.
 * **CLI mode feature: CLI** command implemented to replay transaction.
-* Integrate **flywheel** (phunks.pro) sales into bot with custom Message.
-* Integrate **Auctions** (phunks.auction) **sales only** with custom Message.
+* Integrated **flywheel** (phunks.pro) sales into bot with custom Message.
+* Integrated **Auctions** (phunks.auction) **sales only** with custom Message.
 * **Embeded** discord bot design implemented with dynamic smart exchange **ICON** support.
 
 </details>
