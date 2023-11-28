@@ -96,7 +96,7 @@ npm install
 nano .env
 ```
 
-Add content from `example.env` and enter your API credentials
+Add content from `example.env` and enter your [API](tutorials.md#prerequisite) credentials
 
 {% code title=".env" overflow="wrap" %}
 ```bash
@@ -157,7 +157,7 @@ Customise the Tweet and Discord Stats parameters
 ```
 {% endcode %}
 
-(Optional) Use Local images and Local metadata (not a requirement)
+(Optional) Use Local images and Local metadata
 
 {% code title="config.ts" %}
 ```typescript
@@ -259,7 +259,7 @@ npm run start:dev
 npm run start:prod
 ```
 
-#### with watchdog (recommended)
+#### with watchdog (<mark style="color:green;">recommended</mark>)
 
 ```bash
 npm run start:prod-with-watchdog
