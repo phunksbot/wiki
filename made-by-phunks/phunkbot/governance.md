@@ -1,6 +1,14 @@
-# ➖ VOTE
+---
+description: COMMUNITY GOVERNANCE POWERED by PHUNKBOT
+---
 
+# ➖ GOVERNANCE
 
+This module called DAOService&#x20;
+
+```typescript
+import { DAOService } from './extensions/dao/dao.extension.service';
+```
 
 ## CREATE POLL
 
