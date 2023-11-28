@@ -61,6 +61,10 @@ import { Erc721SalesService } from './erc721sales.service';
 
 </details>
 
+{% hint style="info" %}
+For all functionalities and tutorials go to [tutorials.md](tutorials.md "mention")
+{% endhint %}
+
 ***
 
 ## <mark style="color:orange;">`STATS SERVICE`</mark>
