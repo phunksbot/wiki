@@ -65,7 +65,7 @@ import { Erc721SalesService } from './erc721sales.service';
 
 <summary>SUPPORTED</summary>
 
-* [NotLarvaLabs](../notlarvalabs/) marketplace.
+* [NotLarvaLabs](../notlarvalabs/) marketplace - Support for Bids, Buys and Sells.
 * OpenSea marketplace (inkl. SeaPort).
 * NFTX - Sweeps, Buys and Sells.
 * X2Y2 - Sweeps, Buys and Sells.
