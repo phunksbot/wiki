@@ -22,7 +22,7 @@ layout:
 
 ## <mark style="color:orange;">`SALES MODULE`</mark>
 
-This module is called `Erc721SalesService` and enables PhunkBot to post all Sales to Twitter and Discord simultaneously. To customise, just edit `/src/config.ts` file and let PhunkBot do his magic.
+This module is called `Erc721SalesService` and enables PhunkBot to post all Sales to Twitter and Discord simultaneously. To customise, just edit `/src/config.ts` file and let PhunkBot do its magic.
 
 <details>
 
