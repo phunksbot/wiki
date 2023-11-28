@@ -69,7 +69,7 @@ For all functionalities and tutorials go to [tutorials.md](tutorials.md "mention
 
 ## <mark style="color:orange;">`STATS SERVICE`</mark>
 
-This module is called `StatisticsService` and enables PhunkBot to fetch all transactions for collection set under `/src/config.ts`.  With this information saved locally and synced in real time, discord users get access to useful informations like Volume stats, Trader stats and Token ownership. It enables discord Application Commands like `/volume` or `/graph` and much more.
+This module is called `StatisticsService` and enables PhunkBot to fetch all transactions for collection set under `/src/config.ts`.  With this information saved locally and synced in real time, discord users get access to Volume stats, Trader stats and Token ownership. It enables discord Application Commands like `/volume` or `/graph` and much more.
 
 <details>
 
