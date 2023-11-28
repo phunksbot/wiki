@@ -24,7 +24,7 @@ layout:
 
 <details>
 
-<summary>THINGS YOU NEED</summary>
+<summary>THINGS YOU WILL NEED</summary>
 
 * Linux Server ([ubuntu 20.04](https://www.vultr.com/products/cloud-compute/)).
 * Twitter [v2 API access](https://developer.twitter.com/en/docs/twitter-api/getting-started/about-twitter-api).
@@ -339,7 +339,7 @@ screen -r yourbotsname
 
 <details>
 
-<summary>SERVER ONLY</summary>
+<summary>FOR SERVER ONLY</summary>
 
 WIP
 
