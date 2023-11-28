@@ -20,7 +20,7 @@ layout:
 
 # ➖ FEATURES
 
-## <mark style="color:orange;">`SALES SERVICE`</mark>
+## <mark style="color:orange;">`SALES MODULE`</mark>
 
 This module is called `Erc721SalesService` and enables PhunkBot to post all Sales to Twitter and Discord simultaneously. To customise, just edit `/src/config.ts` file and let PhunkBot do his magic.
 
@@ -85,7 +85,7 @@ For all functionalities and tutorials go to [tutorials.md](tutorials.md "mention
 
 ***
 
-## <mark style="color:orange;">`STATS SERVICE`</mark>
+## <mark style="color:orange;">`STATS MODULE`</mark>
 
 This module is called `StatisticsService` and enables PhunkBot to fetch all transactions for collection set under `/src/config.ts`.  With this information saved locally and synced in real time, discord users get access to Volume stats, Trader stats and Token ownership. It enables discord Application Commands like `/volume` or `/graph` and much more.
 
@@ -124,9 +124,9 @@ For all `StatisticsService` Commands available check out [tutorials.md](tutorial
 
 ***
 
-## <mark style="color:orange;">`DAO SERVICE`</mark>
+## <mark style="color:orange;">`DAO MODULE`</mark>
 
-This module is called DAOService and enables PhunkBot to autonomously govern custom Discord roles and provably fair token gated Voting system. in depth explanation and functions can be found under [wip-governance.md](wip-governance.md "mention").&#x20;
+This module is called `DAOService` and enables PhunkBot to autonomously govern custom Discord roles and provably fair token gated Voting system. in depth explanation and functions can be found under [wip-governance.md](wip-governance.md "mention").&#x20;
 
 <details>
 
