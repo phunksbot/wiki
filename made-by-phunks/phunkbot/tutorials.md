@@ -347,7 +347,7 @@ WIP
 
 ***
 
-## <mark style="color:orange;">`DAO COMMANDS`</mark>
+## <mark style="color:orange;">`DAO Commands`</mark>
 
 <details>
 
