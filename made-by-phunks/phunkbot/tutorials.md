@@ -362,7 +362,7 @@ Here is the list of available commands:
 <summary>ON DISCORD</summary>
 
 If you have [DAO Module](features.md) in <mark style="color:orange;">src/app.module.ts</mark> enabled, your Discord bot will gain some amazing super powers. Since we are dealing with community Governance here, commands are split into two categories: <mark style="color:red;">Admin</mark> and <mark style="color:green;">User</mark> commands. \
-To learn more about DAO Module and how it works go to [wip-governance.md](wip-governance.md "mention")
+To learn more about DAO Module and how it works go to [governance.md](governance.md "mention")
 
 ### Admin Commands
 

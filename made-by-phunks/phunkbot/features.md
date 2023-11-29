@@ -130,7 +130,7 @@ For all <mark style="color:green;">StatisticsService</mark> Commands available c
 ## <mark style="color:orange;">`DAO MODULE`</mark>
 
 This module is called <mark style="color:green;">`DAOService`</mark> and enables PhunkBot to autonomously govern custom Discord roles and provably fair token gated Voting system. \
-In depth explanation and functions can be found under [wip-governance.md](wip-governance.md "mention").&#x20;
+In depth explanation and functions can be found under [governance.md](governance.md "mention").&#x20;
 
 <details>
 
