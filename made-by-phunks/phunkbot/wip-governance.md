@@ -2,13 +2,14 @@
 description: COMMUNITY GOVERNANCE POWERED by PHUNKBOT
 ---
 
-# ➖ GOVERNANCE
+# ➖ 🚧WIP🚧 GOVERNANCE
 
-This module called DAOService&#x20;
+Welcome to first actual, autonomous, self hosted DAO Service for Community Governance.\
+Thanks to PhunkBot module called DAOService, communities don't need to be dependented on third party Services for Governance. In true web3 fashion, PhunkBot makes third party Services like CollabLand, GitCoin, SnapShot, EasyPoll and TweetShit obsolete. Self hosted Service by the Community for the Community. \
+Coming to consensus in web3 is big challenge, decentralized nature of Communities around Crypto Projects brought up question like how can decentralized Community come to consensus in decision making without being reliant on old centralised Solutions. \
+Smart people came out with Solutions by offering Services to Communities like CollabLand (token Gated discord roles and management), GitCoin (bind Social accounts to your web3 indentity), SnapShot (transparent and certificated Voting system), EasyPoll (anonymous voting bot for Discord), TweetShift (Discord Sales Bot). While all those Services are of great benefit for whole Crypto Community, it comes with the Price. Web3 is all about own you own Data, not rely on third party Services ... WIP&#x20;
 
-```typescript
 import { DAOService } from './extensions/dao/dao.extension.service';
-```
 
 ## CREATE POLL
 

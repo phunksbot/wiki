@@ -345,7 +345,7 @@ Here is the list of available commands:
 /index <block> <tx>
 ```
 
-#### Check your Bots current index block number
+#### Check your Bots current index block number (heartbeat)
 
 ```typescript
 /status
