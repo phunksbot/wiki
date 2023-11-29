@@ -48,7 +48,7 @@ PhunkBot is in house hosted, Self-Sufficient Service by the Community for the Co
 import { DAOService } from './extensions/dao/dao.extension.service';
 ```
 
-## <mark style="color:orange;">Sybil Attack handling</mark>
+## <mark style="color:orange;">Sybil Attack</mark>
 
 <details>
 
