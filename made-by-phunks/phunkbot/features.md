@@ -22,7 +22,7 @@ layout:
 
 ## <mark style="color:orange;">`SALES MODULE`</mark>
 
-This module is called <mark style="color:green;">`Erc721SalesService`</mark> and enables PhunkBot to post all Sales to Twitter and Discord simultaneously. To customise, just edit <mark style="color:orange;">`/src/config.ts`</mark> file and let PhunkBot do its magic.
+This module is called `Erc721SalesService` and enables PhunkBot to post all Sales to Twitter and Discord simultaneously. To customise, just edit `/src/config.ts` file and let PhunkBot do its magic.
 
 <details>
 
@@ -82,14 +82,14 @@ import { Erc721SalesService } from './erc721sales.service';
 </details>
 
 {% hint style="info" %}
-For all <mark style="color:green;">Erc721SalesService</mark> functionalities and tutorials go to [tutorials.md](tutorials.md "mention")
+For all Sales Service functionalities and tutorials go to [tutorials.md](tutorials.md "mention")
 {% endhint %}
 
 ***
 
 ## <mark style="color:orange;">`STATS MODULE`</mark>
 
-This module is called <mark style="color:green;">`StatisticsService`</mark> and enables PhunkBot to index all transactions for your collection set under <mark style="color:orange;">`/src/config.ts`</mark>.  With this indexed information, saved locally and synced in real time, your discord users get access to Volume stats, Trader stats and Token ownership info. \
+This module is called `StatisticsService` and enables PhunkBot to index all transactions for your collection set under `/src/config.ts`.  With this indexed information, saved locally and synced in real time, your discord users get access to Volume stats, Trader stats and Token ownership info. \
 It enables discord Application Commands like <mark style="color:blue;">`/volume`</mark> or <mark style="color:blue;">`/graph`</mark> and so much more.
 
 <details>
@@ -122,14 +122,14 @@ import { StatisticsService } from './extensions/statistics.extension.service';
 </details>
 
 {% hint style="info" %}
-For all <mark style="color:green;">StatisticsService</mark> Commands available check out [tutorials.md](tutorials.md "mention")&#x20;
+For all Statistics Service Commands available check out [tutorials.md](tutorials.md "mention")&#x20;
 {% endhint %}
 
 ***
 
 ## <mark style="color:orange;">`DAO MODULE`</mark>
 
-This module is called <mark style="color:green;">`DAOService`</mark> and enables PhunkBot to autonomously govern custom Discord roles and provably fair token gated Voting system. \
+This module is called `DAOService` and enables PhunkBot to autonomously govern custom Discord roles and provably fair token gated Voting system. \
 In depth explanation and functions can be found under [governance.md](governance.md "mention").&#x20;
 
 <details>
@@ -158,7 +158,7 @@ import { DAOController } from './extensions/dao/dao.controller';
 </details>
 
 {% hint style="info" %}
-For all <mark style="color:green;">DAOService</mark> Commands available check out [tutorials.md](tutorials.md "mention")
+For all DAO Service Commands available check out [tutorials.md](tutorials.md "mention")
 {% endhint %}
 
 ***
