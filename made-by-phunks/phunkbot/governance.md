@@ -71,7 +71,7 @@ We enabled PhunkBot to serve as autonomous, trustless Bot that elegantly elimina
 
 Example Above is set off Parameters that writes a Simple Rule that if user has minimum of 1 Asset and owns that Asset for minimum of 15 days is allowed to Vote. Only if that user already [bounded](governance.md#bounded) his Discord and/or Twitter account to his Web3 wallet(s)..&#x20;
 
-Example bellow is another (optional) set of rules where only [permitted](governance.md#createpoll) Discord Roles that PhunkBot granted to specific underlying Assets/Traits are allowed to Vote.
+Example bellow is another (optional) set of rules where only [permitted](governance.md#createpoll) Discord Roles that PhunkBot granted to a specific underlying Assets/Traits are allowed to Vote while Core rules Above still count.
 
 {% code title="dao.extention.service.ts" %}
 ```typescript
