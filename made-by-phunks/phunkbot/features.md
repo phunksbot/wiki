@@ -22,7 +22,7 @@ layout:
 
 ## <mark style="color:orange;">`SALES MODULE`</mark>
 
-This module is called `Erc721SalesService` and enables PhunkBot to post all Sales to Twitter and Discord simultaneously. To customise, just edit `/src/config.ts` file and let PhunkBot do its magic.
+This module is called <mark style="color:green;">`Erc721SalesService`</mark> and enables PhunkBot to post all Sales to Twitter and Discord simultaneously. To customise, just edit <mark style="color:orange;">`/src/config.ts`</mark> file and let PhunkBot do its magic.
 
 <details>
 
@@ -38,7 +38,7 @@ import { Erc721SalesService } from './erc721sales.service';
 
 <summary>ON TWITTER</summary>
 
-#### Sample of PhunkBot Log for successfully processed Sales event:
+#### Sample of PhunkBot Log for successfully processed Sales event
 
 ```log
 2023-11-28 00:43:15] [base.service] [info]: Successfully tweeted: 1729299877790662770 -> Phunk #2949 was flipped for Ξ0.202 ($411) by servo.eth
@@ -57,7 +57,7 @@ import { Erc721SalesService } from './erc721sales.service';
 
 <summary>ON DISCORD</summary>
 
-#### Discord Output for tweet above:
+#### Discord Output for tweet above
 
 <img src="../../.gitbook/assets/Bildschirmfoto 2023-11-28 um 15.34.02 (1).png" alt="" data-size="original">
 
@@ -74,7 +74,7 @@ import { Erc721SalesService } from './erc721sales.service';
 * LooksRare v2 - Sweeps, Buys and Sells..
 * BLUR.io - Sweeps, Buys and Sells & support for **ERC20** "blurio pool" wrapped ETH.
 * **MEV** sniping bot exotic transactions.
-* **CLI mode feature: CLI** command implemented to replay transaction.
+* **CLI mode feature:** [**CLI**](tutorials.md) command implemented to replay transaction.
 * Integrated **flywheel** (phunks.pro) sales into bot with custom Message.
 * Integrated **Auctions** (phunks.auction) **sales only** with custom Message.
 * **Embeded** discord bot design implemented with dynamic smart exchange **ICON** support.
@@ -82,14 +82,15 @@ import { Erc721SalesService } from './erc721sales.service';
 </details>
 
 {% hint style="info" %}
-For all functionalities and tutorials go to [tutorials.md](tutorials.md "mention")
+For all <mark style="color:green;">Erc721SalesService</mark> functionalities and tutorials go to [tutorials.md](tutorials.md "mention")
 {% endhint %}
 
 ***
 
 ## <mark style="color:orange;">`STATS MODULE`</mark>
 
-This module is called `StatisticsService` and enables PhunkBot to index all transactions for collection set under `/src/config.ts`.  With this information saved locally and synced in real time, discord users get access to Volume stats, Trader stats and Token ownership. It enables discord Application Commands like `/volume` or `/graph` and much more.
+This module is called <mark style="color:green;">`StatisticsService`</mark> and enables PhunkBot to index all transactions for your collection set under <mark style="color:orange;">`/src/config.ts`</mark>.  With this indexed information, saved locally and synced in real time, your discord users get access to Volume stats, Trader stats and Token ownership info. \
+It enables discord Application Commands like <mark style="color:blue;">`/volume`</mark> or <mark style="color:blue;">`/graph`</mark> and so much more.
 
 <details>
 
@@ -105,7 +106,7 @@ import { StatisticsService } from './extensions/statistics.extension.service';
 
 <summary>ON DISCORD</summary>
 
-#### Sample of PhunkBot Log for command /owned \<wallet>
+#### Sample of PhunkBot Log for command <mark style="color:blue;">/owned \<wallet></mark>
 
 ```log
 [2023-11-26 17:18:54] [statistics.service] [info]: ./token_images/phunk1313.png 
@@ -121,14 +122,15 @@ import { StatisticsService } from './extensions/statistics.extension.service';
 </details>
 
 {% hint style="info" %}
-For all StatisticsService Commands available check out [tutorials.md](tutorials.md "mention")&#x20;
+For all <mark style="color:green;">StatisticsService</mark> Commands available check out [tutorials.md](tutorials.md "mention")&#x20;
 {% endhint %}
 
 ***
 
 ## <mark style="color:orange;">`DAO MODULE`</mark>
 
-This module is called `DAOService` and enables PhunkBot to autonomously govern custom Discord roles and provably fair token gated Voting system. in depth explanation and functions can be found under [wip-governance.md](wip-governance.md "mention").&#x20;
+This module is called <mark style="color:green;">`DAOService`</mark> and enables PhunkBot to autonomously govern custom Discord roles and provably fair token gated Voting system. \
+In depth explanation and functions can be found under [wip-governance.md](wip-governance.md "mention").&#x20;
 
 <details>
 
@@ -145,7 +147,7 @@ import { DAOController } from './extensions/dao/dao.controller';
 
 <summary>ON DISCORD</summary>
 
-#### Sample of PhunkBot command /createpoll
+#### Sample of PhunkBot command <mark style="color:blue;">/createpoll</mark>
 
 <img src="../../.gitbook/assets/image (12).png" alt="" data-size="original">
 
@@ -156,7 +158,7 @@ import { DAOController } from './extensions/dao/dao.controller';
 </details>
 
 {% hint style="info" %}
-For all DAOService Commands available check out [tutorials.md](tutorials.md "mention")
+For all <mark style="color:green;">DAOService</mark> Commands available check out [tutorials.md](tutorials.md "mention")
 {% endhint %}
 
 ***

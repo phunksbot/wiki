@@ -50,7 +50,9 @@ layout:
 * Now you need Access keys with **read and write** permission, follow this [tutorial](https://docs.tibco.com/pub/activematrix\_businessworks\_plugin\_for\_twitter/6.1.0/doc/html/GUID-3FAC9352-94BE-4D21-9DAC-7AE79E24BECA.html).
 * Save both, your API and Access keys for [deployment](tutorials.md#deployment).
 
-DISCORD
+***
+
+#### DISCORD
 
 * To get Discord bot token, follow this [tutorial](https://www.writebots.com/discord-bot-token/).
 * Save your Discord token for [deployment](tutorials.md#deployment).
@@ -84,11 +86,15 @@ Go to Bots directory
 cd nft-sales-twitter-bot
 ```
 
+***
+
 #### Run installation
 
 ```bash
 npm install
 ```
+
+***
 
 #### Create `.env` file
 
@@ -113,9 +119,9 @@ GETH_NODE_ENDPOINT_HTTP=""
 ```
 {% endcode %}
 
-\---
+***
 
-#### Edit the `src/config.ts` file
+Edit the <mark style="color:orange;">`src/config.ts`</mark> file
 
 ```bash
 nano src/config.ts
@@ -177,11 +183,11 @@ Customise the Tweet and Discord Stats parameters
 ```
 {% endcode %}
 
-The `local_image_path` will be suffixed with the token number, ie, here, it will seek for an image named `./token_images/tokens0034.png` if the token #34 is sold.
+The <mark style="color:orange;">`local_image_path`</mark> will be suffixed with the token number, ie, here, it will seek for an image named <mark style="color:red;">`./token_images/tokens0034.png`</mark> if the token #34 is sold.
 
-\---
+***
 
-(Optional) Edit `src/app.module.ts`file and activate/deactivate services (providers) //&#x20;
+(Optional) Edit <mark style="color:orange;">`src/app.module.ts`</mark>file and activate/deactivate services (providers) //&#x20;
 
 <pre class="language-typescript" data-title="app.module.ts"><code class="lang-typescript">@Module({
   imports: [
@@ -213,7 +219,7 @@ export class AppModule {
 }
 </code></pre>
 
-\---
+***
 
 #### Build and Deploy
 
@@ -233,13 +239,17 @@ Installation should be ready now, proceed to [next step](tutorials.md#running-bo
 
 <summary>START</summary>
 
-#### From experience i recommend you run screen instance for your Bot, in installation directory start a new screen Session
+From my experience i recommend you run [screen](https://www.digitalocean.com/community/tutorials/how-to-install-and-use-screen-on-an-ubuntu-cloud-server) Session for your Bots instance.&#x20;
+
+#### within installation directory start a new screen Session
 
 ```bash
 screen -S yourbotsname
 ```
 
-#### Now you can finally Start a bot
+***
+
+Now you can finally Start a bot, here are few run modes possible:
 
 #### development
 
@@ -265,13 +275,15 @@ npm run start:prod
 npm run start:prod-with-watchdog
 ```
 
-#### Detach from screen Session
+***
+
+#### detach from screen Session
 
 ```bash
 ctrl a + d
 ```
 
-#### Enter the screen Session back
+#### enter the screen Session back
 
 ```bash
 screen -r yourbotsname
@@ -285,9 +297,11 @@ screen -r yourbotsname
 
 <details>
 
-<summary>FOR DISCORD</summary>
+<summary>ON DISCORD</summary>
 
-#### If you have [Statistics module](features.md) in src/app.module.ts enabled your Discord bot will gain some super powers. Here is the list of available commands:
+If you have [Statistics module](features.md) in <mark style="color:orange;">src/app.module.ts</mark> enabled your Discord bot will gain some super powers.\
+Note: indexing (<mark style="color:blue;">sync</mark>) can take up to 24h, depending on volume and age of your project. \
+Here is the list of available commands:
 
 #### Display a list of the owned tokens by a wallet
 
@@ -319,17 +333,58 @@ screen -r yourbotsname
 /traders <time frame>
 ```
 
-#### Displays indexed informations about a given transaction, useful for debugging purpose
+#### Displays indexed info about a given transaction, useful for debugging purpose
 
 ```typescript
 /transaction <tx>
 ```
 
-#### Force indexation by the statistic module of the given transaction within the given block
+#### Force index of the given transaction within the given block
 
 ```typescript
 /index <block> <tx>
 ```
+
+</details>
+
+***
+
+## <mark style="color:orange;">`DAO Commands`</mark>
+
+<details>
+
+<summary>ON DISCORD</summary>
+
+If you have [DAO Module](features.md) in <mark style="color:orange;">src/app.module.ts</mark> enabled your Discord bot will gain some amazing super powers. Since we are dealing with community Governance here, commands are split into two categories: <mark style="color:red;">Admin</mark> and <mark style="color:green;">User</mark> commands. \
+To learn more about DAO Module and how it works go to [wip-governance.md](wip-governance.md "mention")
+
+### Admin Commands
+
+
+
+
+
+
+
+
+
+
+
+***
+
+### User Commands
+
+
+
+
+
+
+
+
+
+
+
+
 
 </details>
 
@@ -342,25 +397,19 @@ screen -r yourbotsname
 <summary>REPLAY TRANSACTION</summary>
 
 You might occur situation where you want to repost missed sale or replay specific transaction to monitor bots behaviour and debug. \
-This is where CLI extension comes in handy.
+This is where CLI extension comes in very handy.
 
-To replay transaction with tweet
+#### To replay transaction with tweeting, run within installation directory
 
 ```bash
 npm run cli -- --action=tweet --contract=some-contract-here --block=block-number --tx=transaction-hash
 ```
 
-</details>
+#### To replay transaction for indexing and debugging, run within installation directory
 
-***
-
-## <mark style="color:orange;">`DAO Commands`</mark>
-
-<details>
-
-<summary>FOR DISCORD</summary>
-
-WIP
+```bash
+npm run cli -- --action=index --contract=some-contract-here --block=block-number --tx=transaction-hash
+```
 
 </details>
 
