@@ -54,7 +54,13 @@ import { DAOService } from './extensions/dao/dao.extension.service';
 
 <summary>ELEGANCE ACHIEVED</summary>
 
+Hardly any Community in Crypto is immune to [Sybil Attack](https://en.wikipedia.org/wiki/Sybil\_attack) especially where individuals can exploit Governance system to their monetary advantage.
 
+We at Phunks Community, while exploring best ways to Achieve consensus for Proposals came to conclusion that [current system](governance.md#challenge) if flawed and undermines basic Principles of Web3.&#x20;
+
+We found a new, better way to Govern decentralized Community by utilising already available ideas and tools into Simple yet powerful way.
+
+We enabled PhunkBot to serve as autonomous, trustless Bot that elegantly eliminates Sybil in dynamic and configurable setup. &#x20;
 
 {% code title="config.ts" %}
 ```typescript
@@ -63,75 +69,13 @@ import { DAOService } from './extensions/dao/dao.extension.service';
 ```
 {% endcode %}
 
+Example Above is set off Parameters that writes a Simple Rule that if user has minimum of 1 Asset and owns that Asset for minimum of 15 days is allowed to Vote. Only if that user already [bounded](governance.md#bounded) his Discord and/or Twitter account to his Web3 wallet(s)..&#x20;
 
-
-Twitter
-
-{% code title="dao.extention.service.ts" %}
-```typescript
-let conditionSucceeded = false            
-            if (users.length || twitterUsers.length) {
-              if (conf.minOwnedCount) {
-                const owned = await statisticsService.getOwnedTokens(users.map(u => u.web3_public_key))
-                conditionSucceeded = owned.length >= conf.minOwnedCount
-                if (conditionSucceeded && conf.minOwnedTime) {
-                  const maxOwnedTime = Math.max(...owned.map(o => o.owned_since))
-
-                  if (maxOwnedTime < conf.minOwnedTime) {
-                    conditionSucceeded = false
-                  }
-                }
-              } else if (conf.minted) {
-                const numberMinted = await statisticsService.getMintedTokens(users.map(u => u.web3_public_key))
-                conditionSucceeded = numberMinted.length > 0
-              } else if (conf.twitter) {
-                conditionSucceeded = true
-                const twitterUser = this.getTwitterUsersByDiscordUserId(member.id.toString())
-                if (!twitterUser.length) conditionSucceeded = false
-                if (conditionSucceeded && conf.twitter.age) {
-                  // check age
-                  const beforeDate = format(new Date().getTime() - conf.twitter.age*1000, "yyyy-MM-dd'T'HH:mm:ss'Z'")
-
-                  if (new Date(beforeDate).getTime() > new Date(twitterUser.twitter_created_at).getTime()) {
-                    conditionSucceeded = false
-                  }
-```
-{% endcode %}
-
-
-
-{% code title="dao.extention.service.ts" %}
-```typescript
-const existingGracePeriod = this.hasGracePeriod(conf.guildId, member.id, conf.roleId)
-```
-{% endcode %}
+Example bellow is another (optional) set of rules where only [permitted](governance.md#createpoll) Discord Roles that PhunkBot granted to specific underlying Assets are allowed to Vote.
 
 {% code title="dao.extention.service.ts" %}
 ```typescript
 if (poll.discord_role_id && !member.roles.cache.has(poll.discord_role_id)) {
-```
-{% endcode %}
-
-{% code title="dao.extention.service.ts" %}
-```typescript
-const owned = await statisticsService.getOwnedTokens(users.map(u => u.web3_public_key))
-                const matching = owned.map(async (o) => {
-                  const tokenId = o.token_id.toString().padStart(4, '0')
-                  const metadata = await this.getTokenMetadata(tokenId, false)
-                  let result = false
-                  if (conf.specificTrait.traitType) {
-                    const toCheck = metadata.metadata.attributes.filter(a => a.trait_type === conf.specificTrait.traitType)
-                    result = toCheck.length && toCheck[0].value === conf.specificTrait.traitValue
-                  } else if (conf.specificTrait.hasOwnProperty('count')) {
-                    result = metadata.metadata.attributes.length >= conf.specificTrait.count
-                  }
-                  return result ? o : undefined
-                })
-                let r = await Promise.all(matching)
-                r = r.filter(o => o !== undefined)
-                conditionSucceeded = r.length > 0
-              }
-            } 
 ```
 {% endcode %}
 
