@@ -25,8 +25,11 @@ layout:
 ## <mark style="color:orange;">`Challenge`</mark>
 
 Achieving consensus in Web3 is big challenge, decentralized nature of Communities around Crypto Projects brought up questions like how can decentralized Community come to consensus in decision making without being reliant on old centralised Solutions or single point of failure. \
+\
 Smart people came out with Solutions by offering Services to Communities like for example CollabLand (token Gated discord roles and management), GitCoin (bind Social accounts to your Web3 identity), SnapShot (transparent and certificated Voting system), EasyPoll (anonymous voting bot for Discord), TweetShift (Discord Sales Bot). \
-While all those Services are of great benefit for whole Crypto Community, they come with the Price. Making it really complicated for onboarding and thus limiting participation, there is also risk involved with how user data is being processed/stored. Web3 is all about own you own Data, Simplicity, not to rely on third party Services and be self sufficient as individual and Community. How things are set currently is not only not optimal but also undermines basic principles of Web3: _Decentralised, Trustless and Transparent._&#x20;
+\
+While all those Services are of great benefit for whole Crypto Community, they come with the Price. Making it really complicated for onboarding and thus limiting participation, there is also risk involved with how user data is being processed/stored. Web3 is all about own you own Data, Simplicity, not to rely on third party Services and be self sufficient as individual and Community. \
+How things are set currently is not only not optimal but also undermines basic principles of Web3: _Decentralised, Trustless and Transparent._&#x20;
 
 {% hint style="info" %}
 Web3 introduces four core principles that promise to reshape the digital landscape: ownership, commerce, identity, and governance.
@@ -35,8 +38,11 @@ Web3 introduces four core principles that promise to reshape the digital landsca
 ## <mark style="color:orange;">`Solution`</mark>
 
 With PhunkBot module called [`DAOService`](features.md) enabled, communities don't need to be dependent on third party Services for Governance anymore. In true Web3 fashion, PhunkBot makes third party Services like CollabLand, GitCoin, SnapShot, EasyPoll and TweetShift obsolete. \
+\
 PhunkBot is in house hosted, Self-Sufficient Service by the Community for the Community, safe to use and as simple as running Discord [application commands](tutorials.md).\
-**Solution we found is, it all revolves around token ownership. PhunkBot elegantly eliminates possible sybil attacks with simple and configurable `minOwnedCount`&`minOwnedTime` safety checks and by binding discord account and/or social account with Web3 wallet(s). This enables individual to safely participate in community Governance and it guarantees provably fair process to achieve consensus.**&#x20;
+\
+**Solution we found is, it all revolves around token ownership. PhunkBot elegantly eliminates possible sybil attacks with simple and configurable `minOwnedCount`&`minOwnedTime` safety checks and by binding discord account and/or social account with Web3 wallet(s) holding underlying asset.** \
+**This enables individual to safely participate in community Governance and it guarantees provably fair process to achieve consensus.**&#x20;
 
 ```typescript
 import { DAOService } from './extensions/dao/dao.extension.service';
