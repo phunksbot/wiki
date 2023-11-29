@@ -36,7 +36,7 @@ import { Erc721SalesService } from './erc721sales.service';
 
 <details>
 
-<summary>FOR TWITTER</summary>
+<summary>ON TWITTER</summary>
 
 #### Sample of PhunkBot Log for successfully processed Sales event:
 
@@ -49,11 +49,13 @@ import { Erc721SalesService } from './erc721sales.service';
 
 [https://x.com/PhunkBot/status/1729299877790662770](https://x.com/PhunkBot/status/1729299877790662770?s=20)
 
+<img src="../../.gitbook/assets/Bildschirmfoto 2023-11-29 um 08.02.44.png" alt="" data-size="original">
+
 </details>
 
 <details>
 
-<summary>FOR DISCORD</summary>
+<summary>ON DISCORD</summary>
 
 #### Discord Output for tweet above:
 
@@ -101,7 +103,7 @@ import { StatisticsService } from './extensions/statistics.extension.service';
 
 <details>
 
-<summary>FOR DISCORD</summary>
+<summary>ON DISCORD</summary>
 
 #### Sample of PhunkBot Log for command /owned \<wallet>
 
@@ -119,7 +121,7 @@ import { StatisticsService } from './extensions/statistics.extension.service';
 </details>
 
 {% hint style="info" %}
-For all `StatisticsService` Commands available check out [tutorials.md](tutorials.md "mention")&#x20;
+For all StatisticsService Commands available check out [tutorials.md](tutorials.md "mention")&#x20;
 {% endhint %}
 
 ***
@@ -141,7 +143,7 @@ import { DAOController } from './extensions/dao/dao.controller';
 
 <details>
 
-<summary>FOR DISCORD</summary>
+<summary>ON DISCORD</summary>
 
 #### Sample of PhunkBot command /createpoll
 
@@ -154,7 +156,7 @@ import { DAOController } from './extensions/dao/dao.controller';
 </details>
 
 {% hint style="info" %}
-For all `DAOService` Commands available check out [wip-governance.md](wip-governance.md "mention")
+For all DAOService Commands available check out [tutorials.md](tutorials.md "mention")
 {% endhint %}
 
 ***
