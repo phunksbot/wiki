@@ -339,9 +339,16 @@ screen -r yourbotsname
 
 <details>
 
-<summary>FOR SERVER ONLY</summary>
+<summary>REPLAY TRANSACTION</summary>
 
-WIP
+You might occur situation where you want to repost missed sale or replay specific transaction to monitor bots behaviour and debug. \
+This is where CLI extension comes in handy.
+
+To replay transaction with tweet
+
+```bash
+npm run cli -- --action=tweet --contract=some-contract-here --block=block-number --tx=transaction-hash
+```
 
 </details>
 
