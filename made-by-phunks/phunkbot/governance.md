@@ -183,7 +183,31 @@ const owned = await statisticsService.getOwnedTokens(users.map(u => u.web3_publi
 
 ***
 
-## <mark style="color:orange;">`Commands Explained`</mark>
+## <mark style="color:orange;">`DAOService Commands Explained`</mark>
+
+<details>
+
+<summary>/bindweb3</summary>
+
+
+
+</details>
+
+<details>
+
+<summary>/bindtwitter</summary>
+
+
+
+</details>
+
+<details>
+
+<summary>/bounded</summary>
+
+
+
+</details>
 
 <details>
 
