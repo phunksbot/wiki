@@ -434,13 +434,13 @@ This is where CLI extension comes in very handy.
 #### To replay transaction with tweeting, run within installation directory
 
 ```bash
-npm run cli -- --action=tweet --contract=some-contract-here --block=block-number --tx=transaction-hash
+npm run cli -- --action=tweet --contract=your-contract-here --block=block-number --tx=transaction-hash
 ```
 
 #### To replay transaction for indexing and debugging, run within installation directory
 
 ```bash
-npm run cli -- --action=index --contract=some-contract-here --block=block-number --tx=transaction-hash
+npm run cli -- --action=index --contract=your-contract-here --block=block-number --tx=transaction-hash
 ```
 
 </details>
