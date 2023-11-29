@@ -269,3 +269,15 @@ This commands is reserved for Discord Admins only, executing this command with p
 
 
 </details>
+
+***
+
+## <mark style="color:orange;">`Encryption`</mark>
+
+<details>
+
+<summary>.</summary>
+
+
+
+</details>
