@@ -299,7 +299,7 @@ screen -r yourbotsname
 
 <summary>ON DISCORD</summary>
 
-If you have [Statistics module](features.md) in <mark style="color:orange;">src/app.module.ts</mark> enabled, your Discord bot will gain some super powers.\
+If you have [Statistics module](features.md) in `src/app.module.ts` enabled, your Discord bot will gain some super powers.\
 Note: indexing (<mark style="color:blue;">sync</mark>) can take up to 24h, depending on volume and age of your project. \
 Here is the list of available commands:
 
@@ -361,10 +361,10 @@ Here is the list of available commands:
 
 <summary>ON DISCORD</summary>
 
-If you have [DAO Module](features.md) in <mark style="color:orange;">src/app.module.ts</mark> enabled, your Discord bot will gain some amazing super powers. Since we are dealing with community Governance here, commands are split into two categories: <mark style="color:red;">Admin</mark> and <mark style="color:green;">User</mark> commands. \
+If you have [DAO Module](features.md) in `src/app.module.ts` enabled, your Discord bot will gain some amazing super powers. Since we are dealing with community Governance here, commands are split into two categories: <mark style="color:red;">Admin</mark> and <mark style="color:green;">User</mark> commands. \
 To learn more about DAO Module and how it works go to [governance.md](governance.md "mention")
 
-### Admin Commands
+### <mark style="color:red;">Admin Commands</mark>
 
 #### Create Poll for users with allowed role (optional) to vote
 
@@ -392,7 +392,7 @@ To learn more about DAO Module and how it works go to [governance.md](governance
 
 ***
 
-### User Commands
+### <mark style="color:green;">User Commands</mark>
 
 #### List all active Polls
 
