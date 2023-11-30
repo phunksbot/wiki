@@ -170,7 +170,7 @@ This can be one Role for just holding underlying Asset of Multiple Roles for hol
 
 <summary>/bindweb3</summary>
 
-
+User command to bind Discord Account with Web3 wallet(s).
 
 </details>
 
@@ -178,7 +178,7 @@ This can be one Role for just holding underlying Asset of Multiple Roles for hol
 
 <summary>/bindtwitter</summary>
 
-
+User command to bind Twitter Account with Web3 wallet(s).
 
 </details>
 
@@ -186,7 +186,9 @@ This can be one Role for just holding underlying Asset of Multiple Roles for hol
 
 <summary>/bounded</summary>
 
+List bounded Web3 wallet(s) and Twitter Account to your Discord Account. To preserve privacy command output is only Visible to user.&#x20;
 
+<img src="../../.gitbook/assets/Bildschirmfoto 2023-11-30 um 23.29.09.png" alt="" data-size="original">
 
 </details>
 
