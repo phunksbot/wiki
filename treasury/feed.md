@@ -11,6 +11,8 @@ layout:
   pagination:
     visible: true
 ---
+<script src="https://widgets.coingecko.com/coingecko-coin-price-marquee-widget.js"></script>
+<coingecko-coin-price-marquee-widget  coin-ids="bitcoin,ethereum,phunk-vault-nftx,pepe,pond-coin" currency="usd" background-color="#ffffff" locale="en"></coingecko-coin-price-marquee-widget>
 
 # 💸 OUTGOING TX HISTORY
 
