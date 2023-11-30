@@ -87,19 +87,37 @@ if (poll.discord_role_id && !member.roles.cache.has(poll.discord_role_id)) {
 
 <details>
 
-<summary>CAST VOTE</summary>
+<summary>HARDCODED RULES</summary>
 
-.....
+#### For users to participate in Voting Process, few simple conditions needs to be met.
+
+* User holds underlying Asset, for example Phunk NFT.
+* User holds underlying Asset for minimum [threshold](governance.md#sybil-attack) set.
+* User has Discord and optional Twitter Account.
+* User [bounded](governance.md#daoservice-commands-explained) his Discord and optional Twitter Account.
+* That's it! Player one ready, go!&#x20;
+
+</details>
+
+<details>
+
+<summary>CAST YOUR VOTE</summary>
+
+By default users have two options to Vote 👍 (Yes) and 👎 (No).
+
+Note: your Vote is anonymous and is not visible to other users, however Admins are allowed to privately [audit](governance.md#pollresults) all the Voters/Votes for [security](governance.md#sybil-attack) purposes and if necessary to provide proof in case of a dispute.
+
+**Note:** once Voted, Vote cant be redacted! You can however change your Vote from yes to no or other way around during whole voting period without limitations.
+
+#### If Vote was successfully recorded, user gets confirmation message from PhunkBot
 
 ![](<../../.gitbook/assets/image (83).png>)
 
-....
+#### If user is not allowed to Vote, user gets notification message from PhunkBot
 
 ![](<../../.gitbook/assets/image (84).png>)
 
-
-
-
+To see all Active Polls to Vote, simply run `/listpolls` [command](governance.md#daoservice-commands-explained) on Discord.
 
 </details>
 
@@ -107,15 +125,9 @@ if (poll.discord_role_id && !member.roles.cache.has(poll.discord_role_id)) {
 
 <summary>RESULTS</summary>
 
-.....
+#### To avoid user being influenced by Vote weight going in one direction and to keep Voting process as fair as possible it is not possible to see current results nor count of yes or no Votes. Only after [set time](governance.md#createpoll) for Poll expires, final results are automatically Revealed.
 
 ![](<../../.gitbook/assets/image (85).png>)
-
-
-
-
-
-
 
 </details>
 
@@ -127,7 +139,26 @@ if (poll.discord_role_id && !member.roles.cache.has(poll.discord_role_id)) {
 
 <summary>ROLES</summary>
 
-....
+By binding Discord Account to your Web3 Wallet, PhunkBot automatically Grants you Discord roles depending on parameters set under `src/config.ts`.&#x20;
+
+This can be one Role for just holding underlying Asset of Multiple Roles for holding Specific Traits of underlying Collection.
+
+<img src="../../.gitbook/assets/Bildschirmfoto 2023-11-30 um 22.49.38.png" alt="" data-size="original">
+
+#### Code Example of Role granted to Stringy Hair Trait Holders
+
+{% code title="config.ts" %}
+```typescript
+    {
+      guildId: '873564453227094078',
+      roleId: '1174817463515500574',
+      specificTrait: {
+        traitType: 'Hair',
+        traitValue: 'Stringy Hair'
+      }
+    },
+```
+{% endcode %}
 
 </details>
 
