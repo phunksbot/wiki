@@ -160,6 +160,25 @@ This can be one Role for just holding underlying Asset of Multiple Roles for hol
 ```
 {% endcode %}
 
+#### Example of PhunkBot log when granting roles
+
+{% code title="dao.extention.service.ts" %}
+```typescript
+[start:prod] [2023-11-30 22:58:57] [dao.extension.service] [info]: grantRoles()
+[start:prod] --> granting PHUNK to avolalim.eth
+[start:prod] --> granting PHUNK to MACHO 💥
+[start:prod] --> granting PHUNK to .meuleman
+[start:prod] --> granting PHUNK to dovebot <afk>
+[start:prod] --> granting PHUNK to shalfean
+[start:prod] --> granting PHUNK to qukuaiboyou
+[start:prod] --> granting PHUNK to jacopoman
+[start:prod] --> granting PHUNK to 9999999333
+[start:prod] --> granting PHUNK to cadillion
+[start:prod] --> granting PHUNK to doli0li
+[start:prod] --> granting PHUNK to web_gnar
+```
+{% endcode %}
+
 </details>
 
 ***
