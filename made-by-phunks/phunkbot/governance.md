@@ -44,9 +44,11 @@ PhunkBot is in house hosted, Self-Sufficient Service by the Community for the Co
 **Solution we found is, it all revolves around token ownership. PhunkBot elegantly eliminates possible sybil attacks with simple and configurable `minOwnedCount`&`minOwnedTime` safety checks and by binding discord account and/or social account with Web3 wallet(s) holding underlying Assets or even Traits of underlying Assets.** \
 **This enables individual to safely participate in community Governance and it guarantees provably fair process to achieve consensus.**&#x20;
 
+{% code title="app.module.ts" %}
 ```typescript
 import { DAOService } from './extensions/dao/dao.extension.service';
 ```
+{% endcode %}
 
 ***
 
@@ -187,11 +189,17 @@ This can be one Role for just holding underlying Asset of Multiple Roles for hol
 
 ## <mark style="color:orange;">`DAOService Commands Explained`</mark>
 
+### <mark style="color:green;">`User Commands`</mark>
+
 <details>
 
 <summary><mark style="color:blue;">/bindweb3</mark></summary>
 
 User command to bind Discord Account with Web3 wallet(s).
+
+#### Output
+
+<img src="../../.gitbook/assets/Bildschirmfoto 2023-12-02 um 00.35.43.png" alt="" data-size="original">
 
 </details>
 
@@ -201,17 +209,46 @@ User command to bind Discord Account with Web3 wallet(s).
 
 User command to bind Twitter Account with Web3 wallet(s).
 
+#### Output
+
+<img src="../../.gitbook/assets/Bildschirmfoto 2023-12-02 um 00.36.51.png" alt="" data-size="original">
+
 </details>
 
 <details>
 
 <summary><mark style="color:blue;">/bounded</mark></summary>
 
-List bounded Web3 wallet(s) and Twitter Account to your Discord Account. To preserve privacy command output is only Visible to user.&#x20;
+List bounded Web3 wallet(s) and Twitter Account to your Discord Account. \
+To preserve privacy, command output is only Visible to user.&#x20;
 
 <img src="../../.gitbook/assets/Bildschirmfoto 2023-11-30 um 23.29.09.png" alt="" data-size="original">
 
 </details>
+
+<details>
+
+<summary><mark style="color:blue;">/listpolls</mark></summary>
+
+#### To make it easy for users to keep track of Active Polls, users can run this command at any time without limitations. It ill List all Active Polls and link to each Poll.
+
+#### User Command
+
+```typescript
+/listpolls
+```
+
+![](<../../.gitbook/assets/image (81).png>)
+
+#### Output
+
+![](<../../.gitbook/assets/image (82).png>)
+
+
+
+</details>
+
+### <mark style="color:red;">`Admin Commands`</mark>
 
 <details>
 
@@ -222,7 +259,7 @@ This commands is reserved for Discord Admins only, executing this command with p
 * Voting itself is anonymous and final results get auto revealed only after set time expires.&#x20;
 * Only Admins are [permitted](governance.md#pollresults) to see casted Votes and Voters for auditing purposes.
 * If optional <mark style="color:blue;">\<role></mark> is set, only users with set Discord role can cast a Vote.
-* With set parameters under <mark style="color:orange;">src/config.ts</mark> Sybil attacks are mitigated, read more [here](governance.md#sybil-attack-handling).
+* With set parameters under src/config.ts Sybil attacks are mitigated, read more [here](governance.md#sybil-attack-handling).
 
 #### Admin Command
 
@@ -242,7 +279,7 @@ This commands is reserved for Discord Admins only, executing this command with p
 
 <summary><mark style="color:blue;">/pollresults</mark></summary>
 
-#### ....
+This commands is reserved for Discord Admins only. It will display SnapShot of Vote result and will list all the Voters for Current and Past Polls.
 
 #### Admin Command
 
@@ -252,15 +289,19 @@ This commands is reserved for Discord Admins only, executing this command with p
 
 ![](<../../.gitbook/assets/image (76).png>)
 
-#### Gett Poll ID
+#### How to get Poll ID?
 
 ![](<../../.gitbook/assets/image (78).png>)
+
+To see this option, on your Discord settings, you will need to have Developer mode turned ON.
+
+<img src="../../.gitbook/assets/Bildschirmfoto 2023-12-02 um 00.11.25.png" alt="" data-size="original">
 
 #### Output
 
 ![](<../../.gitbook/assets/image (77).png>)
 
-
+This is Visible to Admins only and it is on their own discretion if they will share this information with Community.&#x20;
 
 </details>
 
@@ -268,7 +309,8 @@ This commands is reserved for Discord Admins only, executing this command with p
 
 <summary><mark style="color:blue;">/closepoll</mark></summary>
 
-#### .....
+This commands is reserved for Discord Admins only. It will Force Close currently Active Poll.\
+If used, PhunkBot will Print this interaction and will be visible to users.&#x20;
 
 #### Admin Command
 
@@ -278,11 +320,9 @@ This commands is reserved for Discord Admins only, executing this command with p
 
 ![](<../../.gitbook/assets/image (79).png>)
 
+#### Output
 
-
-
-
-
+<img src="../../.gitbook/assets/Bildschirmfoto 2023-12-02 um 00.28.30.png" alt="" data-size="original">
 
 </details>
 
@@ -290,7 +330,8 @@ This commands is reserved for Discord Admins only, executing this command with p
 
 <summary><mark style="color:blue;">/deletepoll</mark></summary>
 
-#### .....
+This commands is reserved for Discord Admins only. It will Force Delete currently Active Poll.\
+If used, PhunkBot will Print this interaction and it will be visible to users.&#x20;
 
 #### Admin Command
 
@@ -300,27 +341,9 @@ This commands is reserved for Discord Admins only, executing this command with p
 
 ![](<../../.gitbook/assets/image (80).png>)
 
-
-
-
-
-</details>
-
-<details>
-
-<summary><mark style="color:blue;">/listpolls</mark></summary>
-
-#### ....
-
-#### User Command
-
-![](<../../.gitbook/assets/image (81).png>)
-
 #### Output
 
-![](<../../.gitbook/assets/image (82).png>)
-
-
+<img src="../../.gitbook/assets/Bildschirmfoto 2023-12-02 um 00.28.59.png" alt="" data-size="original">
 
 </details>
 
