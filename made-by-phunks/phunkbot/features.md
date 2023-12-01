@@ -28,9 +28,11 @@ This module is called `Erc721SalesService` and enables PhunkBot to post all Sale
 
 <summary>MODULE</summary>
 
+{% code title="app.module.ts" %}
 ```typescript
 import { Erc721SalesService } from './erc721sales.service';
 ```
+{% endcode %}
 
 </details>
 
@@ -96,9 +98,11 @@ It enables discord Application Commands like <mark style="color:blue;">`/volume`
 
 <summary>MODULE</summary>
 
+{% code title="app.module.ts" %}
 ```typescript
 import { StatisticsService } from './extensions/statistics.extension.service';
 ```
+{% endcode %}
 
 </details>
 
@@ -136,10 +140,12 @@ In depth explanation and functions can be found under [governance.md](governance
 
 <summary>MODULE</summary>
 
+{% code title="app.module.ts" %}
 ```typescript
 import { DAOService } from './extensions/dao/dao.extension.service';
 import { DAOController } from './extensions/dao/dao.controller';
 ```
+{% endcode %}
 
 </details>
 
