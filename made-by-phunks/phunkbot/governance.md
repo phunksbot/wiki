@@ -48,7 +48,9 @@ PhunkBot is in house hosted, Self-Sufficient Service by the Community for the Co
 import { DAOService } from './extensions/dao/dao.extension.service';
 ```
 
-## <mark style="color:orange;">Sybil Attack</mark>
+***
+
+## <mark style="color:orange;">`Sybil Attack`</mark>
 
 <details>
 
@@ -187,7 +189,7 @@ This can be one Role for just holding underlying Asset of Multiple Roles for hol
 
 <details>
 
-<summary>/bindweb3</summary>
+<summary><mark style="color:blue;">/bindweb3</mark></summary>
 
 User command to bind Discord Account with Web3 wallet(s).
 
@@ -195,7 +197,7 @@ User command to bind Discord Account with Web3 wallet(s).
 
 <details>
 
-<summary>/bindtwitter</summary>
+<summary><mark style="color:blue;">/bindtwitter</mark></summary>
 
 User command to bind Twitter Account with Web3 wallet(s).
 
@@ -203,7 +205,7 @@ User command to bind Twitter Account with Web3 wallet(s).
 
 <details>
 
-<summary>/bounded</summary>
+<summary><mark style="color:blue;">/bounded</mark></summary>
 
 List bounded Web3 wallet(s) and Twitter Account to your Discord Account. To preserve privacy command output is only Visible to user.&#x20;
 
@@ -213,7 +215,7 @@ List bounded Web3 wallet(s) and Twitter Account to your Discord Account. To pres
 
 <details>
 
-<summary>/createpoll</summary>
+<summary><mark style="color:blue;">/createpoll</mark></summary>
 
 This commands is reserved for Discord Admins only, executing this command with parameters set kicks off new Poll where community can vote on Active proposals and as a result achieve consensus.
 
@@ -238,7 +240,7 @@ This commands is reserved for Discord Admins only, executing this command with p
 
 <details>
 
-<summary>/pollresults</summary>
+<summary><mark style="color:blue;">/pollresults</mark></summary>
 
 #### ....
 
@@ -264,7 +266,7 @@ This commands is reserved for Discord Admins only, executing this command with p
 
 <details>
 
-<summary>/closepoll</summary>
+<summary><mark style="color:blue;">/closepoll</mark></summary>
 
 #### .....
 
@@ -286,7 +288,7 @@ This commands is reserved for Discord Admins only, executing this command with p
 
 <details>
 
-<summary>/deletepoll</summary>
+<summary><mark style="color:blue;">/deletepoll</mark></summary>
 
 #### .....
 
@@ -306,7 +308,7 @@ This commands is reserved for Discord Admins only, executing this command with p
 
 <details>
 
-<summary>/listpolls</summary>
+<summary><mark style="color:blue;">/listpolls</mark></summary>
 
 #### ....
 
