@@ -73,7 +73,8 @@ We enabled PhunkBot to serve as autonomous, trustless Bot that elegantly elimina
 ```
 {% endcode %}
 
-Example Above is set off Parameters that writes a Simple Rule that if user has minimum of 1 Asset and owns that Asset for minimum of 15 days is allowed to Vote. Only if that user already [bounded](governance.md#bounded) his Discord and/or Twitter account to his Web3 wallet(s)..&#x20;
+Example Above is set off Parameters that writes a Simple Rule that if user has minimum of \
+1 underlying Asset and owns that Asset for minimum of 15 days is allowed to Vote. Only works if that user already [bounded](governance.md#bounded) his Discord and/or Twitter account to his Web3 wallet(s).&#x20;
 
 Example bellow is another (optional) set of rules where only [permitted](governance.md#createpoll) Discord Roles that PhunkBot granted to a specific underlying Assets/Traits are allowed to Vote.&#x20;
 
@@ -82,6 +83,8 @@ Example bellow is another (optional) set of rules where only [permitted](governa
 if (poll.discord_role_id && !member.roles.cache.has(poll.discord_role_id)) {
 ```
 {% endcode %}
+
+Also here First rule **`minOwnedCount`&`minOwnedTime`**always applies.
 
 </details>
 
@@ -111,7 +114,7 @@ By default users have two options to Vote 👍 (Yes) and 👎 (No).
 
 Note: your Vote is anonymous and is not visible to other users, however Admins are allowed to privately [audit](governance.md#pollresults) all the Voters/Votes for [security](governance.md#sybil-attack) purposes and if necessary to provide proof in case of a dispute.
 
-**Note:** once Voted, Vote cant be redacted! You can however change your Vote from yes to no or other way around during whole voting period without limitations.
+**Note:** once Voted, Vote can not be redacted! You can however change your Vote from yes to no or other way around during whole voting period without limitations.
 
 #### If Vote was successfully recorded, user gets confirmation message from PhunkBot
 
@@ -129,7 +132,9 @@ To see all Active Polls to Vote, simply run `/listpolls` [command](governance.md
 
 <summary>RESULTS</summary>
 
-#### To avoid user being influenced by Vote weight going in one direction and to keep Voting process as fair as possible it is not possible to see current results nor count of yes or no Votes. Only after [set time](governance.md#createpoll) for Poll expires, final results are automatically Revealed.
+To avoid user being influenced by Vote weight going in one direction and to keep Voting process as fair as possible, it is not possible to see current results nor count of yes or no Votes/Voters. Only after [set time](governance.md#createpoll) for Poll expired, final results are automatically Revealed.
+
+#### Output
 
 ![](<../../.gitbook/assets/image (85).png>)
 
@@ -143,9 +148,9 @@ To see all Active Polls to Vote, simply run `/listpolls` [command](governance.md
 
 <summary>ROLES</summary>
 
-By binding Discord Account to your Web3 Wallet, PhunkBot automatically Grants you Discord roles depending on parameters set under `src/config.ts`.&#x20;
+By binding Discord Account with your Web3 wallet(s), PhunkBot automatically Grants you Discord roles depending on underlying Asset and parameters set under `src/config.ts`.&#x20;
 
-This can be one Role for just holding underlying Asset of Multiple Roles for holding Specific Traits of underlying Collection.
+This can be for example one Role for holding underlying Asset of Multiple Roles for holding Specific Traits of underlying Collection.
 
 <img src="../../.gitbook/assets/Bildschirmfoto 2023-11-30 um 22.49.38.png" alt="" data-size="original">
 
@@ -183,6 +188,9 @@ This can be one Role for just holding underlying Asset of Multiple Roles for hol
 ```
 {% endcode %}
 
+grantRoles() is handled by PhunkBot automatically and if user at anytime or for any reason removes underlying Asset from his bounded Web3 wallet, Role(s) get redacted. \
+<mark style="background-color:orange;">**Grace period is set to 24h!**</mark>
+
 </details>
 
 ***
@@ -219,10 +227,10 @@ User command to bind Twitter Account with Web3 wallet(s).
 
 <summary><mark style="color:blue;">/bounded</mark></summary>
 
-List bounded Web3 wallet(s) and Twitter Account to your Discord Account. \
-To preserve privacy, command output is only Visible to user.&#x20;
+List bounded Web3 wallet(s) and Twitter Account to your Discord Account.&#x20;
 
-<img src="../../.gitbook/assets/Bildschirmfoto 2023-11-30 um 23.29.09.png" alt="" data-size="original">
+<img src="../../.gitbook/assets/Bildschirmfoto 2023-11-30 um 23.29.09.png" alt="" data-size="original">\
+<mark style="background-color:orange;">To preserve privacy, command output is only Visible to user.</mark>&#x20;
 
 </details>
 
@@ -243,8 +251,6 @@ To preserve privacy, command output is only Visible to user.&#x20;
 #### Output
 
 ![](<../../.gitbook/assets/image (82).png>)
-
-
 
 </details>
 
@@ -301,7 +307,7 @@ To see this option, on your Discord settings, you will need to have Developer mo
 
 ![](<../../.gitbook/assets/image (77).png>)
 
-This is Visible to Admins only and it is on their own discretion if they will share this information with Community.&#x20;
+<mark style="background-color:orange;">This is Visible to Admins only and it is on their own discretion if they will share this information with Community.</mark>&#x20;
 
 </details>
 
@@ -310,7 +316,7 @@ This is Visible to Admins only and it is on their own discretion if they will sh
 <summary><mark style="color:blue;">/closepoll</mark></summary>
 
 This commands is reserved for Discord Admins only. It will Force Close currently Active Poll.\
-If used, PhunkBot will Print this interaction and will be visible to users.&#x20;
+If used, PhunkBot will Print this interaction and it will be visible to users.&#x20;
 
 #### Admin Command
 
