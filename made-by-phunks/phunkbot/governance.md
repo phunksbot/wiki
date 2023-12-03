@@ -127,7 +127,7 @@ Note**:** once Voted, Vote can not be redacted! You can however change your Vote
 ![](<../../.gitbook/assets/image (84).png>)
 
 <mark style="background-color:orange;">To see all Active Polls to Vote, simply run /listpolls</mark> [<mark style="background-color:orange;">command</mark>](governance.md#daoservice-commands-explained) <mark style="background-color:orange;">on Discord or go to:</mark>\
-[<mark style="background-color:orange;">https://phunk.cc/polls/</mark>](https://phunk.cc/polls/)<mark style="background-color:orange;">.</mark>
+[https://phunk.cc/polls/](https://phunk.cc/polls/)
 
 </details>
 
