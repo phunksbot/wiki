@@ -84,13 +84,13 @@ if (poll.discord_role_id && !member.roles.cache.has(poll.discord_role_id)) {
 ```
 {% endcode %}
 
-<mark style="background-color:orange;">Also here First rule</mark> <mark style="background-color:orange;"></mark><mark style="background-color:orange;">**`minOwnedCount`**</mark><mark style="background-color:orange;">**&**</mark><mark style="background-color:orange;">**`minOwnedTime`**</mark><mark style="background-color:orange;">always applies.</mark>
+<mark style="background-color:orange;">Also here, First rule</mark> <mark style="background-color:orange;"></mark><mark style="background-color:orange;">**minOwnedCount & minOwnedTime**</mark> <mark style="background-color:orange;"></mark><mark style="background-color:orange;">always applies.</mark>
 
 </details>
 
 ***
 
-## <mark style="color:orange;">`Voting Process Explained (for Discord)`</mark>
+## <mark style="color:orange;">`Voting Process Explained`</mark>
 
 <details>
 
@@ -99,7 +99,7 @@ if (poll.discord_role_id && !member.roles.cache.has(poll.discord_role_id)) {
 #### For users to participate in Voting Process, few simple conditions needs to be met.
 
 * User holds underlying Asset, for example Phunk NFT.
-* User holds underlying Asset for minimum [threshold](governance.md#sybil-attack) set.
+* User holds underlying Asset for minimum [threshold](governance.md#sybil-attack) time set.
 * User has Discord and optional Twitter Account.
 * User [bounded](governance.md#daoservice-commands-explained) his Discord and optional Twitter Account.
 * For Vote to be considered Success, min Vote count [threshold](governance.md#min-vote-count) needs to be reached.
@@ -126,7 +126,8 @@ Note**:** once Voted, Vote can not be redacted! You can however change your Vote
 
 ![](<../../.gitbook/assets/image (84).png>)
 
-<mark style="background-color:orange;">To see all Active Polls to Vote, simply run</mark> <mark style="background-color:orange;"></mark><mark style="background-color:orange;">`/listpolls`</mark> [<mark style="background-color:orange;">command</mark>](governance.md#daoservice-commands-explained) <mark style="background-color:orange;">on Discord.</mark>
+<mark style="background-color:orange;">To see all Active Polls to Vote, simply run /listpolls</mark> [<mark style="background-color:orange;">command</mark>](governance.md#daoservice-commands-explained) <mark style="background-color:orange;">on Discord or go to:</mark>\
+[<mark style="background-color:orange;">https://phunk.cc/polls/</mark>](https://phunk.cc/polls/)<mark style="background-color:orange;">.</mark>
 
 </details>
 
@@ -259,7 +260,7 @@ User command to bind Twitter Account with Web3 wallet(s).
 List bounded Web3 wallet(s) and Twitter Account to your Discord Account.&#x20;
 
 <img src="../../.gitbook/assets/Bildschirmfoto 2023-11-30 um 23.29.09.png" alt="" data-size="original">\
-<mark style="background-color:orange;">To preserve privacy, command output is only Visible to user.</mark>&#x20;
+<mark style="background-color:orange;">To preserve privacy, command output is only Visible to user that called it.</mark>&#x20;
 
 </details>
 
@@ -336,7 +337,7 @@ To see this option, on your Discord settings, you will need to have Developer mo
 
 ![](<../../.gitbook/assets/image (77).png>)
 
-<mark style="background-color:orange;">This is Visible to Admins only and it is on their own discretion if they will share this information with Community.</mark>&#x20;
+<mark style="background-color:orange;">This is Visible to Admins only and it is on their own discretion if they will share this information with the Community.</mark>&#x20;
 
 </details>
 
