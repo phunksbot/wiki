@@ -49,6 +49,7 @@ layout:
 * To get your twitter API keys, follow this [tutorial](https://developer.talkwalker.com/guides/rehydrating-tweet/getting-started).
 * Now you need Access keys with **read and write** permission, follow this [tutorial](https://docs.tibco.com/pub/activematrix\_businessworks\_plugin\_for\_twitter/6.1.0/doc/html/GUID-3FAC9352-94BE-4D21-9DAC-7AE79E24BECA.html).
 * Save both, your API and Access keys for [deployment](tutorials.md#deployment).
+* (optional) to obtain Access keys of another User, follow this [tutorial](https://developer.twitter.com/en/docs/tutorials/authenticating-with-twitter-api-for-enterprise/oauth1-0a-and-user-access-tokens).
 
 ***
 
@@ -62,7 +63,7 @@ layout:
 
 This will generate URL that you can use to invite Bot to your Discord server with proper permissions for it to post sales and other [Application Commands](tutorials.md#stats-commands).
 
-Discord bot should now be ready to post sales, if you get stuck dm me on twitter @iape\_
+<mark style="background-color:orange;">Discord bot should now be ready to post sales, if you get stuck dm me on twitter @iape\_</mark>
 
 </details>
 
@@ -227,7 +228,7 @@ export class AppModule {
 npm run build
 ```
 
-Installation should be ready now, proceed to [next step](tutorials.md#running-bot).
+<mark style="background-color:orange;">Installation should be ready now, proceed to</mark> [<mark style="background-color:orange;">next step</mark>](tutorials.md#running-bot)<mark style="background-color:orange;">.</mark>
 
 </details>
 
