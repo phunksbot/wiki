@@ -369,7 +369,7 @@ To learn more about DAO Module and how it works go to [governance.md](governance
 #### Create Poll for users with allowed role (optional) to vote
 
 ```typescript
-/createpoll <description> <duration> <role> <emojis>
+/createpoll <description> <duration> <role> <emojis> <link> <minimumvotes>
 ```
 
 #### Get detailed Poll results, only visible to Admins

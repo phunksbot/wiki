@@ -84,13 +84,13 @@ if (poll.discord_role_id && !member.roles.cache.has(poll.discord_role_id)) {
 ```
 {% endcode %}
 
-Also here First rule **`minOwnedCount`&`minOwnedTime`**always applies.
+<mark style="background-color:orange;">Also here First rule</mark> <mark style="background-color:orange;"></mark><mark style="background-color:orange;">**`minOwnedCount`**</mark><mark style="background-color:orange;">**&**</mark><mark style="background-color:orange;">**`minOwnedTime`**</mark><mark style="background-color:orange;">always applies.</mark>
 
 </details>
 
 ***
 
-## <mark style="color:orange;">`Voting Process Explained`</mark>
+## <mark style="color:orange;">`Voting Process Explained (for Discord)`</mark>
 
 <details>
 
@@ -102,7 +102,9 @@ Also here First rule **`minOwnedCount`&`minOwnedTime`**always applies.
 * User holds underlying Asset for minimum [threshold](governance.md#sybil-attack) set.
 * User has Discord and optional Twitter Account.
 * User [bounded](governance.md#daoservice-commands-explained) his Discord and optional Twitter Account.
-* That's it! Player one ready, go!&#x20;
+* For Vote to be considered Success, min Vote count [threshold](governance.md#min-vote-count) needs to be reached.
+
+<mark style="background-color:green;">That's it! Player one ready, go!</mark>&#x20;
 
 </details>
 
@@ -114,7 +116,7 @@ By default users have two options to Vote 👍 (Yes) and 👎 (No).
 
 Note: your Vote is anonymous and is not visible to other users, however Admins are allowed to privately [audit](governance.md#pollresults) all the Voters/Votes for [security](governance.md#sybil-attack) purposes and if necessary to provide proof in case of a dispute.
 
-**Note:** once Voted, Vote can not be redacted! You can however change your Vote from yes to no or other way around during whole voting period without limitations.
+Note**:** once Voted, Vote can not be redacted! You can however change your Vote from yes to no or other way around during whole voting period without limitations.
 
 #### If Vote was successfully recorded, user gets confirmation message from PhunkBot
 
@@ -124,7 +126,34 @@ Note: your Vote is anonymous and is not visible to other users, however Admins a
 
 ![](<../../.gitbook/assets/image (84).png>)
 
-To see all Active Polls to Vote, simply run `/listpolls` [command](governance.md#daoservice-commands-explained) on Discord.
+<mark style="background-color:orange;">To see all Active Polls to Vote, simply run</mark> <mark style="background-color:orange;"></mark><mark style="background-color:orange;">`/listpolls`</mark> [<mark style="background-color:orange;">command</mark>](governance.md#daoservice-commands-explained) <mark style="background-color:orange;">on Discord.</mark>
+
+</details>
+
+<details>
+
+<summary>MIN VOTE COUNT</summary>
+
+Optional Admins can set `minimumVotesRequired` for Poll to be considered Success or if minimum threshold was not Reached is marked as Failed, therefore consensus not reached.&#x20;
+
+{% code title="dao.extention.service.ts" %}
+```typescript
+    if (minimumVotesRequired) {
+      const reached = voteCount >= minimumVotesRequired ? '✅' : '❌'
+      msg += `\nMinimum votes required: **${minimumVotesRequired}** (Reached: ${reached})`
+    }
+```
+{% endcode %}
+
+#### Input
+
+<img src="../../.gitbook/assets/Bildschirmfoto 2023-12-03 um 10.15.49.png" alt="" data-size="original">
+
+#### Output
+
+<img src="../../.gitbook/assets/Bildschirmfoto 2023-12-03 um 10.15.21.png" alt="" data-size="original">
+
+<mark style="background-color:orange;">Note: If min threshold of Votes is set too for example 30 and reached; Min votes required:</mark> <mark style="background-color:orange;"></mark><mark style="background-color:orange;">**30**</mark> <mark style="background-color:orange;"></mark><mark style="background-color:orange;">(Reached: ❌) will automatically change to Min votes required:</mark> <mark style="background-color:orange;"></mark><mark style="background-color:orange;">**30**</mark> <mark style="background-color:orange;"></mark><mark style="background-color:orange;">(Reached: ✅).</mark>
 
 </details>
 
@@ -188,8 +217,8 @@ This can be for example one Role for holding underlying Asset of Multiple Roles 
 ```
 {% endcode %}
 
-grantRoles() is handled by PhunkBot automatically and if user at anytime or for any reason removes underlying Asset from his bounded Web3 wallet, Role(s) get redacted. \
-<mark style="background-color:orange;">**Grace period is set to 24h!**</mark>
+<mark style="background-color:orange;">grantRoles() is handled by PhunkBot automatically and if user at anytime or for any reason removes underlying Asset from his bounded Web3 wallet, Role(s) get redacted.</mark> \
+<mark style="background-color:red;">**Grace period is set to 24h!**</mark>
 
 </details>
 
@@ -270,14 +299,14 @@ This commands is reserved for Discord Admins only, executing this command with p
 #### Admin Command
 
 ```typescript
-/createpoll <description> <duration> <role> <emojis>
+/createpoll <description> <duration> <role> <emoji> <link> <minimumvotes> 
 ```
 
-![](<../../.gitbook/assets/image (74).png>)
+![](<../../.gitbook/assets/Bildschirmfoto 2023-12-03 um 10.15.49 (1).png>)
 
 #### Output
 
-![](<../../.gitbook/assets/image (75).png>)
+![](<../../.gitbook/assets/Bildschirmfoto 2023-12-03 um 10.15.21 (1).png>)
 
 </details>
 
