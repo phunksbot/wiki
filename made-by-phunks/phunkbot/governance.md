@@ -39,7 +39,7 @@ Web3 introduces four core principles that promise to reshape the digital landsca
 
 With PhunkBot module called [`DAOService`](features.md) enabled, communities don't need to be dependent on third party Services for Governance anymore. In true Web3 fashion, PhunkBot makes third party Services like CollabLand, GitCoin, SnapShot, EasyPoll and TweetShift obsolete. \
 \
-PhunkBot is in house, Self-Sufficient Service hosted by the Community for the Community, safe and as simple to use as running Discord [application commands](governance.md#daoservice-commands-explained) and pressing an emoji to vote.\
+PhunkBot is in house, Self-Sufficient Service hosted by the Community for the Community, safe and as simple to use as running Discord [application commands](governance.md#daoservice-commands-explained) or pressing an emoji to vote.\
 \
 **Solution we found is, it all revolves around token ownership. PhunkBot elegantly eliminates possible sybil attacks with simple and configurable `minOwnedCount`&`minOwnedTime` safety checks and by binding discord account and/or social account with Web3 wallet(s) holding underlying Assets or even Traits of underlying Assets.** \
 **This enables individual to safely participate in community Governance and it guarantees provably fair process to achieve consensus.**&#x20;

@@ -134,7 +134,7 @@ For all Statistics Service Commands available check out [tutorials.md](tutorials
 ## <mark style="color:orange;">`DAO MODULE`</mark>
 
 This module is called `DAOService` and enables PhunkBot to autonomously govern custom Discord roles and provably fair token gated Voting system. \
-In depth explanation and functions can be found under [governance.md](governance.md "mention").&#x20;
+<mark style="background-color:orange;">In depth explanation and functions can be found under</mark> [governance.md](governance.md "mention").&#x20;
 
 <details>
 
