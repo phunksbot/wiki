@@ -166,7 +166,7 @@ To avoid user being influenced by Vote weight going in one direction and to keep
 
 #### Output
 
-![](<../../.gitbook/assets/image (85).png>)
+![](<../../.gitbook/assets/Bildschirmfoto 2023-12-04 um 07.09.22.png>)
 
 </details>
 
