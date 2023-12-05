@@ -30,6 +30,7 @@ Punks vs Phunks&#x20;
 
 ***
 
+{% code title="CryptoPhunksV2.sol" fullWidth="true" %}
 ```solidity
 // SPDX-License-Identifier: UNLICENSE
 pragma solidity ^0.8.0;
@@ -346,3 +347,4 @@ contract CryptoPhunksV2 is Ownable, ERC721Enumerable, ReentrancyGuard {
   }
 }
 ```
+{% endcode %}
