@@ -239,6 +239,12 @@ This can be for example one Role for holding underlying Asset of Multiple Roles 
 
 User command to bind Discord Account with Web3 wallet(s).
 
+#### User Command
+
+```typescript
+/bindweb3
+```
+
 #### Output
 
 <img src="../../.gitbook/assets/Bildschirmfoto 2023-12-02 um 00.35.43.png" alt="" data-size="original">
@@ -251,6 +257,12 @@ User command to bind Discord Account with Web3 wallet(s).
 
 User command to bind Twitter Account with Web3 wallet(s).
 
+#### User Command
+
+```typescript
+/bindtwitter
+```
+
 #### Output
 
 <img src="../../.gitbook/assets/Bildschirmfoto 2023-12-02 um 00.36.51.png" alt="" data-size="original">
@@ -262,6 +274,14 @@ User command to bind Twitter Account with Web3 wallet(s).
 <summary><mark style="color:blue;">/bounded</mark></summary>
 
 List bounded Web3 wallet(s) and Twitter Account to your Discord Account.&#x20;
+
+#### User Command
+
+```typescript
+/bounded
+```
+
+#### Output
 
 <img src="../../.gitbook/assets/Bildschirmfoto 2023-11-30 um 23.29.09.png" alt="" data-size="original">\
 <mark style="background-color:orange;">To preserve privacy, command output is only Visible to user that called it.</mark>&#x20;
