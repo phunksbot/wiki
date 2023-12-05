@@ -24,7 +24,7 @@ layout:
 
 <details>
 
-<summary><mark style="background-color:orange;"><code>July 11, 2021</code></mark> <a href="https://phunks.medium.com/the-cryptophunks-manifesto-785c7348e558"><strong>The CryptoPhunks Manifesto</strong></a></summary>
+<summary><mark style="background-color:orange;">July 11, 2021</mark> <a href="https://phunks.medium.com/the-cryptophunks-manifesto-785c7348e558"><strong>The CryptoPhunks Manifesto</strong></a></summary>
 
 [**https://phunks.medium.com/the-cryptophunks-manifesto-785c7348e558**](https://phunks.medium.com/the-cryptophunks-manifesto-785c7348e558)
 
@@ -48,7 +48,7 @@ layout:
 
 <details>
 
-<summary><mark style="background-color:orange;"><strong><code>July 17, 2021</code></strong></mark> <a href="https://medium.com/all-things-fansi/%E6%B2%92%E6%9C%89%E5%81%87%E8%B2%A8%E7%9A%84%E4%B8%96%E7%95%8C-%E9%82%84%E9%9C%80%E8%A6%81%E7%89%88%E6%AC%8A%E5%97%8E-36fe76f53a13"><strong>Chinese Article on Phunks</strong></a></summary>
+<summary><mark style="background-color:orange;"><strong>July 17, 2021</strong></mark> <a href="https://medium.com/all-things-fansi/%E6%B2%92%E6%9C%89%E5%81%87%E8%B2%A8%E7%9A%84%E4%B8%96%E7%95%8C-%E9%82%84%E9%9C%80%E8%A6%81%E7%89%88%E6%AC%8A%E5%97%8E-36fe76f53a13"><strong>Chinese Article on Phunks</strong></a></summary>
 
 [**https://medium.com/all-things-fansi/%E6%B2%92%E6%9C%89%E5%81%87%E8%B2%A8%E7%9A%84%E4%B8%96%E7%95%8C-%E9%82%84%E9%9C%80%E8%A6%81%E7%89%88%E6%AC%8A%E5%97%8E-36fe76f53a13**](https://medium.com/all-things-fansi/%E6%B2%92%E6%9C%89%E5%81%87%E8%B2%A8%E7%9A%84%E4%B8%96%E7%95%8C-%E9%82%84%E9%9C%80%E8%A6%81%E7%89%88%E6%AC%8A%E5%97%8E-36fe76f53a13)
 
