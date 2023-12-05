@@ -133,7 +133,7 @@ Note**:** once Voted, Vote can not be redacted! You can however change your Vote
 
 <img src="../../.gitbook/assets/2023-12-05_10-06-43 (1).gif" alt="" data-size="original">
 
-VOTE DEMO FOR CUSTOM DISCORD ROLE POWERED by PHUNKBOT&#x20;
+Vote demo for custom Discord role powered by PhunkBot.
 
 </details>
 
@@ -294,7 +294,7 @@ List bounded Web3 wallet(s) and Twitter Account to your Discord Account.&#x20;
 
 <summary><mark style="color:blue;">/</mark>listpolls</summary>
 
-#### To make it easy for users to keep track of Active Polls, users can run this command at any time without limitations. Wen called it will List all Active Polls and link to each Poll.
+#### To make it easy for users to keep track of Active Polls, users can run this command at any time without limitations. Wen called, it will List all Active Polls and link to each Poll.
 
 #### User Command
 
