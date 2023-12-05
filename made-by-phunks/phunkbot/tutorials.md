@@ -352,6 +352,14 @@ Here is the list of available commands:
 /status
 ```
 
+<mark style="background-color:orange;">You will need to set starting block of your collection under /src/config.ts.</mark>
+
+```typescript
+  // Enter the block where your contract has been created
+  statistic_initial_block: 18035326,
+  //
+```
+
 </details>
 
 ***
@@ -362,8 +370,7 @@ Here is the list of available commands:
 
 <summary>ON DISCORD</summary>
 
-If you have [DAO Module](features.md) in `src/app.module.ts` enabled, your Discord bot will gain some amazing super powers. Since we are dealing with community Governance here, commands are split into two categories: <mark style="color:red;">Admin</mark> and <mark style="color:green;">User</mark> commands. \
-To learn more about DAO Module and how it works go to [governance.md](governance.md "mention")
+If you have [DAO Module](features.md) in `src/app.module.ts` enabled, your Discord bot will gain some amazing super powers. Since we are dealing with community Governance here, commands are split into two categories: <mark style="color:red;">Admin</mark> and <mark style="color:green;">User</mark> commands.&#x20;
 
 ### <mark style="color:red;">Admin Commands</mark>
 
@@ -418,6 +425,8 @@ To learn more about DAO Module and how it works go to [governance.md](governance
 ```typescript
 /bounded
 ```
+
+<mark style="background-color:orange;">To learn more about DAO Module and how it works go to</mark> [governance.md](governance.md "mention")
 
 </details>
 
