@@ -84,7 +84,7 @@ if (poll.discord_role_id && !member.roles.cache.has(poll.discord_role_id)) {
 ```
 {% endcode %}
 
-<mark style="background-color:orange;">Also here, First rule</mark> <mark style="background-color:orange;"></mark><mark style="background-color:orange;">**minOwnedCount & minOwnedTime**</mark> <mark style="background-color:orange;"></mark><mark style="background-color:orange;">always applies.</mark>
+<mark style="background-color:orange;">Also here, First rule</mark> <mark style="background-color:orange;"></mark><mark style="background-color:orange;">**minOwnedCount & minOwnedTime**</mark> <mark style="background-color:orange;"></mark><mark style="background-color:orange;">always applies.</mark> \ <mark style="background-color:orange;">Additional Rules like</mark> <mark style="background-color:orange;"></mark><mark style="background-color:orange;">**minDiscordActivity & minTwitterActivity**</mark> <mark style="background-color:orange;"></mark><mark style="background-color:orange;">can be added in the future.</mark>&#x20;
 
 </details>
 
