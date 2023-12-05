@@ -24,6 +24,10 @@ layout:
 Takes a minute to load. Just click the tweet pic to see the whole thread.
 ```
 
+{% embed url="https://x.com/iape_/status/1732148141816717442?s=20" %}
+**DECEMBER 05, 2023**
+{% endembed %}
+
 {% embed url="https://twitter.com/EggBoisNFT/status/1697328599500509652?s=20" %}
 **AUGUST 31, 2023**
 {% endembed %}
