@@ -76,7 +76,7 @@ Here is tutorial how to download all 10'000 Phunks **each as a separate jpeg** i
 
 Change the loop in the [phunks script](https://github.com/cryptopunksnotdead/cryptopunks/blob/master/phunks/phunks.rb) from:
 
-```
+```ruby
 punks.each do |punk|
   phunks << punk.mirror    #¹ 
 end
@@ -84,7 +84,7 @@ end
 
 to save the phunks one-by-one in 24x24 and in 192x192 (with 8x zoom) try:
 
-```
+```ruby
 punks.each_with_index do |punk,i| phunk = punk.mirror
   phunk.save( "phunk-#{i}.png" ) 
   phunk.zoom(8).save( "phunk-#{i}@8x.png" )
@@ -98,7 +98,7 @@ end
 
 Ruby script [phunk.rb](https://github.com/cryptopunksnotdead/cryptopunks/blob/master/phunks/phunks.rb)
 
-```
+```ruby
 ###########
 #   Phree the Phunks!
 #
@@ -140,19 +140,19 @@ Phunk enthusiast, amazing developer and [@Genius](https://twitter.com/Genius) co
 
 To download specific Phunk in HQ, copy link below and change Phunk #ID to the Phunk you desire at the end of the URL + **.png** extension.&#x20;
 
-```
+```typescript
 https://middlemarch.mypinata.cloud/ipfs/QmcvdPd7Jai74e595Mgx2u6D8QZZ1TGSFC2EQQNayQVJL8/8348.png
 ```
 
 To download All 10'000 Phunks in 1200x1200 pixel Poster Size use this link below, this needs to be done from command line (cmd). Due to IPFS restrictions in bandwidth you can only download 10 phunks at once. Repeat the steps until you have all 10'000 Phunks.&#x20;
 
-```
+```bash
 seq 0 9999 | xargs -n1 -P10 bash -c 'i=$0; url="https://middlemarch.mypinata.cloud/ipfs/QmcvdPd7Jai74e595Mgx2u6D8QZZ1TGSFC2EQQNayQVJL8/${i}.png"; curl -O -s $url'
 ```
 
 or you can use this link to download All 10'000 Phunks in 1200x1200 pixel zipped.
 
-```
+```typescript
 https://middlemarch.mypinata.cloud/ipfs/QmR4zNYDSLttz4VbTohU3bg7pf7CiDg6iMAbor2etQ4Hu1
 ```
 
