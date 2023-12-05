@@ -24,7 +24,7 @@ layout:
 
 <details>
 
-<summary><mark style="background-color:orange;"><strong><code>July 11, 2021</code></strong></mark> <a href="https://phunks.medium.com/the-cryptophunks-manifesto-785c7348e558"><strong>The CryptoPhunks Manifesto</strong></a></summary>
+<summary><mark style="background-color:orange;"><code>July 11, 2021</code></mark> <a href="https://phunks.medium.com/the-cryptophunks-manifesto-785c7348e558"><strong>The CryptoPhunks Manifesto</strong></a></summary>
 
 [**https://phunks.medium.com/the-cryptophunks-manifesto-785c7348e558**](https://phunks.medium.com/the-cryptophunks-manifesto-785c7348e558)
 
