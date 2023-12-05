@@ -294,7 +294,7 @@ List bounded Web3 wallet(s) and Twitter Account to your Discord Account.&#x20;
 
 <summary><mark style="color:blue;">/</mark>listpolls</summary>
 
-#### To make it easy for users to keep track of Active Polls, users can run this command at any time without limitations. It ill List all Active Polls and link to each Poll.
+#### To make it easy for users to keep track of Active Polls, users can run this command at any time without limitations. Wen called it will List all Active Polls and link to each Poll.
 
 #### User Command
 
@@ -307,6 +307,8 @@ List bounded Web3 wallet(s) and Twitter Account to your Discord Account.&#x20;
 #### Output
 
 ![](<../../.gitbook/assets/image (82).png>)
+
+<mark style="background-color:orange;">For non Discord users, all Active and Finished Polls are visible at:</mark> [https://phunk.cc/polls/](https://phunk.cc/polls/)
 
 </details>
 
