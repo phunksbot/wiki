@@ -70,16 +70,16 @@ import { Erc721SalesService } from './erc721sales.service';
 <summary>SUPPORTED</summary>
 
 * [NotLarvaLabs](../notlarvalabs/) marketplace - Support for Bids, Buys and Sells.
-* OpenSea marketplace (inkl. SeaPort).
+* BLUR.io - Sweeps, Buys and Sells & support for **ERC20** "blurio pool" wrapped ETH.
+* OpenSea marketplace (inkl. SeaPort) - Sweeps, Buys and Sells.
+* LooksRare v2 - Sweeps, Buys and Sells.
 * NFTX - Sweeps, Buys and Sells.
 * X2Y2 - Sweeps, Buys and Sells.
-* LooksRare v2 - Sweeps, Buys and Sells..
-* BLUR.io - Sweeps, Buys and Sells & support for **ERC20** "blurio pool" wrapped ETH.
 * **MEV** sniping bot exotic transactions.
 * <mark style="background-color:orange;">**CLI mode feature:**</mark> [<mark style="background-color:orange;">**CLI**</mark>](tutorials.md) <mark style="background-color:orange;">command implemented to replay transaction.</mark>
 * Integrated **flywheel** (phunks.pro) sales into bot with custom Message.
 * Integrated **Auctions** (phunks.auction) **sales only** with custom Message.
-* **Embeded** discord bot design implemented with dynamic smart exchange **ICON** support.
+* **Embedded** discord bot design implemented with dynamic smart exchange **ICON** support.
 
 </details>
 
