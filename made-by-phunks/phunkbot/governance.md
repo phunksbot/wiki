@@ -41,7 +41,8 @@ With PhunkBot module called [`DAOService`](features.md) enabled, communities don
 \
 PhunkBot is in house, Self-Sufficient Service hosted by the Community for the Community, safe and as simple to use as running Discord [application commands](governance.md#daoservice-commands-explained) or pressing an emoji to vote.\
 \
-**Solution we found is, it all revolves around token ownership. PhunkBot elegantly eliminates possible sybil attacks with simple and configurable `minOwnedCount`&`minOwnedTime` safety checks and by binding discord account and/or social account with Web3 wallet(s) holding underlying Assets or even Traits of underlying Assets.** \
+**Solution we found is, it all revolves around token ownership and identity in Web3. By binding those two Assets we can actually solve Governance for decentralized community.**\
+**PhunkBot elegantly eliminates possible sybil attacks with simple and configurable `minOwnedCount`&`minOwnedTime` safety checks and by binding discord account and/or social account with Web3 wallet(s) holding underlying Assets or even Traits of underlying Assets.** \
 **This enables individual to safely participate in community Governance and it guarantees provably fair process to achieve consensus.**&#x20;
 
 {% code title="app.module.ts" %}
