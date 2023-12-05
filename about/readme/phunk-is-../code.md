@@ -30,7 +30,7 @@ Punks vs Phunks&#x20;
 
 ***
 
-```
+```solidity
 // SPDX-License-Identifier: UNLICENSE
 pragma solidity ^0.8.0;
 
