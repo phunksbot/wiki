@@ -237,7 +237,7 @@ This can be for example one Role for holding underlying Asset of Multiple Roles 
 
 <details>
 
-<summary><mark style="color:blue;">/bindweb3</mark></summary>
+<summary><mark style="color:blue;">/</mark>bindweb3</summary>
 
 User command to bind Discord Account with Web3 wallet(s).
 
@@ -255,7 +255,7 @@ User command to bind Discord Account with Web3 wallet(s).
 
 <details>
 
-<summary><mark style="color:blue;">/bindtwitter</mark></summary>
+<summary><mark style="color:blue;">/</mark>bindtwitter</summary>
 
 User command to bind Twitter Account with Web3 wallet(s).
 
@@ -273,7 +273,7 @@ User command to bind Twitter Account with Web3 wallet(s).
 
 <details>
 
-<summary><mark style="color:blue;">/bounded</mark></summary>
+<summary><mark style="color:blue;">/</mark>bounded</summary>
 
 List bounded Web3 wallet(s) and Twitter Account to your Discord Account.&#x20;
 
@@ -292,7 +292,7 @@ List bounded Web3 wallet(s) and Twitter Account to your Discord Account.&#x20;
 
 <details>
 
-<summary><mark style="color:blue;">/listpolls</mark></summary>
+<summary><mark style="color:blue;">/</mark>listpolls</summary>
 
 #### To make it easy for users to keep track of Active Polls, users can run this command at any time without limitations. It ill List all Active Polls and link to each Poll.
 
@@ -314,7 +314,7 @@ List bounded Web3 wallet(s) and Twitter Account to your Discord Account.&#x20;
 
 <details>
 
-<summary><mark style="color:blue;">/createpoll</mark></summary>
+<summary><mark style="color:blue;">/</mark>createpoll</summary>
 
 This commands is reserved for Discord Admins only, executing this command with parameters set kicks off new Poll where community can vote on Active proposals and as a result achieve consensus.
 
@@ -339,7 +339,7 @@ This commands is reserved for Discord Admins only, executing this command with p
 
 <details>
 
-<summary><mark style="color:blue;">/pollresults</mark></summary>
+<summary><mark style="color:blue;">/</mark>pollresults</summary>
 
 This commands is reserved for Discord Admins only. It will display SnapShot of Vote result and will list all the Voters for Current and Past Polls.
 
@@ -369,7 +369,7 @@ To see this option, on your Discord settings, you will need to have Developer mo
 
 <details>
 
-<summary><mark style="color:blue;">/closepoll</mark></summary>
+<summary><mark style="color:blue;">/</mark>closepoll</summary>
 
 This commands is reserved for Discord Admins only. It will Force Close currently Active Poll.\
 If used, PhunkBot will Print this interaction and it will be visible to users.&#x20;
@@ -390,7 +390,7 @@ If used, PhunkBot will Print this interaction and it will be visible to users.&#
 
 <details>
 
-<summary><mark style="color:blue;">/deletepoll</mark></summary>
+<summary><mark style="color:blue;">/</mark>deletepoll</summary>
 
 This commands is reserved for Discord Admins only. It will Force Delete currently Active Poll.\
 If used, PhunkBot will Print this interaction and it will be visible to users.&#x20;
