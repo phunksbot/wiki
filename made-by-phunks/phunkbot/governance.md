@@ -156,6 +156,14 @@ Optional Admins can set `minimumVotesRequired` for Poll to be considered Success
 
 <mark style="background-color:orange;">Note: If min threshold of Votes is set too for example 30 and reached; Min votes required:</mark> <mark style="background-color:orange;"></mark><mark style="background-color:orange;">**30**</mark> <mark style="background-color:orange;"></mark><mark style="background-color:orange;">(Reached: ❌) will automatically change to Min votes required:</mark> <mark style="background-color:orange;"></mark><mark style="background-color:orange;">**30**</mark> <mark style="background-color:orange;"></mark><mark style="background-color:orange;">(Reached: ✅).</mark>
 
+
+
+[https://cdn.discordapp.com/attachments/1084590983506841651/1181523131140157531/2023-12-05\_10-06-43.mp4](https://cdn.discordapp.com/attachments/1084590983506841651/1181523131140157531/2023-12-05\_10-06-43.mp4?ex=65815e2a\&is=656ee92a\&hm=8c97309fce5667d94cbf71a68b94b3df7d1e5f70577cce6609ac6cc94073990b&)
+
+
+
+
+
 </details>
 
 <details>
@@ -169,6 +177,10 @@ To avoid user being influenced by Vote weight going in one direction and to keep
 ![](<../../.gitbook/assets/Bildschirmfoto 2023-12-04 um 07.09.22.png>)
 
 </details>
+
+{% embed url="https://cdn.discordapp.com/attachments/1084590983506841651/1181523131140157531/2023-12-05_10-06-43.mp4?ex=65815e2a&is=656ee92a&hm=8c97309fce5667d94cbf71a68b94b3df7d1e5f70577cce6609ac6cc94073990b&" %}
+VOTE DEMO FOR CUSTOM DISCORD ROLE POWERED by PHUNKBOT&#x20;
+{% endembed %}
 
 ***
 
