@@ -230,6 +230,14 @@ This can be for example one Role for holding underlying Asset of Multiple Roles 
 
 </details>
 
+<details>
+
+<summary>MANAGE ROLES</summary>
+
+
+
+</details>
+
 ***
 
 ## <mark style="color:orange;">`DAOService Commands Explained`</mark>
