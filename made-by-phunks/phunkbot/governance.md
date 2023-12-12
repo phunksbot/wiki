@@ -111,6 +111,16 @@ if (poll.discord_role_id && !member.roles.cache.has(poll.discord_role_id)) {
 
 <details>
 
+<summary>START NEW POLL</summary>
+
+This commands is reserved for Discord Admins only and is explained here.&#x20;
+
+[#createpoll](governance.md#createpoll "mention")
+
+</details>
+
+<details>
+
 <summary>CAST YOUR VOTE</summary>
 
 By default users have two options to Vote 👍 (Yes) and 👎 (No).
@@ -127,7 +137,7 @@ Note**:** once Voted, Vote can not be redacted! You can however change your Vote
 
 ![](<../../.gitbook/assets/image (84).png>)
 
-<mark style="background-color:orange;">To see all Active Polls to Vote, simply run /listpolls</mark> [<mark style="background-color:orange;">command</mark>](governance.md#daoservice-commands-explained) <mark style="background-color:orange;">on Discord or go to:</mark>\
+<mark style="background-color:orange;">To recieve PhunkBot notifications you need to have your Discord DMs open.</mark>\ <mark style="background-color:orange;">To see all Active Polls to Vote, simply run /listpolls</mark> [<mark style="background-color:orange;">command</mark>](governance.md#daoservice-commands-explained) <mark style="background-color:orange;">on Discord or go to:</mark>\
 [https://phunk.cc/polls/](https://phunk.cc/polls/)
 
 #### DEMO
@@ -426,7 +436,7 @@ If used, PhunkBot will Print this interaction and it will be visible to users.&#
 
 <details>
 
-<summary>.</summary>
+<summary>OPTIONAL</summary>
 
 
 
