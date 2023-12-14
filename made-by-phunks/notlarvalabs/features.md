@@ -1,6 +1,11 @@
 ---
 description: NLL innovative UI offers many useful Features
+cover: ../../.gitbook/assets/Bildschirmfoto 2023-12-14 um 16.52.15.png
+coverY: 2.7846153846153845
 layout:
+  cover:
+    visible: true
+    size: full
   title:
     visible: true
   description:

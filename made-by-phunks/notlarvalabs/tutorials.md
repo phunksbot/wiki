@@ -1,6 +1,11 @@
 ---
 description: how to use NotLarvaLabs Marketplace
+cover: ../../.gitbook/assets/Bildschirmfoto 2023-12-14 um 16.59.11.png
+coverY: 10
 layout:
+  cover:
+    visible: true
+    size: full
   title:
     visible: true
   description:

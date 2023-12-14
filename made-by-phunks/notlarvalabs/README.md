@@ -2,12 +2,12 @@
 description: >-
   PHUNKS MARKETPLACE, 0% ROYALTIES! 0% SERVICE FEES!                           
   BE PHUKNY! BE PHREE!
-cover: ../../.gitbook/assets/Bildschirmfoto 2023-08-04 um 20.47.32.png
-coverY: 0
+cover: ../../.gitbook/assets/Bildschirmfoto 2023-12-14 um 16.55.15.png
+coverY: 2.75
 layout:
   cover:
     visible: true
-    size: hero
+    size: full
   title:
     visible: true
   description:

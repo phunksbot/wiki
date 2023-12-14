@@ -1,6 +1,11 @@
 ---
 description: from notlarvalabs.com Website
+cover: ../../.gitbook/assets/Bildschirmfoto 2023-12-14 um 17.00.50.png
+coverY: 18.564102564102562
 layout:
+  cover:
+    visible: true
+    size: full
   title:
     visible: true
   description:
