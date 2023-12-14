@@ -18,6 +18,7 @@ layout:
 Need Phunk data for a site but either don’t want to or don’t know how to write an API layer? \
 I got you covered..... by [@tbc\_eth](https://twitter.com/tbc\_eth)
 
+{% code fullWidth="true" %}
 ```java
 Endpoint: 
 https://data.phunky.dev/
@@ -54,6 +55,7 @@ api/v3-phunks-nfts/{:id}
 Link to examples and how to filter/search: 
 https://github.com/theblockchaineth/PhunkyData/blob/main/examples.md
 ```
+{% endcode %}
 
 {% hint style="info" %}
 Run by whoever, wherever, whenever - Servers have to be centralized but their definition and the ability to spin one up doesn't have to be. Want to add a new processor, datasource, or static content? Contribute to the [repo](https://github.com/theblockchaineth/PhunkyData) or fork and go!

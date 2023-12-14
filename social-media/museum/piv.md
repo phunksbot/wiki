@@ -167,7 +167,7 @@ Left: rotated and cropped CryptoPhunk 9077 Right: Black Square and Red Square, b
 ![](<../../.gitbook/assets/image (18) (1) (1).png>)![](<../../.gitbook/assets/image (67) (1) (1) (1).png>)\
 [A Clockwork Orange](https://twitter.com/piv\_piv/status/1497476983537774594?s=20\&t=\_lc0IEIuVeEzKlmIQy7CRw)
 
-![MASKS](<../../.gitbook/assets/image (4).png>)
+![MASKS](<../../.gitbook/assets/image (4) (2).png>)
 
 ![MASKS](<../../.gitbook/assets/image (9) (1) (1).png>)
 

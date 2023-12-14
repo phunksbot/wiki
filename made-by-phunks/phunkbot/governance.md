@@ -436,7 +436,43 @@ If used, PhunkBot will Print this interaction and it will be visible to users.&#
 
 <details>
 
-<summary>OPTIONAL</summary>
+<summary>USER DATA</summary>
+
+To protect user data in case of data breach, data is Encrypted using community owned Symetric key that is obtained from the discord server. [Explained here](https://discord.com/channels/873564453227094078/1148354544938528830/1162887458309029890).\
+<mark style="background-color:red;">Data saved is: Discord ID, Wallet(s) public Key(s).</mark>
+
+#### Wen enabled, this is how Encrypted user data looks like on Host Server.
+
+![](<../../.gitbook/assets/image (2).png>)
+
+#### Encryption is Optional
+
+{% code title="config.ts" %}
+```typescript
+  dao_requires_encryption_key: false,
+```
+{% endcode %}
+
+#### Code Sample
+
+{% code title="dao.extention.service.ts" %}
+```typescript
+if (config.dao_requires_encryption_key) {
+  const guildsId = unique(config.dao_roles.map(r => r.guildId))
+  for (const guildId of guildsId) {
+    console.log(`fetching encryption key for ${guildId}`)
+    
+    const guild = this.discordClient.getClient().guilds.cache.get(guildId)
+    const channels = await guild.channels.fetch()
+
+    const channel = channels.find(channel => channel.name === 'setup-daoextension') as TextBasedChannel
+    const lastMessage = await channel.messages.fetch(channel.lastMessageId)
+    this.encryptionKeys.set(guildId, lastMessage.content)
+    console.log(`fetched encryption key for ${guildId}`)
+  }
+}
+```
+{% endcode %}
 
 
 
