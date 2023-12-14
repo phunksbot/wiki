@@ -438,14 +438,13 @@ If used, PhunkBot will Print this interaction and it will be visible to users.&#
 
 <summary>USER DATA</summary>
 
-To protect user data in case of data breach, data is Encrypted using community owned Symetric key that is obtained from the discord server. [Explained here](https://discord.com/channels/873564453227094078/1148354544938528830/1162887458309029890).\
-<mark style="background-color:red;">Data saved is: Discord ID, Wallet(s) public Key(s).</mark>
+To protect user data in case of data breach, data is Encrypted using community owned Symetric key that is obtained from the discord server and [Explained here](https://discord.com/channels/873564453227094078/1148354544938528830/1162887458309029890).
 
 #### Wen enabled, this is how Encrypted user data looks like on Host Server.
 
 ![](<../../.gitbook/assets/image (2).png>)
 
-#### Encryption is Optional
+#### Encryption is Optional, it can be Enabled by changing Boolean from `false` to `true`
 
 {% code title="config.ts" %}
 ```typescript
@@ -474,6 +473,6 @@ if (config.dao_requires_encryption_key) {
 ```
 {% endcode %}
 
-
+<mark style="background-color:red;">Data saved is: Discord ID, Wallet(s) public Key(s).</mark>
 
 </details>
