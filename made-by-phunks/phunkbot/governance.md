@@ -476,3 +476,30 @@ if (config.dao_requires_encryption_key) {
 <mark style="background-color:red;">Data saved is: Discord ID, Wallet(s) public Key(s).</mark>
 
 </details>
+
+<details>
+
+<summary>DEPLOYMENT</summary>
+
+Data is Encrypted using community owned Symetric key that is obtained from the discord server, but how does that work?
+
+Ideally one of Discord Admins creates Private channel called `#setup-daoextension` \
+on Discord containing a 32 bytes encryption key for example using this [generator](https://seanwasere.com/generate-random-hex/).
+
+&#x20;![](<../../.gitbook/assets/Bildschirmfoto 2023-12-16 um 10.08.45.png>)
+
+and places Encryption key as only message into this Private channel. PhunkBot needs to have access to channel to Decrypt data in PhunkBot memory using this key.
+
+After seed (encryption key) is in place, bot host enables encryption by changing Boolean from `false` to `true` under config.ts.
+
+{% code title="config.ts" %}
+```typescript
+ dao_requires_encryption_key: true,
+```
+{% endcode %}
+
+<mark style="background-color:red;">Warning: enabling Encryption will wipe database containing user data collected before.</mark>
+
+
+
+</details>
