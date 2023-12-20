@@ -85,7 +85,8 @@ if (poll.discord_role_id && !member.roles.cache.has(poll.discord_role_id)) {
 ```
 {% endcode %}
 
-<mark style="background-color:orange;">Also here, First rule</mark> <mark style="background-color:orange;"></mark><mark style="background-color:orange;">**minOwnedCount & minOwnedTime**</mark> <mark style="background-color:orange;"></mark><mark style="background-color:orange;">always applies.</mark> \ <mark style="background-color:orange;">Additional Rules like</mark> <mark style="background-color:orange;"></mark><mark style="background-color:orange;">**minDiscordActivity & minTwitterActivity**</mark> <mark style="background-color:orange;"></mark><mark style="background-color:orange;">can be added in the future.</mark>&#x20;
+<mark style="background-color:orange;">Also here, First rule</mark> <mark style="background-color:orange;"></mark><mark style="background-color:orange;">**minOwnedCount & minOwnedTime**</mark> <mark style="background-color:orange;"></mark><mark style="background-color:orange;">always applies.</mark> \
+<mark style="background-color:red;">Additional Rules like</mark> <mark style="background-color:red;"></mark><mark style="background-color:red;">**minDiscordActivity & minTwitterActivity**</mark> <mark style="background-color:red;"></mark><mark style="background-color:red;">can be added in the future.</mark>
 
 </details>
 
@@ -105,6 +106,8 @@ if (poll.discord_role_id && !member.roles.cache.has(poll.discord_role_id)) {
 * User [bounded](governance.md#daoservice-commands-explained) his Discord and optional Twitter Account.
 * For Vote to be considered Success, min Vote count [threshold](governance.md#min-vote-count) needs to be reached.
 
+<mark style="background-color:red;">1 bounded Identity even with multiple Wallets and Phunks NFTs equals 1 Vote.</mark>
+
 <mark style="background-color:green;">That's it! Player one ready, go!</mark>&#x20;
 
 </details>
@@ -113,9 +116,9 @@ if (poll.discord_role_id && !member.roles.cache.has(poll.discord_role_id)) {
 
 <summary>START NEW POLL</summary>
 
-This commands is reserved for Discord Admins only and is explained here.&#x20;
+This commands is reserved for Discord Admins only and is explained here:
 
-[#createpoll](governance.md#createpoll "mention")
+\-> [#createpoll](governance.md#createpoll "mention")
 
 </details>
 
@@ -137,7 +140,7 @@ Note**:** once Voted, Vote can not be redacted! You can however change your Vote
 
 ![](<../../.gitbook/assets/image (84).png>)
 
-<mark style="background-color:orange;">To recieve PhunkBot notifications you need to have your Discord DMs open.</mark>\ <mark style="background-color:orange;">To see all Active Polls to Vote, simply run /listpolls</mark> [<mark style="background-color:orange;">command</mark>](governance.md#daoservice-commands-explained) <mark style="background-color:orange;">on Discord or go to:</mark>\
+<mark style="background-color:red;">To receive PhunkBot notifications you need to have your Discord DMs open.</mark>\ <mark style="background-color:orange;">To see all Active Polls to Vote, simply run /listpolls</mark> [<mark style="background-color:orange;">command</mark>](governance.md#daoservice-commands-explained) <mark style="background-color:orange;">on Discord or go to:</mark>\
 [https://phunk.cc/polls/](https://phunk.cc/polls/)
 
 #### DEMO
@@ -197,7 +200,7 @@ To avoid user being influenced by Vote weight going in one direction and to keep
 
 By binding Discord Account with your Web3 wallet(s), PhunkBot automatically Grants you Discord roles depending on underlying Asset and parameters set under `src/config.ts`.&#x20;
 
-This can be for example one Role for holding underlying Asset of Multiple Roles for holding Specific Traits of underlying Collection.
+This can be for example one Role for holding underlying Asset or Multiple Roles for holding Specific Traits of underlying Collection.
 
 <img src="../../.gitbook/assets/Bildschirmfoto 2023-11-30 um 22.49.38.png" alt="" data-size="original">
 
