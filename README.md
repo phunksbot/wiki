@@ -36,3 +36,7 @@ by [@Pauly0x](https://twitter.com/Pauly0x)
 {% endembed %}
 
 ***
+
+## <mark style="color:orange;">`TL;DR`</mark>
+
+<figure><img src=".gitbook/assets/image (86).png" alt=""><figcaption></figcaption></figure>
