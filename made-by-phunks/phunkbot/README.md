@@ -1,11 +1,11 @@
 ---
 description: 'PHUNKBOT IS MORE THAN JUST A BOT. SOURCE: TRUST ME BRO!'
-cover: ../../.gitbook/assets/Bildschirmfoto 2023-12-14 um 17.11.32.png
-coverY: 8.353846153846153
+cover: ../../.gitbook/assets/image (87).png
+coverY: 92.672
 layout:
   cover:
     visible: true
-    size: full
+    size: hero
   title:
     visible: true
   description:
