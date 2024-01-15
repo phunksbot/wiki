@@ -15,7 +15,9 @@ layout:
 
 # 🎭 CURATED
 
-Artists: [wolfgangeth](https://twitter.com/wolfgangeth) [PhunkyVasilios](https://twitter.com/PhunkyVasilios) [The\_MegaVega](https://twitter.com/The\_MegaVega) [VeryWilliam3](https://twitter.com/VeryWilliam3) [dovetailNFT](https://twitter.com/dovetailNFT) [Pauly0x](https://twitter.com/Pauly0x) [NfTenchi](https://twitter.com/NfTenchi)
+Artists: [wolfgangeth](https://twitter.com/wolfgangeth) [PhunkyVasilios](https://twitter.com/PhunkyVasilios) [The\_MegaVega](https://twitter.com/The\_MegaVega) [VeryWilliam3](https://twitter.com/VeryWilliam3) [dovetailNFT](https://twitter.com/dovetailNFT) [Pauly0x](https://twitter.com/Pauly0x) [NfTenchi](https://twitter.com/NfTenchi) [Vert](https://twitter.com/Vvverttt)
+
+<figure><img src="../../.gitbook/assets/image (87).png" alt=""><figcaption></figcaption></figure>
 
 ![](../../.gitbook/assets/A1F07E7B-370E-42EF-BD2A-D49B49C9AFEB.jpg)
 
