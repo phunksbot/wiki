@@ -19,6 +19,8 @@ layout:
 by [@dresmars](https://twitter.com/dresmars/status/1611325328181559302?s=20\&t=SUfeYIWTjKouHw0xueNL3w)
 {% endembed %}
 
+{% embed url="https://twitter.com/i/status/1758507904481566790" %}
+
 {% embed url="https://youtu.be/Fnwa9veNM-0" %}
 
 {% embed url="https://cdn.discordapp.com/attachments/873564453227094081/1087085758218776677/ua7iTNhGS0XKSpbU.mp4" %}
