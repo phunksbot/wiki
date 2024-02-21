@@ -31,7 +31,7 @@ Here are few examples to better understand Concept behind Phunks:
 | Punk is moving away from you                              | Phunk is moving towards you                                             |
 | Punk is owned by [YugaLabs](https://twitter.com/yugalabs) | Phunk is owned by [You](https://notlarvalabs.com/cryptophunks/myphunks) |
 | Punk is Centralized                                       | Phunk is Decentralized                                                  |
-| Punk is Web2                                              | Phunk is Web3                                                           |
+| Punk is Web2                                              | Phunk is Crypto 2.0                                                     |
 
 Some good examples of a simple transformation that completely changes the meaning would be :thumbsup: vs :thumbsdown: emoji or a countries flag right side up vs upside down. Powerful instances of identical symbols  with entirely different meanings based on their orientation.
 

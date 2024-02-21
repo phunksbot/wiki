@@ -5,7 +5,7 @@
 * [🟥 CRYPTOPHUNKS](README.md)
   * [PHUNK IS ..](about/readme/phunk-is-../README.md)
     * [➖ PUNK](about/readme/phunk-is-../phunk-is-punk.md)
-    * [➖ WEB3](about/readme/phunk-is-../phunk-is-web3.md)
+    * [➖ 2.0](about/readme/phunk-is-../phunk-is-web3.md)
     * [➖ ART](about/readme/phunk-is-../phunk-is-art.md)
     * [➖ CODE](about/readme/phunk-is-../code.md)
     * [➖ HISTORIC](about/readme/phunk-is-../phunk-is-historic.md)
