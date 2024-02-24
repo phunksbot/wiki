@@ -445,7 +445,7 @@ To protect user data in case of data breach, data is Encrypted using community o
 
 #### Wen enabled, this is how Encrypted user data looks like on Host Server.
 
-![](<../../.gitbook/assets/image (2).png>)
+![](<../../.gitbook/assets/image (2) (1).png>)
 
 #### Encryption is Optional, it can be Enabled by changing Boolean from `false` to `true`
 

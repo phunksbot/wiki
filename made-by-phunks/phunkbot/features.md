@@ -155,7 +155,7 @@ import { DAOController } from './extensions/dao/dao.controller';
 
 #### Sample of PhunkBot command <mark style="color:blue;">/createpoll</mark>
 
-<img src="../../.gitbook/assets/image (12).png" alt="" data-size="original">
+<img src="../../.gitbook/assets/image (12) (3).png" alt="" data-size="original">
 
 #### Output:
 

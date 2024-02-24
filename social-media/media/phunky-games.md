@@ -15,7 +15,7 @@ layout:
 
 # 🎮 PHUNKY GAMES
 
-![PHUNK INVADERS](<../../.gitbook/assets/image (19).png>)
+![PHUNK INVADERS](<../../.gitbook/assets/image (19) (1).png>)
 
 {% embed url="https://pixeleight.io/invader.html" %}
 [PLAY](https://pixeleight.io/invader.html)

@@ -25,7 +25,7 @@ in no particular order, made by [@piv\_piv](https://twitter.com/piv\_piv)
 
 ![](../../.gitbook/assets/FIv\_VkCXoAIEZNJ.jpeg)![](../../.gitbook/assets/FIv\_YQMWUAE2DNF.jpeg)
 
-![](<../../.gitbook/assets/image (20) (1) (1) (1) (1) (1).png>)![](<../../.gitbook/assets/image (19) (1) (1) (1).png>)
+![](<../../.gitbook/assets/image (20) (1) (1) (1) (1) (1).png>)![](<../../.gitbook/assets/image (19) (1) (1) (1) (1).png>)
 
 ![](<../../.gitbook/assets/image (10) (1) (1) (1) (1) (1) (1).png>)![](<../../.gitbook/assets/image (5) (1) (1) (1).png>)
 
@@ -33,7 +33,7 @@ in no particular order, made by [@piv\_piv](https://twitter.com/piv\_piv)
 
 ![](<../../.gitbook/assets/image (2) (1) (1) (1) (1) (1).png>)![](<../../.gitbook/assets/image (15) (1) (1) (1) (1).png>)
 
-![](<../../.gitbook/assets/image (8) (1) (1) (1) (1) (1).png>)![](<../../.gitbook/assets/image (4) (1) (1).png>)
+![](<../../.gitbook/assets/image (8) (1) (1) (1) (1) (1).png>)![](<../../.gitbook/assets/image (4) (1) (1) (1).png>)
 
 ![](<../../.gitbook/assets/image (14) (1) (1) (1) (1).png>)![](<../../.gitbook/assets/image (16) (1) (1) (1) (1).png>)
 
@@ -45,7 +45,7 @@ in no particular order, made by [@piv\_piv](https://twitter.com/piv\_piv)
 
 [Who wore it better?](https://twitter.com/piv\_piv/status/1480557710626197508?s=20\&t=\_lc0IEIuVeEzKlmIQy7CRw)
 
-![9/10](<../../.gitbook/assets/image (15).png>)
+![9/10](<../../.gitbook/assets/image (15) (1).png>)
 
 ![](<../../.gitbook/assets/image (44) (1).png>)![](<../../.gitbook/assets/image (23) (1) (1).png>)\
 [Who wore it better?](https://twitter.com/piv\_piv/status/1517251273887731724?s=20\&t=\_lc0IEIuVeEzKlmIQy7CRw)
@@ -67,11 +67,11 @@ in no particular order, made by [@piv\_piv](https://twitter.com/piv\_piv)
 
 ![WHO WORE IT BETTER?](../../.gitbook/assets/FIV-4oJXMA42\_j1.jpeg)
 
-![MONA LISA](<../../.gitbook/assets/image (27) (1).png>)
+![MONA LISA](<../../.gitbook/assets/image (27) (1) (1).png>)
 
 ![LAST SUPPER](../../.gitbook/assets/FMtSQaCXIAU23oP.jpeg)
 
-![Free composition with phunk and punk eyes.](<../../.gitbook/assets/image (19) (1) (1).png>)
+![Free composition with phunk and punk eyes.](<../../.gitbook/assets/image (19) (1) (1) (1).png>)
 
 ![
 ANDY WARHOL AND PIERROT PORTRAIT](<../../.gitbook/assets/image (21) (1) (1) (1) (1).png>)
@@ -80,7 +80,7 @@ ANDY WARHOL AND PIERROT PORTRAIT](<../../.gitbook/assets/image (21) (1) (1) (1) 
 
 ![Composition with CryptoPhunk Eye](<../../.gitbook/assets/image (11) (1) (1) (1) (1) (1).png>)
 
-![Composition with phunk elements (unfinished)](<../../.gitbook/assets/image (42) (1).png>)
+![Composition with phunk elements (unfinished)](<../../.gitbook/assets/image (42) (1) (1).png>)
 
 ![PHUNKS](<../../.gitbook/assets/image (9) (1) (1) (1).png>)
 
@@ -103,7 +103,7 @@ Left: rotated and cropped CryptoPhunk 9077 Right: Black Square and Red Square, b
 ![](<../../.gitbook/assets/image (7) (1) (1) (1) (1).png>)![](<../../.gitbook/assets/image (12) (1) (1) (1) (1).png>)\
 [Suprematist Composition with Phunk Clown Nose](https://twitter.com/piv\_piv/status/1489358965947478016?s=20\&t=\_lc0IEIuVeEzKlmIQy7CRw)
 
-![Composition with female Phunk noses.](<../../.gitbook/assets/image (40).png>)
+![Composition with female Phunk noses.](<../../.gitbook/assets/image (40) (1).png>)
 
 ![](<../../.gitbook/assets/image (25) (1) (1) (1).png>)![](<../../.gitbook/assets/image (20) (1) (1) (1).png>)\
 [Abstract composition with Phunk clown nose and eye](https://twitter.com/piv\_piv/status/1488600582994771974?s=20\&t=\_lc0IEIuVeEzKlmIQy7CRw)
@@ -130,30 +130,30 @@ Left: rotated and cropped CryptoPhunk 9077 Right: Black Square and Red Square, b
 
 ![Masks Playing Cards, 1896 by James Ensor](<../../.gitbook/assets/image (5) (1).png>)
 
-![NPhC](<../../.gitbook/assets/image (38).png>)
+![NPhC](<../../.gitbook/assets/image (38) (1).png>)
 
 ![](<../../.gitbook/assets/image (2) (1) (1) (1).png>)![](<../../.gitbook/assets/image (22) (1) (1) (1) (1).png>)\
 [The Blair Witch Project](https://twitter.com/piv\_piv/status/1490350495298424834?s=20\&t=\_lc0IEIuVeEzKlmIQy7CRw)
 
-![](<../../.gitbook/assets/image (45).png>)![](<../../.gitbook/assets/image (17) (1).png>)\
+![](<../../.gitbook/assets/image (45) (1).png>)![](<../../.gitbook/assets/image (17) (1).png>)\
 [After Man Ray - made with two printscreens, one of Phunk 118 and one of Punk 658.](https://twitter.com/piv\_piv/status/1510325291075440651?s=20\&t=\_lc0IEIuVeEzKlmIQy7CRw)
 
-![](<../../.gitbook/assets/image (24) (1).png>)![](<../../.gitbook/assets/image (8) (1) (1).png>)![](<../../.gitbook/assets/image (66) (1).png>)![](<../../.gitbook/assets/image (37) (1).png>)\
-![](<../../.gitbook/assets/image (58).png>)![](<../../.gitbook/assets/image (13).png>)\
+![](<../../.gitbook/assets/image (24) (1).png>)![](<../../.gitbook/assets/image (8) (1) (1).png>)![](<../../.gitbook/assets/image (66) (1).png>)![](<../../.gitbook/assets/image (37) (1) (1).png>)\
+![](<../../.gitbook/assets/image (58).png>)![](<../../.gitbook/assets/image (13) (1).png>)\
 [Andy. Original pictures by Duane Michals.](https://twitter.com/piv\_piv/status/1518894768511754242?s=20\&t=\_lc0IEIuVeEzKlmIQy7CRw)
 
 ![](<../../.gitbook/assets/image (31) (1) (1).png>)![](<../../.gitbook/assets/image (18) (1) (1) (1).png>)\
 [The Good, the Bad and the Ugly](https://twitter.com/piv\_piv/status/1490585694267453443?s=20\&t=\_lc0IEIuVeEzKlmIQy7CRw)
 
-![what will the aliens, 1000 years from now, think of it?](<../../.gitbook/assets/image (49) (1) (1).png>)
+![what will the aliens, 1000 years from now, think of it?](<../../.gitbook/assets/image (49) (1) (1) (2).png>)
 
-![](<../../.gitbook/assets/image (16) (1) (1).png>)![](<../../.gitbook/assets/image (14) (1) (1).png>)\
+![](<../../.gitbook/assets/image (16) (1) (1).png>)![](<../../.gitbook/assets/image (14) (1) (1) (2).png>)\
 [After 'Glass Tears' by Man Ray (update) Man Ray used small glass beads as tears so I used the color of glass (glasses) from the Phunks for the tears.](https://twitter.com/piv\_piv/status/1510333204913348613?s=20\&t=\_lc0IEIuVeEzKlmIQy7CRw)
 
 ![](<../../.gitbook/assets/image (17) (1) (1).png>)![](<../../.gitbook/assets/image (24) (1) (1).png>)\
 [Le Fabuleux Destin d'Amélie Poulain](https://twitter.com/piv\_piv/status/1490590043202899970?s=20\&t=\_lc0IEIuVeEzKlmIQy7CRw)
 
-![Ensor with Masks](<../../.gitbook/assets/image (46).png>)
+![Ensor with Masks](<../../.gitbook/assets/image (46) (1).png>)
 
 ![](<../../.gitbook/assets/image (8) (1) (1) (1).png>)![](<../../.gitbook/assets/image (28) (1) (1) (1).png>)\
 [Kill Bill](https://twitter.com/piv\_piv/status/1490595420787068928?s=20\&t=\_lc0IEIuVeEzKlmIQy7CRw)
@@ -161,13 +161,13 @@ Left: rotated and cropped CryptoPhunk 9077 Right: Black Square and Red Square, b
 ![](<../../.gitbook/assets/image (32) (1) (1) (1).png>)![](<../../.gitbook/assets/image (1) (2).png>)\
 [A Clockwork Orange](https://twitter.com/piv\_piv/status/1490602563246297089?s=20\&t=\_lc0IEIuVeEzKlmIQy7CRw)
 
-![](<../../.gitbook/assets/image (61) (1) (1).png>)![](<../../.gitbook/assets/image (3) (1).png>)\
+![](<../../.gitbook/assets/image (61) (1) (1).png>)![](<../../.gitbook/assets/image (3) (1) (2).png>)\
 [Punk and Phunks skiing down a mountain](https://twitter.com/piv\_piv/status/1517955570879369218?s=20\&t=\_lc0IEIuVeEzKlmIQy7CRw)
 
-![](<../../.gitbook/assets/image (18) (1) (1).png>)![](<../../.gitbook/assets/image (67) (1) (1) (1).png>)\
+![](<../../.gitbook/assets/image (18) (1) (1) (2).png>)![](<../../.gitbook/assets/image (67) (1) (1) (1).png>)\
 [A Clockwork Orange](https://twitter.com/piv\_piv/status/1497476983537774594?s=20\&t=\_lc0IEIuVeEzKlmIQy7CRw)
 
-![MASKS](<../../.gitbook/assets/image (4) (2).png>)
+![MASKS](<../../.gitbook/assets/image (4) (2) (1).png>)
 
 ![MASKS](<../../.gitbook/assets/image (9) (1) (1).png>)
 
@@ -176,10 +176,10 @@ Left: rotated and cropped CryptoPhunk 9077 Right: Black Square and Red Square, b
 ![](<../../.gitbook/assets/image (13) (1) (1) (1) (1).png>)![](<../../.gitbook/assets/image (6) (1) (1).png>)\
 [OpenSea](https://twitter.com/piv\_piv/status/1495165873321041920?s=20\&t=\_lc0IEIuVeEzKlmIQy7CRw)
 
-![](<../../.gitbook/assets/image (19) (1).png>)![](<../../.gitbook/assets/image (2) (1) (1).png>)\
+![](<../../.gitbook/assets/image (19) (1) (1).png>)![](<../../.gitbook/assets/image (2) (1) (1) (2).png>)\
 [Phumpkins](https://twitter.com/piv\_piv/status/1495170092178550786?s=20\&t=\_lc0IEIuVeEzKlmIQy7CRw)
 
-![](<../../.gitbook/assets/image (4) (1).png>)![](<../../.gitbook/assets/image (15) (1) (1).png>)\
+![](<../../.gitbook/assets/image (4) (1) (1).png>)![](<../../.gitbook/assets/image (15) (1) (1) (2).png>)\
 [Phunk 0413 as Vegetable Seller](https://twitter.com/piv\_piv/status/1495464368863076353?s=20\&t=\_lc0IEIuVeEzKlmIQy7CRw)
 
 ![](<../../.gitbook/assets/image (29) (1) (1) (1).png>)![](<../../.gitbook/assets/image (10) (1) (1) (1) (1).png>)\
@@ -194,7 +194,7 @@ Left: rotated and cropped CryptoPhunk 9077 Right: Black Square and Red Square, b
 ![](<../../.gitbook/assets/image (53) (1) (1) (1).png>)![](<../../.gitbook/assets/image (48) (1).png>)\
 [Picasso’s Eyes, 1957 by David Douglas Duncan](https://twitter.com/piv\_piv/status/1508009942191534083?s=20\&t=\_lc0IEIuVeEzKlmIQy7CRw)
 
-![](<../../.gitbook/assets/image (32) (1) (1).png>)![](<../../.gitbook/assets/image (34) (1) (1) (1).png>)\
+![](<../../.gitbook/assets/image (32) (1) (1) (2).png>)![](<../../.gitbook/assets/image (34) (1) (1) (1).png>)\
 [Jan van Eyck Phunk](https://twitter.com/piv\_piv/status/1496919620351103001?s=20\&t=\_lc0IEIuVeEzKlmIQy7CRw)
 
 ![THE KING](<../../.gitbook/assets/image (55) (1) (1).png>)
@@ -217,10 +217,10 @@ Left: rotated and cropped CryptoPhunk 9077 Right: Black Square and Red Square, b
 
 ![a Belgian politician](<../../.gitbook/assets/image (19) (2).png>)
 
-![](<../../.gitbook/assets/image (47).png>)![](<../../.gitbook/assets/image (30) (1) (1).png>)\
+![](<../../.gitbook/assets/image (47) (1).png>)![](<../../.gitbook/assets/image (30) (1) (1).png>)\
 [Albert Einstein](https://twitter.com/piv\_piv/status/1500893678910464000?s=20\&t=\_lc0IEIuVeEzKlmIQy7CRw)
 
-![](<../../.gitbook/assets/image (68) (1).png>)![](<../../.gitbook/assets/image (39).png>)\
+![](<../../.gitbook/assets/image (68) (1).png>)![](<../../.gitbook/assets/image (39) (1).png>)\
 [the Chad](https://twitter.com/piv\_piv/status/1501227834961915904?s=20\&t=\_lc0IEIuVeEzKlmIQy7CRw)
 
 ![RYDER RIPPS](<../../.gitbook/assets/Screen Shot 2022-04-27 at 18.26.28.png>)
@@ -235,9 +235,9 @@ Left: rotated and cropped CryptoPhunk 9077 Right: Black Square and Red Square, b
 
 ![](<../../.gitbook/assets/image (71) (1) (1) (1).png>)![](<../../.gitbook/assets/image (60) (1).png>)![](<../../.gitbook/assets/image (51) (1).png>)[Groucho Marx attribute](https://twitter.com/piv\_piv/status/1505490698405036034?s=20\&t=\_lc0IEIuVeEzKlmIQy7CRw)
 
-![4692 in backlight](<../../.gitbook/assets/image (25) (1) (1).png>)
+![4692 in backlight](<../../.gitbook/assets/image (25) (1) (1) (2).png>)
 
-![](<../../.gitbook/assets/image (15) (1).png>)![](<../../.gitbook/assets/image (11) (1) (1) (1).png>)\
+![](<../../.gitbook/assets/image (15) (1) (1).png>)![](<../../.gitbook/assets/image (11) (1) (1) (1) (2).png>)\
 [Who wore it better? Scrambled Phunk pixels vs. 4900 Colours (Gerhard Richter)](https://twitter.com/piv\_piv/status/1509816169208946689?s=20\&t=\_lc0IEIuVeEzKlmIQy7CRw)
 
 ![Phunk standing in the Rain](<../../.gitbook/assets/image (70) (1) (1).png>)
@@ -251,7 +251,7 @@ Left: rotated and cropped CryptoPhunk 9077 Right: Black Square and Red Square, b
 
 ![Phunks x De Stijl](<../../.gitbook/assets/image (29) (1) (1).png>)
 
-![Simple abstract composition with Phunk colors.](<../../.gitbook/assets/image (7) (1) (1).png>)
+![Simple abstract composition with Phunk colors.](<../../.gitbook/assets/image (7) (1) (1) (2).png>)
 
 ![](<../../.gitbook/assets/image (23) (1) (1) (1).png>)![](<../../.gitbook/assets/image (26) (1) (1) (1).png>)\
 [A Dictionary of P(h)unk Color Combinations](https://twitter.com/piv\_piv/status/1489586455685050373?s=20\&t=\_lc0IEIuVeEzKlmIQy7CRw)
@@ -260,5 +260,5 @@ Left: rotated and cropped CryptoPhunk 9077 Right: Black Square and Red Square, b
 
 ![In honor of the 717-gigapixel image of Rembrandt’s ‘The Night Watch’ that was published on the website of the Rijksmuseum earlier this week, I made a 300 meters (984 ft.) high vectorimage of Cryptophunk 3100.](../../.gitbook/assets/FIpjMBBWUAMNZxZ.jpeg)
 
-![](<../../.gitbook/assets/image (59) (1).png>)![](<../../.gitbook/assets/image (32) (1).png>)\
+![](<../../.gitbook/assets/image (59) (1).png>)![](<../../.gitbook/assets/image (32) (1) (1).png>)\
 [Left: Phunks & Punks with shading Right: Salome with the Head of John the Baptist by Caravaggio, 1607.](https://twitter.com/piv\_piv/status/1519638417784647680?s=20\&t=TzictjlCH1fGYY7Ffrl1XQ)

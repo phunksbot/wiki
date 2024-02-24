@@ -18,7 +18,7 @@ layout:
 
 <figure><img src="../../.gitbook/assets/FqzvFs7aIAA8SkR.jpeg" alt=""><figcaption></figcaption></figure>
 
-![](<../../.gitbook/assets/image (4).png>)
+![](<../../.gitbook/assets/image (4) (2).png>)
 
 <figure><img src="../../.gitbook/assets/FSHAr3hWYAQHkxx (1).jpeg" alt=""><figcaption></figcaption></figure>
 
