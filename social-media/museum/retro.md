@@ -58,6 +58,8 @@ layout:
 
 </div>
 
+<figure><img src="../../.gitbook/assets/GL3IvnqXkAANQXU.jpeg" alt=""><figcaption></figcaption></figure>
+
 <div align="left">
 
 <figure><img src="../../.gitbook/assets/image (32).png" alt=""><figcaption></figcaption></figure>
@@ -154,6 +156,8 @@ layout:
 
 <figure><img src="../../.gitbook/assets/image (39).png" alt=""><figcaption></figcaption></figure>
 
+<figure><img src="../../.gitbook/assets/GL3iZK2WIAATzPG.jpeg" alt=""><figcaption></figcaption></figure>
+
 <div align="left">
 
 <figure><img src="../../.gitbook/assets/image (40).png" alt=""><figcaption></figcaption></figure>
@@ -197,3 +201,4 @@ layout:
 <figure><img src="../../.gitbook/assets/Untitled_design 3.PNG" alt=""><figcaption></figcaption></figure>
 
 <figure><img src="../../.gitbook/assets/IMG_4224.PNG" alt=""><figcaption></figcaption></figure>
+
