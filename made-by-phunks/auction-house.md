@@ -1,5 +1,6 @@
 ---
 description: 496 DEV PHUNKS, ONE EVERY 3 DAYS, UNTIL THEY ARE ALL GONE!
+icon: hammer-war
 cover: ../.gitbook/assets/F1As5TWXsBE9Ura.png
 coverY: -6.709916589434661
 layout:
@@ -18,9 +19,9 @@ layout:
     visible: true
 ---
 
-# 🟧 AUCTION HOUSE
+# AUCTION HOUSE
 
-[CryptoPhunks Auction House](https://twitter.com/PhunksAuction) was built by [Chopper](https://twitter.com/chopper\_\_dad) and [Kenobi](https://twitter.com/OG\_Kenobi\_Hello) with the purpose of facilitating perpetual auctions for CryptoPhunks held in the [Treasury Vault](https://etherscan.io/address/0x61f874551c69f0e40c9f55219107b408c989adec). All Ethereum collected from settled auctions will remain in the treasury under direction of the community.
+[CryptoPhunks Auction House](https://twitter.com/PhunksAuction) was built by [Chopper](https://twitter.com/chopper__dad) and [Kenobi](https://twitter.com/OG_Kenobi_Hello) with the purpose of facilitating perpetual auctions for CryptoPhunks held in the [Treasury Vault](https://etherscan.io/address/0x61f874551c69f0e40c9f55219107b408c989adec). All Ethereum collected from settled auctions will remain in the treasury under direction of the community.
 
 There are [496 CryptoPhunks](https://notlarvalabs.com/cryptophunks/phunkbox?address=0x61f874551c69f0E40c9f55219107B408C989aDEc) that belonged to original Phunk devs, now returned to Phunks community and one will be auctioned every 3 days until they are all sold-out. All proceeds from Auctions go to community [Treasury Vault](https://etherscan.io/address/0x61f874551c69f0e40c9f55219107b408c989adec) that is here to support and expand web3 movement Phunks stand for.
 
@@ -66,8 +67,4 @@ There are [496 CryptoPhunks](https://notlarvalabs.com/cryptophunks/phunkbox?addr
 
 ## <mark style="color:orange;">`AUCTION HOUSE PHUNKS`</mark>
 
-<div data-full-width="true">
-
-<figure><img src="../.gitbook/assets/phunktreasury.eth.jpg" alt=""><figcaption><p><a href="https://notlarvalabs.com/cryptophunks/phunkbox?address=0x61f874551c69f0E40c9f55219107B408C989aDEc"><strong>OCTOBER 04, 2023</strong></a></p></figcaption></figure>
-
-</div>
+<div data-full-width="true"><figure><img src="../.gitbook/assets/phunktreasury.eth.jpg" alt=""><figcaption><p><a href="https://notlarvalabs.com/cryptophunks/phunkbox?address=0x61f874551c69f0E40c9f55219107B408C989aDEc"><strong>OCTOBER 04, 2023</strong></a></p></figcaption></figure></div>

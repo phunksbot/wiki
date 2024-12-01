@@ -1,5 +1,6 @@
 ---
 description: PHUNKS HISTORY AND RELEVANT EVENTS IN CHRONOLOGICAL ORDER
+icon: olive-branch
 layout:
   title:
     visible: true
@@ -13,7 +14,7 @@ layout:
     visible: true
 ---
 
-# ⏹ HISTORY
+# HISTORY
 
 ![Chart explaining the genesis of CryptoPhunks made by @dovetailNFT and @huckleberrygump](../.gitbook/assets/timelinelightplusdark-03.png)
 
@@ -53,7 +54,7 @@ layout:
 * OpenSea Relisting #1
 * Changed name to "Not a Punk" and added Rarity borders to appease OpenSea\
   [Tweet](https://twitter.com/cryptophunks/status/1408082776213966850?s=21)
-* [Ryder Ripps](https://twitter.com/ryder\_ripps) Mints CryptoPunk #3100 on Foundation - Sold for 2.2 ETH\
+* [Ryder Ripps](https://twitter.com/ryder_ripps) Mints CryptoPunk #3100 on Foundation - Sold for 2.2 ETH\
   [Etherscan](https://etherscan.io/tx/0x860c4012197ed2952ec00087bde974e58d674849f9f574b852430ed6b90a5572)
 
 </details>
@@ -71,7 +72,7 @@ layout:
 
 <summary>June 31, 2021</summary>
 
-* [Ryder Ripps](https://twitter.com/ryder\_ripps) Receives first DMCA ever from Larva Labs.
+* [Ryder Ripps](https://twitter.com/ryder_ripps) Receives first DMCA ever from Larva Labs.
 
 </details>
 
@@ -98,7 +99,7 @@ layout:
 <summary>July 13, 2021</summary>
 
 * OpenSea Delisting #3
-* LarvaLabs [DMCA’s](https://twitter.com/CryptoPhunks/status/1415001685986922499?s=20\&t=yStTw92XA4d6Ay79jauP\_w) CryptoPhunks - First project to receive DMCA from LL
+* LarvaLabs [DMCA’s](https://twitter.com/CryptoPhunks/status/1415001685986922499?s=20\&t=yStTw92XA4d6Ay79jauP_w) CryptoPhunks - First project to receive DMCA from LL
 
 </details>
 
@@ -124,7 +125,7 @@ layout:
 <summary>July 20, 2021</summary>
 
 * Foundation Letter to LarvaLabs, Devs leave project. Unwilling to counter DMCA.\
-  [Foundation.app](https://foundation.app/@cryptophunks/\~/62017)
+  [Foundation.app](https://foundation.app/@cryptophunks/~/62017)
 * Removed "Not a Punk" naming
 * Added Phunk images to IPFS\
   [Discord](https://discord.com/channels/840362318033846333/853364785041899520/867075927984570388)
@@ -180,7 +181,7 @@ layout:
 <summary>December 09, 2021</summary>
 
 * Record Breaking Alien Phunk Sale for 97.0 ETH ($421,193)\
-  [Tweet](https://twitter.com/NotLarvaLabs/status/1468931193584246786?s=20\&t=DXnunJPLzRcUlrPllVT\_TQ)
+  [Tweet](https://twitter.com/NotLarvaLabs/status/1468931193584246786?s=20\&t=DXnunJPLzRcUlrPllVT_TQ)
 
 </details>
 
@@ -189,7 +190,7 @@ layout:
 <summary>March 13, 2022</summary>
 
 * LarvaLabs sells Punks and Meebits IP to [YugaLabs](https://twitter.com/yugalabs)\
-  [Tweet](https://twitter.com/larvalabs/status/1502421713153318918?s=20\&t=yStTw92XA4d6Ay79jauP\_w)
+  [Tweet](https://twitter.com/larvalabs/status/1502421713153318918?s=20\&t=yStTw92XA4d6Ay79jauP_w)
 
 </details>
 
@@ -234,7 +235,7 @@ layout:
 <summary>July 27, 2022</summary>
 
 * Phunks Auction House goes Live\
-  [Tweet](https://twitter.com/0x\_hodl/status/1552346604106985474?s=20\&t=9FJzoCTVPshV4XD6Z-O0Fg)
+  [Tweet](https://twitter.com/0x_hodl/status/1552346604106985474?s=20\&t=9FJzoCTVPshV4XD6Z-O0Fg)
 
 </details>
 
@@ -243,7 +244,7 @@ layout:
 <summary>August 15, 2022</summary>
 
 * YugaLabs officially releases Licence Terms for CryptoPunks\
-  [Tweet](https://twitter.com/cryptopunksnfts/status/1559284220442320897?s=20\&t=w\_e25GoThGud6Zcz04vdPQ)
+  [Tweet](https://twitter.com/cryptopunksnfts/status/1559284220442320897?s=20\&t=w_e25GoThGud6Zcz04vdPQ)
 
 </details>
 
@@ -261,6 +262,6 @@ layout:
 <summary>September 27, 2022 </summary>
 
 * CryptoPhunks Smart Contract gets blue Verified Checkmark [@etherscan](https://twitter.com/etherscan) \
-  [Tweet](https://twitter.com/iape\_/status/1574726012381839360?s=20\&t=X041d5lqfTPMlwTNW5tuJA)
+  [Tweet](https://twitter.com/iape_/status/1574726012381839360?s=20\&t=X041d5lqfTPMlwTNW5tuJA)
 
 </details>

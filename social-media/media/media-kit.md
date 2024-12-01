@@ -1,8 +1,9 @@
 ---
 description: if you feel Phunky and want to be Creative
+icon: rectangle-ad
 ---
 
-# 💠 MEDIA KIT
+# MEDIA KIT
 
 ***
 
@@ -11,11 +12,7 @@ description: if you feel Phunky and want to be Creative
 All 10'000 Phunks in one Collage. When viewed locally on your PC, this collage is very scalable. \
 Just Right Click and Save, then zoom in to the max.
 
-<div align="center" data-full-width="true">
-
-<img src="../../.gitbook/assets/phunks-all.png" alt="PHUNK COLLAGE">
-
-</div>
+<div align="center" data-full-width="true"><img src="../../.gitbook/assets/phunks-all.png" alt="PHUNK COLLAGE"></div>
 
 ***
 
@@ -27,7 +24,7 @@ Just Right Click and Save, then zoom in to the max.
 
 <summary>DOWNLOAD 04b_30 FONT</summary>
 
-[https://dl.dafont.com/dl/?f=04b\_30](https://dl.dafont.com/dl/?f=04b\_30)
+[https://dl.dafont.com/dl/?f=04b\_30](https://dl.dafont.com/dl/?f=04b_30)
 
 </details>
 
@@ -71,7 +68,7 @@ You can also change background colour by choosing one below, download will only 
 Here is tutorial how to download all 10'000 Phunks **each as a separate jpeg** in one instance, each Phunks is saved with Phunk #ID in 24x24 and in 192x192 (8x) format.
 
 {% embed url="https://old.reddit.com/r/CryptoPunksDev/comments/s4hyny/q_how_can_i_generate_10_000_leftlooking_phunks_in" %}
-[OG POST](https://old.reddit.com/r/CryptoPunksDev/comments/s4hyny/q\_how\_can\_i\_generate\_10\_000\_leftlooking\_phunks\_in/) by [@geraldbauer](https://twitter.com/geraldbauer)
+[OG POST](https://old.reddit.com/r/CryptoPunksDev/comments/s4hyny/q_how_can_i_generate_10_000_leftlooking_phunks_in/) by [@geraldbauer](https://twitter.com/geraldbauer)
 {% endembed %}
 
 Change the loop in the [phunks script](https://github.com/cryptopunksnotdead/cryptopunks/blob/master/phunks/phunks.rb) from:
@@ -94,7 +91,7 @@ end
 
 (Re)run the script and voila - you will get 20 000 phunk images in two series in the 24x24 and 192x192 (with 8x zoom) format e.g. `phunk-0.png`, `phunk-0@8x.png`, `phunk-1.png`, `phunk-1@8x.png`, and so on.
 
-[Questions and comments are welcome.](https://old.reddit.com/r/CryptoPunksDev/comments/s4hyny/q\_how\_can\_i\_generate\_10\_000\_leftlooking\_phunks\_in/)
+[Questions and comments are welcome.](https://old.reddit.com/r/CryptoPunksDev/comments/s4hyny/q_how_can_i_generate_10_000_leftlooking_phunks_in/)
 
 Ruby script [phunk.rb](https://github.com/cryptopunksnotdead/cryptopunks/blob/master/phunks/phunks.rb)
 

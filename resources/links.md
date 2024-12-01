@@ -1,8 +1,9 @@
 ---
 description: AND DATA RESOURCES
+icon: link-horizontal
 ---
 
-# ↗ LINKS
+# LINKS
 
 ## <mark style="color:orange;">`WEBSITE`</mark>
 
@@ -208,7 +209,7 @@ description: AND DATA RESOURCES
 
 <summary>DUNE - NFT Global Analytics</summary>
 
-[https://dune.xyz/rantum/NFT-Collection-Dashboard?contract\_address=xf07468ead8cf26c752c676e43c814fee9c8cf402](https://dune.xyz/rantum/NFT-Collection-Dashboard?contract\_address=xf07468ead8cf26c752c676e43c814fee9c8cf402)
+[https://dune.xyz/rantum/NFT-Collection-Dashboard?contract\_address=xf07468ead8cf26c752c676e43c814fee9c8cf402](https://dune.xyz/rantum/NFT-Collection-Dashboard?contract_address=xf07468ead8cf26c752c676e43c814fee9c8cf402)
 
 </details>
 
@@ -216,7 +217,7 @@ description: AND DATA RESOURCES
 
 <summary>DUNE - NFTX Analytics</summary>
 
-[https://dune.xyz/nftx/NFTX-Dune-Dashboard-Single-Vault-View?Vault\_Address=0xb39185e33e8c28e0bb3dbbce24da5dea6379ae91](https://dune.xyz/nftx/NFTX-Dune-Dashboard-Single-Vault-View?Vault\_Address=0xb39185e33e8c28e0bb3dbbce24da5dea6379ae91)
+[https://dune.xyz/nftx/NFTX-Dune-Dashboard-Single-Vault-View?Vault\_Address=0xb39185e33e8c28e0bb3dbbce24da5dea6379ae91](https://dune.xyz/nftx/NFTX-Dune-Dashboard-Single-Vault-View?Vault_Address=0xb39185e33e8c28e0bb3dbbce24da5dea6379ae91)
 
 </details>
 
@@ -248,7 +249,7 @@ description: AND DATA RESOURCES
 
 <summary>Market metrics and Volume Data</summary>
 
-[https://mintable.app/store/CryptoPhunksV2-PHUNK/0xf07468ead8cf26c752c676e43c814fee9c8cf402?other=buy\_now\&sort=sortByLowest](https://mintable.app/store/CryptoPhunksV2-PHUNK/0xf07468ead8cf26c752c676e43c814fee9c8cf402?other=buy\_now\&sort=sortByLowest)
+[https://mintable.app/store/CryptoPhunksV2-PHUNK/0xf07468ead8cf26c752c676e43c814fee9c8cf402?other=buy\_now\&sort=sortByLowest](https://mintable.app/store/CryptoPhunksV2-PHUNK/0xf07468ead8cf26c752c676e43c814fee9c8cf402?other=buy_now\&sort=sortByLowest)
 
 </details>
 

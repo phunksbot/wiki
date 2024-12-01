@@ -1,5 +1,6 @@
 ---
 description: how to use NotLarvaLabs Marketplace
+icon: newspaper
 cover: ../../.gitbook/assets/Bildschirmfoto 2023-12-14 um 16.59.11.png
 coverY: 10
 layout:
@@ -18,7 +19,7 @@ layout:
     visible: true
 ---
 
-# ➖ TUTORIALS
+# TUTORIALS
 
 ***
 

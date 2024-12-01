@@ -1,5 +1,6 @@
 ---
 description: written on Phunks in Chronological order
+icon: line-height
 cover: ../../.gitbook/assets/Bildschirmfoto 2023-08-02 um 23.23.16.png
 coverY: 0
 layout:
@@ -18,7 +19,7 @@ layout:
     visible: true
 ---
 
-# 📚 ARTICLES
+# ARTICLES
 
 
 
@@ -298,7 +299,7 @@ layout:
 
 <summary><mark style="background-color:orange;"><strong>February 10, 2022</strong></mark> <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4029323"><strong>Are CryptoPunks Copyrightable?</strong></a></summary>
 
-[**https://papers.ssrn.com/sol3/papers.cfm?abstract\_id=4029323**](https://papers.ssrn.com/sol3/papers.cfm?abstract\_id=4029323)
+[**https://papers.ssrn.com/sol3/papers.cfm?abstract\_id=4029323**](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4029323)
 
 </details>
 
@@ -706,7 +707,7 @@ layout:
 
 <summary><mark style="background-color:orange;">May 31, 2023</mark> <a href="https://www.theblock.co/post/232666/crypto-folks-send-1-1-million-to-notlarvalabs-founder-for-nothing-in-return?utm_source=twitter&#x26;utm_medium=social">Crypto folks send $1.1 million to NotLarvaLabs founder</a></summary>
 
-[https://www.theblock.co/post/232666/crypto-folks-send-1-1-million-to-notlarvalabs-founder-for-nothing-in-return?utm\_source=twitter\&utm\_medium=social](https://www.theblock.co/post/232666/crypto-folks-send-1-1-million-to-notlarvalabs-founder-for-nothing-in-return?utm\_source=twitter\&utm\_medium=social)
+[https://www.theblock.co/post/232666/crypto-folks-send-1-1-million-to-notlarvalabs-founder-for-nothing-in-return?utm\_source=twitter\&utm\_medium=social](https://www.theblock.co/post/232666/crypto-folks-send-1-1-million-to-notlarvalabs-founder-for-nothing-in-return?utm_source=twitter\&utm_medium=social)
 
 </details>
 

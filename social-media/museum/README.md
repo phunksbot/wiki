@@ -1,5 +1,6 @@
 ---
 description: PHUNKS STORY IN ARTISTIC EXPRESSION
+icon: squid
 layout:
   title:
     visible: true
@@ -13,5 +14,5 @@ layout:
     visible: true
 ---
 
-# 🪅 MUSEUM
+# MUSEUM
 

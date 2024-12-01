@@ -1,5 +1,6 @@
 ---
 description: Twitter threads on Phunks in Chronological order (newest on top).
+icon: flatbread
 cover: ../../.gitbook/assets/Bildschirmfoto 2023-08-02 um 23.19.46.png
 coverY: 0
 layout:
@@ -18,7 +19,7 @@ layout:
     visible: true
 ---
 
-# ✖ THREADS
+# THREADS
 
 ```
 Takes a minute to load. Just click the tweet pic to see the whole thread.

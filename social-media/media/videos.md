@@ -1,5 +1,6 @@
 ---
 description: on Phunks in no particular order
+icon: tv-retro
 layout:
   title:
     visible: true
@@ -13,7 +14,7 @@ layout:
     visible: true
 ---
 
-# 📺 VIDEOS
+# VIDEOS
 
 {% embed url="https://video.twimg.com/ext_tw_video/1628515939632271362/pu/vid/1280x720/xOecge27AQgwzxif.mp4?tag=12" %}
 by [@dresmars](https://twitter.com/dresmars/status/1611325328181559302?s=20\&t=SUfeYIWTjKouHw0xueNL3w)

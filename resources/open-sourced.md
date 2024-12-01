@@ -1,5 +1,6 @@
 ---
 description: PHUNKS CONTRIBUTION TO GLOBAL NFT COMMUNITY ON GITHUB
+icon: osi
 layout:
   title:
     visible: true
@@ -13,7 +14,7 @@ layout:
     visible: true
 ---
 
-# ⏺ OPEN SOURCED
+# OPEN SOURCED
 
 <details>
 
@@ -23,9 +24,9 @@ Source Code: [https://github.com/Crypto-Phunks/CryptoPhunksMarket](https://githu
 
 Programming Language: <mark style="color:orange;">Solidity 76.4%</mark>, <mark style="color:yellow;">JavaScript 23.6%</mark>
 
-Coder [@chopper\_\_dad](https://twitter.com/chopper\_\_dad) [@OG\_Kenobi\_Hello](https://twitter.com/OG\_Kenobi\_Hello)
+Coder [@chopper\_\_dad](https://twitter.com/chopper__dad) [@OG\_Kenobi\_Hello](https://twitter.com/OG_Kenobi_Hello)
 
-Contributors [@Pauly0x](https://twitter.com/Pauly0x) [@ryder\_ripps](https://twitter.com/ryder\_ripps)
+Contributors [@Pauly0x](https://twitter.com/Pauly0x) [@ryder\_ripps](https://twitter.com/ryder_ripps)
 
 Twitter [@NotLarvaLabs](https://twitter.com/NotLarvaLabs)
 
@@ -43,7 +44,7 @@ Source Code: [https://github.com/Crypto-Phunks/auction-house](https://github.com
 
 Programming Language: <mark style="color:purple;">TypeScript 53.8%,</mark> <mark style="color:red;">HTML 17.4%</mark><mark style="color:purple;">,</mark> <mark style="color:orange;">SCSS 16.3%</mark><mark style="color:purple;">,</mark> <mark style="color:red;">Solidity 10.4%</mark><mark style="color:purple;">,</mark> <mark style="color:yellow;">JavaScript 2.1%</mark>
 
-Coder [@chopper\_\_dad](https://twitter.com/chopper\_\_dad) [@OG\_Kenobi\_Hello](https://twitter.com/OG\_Kenobi\_Hello)
+Coder [@chopper\_\_dad](https://twitter.com/chopper__dad) [@OG\_Kenobi\_Hello](https://twitter.com/OG_Kenobi_Hello)
 
 Twitter [@PhunksAuction](https://twitter.com/PhunksAuction)
 
@@ -73,7 +74,7 @@ Source Code: [https://github.com/theblockchaineth/PhunkyData](https://github.com
 
 Programming Language: <mark style="color:yellow;">JavaScript 96.6%,</mark> <mark style="color:green;">Shell 3.4%</mark>
 
-Coder [@tbc\_eth](https://twitter.com/tbc\_eth)
+Coder [@tbc\_eth](https://twitter.com/tbc_eth)
 
 [LIVE DEMO](https://data.phunky.dev/api/v2-phunks-nfts)
 
@@ -87,7 +88,7 @@ Source Code: [https://github.com/Crypto-Phunks/nft-sales-twitter-bot](https://gi
 
 Programming Language: <mark style="color:purple;">TypeScript 92.7%,</mark> <mark style="color:yellow;">JavaScript 2.3%,</mark> <mark style="color:green;">Shell 0.5%</mark>
 
-Coder [@chopper\_\_dad](https://twitter.com/chopper\_\_dad) [@tat2bu](https://twitter.com/tat2bu) [@iape\_](https://twitter.com/iape\_)
+Coder [@chopper\_\_dad](https://twitter.com/chopper__dad) [@tat2bu](https://twitter.com/tat2bu) [@iape\_](https://twitter.com/iape_)
 
 Twitter [@PhunkBot](https://twitter.com/PhunkBot)
 
@@ -119,7 +120,7 @@ Source Code: [https://github.com/theblockchaineth/phunks-bootstrap-css](https://
 
 Programming Language: [CSS100.0%](https://github.com/theblockchaineth/phunks-bootstrap-css/search?l=css)
 
-Coder [@theblockchain.eth](https://twitter.com/tbc\_eth)
+Coder [@theblockchain.eth](https://twitter.com/tbc_eth)
 
 [LIVE DEMO](https://phunkyspotlight.xyz/)
 
@@ -133,7 +134,7 @@ Source code: [https://github.com/shep-eth/phunk-wallpaper](https://github.com/sh
 
 Programming Language: [TypeScript87.3%](https://github.com/shep-eth/phunk-wallpaper/search?l=typescript) [JavaScript10.9%](https://github.com/shep-eth/phunk-wallpaper/search?l=javascript) [CSS1.8%](https://github.com/shep-eth/phunk-wallpaper/search?l=css)
 
-Coder [@shep\_eth](https://twitter.com/shep\_eth)
+Coder [@shep\_eth](https://twitter.com/shep_eth)
 
 [LIVE DEMO](https://phunk-wallpaper.vercel.app/8770)
 
@@ -159,7 +160,7 @@ Twitter [@CryptoPhunksV1](https://twitter.com/CryptoPhunksV1)
 
 <summary><em><mark style="color:green;background-color:green;">active</mark></em> CreatePhunk</summary>
 
-Source Code: [https://github.com/albanow/create\_phunk](https://github.com/albanow/create\_phunk)
+Source Code: [https://github.com/albanow/create\_phunk](https://github.com/albanow/create_phunk)
 
 Programming Language: <mark style="color:blue;">Python,</mark> <mark style="color:green;">Shell</mark>
 
@@ -177,7 +178,7 @@ Source Code: [https://gist.github.com/phunksbot/139ba9efc1d2c26e80b2109005d450e4
 
 Programming Language: <mark style="color:yellow;">JavaScript</mark>
 
-Coder [@iape\_](https://twitter.com/iape\_) forked from [@mclint\_](https://twitter.com/mclint\_)
+Coder [@iape\_](https://twitter.com/iape_) forked from [@mclint\_](https://twitter.com/mclint_)
 
 [LIVE DEMO](https://phunks.gitbook.io/knowledge-base/social-media/media/media-kit#cryptophunk-viewer)
 
@@ -189,9 +190,9 @@ Coder [@iape\_](https://twitter.com/iape\_) forked from [@mclint\_](https://twit
 
 Source Code: [https://github.com/phunksbot/wiki](https://github.com/phunksbot/wiki)
 
-Coder [@iape\_](https://twitter.com/iape\_)
+Coder [@iape\_](https://twitter.com/iape_)
 
-Contributors [@phunk2243](https://twitter.com/phunk2243) [@tbc\_eth](https://twitter.com/tbc\_eth)&#x20;
+Contributors [@phunk2243](https://twitter.com/phunk2243) [@tbc\_eth](https://twitter.com/tbc_eth)&#x20;
 
 </details>
 
@@ -203,7 +204,7 @@ Source Code: [https://github.com/chopperdaddy/ethereumphunks.com](https://github
 
 Programming Language: [TypeScript52.5%](https://github.com/chopperdaddy/ethereumphunks.com/search?l=typescript) [SCSS38.0%](https://github.com/chopperdaddy/ethereumphunks.com/search?l=scss) [HTML9.5%](https://github.com/chopperdaddy/ethereumphunks.com/search?l=html)
 
-Coder [@chopper\_\_dad](https://twitter.com/chopper\_\_dad)
+Coder [@chopper\_\_dad](https://twitter.com/chopper__dad)
 
 [DEMO](https://ethereumphunks.com/)
 
@@ -233,7 +234,7 @@ Source Code: [https://github.com/KenTheWhaleGoddess/V3PhunksThing](https://githu
 
 Programming Language: [Solidity73.4%](https://github.com/KenTheWhaleGoddess/V3PhunksThing/search?l=solidity) [JavaScript26.6%](https://github.com/KenTheWhaleGoddess/V3PhunksThing/search?l=javascript)
 
-Coder [@whalegoddess](https://twitter.com/whalegoddess) [@tbc\_eth](https://twitter.com/tbc\_eth)
+Coder [@whalegoddess](https://twitter.com/whalegoddess) [@tbc\_eth](https://twitter.com/tbc_eth)
 
 </details>
 
@@ -323,7 +324,7 @@ Source Code: [https://github.com/Anish-Agnihotri/flipper](https://github.com/Ani
 
 Programming Language: [TypeScript100.0%](https://github.com/Anish-Agnihotri/flipper/search?l=typescript)
 
-Coder [@\_anishagnihotri](https://twitter.com/\_anishagnihotri)
+Coder [@\_anishagnihotri](https://twitter.com/_anishagnihotri)
 
 </details>
 
@@ -397,7 +398,7 @@ Source Code: [https://github.com/albanow/phunks-nll-twitter-bot](https://github.
 
 Programming Language: <mark style="color:blue;">Python</mark>
 
-Coder [@albanow10](https://twitter.com/albanow10) [@iape\_](https://twitter.com/iape\_)
+Coder [@albanow10](https://twitter.com/albanow10) [@iape\_](https://twitter.com/iape_)
 
 Twitter [@PhunkBot](https://twitter.com/PhunkBot)
 
@@ -413,7 +414,7 @@ Source Code: [https://github.com/albanow/etherscan-sales-bot](https://github.com
 
 Programming Language: <mark style="color:blue;">Python</mark>
 
-Coder [@albanow10](https://twitter.com/albanow10) [@iape\_](https://twitter.com/iape\_)
+Coder [@albanow10](https://twitter.com/albanow10) [@iape\_](https://twitter.com/iape_)
 
 Twitter [@PhunkBot](https://twitter.com/PhunkBot)
 
@@ -445,7 +446,7 @@ Programming Language: <mark style="color:purple;">TypeScript,</mark> <mark style
 
 Coder [@IshaanRawat](https://twitter.com/IshaanRawat)
 
-Twitter [@Phunk\_DAO](https://twitter.com/Phunk\_DAO)
+Twitter [@Phunk\_DAO](https://twitter.com/Phunk_DAO)
 
 [LIVE DEMO](https://phunkdao.com/)
 
@@ -485,7 +486,7 @@ Coder [@TreeGuyJON](https://twitter.com/TreeGuyJON)
 
 <summary><em><mark style="color:red;background-color:orange;">inactive</mark></em> PhunkyTweeter</summary>
 
-Source Code: [https://github.com/StarKeyJON/phunky\_tweeter](https://github.com/StarKeyJON/phunky\_tweeter)
+Source Code: [https://github.com/StarKeyJON/phunky\_tweeter](https://github.com/StarKeyJON/phunky_tweeter)
 
 Programming Language: <mark style="color:blue;">Python</mark>
 

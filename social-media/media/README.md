@@ -1,5 +1,6 @@
 ---
 description: PHUNKS STORY IN MEDIA EXPRESSION
+icon: photo-film-music
 layout:
   title:
     visible: true
@@ -13,5 +14,5 @@ layout:
     visible: true
 ---
 
-# 🔊 MEDIA
+# MEDIA
 

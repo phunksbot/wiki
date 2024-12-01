@@ -1,5 +1,6 @@
 ---
 description: made by Phunk Pham, meant to be contemplated in silence
+icon: masks-theater
 layout:
   title:
     visible: true
@@ -13,9 +14,9 @@ layout:
     visible: true
 ---
 
-# 🎭 CURATED
+# CURATED
 
-Artists: [wolfgangeth](https://twitter.com/wolfgangeth) [PhunkyVasilios](https://twitter.com/PhunkyVasilios) [The\_MegaVega](https://twitter.com/The\_MegaVega) [VeryWilliam3](https://twitter.com/VeryWilliam3) [dovetailNFT](https://twitter.com/dovetailNFT) [Pauly0x](https://twitter.com/Pauly0x) [NfTenchi](https://twitter.com/NfTenchi) [Vert](https://twitter.com/Vvverttt)
+Artists: [wolfgangeth](https://twitter.com/wolfgangeth) [PhunkyVasilios](https://twitter.com/PhunkyVasilios) [The\_MegaVega](https://twitter.com/The_MegaVega) [VeryWilliam3](https://twitter.com/VeryWilliam3) [dovetailNFT](https://twitter.com/dovetailNFT) [Pauly0x](https://twitter.com/Pauly0x) [NfTenchi](https://twitter.com/NfTenchi) [Vert](https://twitter.com/Vvverttt)
 
 <figure><img src="../../.gitbook/assets/image (87).png" alt=""><figcaption></figcaption></figure>
 
@@ -37,7 +38,7 @@ Artists: [wolfgangeth](https://twitter.com/wolfgangeth) [PhunkyVasilios](https:/
 
 ![](../../.gitbook/assets/FM36kqWWYBEpeuq.jpeg)
 
-![](<../../.gitbook/assets/FGm5PkSXwAww\_bS (1).png>)
+![](<../../.gitbook/assets/FGm5PkSXwAww_bS (1).png>)
 
 ![](../../.gitbook/assets/FFvNG-yWYAgUaNK.png)
 
@@ -51,7 +52,7 @@ Artists: [wolfgangeth](https://twitter.com/wolfgangeth) [PhunkyVasilios](https:/
 
 ![](../../.gitbook/assets/FFZXCCRWYAceLhU.jpeg)
 
-![](../../.gitbook/assets/FEwEjoTX0AU\_TVV.jpeg)
+![](../../.gitbook/assets/FEwEjoTX0AU_TVV.jpeg)
 
 <figure><img src="../../.gitbook/assets/F3mUdg9XQAAKuKj.webp" alt=""><figcaption></figcaption></figure>
 
@@ -87,7 +88,7 @@ Artists: [wolfgangeth](https://twitter.com/wolfgangeth) [PhunkyVasilios](https:/
 
 ![](../../.gitbook/assets/FGc8qRdXwAI0OWu.jpeg)
 
-![](../../.gitbook/assets/FGdD7pSXsAMIUf\_.jpeg)
+![](../../.gitbook/assets/FGdD7pSXsAMIUf_.jpeg)
 
 ![](../../.gitbook/assets/FGcjgCGXMAUAp2L.jpeg)
 
@@ -95,12 +96,12 @@ Artists: [wolfgangeth](https://twitter.com/wolfgangeth) [PhunkyVasilios](https:/
 
 ![](../../.gitbook/assets/FGgCTJMX0AA9SVF.jpeg)
 
-![](../../.gitbook/assets/FPrHO\_sWYAEELcm.jpeg)
+![](../../.gitbook/assets/FPrHO_sWYAEELcm.jpeg)
 
 ![](../../.gitbook/assets/FPrrFYPXwBIF3tq.jpeg)
 
-![](../../.gitbook/assets/IMG\_5186.png)
+![](../../.gitbook/assets/IMG_5186.png)
 
-![](../../.gitbook/assets/IMG\_5199.png)
+![](../../.gitbook/assets/IMG_5199.png)
 
 ![](../../.gitbook/assets/FPxOws-XsAYVich.jpeg)

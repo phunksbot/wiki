@@ -1,5 +1,6 @@
 ---
 description: BY @TheSkullCat
+icon: game-console-handheld
 layout:
   title:
     visible: true
@@ -13,7 +14,7 @@ layout:
     visible: true
 ---
 
-# 🎮 PHUNKY GAMES
+# PHUNKY GAMES
 
 ![PHUNK INVADERS](<../../.gitbook/assets/image (19) (1).png>)
 

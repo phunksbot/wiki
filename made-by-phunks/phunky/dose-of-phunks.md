@@ -2,6 +2,7 @@
 description: >-
   A weekly, Phunky, and concise  newsletter aiming to spread Phunkism on a
   consistent basis by @NfTenchi
+icon: envelope-open-text
 cover: ../../.gitbook/assets/98238BF2-7279-4C75-B947-CAE83329953F.png
 coverY: 40.71666666666667
 layout:
@@ -20,7 +21,7 @@ layout:
     visible: true
 ---
 
-# 📰 DOSE OF PHUNKS
+# DOSE OF PHUNKS
 
 ***
 

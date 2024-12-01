@@ -1,5 +1,6 @@
 ---
 description: IN FEW EASY STEPS YOU WILL BE ABLE TO DEPLOY VERY POWERFUL BOT
+icon: newspaper
 cover: ../../.gitbook/assets/Bildschirmfoto 2023-11-28 um 21.58.22 (1).png
 coverY: 0
 layout:
@@ -18,7 +19,7 @@ layout:
     visible: true
 ---
 
-# ➖ TUTORIALS
+# TUTORIALS
 
 ## <mark style="color:orange;">`Getting started`</mark>
 
@@ -47,7 +48,7 @@ layout:
 #### TWITTER
 
 * To get your twitter API keys, follow this [tutorial](https://developer.talkwalker.com/guides/rehydrating-tweet/getting-started).
-* Now you need Access keys with **read and write** permission, follow this [tutorial](https://docs.tibco.com/pub/activematrix\_businessworks\_plugin\_for\_twitter/6.1.0/doc/html/GUID-3FAC9352-94BE-4D21-9DAC-7AE79E24BECA.html).
+* Now you need Access keys with **read and write** permission, follow this [tutorial](https://docs.tibco.com/pub/activematrix_businessworks_plugin_for_twitter/6.1.0/doc/html/GUID-3FAC9352-94BE-4D21-9DAC-7AE79E24BECA.html).
 * Save both, your API and Access keys for [deployment](tutorials.md#deployment).
 * (optional) to obtain Access keys of another User, follow this [tutorial](https://developer.twitter.com/en/docs/tutorials/authenticating-with-twitter-api-for-enterprise/oauth1-0a-and-user-access-tokens).
 

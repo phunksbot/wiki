@@ -1,5 +1,6 @@
 ---
 description: Newsletter showcasing the work being done by the CryptoPhunks Community
+icon: face-saluting
 layout:
   title:
     visible: true
@@ -13,7 +14,7 @@ layout:
     visible: true
 ---
 
-# ♨ SUP PHUNKS!
+# SUP PHUNKS!
 
 <details>
 

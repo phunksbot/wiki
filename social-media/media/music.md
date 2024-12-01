@@ -1,5 +1,6 @@
 ---
 description: on Phunks
+icon: headphones-simple
 layout:
   title:
     visible: true
@@ -13,7 +14,7 @@ layout:
     visible: true
 ---
 
-# 🎧 MUSIC
+# MUSIC
 
 ## <mark style="background-color:purple;">Produced by</mark> [<mark style="background-color:purple;">@Billyracxx</mark>](https://twitter.com/Billyracxx)
 
@@ -59,7 +60,7 @@ PHUTOPIA
 MOTIVE&#x20;
 {% endembed %}
 
-## <mark style="background-color:purple;">Produced by</mark> [<mark style="background-color:purple;">@DowJonez\_eth</mark>](https://twitter.com/DowJonez\_eth)
+## <mark style="background-color:purple;">Produced by</mark> [<mark style="background-color:purple;">@DowJonez\_eth</mark>](https://twitter.com/DowJonez_eth)
 
 {% embed url="https://audius.co/BRicknDAO/phunksvibe" %}
 PHUNKS VIBE

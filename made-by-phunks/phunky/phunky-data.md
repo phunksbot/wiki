@@ -1,5 +1,6 @@
 ---
 description: DECENTRALIZED CODE, DATA, API AND CONTENT MANAGMENT
+icon: webhook
 layout:
   title:
     visible: true
@@ -13,10 +14,10 @@ layout:
     visible: true
 ---
 
-# 📊 PHUNKY DATA
+# PHUNKY DATA
 
 Need Phunk data for a site but either don’t want to or don’t know how to write an API layer? \
-I got you covered..... by [@tbc\_eth](https://twitter.com/tbc\_eth)
+I got you covered..... by [@tbc\_eth](https://twitter.com/tbc_eth)
 
 {% code fullWidth="true" %}
 ```java
@@ -86,5 +87,5 @@ Run by whoever, wherever, whenever - Servers have to be centralized but their de
 ## <mark style="color:orange;">`RETROSPECTIVE`</mark>
 
 {% embed url="https://twitter.com/tbc_eth/status/1617753342511575040?s=20&t=1amiepW5oPGUP3CgpGWZXw" %}
-[CLICK FOR MORE](https://twitter.com/tbc\_eth/status/1617753342511575040?s=20\&t=1amiepW5oPGUP3CgpGWZXw)
+[CLICK FOR MORE](https://twitter.com/tbc_eth/status/1617753342511575040?s=20\&t=1amiepW5oPGUP3CgpGWZXw)
 {% endembed %}

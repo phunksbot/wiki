@@ -1,5 +1,6 @@
 ---
 description: COMMUNITY GOVERNANCE POWERED by PHUNKBOT
+icon: hands-holding-diamond
 cover: ../../.gitbook/assets/Bildschirmfoto 2023-11-29 um 13.13.44.png
 coverY: 0
 layout:
@@ -18,7 +19,7 @@ layout:
     visible: true
 ---
 
-# ➖ GOVERNANCE
+# GOVERNANCE
 
 #### Welcome to first actual, autonomous, self hosted DAO Service for Community Governance.
 
