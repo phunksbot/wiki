@@ -59,7 +59,7 @@ import { DAOService } from './extensions/dao/dao.extension.service';
 
 <summary>ELEGANCE ACHIEVED</summary>
 
-Hardly any Community in Crypto is immune to [Sybil Attack](https://en.wikipedia.org/wiki/Sybil\_attack) especially where individuals can exploit Governance system to their monetary advantage.
+Hardly any Community in Crypto is immune to [Sybil Attack](https://en.wikipedia.org/wiki/Sybil_attack) especially where individuals can exploit Governance system to their monetary advantage.
 
 We at Phunks Community, while exploring best ways to Achieve consensus for Proposals came to conclusion that [current system](governance.md#challenge) if flawed and undermines basic Principles of Web3.&#x20;
 
@@ -118,7 +118,7 @@ if (poll.discord_role_id && !member.roles.cache.has(poll.discord_role_id)) {
 
 This commands is reserved for Discord Admins only and is explained here:
 
-\-> [#createpoll](governance.md#createpoll "mention")
+-> [#createpoll](governance.md#createpoll "mention")
 
 </details>
 
@@ -130,7 +130,7 @@ By default users have two options to Vote 👍 (Yes) and 👎 (No).
 
 Note: your Vote is anonymous and is not visible to other users, however Admins are allowed to privately [audit](governance.md#pollresults) all the Voters/Votes for [security](governance.md#sybil-attack) purposes and if necessary to provide proof in case of a dispute.
 
-Note**:** once Voted, Vote can not be redacted! You can however change your Vote from yes to no or other way around during whole voting period without limitations.
+Not&#x65;**:** once Voted, Vote can not be redacted! You can however change your Vote from yes to no or other way around during whole voting period without limitations.
 
 #### If Vote was successfully recorded, user gets confirmation message from PhunkBot
 

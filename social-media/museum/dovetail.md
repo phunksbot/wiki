@@ -69,7 +69,7 @@ in no particular order, made by [@dovetailNFT](https://twitter.com/dovetailNFT)
 ![](<../../.gitbook/assets/image (54) (1).png>)![](<../../.gitbook/assets/image (68).png>)![](<../../.gitbook/assets/image (66).png>)![](<../../.gitbook/assets/image (49) (1) (1).png>)[**dark mode: on**](https://twitter.com/dovetailNFT/status/1513615245650153474?s=20\&t=TzictjlCH1fGYY7Ffrl1XQ)
 
 ![](<../../.gitbook/assets/image (35) (1).png>)![](<../../.gitbook/assets/image (60).png>)\
-phunk mondrian (dovetail, 2022) inspired by [@PhunkyVasilios](https://twitter.com/PhunkyVasilios) and [@piv\_piv](https://twitter.com/piv\_piv)
+phunk mondrian (dovetail, 2022) inspired by [@PhunkyVasilios](https://twitter.com/PhunkyVasilios) and [@piv\_piv](https://twitter.com/piv_piv)
 
 ![emotionally unavailable (dovetail, 2022) inspired by marcel duchamp's series of "readymades"](<../../.gitbook/assets/image (71) (1).png>)
 
@@ -92,7 +92,7 @@ phunk mondrian (dovetail, 2022) inspired by [@PhunkyVasilios](https://twitter.co
 ![5 years ago, @larvalabs Discord, @pents90 and "ringo".
 the very first "whats the utility?", "roadmap?" guy in NFTs.](<../../.gitbook/assets/image (55) (1).png>)
 
-## **GIFS (**warning sensitive content)&#x20;
+## **GIFS (**&#x77;arning sensitive content)&#x20;
 
 ![](../../.gitbook/assets/3dphunk.gif)![](../../.gitbook/assets/3dphunk2.gif)![](../../.gitbook/assets/alienphunk.gif)\
 ![](../../.gitbook/assets/ballerphunk.gif)![](../../.gitbook/assets/beaniespin.gif)![](../../.gitbook/assets/confuarmy.gif)\

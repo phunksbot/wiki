@@ -1,5 +1,6 @@
 ---
-cover: ../../../.gitbook/assets/1_6GA6r_N8zHBHFygSBUWxMQ@2x (1).jpeg
+icon: brush
+cover: ../../.gitbook/assets/1_6GA6r_N8zHBHFygSBUWxMQ@2x (1).jpeg
 coverY: 266.7337723424271
 layout:
   cover:
@@ -17,11 +18,11 @@ layout:
     visible: true
 ---
 
-# ➖ ART
+# ART
 
-To better understand CryptoPhunks, start by reading about [Conceptual Art](https://en.wikipedia.org/wiki/Conceptual\_art),[ Marcel Duchamp](https://en.wikipedia.org/wiki/Marcel\_Duchamp), [Dadaism](https://en.wikipedia.org/wiki/Dada), [Andy Warhol](https://en.wikipedia.org/wiki/Andy\_Warhol) and [Memetics](https://en.wikipedia.org/wiki/Memetics).&#x20;
+To better understand CryptoPhunks, start by reading about [Conceptual Art](https://en.wikipedia.org/wiki/Conceptual_art),[ Marcel Duchamp](https://en.wikipedia.org/wiki/Marcel_Duchamp), [Dadaism](https://en.wikipedia.org/wiki/Dada), [Andy Warhol](https://en.wikipedia.org/wiki/Andy_Warhol) and [Memetics](https://en.wikipedia.org/wiki/Memetics).&#x20;
 
-To many, the essence of Phunks comes from more than just the visual art itself. The simple but transformative flip on the y axis created a movement of digital art that blurs the lines between crypto art, conceptual art, [performance art](https://en.wikipedia.org/wiki/Performance\_art) and traditional art. A complete recontextualization.
+To many, the essence of Phunks comes from more than just the visual art itself. The simple but transformative flip on the y axis created a movement of digital art that blurs the lines between crypto art, conceptual art, [performance art](https://en.wikipedia.org/wiki/Performance_art) and traditional art. A complete recontextualization.
 
 Here are few examples to better understand Concept behind Phunks:
 
@@ -40,12 +41,12 @@ Some good examples of a simple transformation that completely changes the meanin
 > Phunks are conceptual art that actually have context, narrative, critique on the space. \
 > There is more artistic merit in phunks than just about any pfp project. [@CsenOner](https://twitter.com/CsenOner/status/1512709948467257345?s=20\&t=W79OmfK5hl4BrLO6Shkcqg)
 
-After being banned from NFT trading ecosystem, phunks community took a stand against censorship and made their own marketplace called [**not**LarvaLabs](../../../made-by-phunks/notlarvalabs/) with 0% trading fees. \
+After being banned from NFT trading ecosystem, phunks community took a stand against censorship and made their own marketplace called [**not**LarvaLabs](../../made-by-phunks/notlarvalabs/) with 0% trading fees. \
 That was a beautiful performance act that sent a signal all the way to the top that you can't stop people that are passionate about something to build in this new paradigm called Crypto, no matter how anyone feels about it.
 
 Art is in the story, movement, culture, philosophy, interpretation and belief. JPEG embodies all that into a simple pixel image. Phunks face left, because the other way just doesn't feel right.
 
 ***
 
-![](<../../../.gitbook/assets/Screen Shot 2022-04-10 at 07.36.00.png>)![](<../../../.gitbook/assets/Screen Shot 2022-04-10 at 07.34.59.png>)\
+![](<../../.gitbook/assets/Screen Shot 2022-04-10 at 07.36.00.png>)![](<../../.gitbook/assets/Screen Shot 2022-04-10 at 07.34.59.png>)\
 by [Monero](https://www.getmonero.org/) founder [@fluffypony](https://twitter.com/fluffypony/status/1512771931484864514?s=20\&t=o-U9RXl0pM8qkl02jMBrRw)

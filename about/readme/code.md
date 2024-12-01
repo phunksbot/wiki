@@ -1,6 +1,7 @@
 ---
 description: CODE IS LAW?
-cover: ../../../.gitbook/assets/image (3) (2).png
+icon: square-terminal
+cover: ../../.gitbook/assets/image (3) (2).png
 coverY: 5.367933271547729
 layout:
   cover:
@@ -18,11 +19,11 @@ layout:
     visible: true
 ---
 
-# ➖ CODE
+# CODE
 
 In the [link](https://www.diffchecker.com/1tp5RsrI) below you will find direct comparison between Punk and Phunk code.
 
-> Spoiler: Phunks code is not a fork, it’s built from scratch and was first to pioneer [Fisher–Yates shuffle](https://en.wikipedia.org/wiki/Fisher%E2%80%93Yates\_shuffle#The\_modern\_algorithm) algorithm for provably [random](https://medium.com/@dumbnamenumbers/erc721r-a-new-erc721-contract-for-random-minting-so-people-dont-snipe-all-the-rares-68dd06611e5) minting.
+> Spoiler: Phunks code is not a fork, it’s built from scratch and was first to pioneer [Fisher–Yates shuffle](https://en.wikipedia.org/wiki/Fisher%E2%80%93Yates_shuffle#The_modern_algorithm) algorithm for provably [random](https://medium.com/@dumbnamenumbers/erc721r-a-new-erc721-contract-for-random-minting-so-people-dont-snipe-all-the-rares-68dd06611e5) minting.
 
 {% embed url="https://www.diffchecker.com/1tp5RsrI" %}
 Punks vs Phunks&#x20;
