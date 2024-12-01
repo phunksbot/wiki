@@ -1,6 +1,6 @@
 # Table of contents
 
-## ABOUT
+## ↘️ ABOUT
 
 * [CRYPTOPHUNKS](README.md)
   * [PUNK](about/readme/phunk-is-punk.md)
@@ -9,7 +9,7 @@
   * [CODE](about/readme/code.md)
   * [HISTORIC](about/readme/phunk-is-historic.md)
 
-## MADE BY PHUNKS
+## ↘️ MADE BY PHUNKS
 
 * [NOTLARVALABS.COM](made-by-phunks/notlarvalabs/README.md)
   * [FEATURES](made-by-phunks/notlarvalabs/features.md)
@@ -30,7 +30,7 @@
   * [GOVERNANCE](made-by-phunks/phunkbot/governance.md)
   * [CREDITS](made-by-phunks/phunkbot/credits.md)
 
-## SOCIAL MEDIA
+## ↘️ SOCIAL MEDIA
 
 * [MEDIA](social-media/media/README.md)
   * [ARTICLES](social-media/media/articles.md)
@@ -55,7 +55,7 @@
   * [⚫ ILLUSTRATED](social-media/museum/illustrated.md)
   * [🟠 MIDDLEMARCH](social-media/museum/middlemarch.md)
 
-## RESOURCES
+## ↘️ RESOURCES
 
 * [OPEN SOURCED](resources/open-sourced.md)
 * [HISTORY](resources/history.md)
@@ -65,6 +65,6 @@
   * [V2](resources/phunk-v1-v2-v3/v2.md)
   * [V3](resources/phunk-v1-v2-v3/v3.md)
 
-## TREASURY
+## ↘️ TREASURY
 
 * [OUTGOING TX HISTORY](treasury/feed.md)
