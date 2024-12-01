@@ -1,6 +1,6 @@
 ---
-description: 496 DEV PHUNKS, ONE EVERY 3 DAYS, UNTIL THEY ARE ALL GONE!
 icon: hammer-war
+description: 496 DEV PHUNKS, ONE EVERY 3 DAYS, UNTIL THEY ARE ALL GONE!
 cover: ../.gitbook/assets/F1As5TWXsBE9Ura.png
 coverY: -6.709916589434661
 layout:
@@ -27,7 +27,7 @@ There are [496 CryptoPhunks](https://notlarvalabs.com/cryptophunks/phunkbox?addr
 
 ***
 
-## <mark style="color:orange;">`LINKS`</mark>
+## <mark style="color:blue;">`LINKS`</mark>
 
 <details>
 
@@ -65,6 +65,6 @@ There are [496 CryptoPhunks](https://notlarvalabs.com/cryptophunks/phunkbox?addr
 
 <figure><img src="../.gitbook/assets/Bildschirmfoto 2022-10-02 um 00.54.34.png" alt=""><figcaption><p>PREVIEW</p></figcaption></figure>
 
-## <mark style="color:orange;">`AUCTION HOUSE PHUNKS`</mark>
+## <mark style="color:blue;">`AUCTION HOUSE PHUNKS`</mark>
 
 <div data-full-width="true"><figure><img src="../.gitbook/assets/phunktreasury.eth.jpg" alt=""><figcaption><p><a href="https://notlarvalabs.com/cryptophunks/phunkbox?address=0x61f874551c69f0E40c9f55219107B408C989aDEc"><strong>OCTOBER 04, 2023</strong></a></p></figcaption></figure></div>

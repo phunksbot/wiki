@@ -1,6 +1,6 @@
 ---
-description: BUY AND SELL REAL PHUNKY SOCKS WITH DIGITAL CURRENCY. DELIVERED ON DEMAND.
 icon: socks
+description: BUY AND SELL REAL PHUNKY SOCKS WITH DIGITAL CURRENCY. DELIVERED ON DEMAND.
 cover: ../../.gitbook/assets/promo-3-min.4665ee78 (1).jpg
 coverY: 499.3888190655377
 layout:
@@ -29,7 +29,7 @@ Phunkysocks are created by OG [unisocks](https://socks.uniswap.org/) Designer [L
 
 ***
 
-## <mark style="color:orange;">`TOKEN SUPPLY`</mark>
+## <mark style="color:blue;">`TOKEN SUPPLY`</mark>
 
 The total supply of $PHUNKYSOCKS is 1052 (50 pairs of socks) and was created on [PartyBid](https://v1.partybid.app/party/0xf9b353ea259ce461462db39317403a98b69c7df3) by 9 contributors.
 
@@ -39,7 +39,7 @@ The total supply of $PHUNKYSOCKS is 1052 (50 pairs of socks) and was created on 
 
 ***
 
-## <mark style="color:orange;">`HOW IT WORKS?`</mark>
+## <mark style="color:blue;">`HOW IT WORKS?`</mark>
 
 $[PHUNKYSOCKS](https://etherscan.io/token/0x1f2efab635ec3ec8618101103db4e1f718434a71) is a ERC20 token that entitles you to 1 real pair of limited edition socks, shipped anywhere in the world.\
 You can sell the token back at any time. To get a _real_ pair, redeem 22 $PHUNKYSOCKS tokens.
@@ -48,7 +48,7 @@ You can sell the token back at any time. To get a _real_ pair, redeem 22 $PHUNKY
 
 ***
 
-## <mark style="color:orange;">`GET $PHUNKYSOCKS ON UNISWAP`</mark>
+## <mark style="color:blue;">`GET $PHUNKYSOCKS ON UNISWAP`</mark>
 
 Buying or selling phunky socks uses the [uniswap](https://phunkysocks.website/app/getphunky) protocol and accepts any token input as a payment method.
 
@@ -56,7 +56,7 @@ Buying or selling phunky socks uses the [uniswap](https://phunkysocks.website/ap
 
 ***
 
-## <mark style="color:orange;">`BURN & CLAIM`</mark>
+## <mark style="color:blue;">`BURN & CLAIM`</mark>
 
 Use on-site claim mechanism to lock-up tokens in the contract correctly, effectively removing supply, and then redeem physical socks.
 
@@ -64,7 +64,7 @@ Use on-site claim mechanism to lock-up tokens in the contract correctly, effecti
 
 ***
 
-## <mark style="color:orange;">`LINKS`</mark>
+## <mark style="color:blue;">`LINKS`</mark>
 
 <details>
 

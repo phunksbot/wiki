@@ -1,8 +1,8 @@
 ---
+icon: display-chart-up
 description: >-
   PHUNKS MARKETPLACE, 0% ROYALTIES! 0% SERVICE FEES!                           
   BE PHUKNY! BE PHREE!
-icon: display-chart-up
 cover: ../../.gitbook/assets/Bildschirmfoto 2023-12-14 um 16.55.15.png
 coverY: 2.75
 layout:
@@ -37,7 +37,7 @@ Since inception in November 2021 and until May 2022 NLL smart contract successfu
 
 ***
 
-## <mark style="color:orange;">`LINKS`</mark>
+## <mark style="color:blue;">`LINKS`</mark>
 
 <details>
 

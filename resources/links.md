@@ -1,11 +1,11 @@
 ---
-description: AND DATA RESOURCES
 icon: link-horizontal
+description: AND DATA RESOURCES
 ---
 
 # LINKS
 
-## <mark style="color:orange;">`WEBSITE`</mark>
+## <mark style="color:blue;">`WEBSITE`</mark>
 
 <details>
 
@@ -15,7 +15,7 @@ icon: link-horizontal
 
 </details>
 
-## <mark style="color:orange;">`SMART CONTRACTS`</mark>
+## <mark style="color:blue;">`SMART CONTRACTS`</mark>
 
 <details>
 
@@ -57,7 +57,7 @@ icon: link-horizontal
 
 </details>
 
-## <mark style="color:orange;">`MARKETPLACES`</mark>
+## <mark style="color:blue;">`MARKETPLACES`</mark>
 
 <details>
 
@@ -163,7 +163,7 @@ icon: link-horizontal
 
 </details>
 
-## <mark style="color:orange;">`ANALYTICS`</mark>
+## <mark style="color:blue;">`ANALYTICS`</mark>
 
 <details>
 
@@ -261,7 +261,7 @@ icon: link-horizontal
 
 </details>
 
-## <mark style="color:orange;">`DISCORD`</mark>
+## <mark style="color:blue;">`DISCORD`</mark>
 
 <details>
 
@@ -279,7 +279,7 @@ icon: link-horizontal
 
 </details>
 
-## <mark style="color:orange;">`TWITTER`</mark>
+## <mark style="color:blue;">`TWITTER`</mark>
 
 * [@NotLarvaLabs](https://twitter.com/NotLarvaLabs)&#x20;
 * [@PhunkBot](https://twitter.com/PhunkBot)
@@ -289,7 +289,7 @@ icon: link-horizontal
 * [@PhunksAuction](https://twitter.com/PhunksAuction)
 * [@PhunkFlywheel](https://twitter.com/PhunkFlywheel)
 
-## <mark style="color:orange;">`OTHER`</mark>
+## <mark style="color:blue;">`OTHER`</mark>
 
 <details>
 

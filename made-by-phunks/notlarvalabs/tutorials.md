@@ -1,6 +1,6 @@
 ---
-description: how to use NotLarvaLabs Marketplace
 icon: newspaper
+description: how to use NotLarvaLabs Marketplace
 cover: ../../.gitbook/assets/Bildschirmfoto 2023-12-14 um 16.59.11.png
 coverY: 10
 layout:
@@ -23,7 +23,7 @@ layout:
 
 ***
 
-## <mark style="color:orange;">`Getting Started`</mark>
+## <mark style="color:blue;">`Getting Started`</mark>
 
 <details>
 
@@ -39,7 +39,7 @@ Connect your MetaMask Wallet to the Marketplace using tutorial below.
 
 ***
 
-## <mark style="color:orange;">`Tutorials`</mark>
+## <mark style="color:blue;">`Tutorials`</mark>
 
 <details>
 

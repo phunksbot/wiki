@@ -1,13 +1,13 @@
 ---
-description: if you feel Phunky and want to be Creative
 icon: rectangle-ad
+description: if you feel Phunky and want to be Creative
 ---
 
 # MEDIA KIT
 
 ***
 
-## <mark style="color:orange;">`Phunk Collage`</mark>
+## <mark style="color:blue;">`Phunk Collage`</mark>
 
 All 10'000 Phunks in one Collage. When viewed locally on your PC, this collage is very scalable. \
 Just Right Click and Save, then zoom in to the max.
@@ -16,7 +16,7 @@ Just Right Click and Save, then zoom in to the max.
 
 ***
 
-## <mark style="color:orange;">`Phunks Font Style`</mark>
+## <mark style="color:blue;">`Phunks Font Style`</mark>
 
 ![](<../../.gitbook/assets/Bildschirmfoto 2022-08-16 um 12.41.35.png>)
 
@@ -30,7 +30,7 @@ Just Right Click and Save, then zoom in to the max.
 
 ***
 
-## <mark style="color:orange;">`Transparent Phunks PNG`</mark>
+## <mark style="color:blue;">`Transparent Phunks PNG`</mark>
 
 ![WHITE](../../.gitbook/assets/unknown.png)
 
@@ -40,7 +40,7 @@ Just Right Click and Save, then zoom in to the max.
 
 ***
 
-## <mark style="color:orange;">`CryptoPhunk Viewer`</mark>
+## <mark style="color:blue;">`CryptoPhunk Viewer`</mark>
 
 Start by clicking on "Run Pen", change scale to 0.25x for compact preview and enter your Phunk ID.\
 You can also change background colour by choosing one below, download will only extract phunk not the background. You can always zoom in and screenshot it.&#x20;
@@ -55,7 +55,7 @@ You can also change background colour by choosing one below, download will only 
 
 ***
 
-## <mark style="color:orange;">`All Phunks in one Video sequence`</mark>
+## <mark style="color:blue;">`All Phunks in one Video sequence`</mark>
 
 {% embed url="https://video.twimg.com/amplify_video/1691480844580372480/vid/500x500/selWSI2SjIn2VAM1.mp4?tag=14" %}
 **by** [**@RaphaelBettan**](https://twitter.com/RaphaelBettan/status/1691536455686832129?s=20)
@@ -63,7 +63,7 @@ You can also change background colour by choosing one below, download will only 
 
 ***
 
-## <mark style="color:orange;">`Download All`</mark>
+## <mark style="color:blue;">`Download All`</mark>
 
 Here is tutorial how to download all 10'000 Phunks **each as a separate jpeg** in one instance, each Phunks is saved with Phunk #ID in 24x24 and in 192x192 (8x) format.
 
@@ -131,7 +131,7 @@ puts "bye"
 
 ***
 
-## <mark style="color:orange;">`Phunks in Poster size (1200x1200)`</mark>
+## <mark style="color:blue;">`Phunks in Poster size (1200x1200)`</mark>
 
 Phunk enthusiast, amazing developer and [@Genius](https://twitter.com/Genius) co-founder [Middlemarch](https://twitter.com/dumbnamenumbers) made an effort to upload All 10'000 Phunks to [IPFS](https://ipfs.io/) in HQ 1200x1200 pixel Poster Size images.
 
@@ -161,7 +161,7 @@ Example Phunk #6993
 
 ***
 
-## <mark style="color:orange;">`Transparent PNG of your Phunk`</mark>
+## <mark style="color:blue;">`Transparent PNG of your Phunk`</mark>
 
 A little tool for you to download your phunks as transparent PNG images for your meme needs. Enter your phunk ID wait a couple of seconds to load and download. by [@TheSkullCat](https://twitter.com/TheSkullCat)
 
@@ -171,7 +171,7 @@ A little tool for you to download your phunks as transparent PNG images for your
 
 ***
 
-## <mark style="color:orange;">`Generate your own custom Phunk`</mark>
+## <mark style="color:blue;">`Generate your own custom Phunk`</mark>
 
 A little tool for you to generate your own custom Phunk. Go through available attributes, add them 1 by 1 and download. You can also download transparent attribute images for your meme needs. by [@TheSkullCat](https://twitter.com/TheSkullCat)
 
@@ -181,7 +181,7 @@ A little tool for you to generate your own custom Phunk. Go through available at
 
 ***
 
-## <mark style="color:orange;">`Phunks Meme Minter`</mark>
+## <mark style="color:blue;">`Phunks Meme Minter`</mark>
 
 Mint your Phunky memes under a single Phunk Meme Contract as ERC721s with all data stored on IPFS. Set your own royalty for your meme and any address to receive your royalty. Free minting and 0 Contract royalty. by [@TheSkullCat](https://twitter.com/TheSkullCat)
 

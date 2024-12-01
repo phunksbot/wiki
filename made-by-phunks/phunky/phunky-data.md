@@ -1,6 +1,6 @@
 ---
-description: DECENTRALIZED CODE, DATA, API AND CONTENT MANAGMENT
 icon: webhook
+description: DECENTRALIZED CODE, DATA, API AND CONTENT MANAGMENT
 layout:
   title:
     visible: true
@@ -64,7 +64,7 @@ Run by whoever, wherever, whenever - Servers have to be centralized but their de
 
 ***
 
-## <mark style="color:orange;">`LINKS`</mark>
+## <mark style="color:blue;">`LINKS`</mark>
 
 <details>
 
@@ -84,7 +84,7 @@ Run by whoever, wherever, whenever - Servers have to be centralized but their de
 
 ***
 
-## <mark style="color:orange;">`RETROSPECTIVE`</mark>
+## <mark style="color:blue;">`RETROSPECTIVE`</mark>
 
 {% embed url="https://twitter.com/tbc_eth/status/1617753342511575040?s=20&t=1amiepW5oPGUP3CgpGWZXw" %}
 [CLICK FOR MORE](https://twitter.com/tbc_eth/status/1617753342511575040?s=20\&t=1amiepW5oPGUP3CgpGWZXw)
