@@ -5,7 +5,7 @@ coverY: 178.4459078080903
 layout:
   cover:
     visible: true
-    size: hero
+    size: full
   title:
     visible: true
   description:
@@ -20,6 +20,16 @@ layout:
 
 # WEB3
 
+{% hint style="info" %}
+**Page as Summarized by GitBook AI** \
+\
+The text discusses the relevance of CryptoPhunks in the decentralized cryptocurrency landscape. As a counter-culture symbol, Phunks challenge power structures and promote decentralization, public good, and censorship resistance. The decentralized community upholds principles of freedom and creative expression, emphasizing ownership without corporate control. Through blockchain technology, they inspire further NFT projects, echoing themes from the Cypherpunk's manifesto about direct transactions and resistance against centralized authority.
+{% endhint %}
+
+***
+
+read more bellow ...\
+\
 Since [Cypherpunk's Manifesto](https://www.activism.net/cypherpunk/manifesto.html) and [Bitcoin](https://satoshi.nakamotoinstitute.org/emails/cryptography/1/) introduction to the world, people are able to transact directly without the need of central intermediary or rule-makers using blockchain technology. This technology empowered people to freely express their thoughts and views, in writings and Art, to the world without fear of being censored.&#x20;
 
 CryptoPhunks stand for those principles of decentralization, censorship resistance, [public good](https://cryptonews.com/videos/funding-the-commons-funding-public-goods-algorithms-and-mechanisms.htm), for the people and for the freedom.&#x20;
@@ -34,7 +44,9 @@ Phunks are important part of the NFT history that raised important questions and
 
 ***
 
-{% hint style="info" %}
+{% hint style="warning" %}
 In times when [VCs](https://www.investopedia.com/terms/v/venturecapitalist.asp) and [Big Corporations](https://www.theverge.com/2022/3/22/22991272/yuga-labs-seed-funding-a16z-bored-ape-yacht-club-bayc-metaverse-other-side) are entering Crypto to claim ownership over your NFTs and extract huge profits, being a Phunk is more relevant than ever as a statement against centralization in this emerging Crypto evolution built on top of decentralized, open, permissionless system called blockchain.\
 ![](<../../.gitbook/assets/Bildschirmfoto 2022-03-10 um 21.18.54.png>)![](<../../.gitbook/assets/Bildschirmfoto 2022-03-10 um 21.18.31.png>)
 {% endhint %}
+
+***
