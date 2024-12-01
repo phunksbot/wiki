@@ -1,7 +1,7 @@
 ---
 icon: brush
 cover: ../../.gitbook/assets/1_6GA6r_N8zHBHFygSBUWxMQ@2x (1).jpeg
-coverY: 222.34193193830018
+coverY: 320.4898192622438
 layout:
   cover:
     visible: true

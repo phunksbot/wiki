@@ -1,7 +1,7 @@
 ---
 icon: binary-circle-check
 cover: ../../.gitbook/assets/unnamed (100).png
-coverY: 178.4459078080903
+coverY: 400.23464020245655
 layout:
   cover:
     visible: true
