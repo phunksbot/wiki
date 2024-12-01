@@ -32,4 +32,4 @@ Punks are owned by [Corporations](https://twitter.com/cryptopunksnfts/status/150
 
 ## <mark style="color:blue;">`TL;DR`</mark>
 
-<figure><img src=".gitbook/assets/image (86).png" alt=""><figcaption></figcaption></figure>
+<div align="left" data-full-width="true"><figure><img src=".gitbook/assets/image (86).png" alt=""><figcaption></figcaption></figure></div>
