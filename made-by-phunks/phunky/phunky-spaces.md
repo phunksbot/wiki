@@ -1,6 +1,6 @@
 ---
-description: LISTEN ABOUT PHUNKS HISTORY, ETHICS AND COMMUNITY ON TWITTER
 icon: bullhorn
+description: LISTEN ABOUT PHUNKS HISTORY, ETHICS AND COMMUNITY ON TWITTER
 cover: ../../.gitbook/assets/FzQlVZqagAEp8kX.jpg
 coverY: -98.46400000000003
 layout:
@@ -23,122 +23,66 @@ layout:
 
 ***
 
+{% stepper %}
+{% step %}
 ## VOL. 1
 
-<details>
+[`CRYPTOPHUNKS TOWNHALL VOL. 1`](https://twitter.com/i/spaces/1eaKbrXLayBKX)
+{% endstep %}
 
-<summary><a href="https://twitter.com/i/spaces/1eaKbrXLayBKX"><code>CRYPTOPHUNKS TOWNHALL VOL. 1</code></a></summary>
-
-[https://twitter.com/i/spaces/1eaKbrXLayBKX](https://twitter.com/i/spaces/1eaKbrXLayBKX)
-
-</details>
-
-***
-
+{% step %}
 ## VOL. 2
 
-<details>
+[`CRYPTOPHUNKS TOWNHALL VOL. 2`](https://twitter.com/i/spaces/1zqKVPVjAwaJB)
+{% endstep %}
 
-<summary><a href="https://twitter.com/i/spaces/1zqKVPVjAwaJB"><code>CRYPTOPHUNKS TOWNHALL VOL. 2</code></a></summary>
-
-[https://twitter.com/i/spaces/1zqKVPVjAwaJB](https://twitter.com/i/spaces/1zqKVPVjAwaJB)
-
-</details>
-
-***
-
+{% step %}
 ## VOL. 3
 
-<details>
+[`CRYPTOPHUNKS TOWNHALL VOL. 3`](https://twitter.com/i/spaces/1lDGLnmAPDkxm)
+{% endstep %}
 
-<summary><a href="https://twitter.com/i/spaces/1lDGLnmAPDkxm"><code>CRYPTOPHUNKS TOWNHALL VOL. 3</code></a></summary>
-
-[https://twitter.com/i/spaces/1lDGLnmAPDkxm](https://twitter.com/i/spaces/1lDGLnmAPDkxm)
-
-</details>
-
-***
-
+{% step %}
 ## VOL. 4
 
-<details>
+[`CRYPTOPHUNKS TOWNHALL VOL. 4`](https://twitter.com/i/spaces/1nAJErMqoPnxL)
+{% endstep %}
 
-<summary><a href="https://twitter.com/i/spaces/1nAJErMqoPnxL"><code>CRYPTOPHUNKS TOWNHALL VOL. 4</code></a></summary>
-
-[https://twitter.com/i/spaces/1nAJErMqoPnxL](https://twitter.com/i/spaces/1nAJErMqoPnxL)
-
-</details>
-
-***
-
+{% step %}
 ## VOL. 5
 
-<details>
+[`CRYPTOPHUNKS TOWNHALL VOL. 5`](https://twitter.com/i/spaces/1MnxnpaZlpNGO?s=20)
+{% endstep %}
 
-<summary><a href="https://twitter.com/i/spaces/1MnxnpaZlpNGO?s=20"><code>CRYPTOPHUNKS TOWNHALL VOL. 5</code></a></summary>
-
-[https://twitter.com/i/spaces/1MnxnpaZlpNGO](https://twitter.com/i/spaces/1MnxnpaZlpNGO?s=20)
-
-</details>
-
-***
-
+{% step %}
 ## VOL. 6
 
-<details>
+[`CRYPTOPHUNKS TOWNHALL VOL. 6`](https://twitter.com/i/spaces/1PlKQpYokMkxE)
+{% endstep %}
 
-<summary><a href="https://twitter.com/i/spaces/1PlKQpYokMkxE"><code>CRYPTOPHUNKS TOWNHALL VOL. 6</code> </a></summary>
-
-[https://twitter.com/i/spaces/1PlKQpYokMkxE](https://twitter.com/i/spaces/1PlKQpYokMkxE?s=20)
-
-</details>
-
-***
-
+{% step %}
 ## VOL. 7
 
-<details>
+[`CRYPTOPHUNKS TOWNHALL VOL. 7`](https://twitter.com/i/spaces/1zqKVPrXDqLJB)
+{% endstep %}
 
-<summary><a href="https://twitter.com/i/spaces/1zqKVPrXDqLJB"><code>CRYPTOPHUNKS TOWNHALL VOL. 7</code></a></summary>
-
-[https://twitter.com/i/spaces/1zqKVPrXDqLJB](https://twitter.com/i/spaces/1zqKVPrXDqLJB?s=20)
-
-</details>
-
-***
-
+{% step %}
 ## VOL. 8
 
-<details>
+[`CRYPTOPHUNKS TOWNHALL VOL. 8`](https://twitter.com/i/spaces/1YpKkgNPOEYKj)
+{% endstep %}
 
-<summary><a href="https://twitter.com/i/spaces/1YpKkgNPOEYKj"><code>CRYPTOPHUNKS TOWNHALL VOL. 8</code></a></summary>
-
-[https://twitter.com/i/spaces/1YpKkgNPOEYKj](https://twitter.com/i/spaces/1YpKkgNPOEYKj)
-
-</details>
-
-***
-
+{% step %}
 ## VOL. 9
 
-<details>
+[`CRYPTOPHUNKS TOWNHALL VOL. 9`](https://twitter.com/i/spaces/1rmGPkznWEnKN?s=20)
+{% endstep %}
 
-<summary><a href="https://twitter.com/i/spaces/1rmGPkznWEnKN?s=20"><code>CRYPTOPHUNKS TOWNHALL VOL. 9</code></a></summary>
-
-[https://twitter.com/i/spaces/1rmGPkznWEnKN](https://twitter.com/i/spaces/1rmGPkznWEnKN?s=20)
-
-</details>
-
-***
-
+{% step %}
 ## VOL. 10
 
-<details>
-
-<summary><a href="https://twitter.com/i/spaces/1PlJQppPNvaGE?s=20"><code>CRYPTOPHUNKS TOWNHALL VOL. 10</code></a></summary>
-
-[https://twitter.com/i/spaces/1PlJQppPNvaGE](https://twitter.com/i/spaces/1PlJQppPNvaGE?s=20)
-
-</details>
+[`CRYPTOPHUNKS TOWNHALL VOL. 10`](https://twitter.com/i/spaces/1PlJQppPNvaGE?s=20)
+{% endstep %}
+{% endstepper %}
 
 ***
