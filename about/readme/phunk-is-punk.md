@@ -1,5 +1,5 @@
 ---
-icon: head-side-goggles
+icon: user-hoodie
 cover: ../../.gitbook/assets/F1ehBRNaUAAVV5D.jpeg
 coverY: 186.69333333333333
 layout:

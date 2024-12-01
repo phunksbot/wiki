@@ -1,5 +1,5 @@
 ---
-icon: user-hoodie
+icon: binary-circle-check
 cover: ../../.gitbook/assets/unnamed (100).png
 coverY: 178.4459078080903
 layout:
