@@ -1,8 +1,5 @@
 ---
-icon: display-chart-up
-description: >-
-  PHUNKS MARKETPLACE, 0% ROYALTIES! 0% SERVICE FEES!                           
-  BE PHUKNY! BE PHREE!
+icon: square-info
 cover: ../../../.gitbook/assets/Bildschirmfoto 2023-12-14 um 16.55.15.png
 coverY: 2.75
 layout:
@@ -21,7 +18,7 @@ layout:
     visible: true
 ---
 
-# NOTLARVALABS.COM
+# INTRO
 
 [NotLarvaLabs](https://twitter.com/NotLarvaLabs) (NLL) is a community built royalty-free Marketplace for buying and selling CryptoPhunks, built on top of it's own custom [smart contract](https://etherscan.io/address/0xd6c037bE7FA60587e174db7A6710f7635d2971e7#code) with 0% trading fees.
 

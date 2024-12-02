@@ -70,7 +70,7 @@ import { Erc721SalesService } from './erc721sales.service';
 
 <summary>SUPPORTED</summary>
 
-* [NotLarvaLabs](../notlarvalabs/) marketplace - Support for Bids, Buys and Sells.
+* [NotLarvaLabs](../notlarvalabs.com/notlarvalabs.md) marketplace - Support for Bids, Buys and Sells.
 * BLUR.io - Sweeps, Buys and Sells & support for **ERC20** "blurio pool" wrapped ETH.
 * OpenSea marketplace (inkl. SeaPort) - Sweeps, Buys and Sells.
 * LooksRare v2 - Sweeps, Buys and Sells.

@@ -6,7 +6,7 @@ coverY: 322.318131816647
 layout:
   cover:
     visible: true
-    size: full
+    size: hero
   title:
     visible: true
   description:
@@ -43,7 +43,7 @@ Corporations didn't like flipped Punks and in July 2021, after receiving formal 
 Being censored and excluded from [98%](https://coinyuppie.com/why-is-opensea-an-absolute-monopolist-in-the-nft-trading-market/) of NFT Market, Phunk holders were left to face in real time what it means to be deplatformed by Corporations in decentralized environment where decentralization and provenance should be paramount and old rules not applied.\
 While NFT Collections can be banned from centralized trading platform, they really cant be censored. Phunks live in form of [ERC721 token](https://ethereum.org/en/developers/docs/standards/tokens/erc-721/) on the Ethereum blockchain, forever.
 
-**It didn't take long before Phunks Community decided to take a stand and make a statement against censorship, self organised renegade group of Phunk Community builders took it upon themselves to create their own Phunks Marketplace called** [**NotLarvaLabs**](../../made-by-phunks/for-the-pham/notlarvalabs/) **and** [**open-sourced**](../../resources/code-and-more/open-sourced.md) **the code for public good.** \
+**It didn't take long before Phunks Community decided to take a stand and make a statement against censorship, self organised renegade group of Phunk Community builders took it upon themselves to create their own Phunks Marketplace called** [**NotLarvaLabs**](../../made-by-phunks/for-the-pham/notlarvalabs.com/notlarvalabs.md) **and** [**open-sourced**](../../resources/code-and-more/open-sourced.md) **the code for public good.** \
 **Since then, Phunk community continued to** [**build, innovate, pioneer**](../../resources/code-and-more/open-sourced.md) **and attract many developers interested in building in true decentralized Crypto environment where anyone with any skillset can grow, be inspired and supported by community of builders.**
 
 ***

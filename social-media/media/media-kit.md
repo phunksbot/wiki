@@ -50,7 +50,7 @@ You can also change background colour by choosing one below, download will only 
 {% endembed %}
 
 {% hint style="info" %}
-**For Phunk Custom PFP (Profile Picture) use** [**Phunk Box**](../../made-by-phunks/for-the-pham/notlarvalabs/tutorials.md#tutorials) **by** [**NotLarvaLabs**](../../made-by-phunks/for-the-pham/notlarvalabs/)**.**
+**For Phunk Custom PFP (Profile Picture) use** [**Phunk Box**](../../made-by-phunks/for-the-pham/notlarvalabs.com/tutorials.md#tutorials) **by** [**NotLarvaLabs**](../../made-by-phunks/for-the-pham/notlarvalabs.com/notlarvalabs.md)**.**
 {% endhint %}
 
 ***

@@ -6,7 +6,7 @@ coverY: -98.46400000000003
 layout:
   cover:
     visible: true
-    size: full
+    size: hero
   title:
     visible: true
   description:

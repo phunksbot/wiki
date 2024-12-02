@@ -2,7 +2,20 @@
 icon: binary-circle-check
 cover: ../../.gitbook/assets/unnamed (100).png
 coverY: 1003.2643447893931
-layout: editorial
+layout:
+  cover:
+    visible: true
+    size: hero
+  title:
+    visible: true
+  description:
+    visible: true
+  tableOfContents:
+    visible: false
+  outline:
+    visible: true
+  pagination:
+    visible: true
 ---
 
 # WEB3

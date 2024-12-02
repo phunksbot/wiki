@@ -2,7 +2,20 @@
 icon: brush
 cover: ../../.gitbook/assets/1_6GA6r_N8zHBHFygSBUWxMQ@2x (1).jpeg
 coverY: 815.2541105774167
-layout: editorial
+layout:
+  cover:
+    visible: true
+    size: hero
+  title:
+    visible: true
+  description:
+    visible: true
+  tableOfContents:
+    visible: false
+  outline:
+    visible: true
+  pagination:
+    visible: true
 ---
 
 # ART
@@ -42,7 +55,7 @@ Some good examples of a simple transformation that completely changes the meanin
 > Phunks are conceptual art that actually have context, narrative, critique on the space. \
 > There is more artistic merit in phunks than just about any pfp project. [@CsenOner](https://twitter.com/CsenOner/status/1512709948467257345?s=20\&t=W79OmfK5hl4BrLO6Shkcqg)
 
-After being banned from NFT trading ecosystem, phunks community took a stand against censorship and made their own marketplace called [**not**LarvaLabs](../../made-by-phunks/for-the-pham/notlarvalabs/) with 0% trading fees. \
+After being banned from NFT trading ecosystem, phunks community took a stand against censorship and made their own marketplace called [**not**LarvaLabs](../../made-by-phunks/for-the-pham/notlarvalabs.com/notlarvalabs.md) with 0% trading fees. \
 That was a beautiful performance act that sent a signal all the way to the top that you can't stop people that are passionate about something to build in this new paradigm called Crypto, no matter how anyone feels about it.
 
 Art is in the story, movement, culture, philosophy, interpretation and belief. JPEG embodies all that into a simple pixel image. Phunks face left, because the other way just doesn't feel right.
