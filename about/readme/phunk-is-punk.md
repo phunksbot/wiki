@@ -1,7 +1,8 @@
 ---
 icon: user-hoodie
+description: PHUNK IS PUNK
 cover: ../../.gitbook/assets/F1ehBRNaUAAVV5D.jpeg
-coverY: 362.3193245749004
+coverY: 322.318131816647
 layout:
   cover:
     visible: true
@@ -9,11 +10,11 @@ layout:
   title:
     visible: true
   description:
-    visible: false
-  tableOfContents:
     visible: true
-  outline:
+  tableOfContents:
     visible: false
+  outline:
+    visible: true
   pagination:
     visible: true
 ---
@@ -26,9 +27,13 @@ layout:
 Phunks, an NFT collection launched in June 2021, parody CryptoPunks by reversing their images. After being banned from platforms like OpenSea due to copyright issues, the community established their decentralized marketplace. They advocate for true decentralization, open-source development, and community support, standing against censorship and centralized control in the crypto space.
 {% endhint %}
 
+{% content-ref url="phunk-is-web3.md" %}
+[phunk-is-web3.md](phunk-is-web3.md)
+{% endcontent-ref %}
+
 ***
 
-read more bellow ...\
+or read more bellow ...\
 \
 CryptoPhunks (Phunks) is a [Non-Fungible Token](https://en.wikipedia.org/wiki/Non-fungible_token) (NFT) collection on the [Ethereum](https://en.wikipedia.org/wiki/Ethereum) [blockchain](https://en.wikipedia.org/wiki/Blockchain). \
 The project was created in June 2021 by a group of [anonymous](https://twitter.com/CryptoPhunks)**`*`** developers to poke fun (parody) at the high-brow, pompous group of people that were reflecting the “old-school” rules of art into this new frontier of Crypto. What they did is they took all 10'000 [CryptoPunks](https://www.larvalabs.com/cryptopunks) and flipped them the other way, they are the same 1:1 just facing Left.

@@ -1,22 +1,9 @@
 ---
-description: CODE IS LAW?
 icon: square-terminal
+description: CODE IS LAW?
 cover: ../../.gitbook/assets/image (3) (2).png
 coverY: 5.367933271547729
-layout:
-  cover:
-    visible: true
-    size: full
-  title:
-    visible: true
-  description:
-    visible: true
-  tableOfContents:
-    visible: true
-  outline:
-    visible: false
-  pagination:
-    visible: true
+layout: editorial
 ---
 
 # CODE
@@ -29,7 +16,13 @@ In the [link](https://www.diffchecker.com/1tp5RsrI) below you will find direct c
 Punks vs Phunks&#x20;
 {% endembed %}
 
+{% content-ref url="phunk-is-historic.md" %}
+[phunk-is-historic.md](phunk-is-historic.md)
+{% endcontent-ref %}
+
 ***
+
+or scroll down ...
 
 {% code title="CryptoPhunksV2.sol" fullWidth="true" %}
 ```solidity

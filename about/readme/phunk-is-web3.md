@@ -1,21 +1,8 @@
 ---
 icon: binary-circle-check
 cover: ../../.gitbook/assets/unnamed (100).png
-coverY: 525.9876898093961
-layout:
-  cover:
-    visible: true
-    size: full
-  title:
-    visible: true
-  description:
-    visible: false
-  tableOfContents:
-    visible: true
-  outline:
-    visible: false
-  pagination:
-    visible: true
+coverY: 1003.2643447893931
+layout: editorial
 ---
 
 # WEB3
@@ -26,9 +13,13 @@ layout:
 The text discusses the relevance of CryptoPhunks in the decentralized cryptocurrency landscape. As a counter-culture symbol, Phunks challenge power structures and promote decentralization, public good, and censorship resistance. The decentralized community upholds principles of freedom and creative expression, emphasizing ownership without corporate control. Through blockchain technology, they inspire further NFT projects, echoing themes from the Cypherpunk's manifesto about direct transactions and resistance against centralized authority.
 {% endhint %}
 
+{% content-ref url="phunk-is-art.md" %}
+[phunk-is-art.md](phunk-is-art.md)
+{% endcontent-ref %}
+
 ***
 
-read more bellow ...\
+or read more bellow ...\
 \
 Since [Cypherpunk's Manifesto](https://www.activism.net/cypherpunk/manifesto.html) and [Bitcoin](https://satoshi.nakamotoinstitute.org/emails/cryptography/1/) introduction to the world, people are able to transact directly without the need of central intermediary or rule-makers using blockchain technology. This technology empowered people to freely express their thoughts and views, in writings and Art, to the world without fear of being censored.&#x20;
 

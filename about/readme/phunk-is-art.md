@@ -1,21 +1,8 @@
 ---
 icon: brush
 cover: ../../.gitbook/assets/1_6GA6r_N8zHBHFygSBUWxMQ@2x (1).jpeg
-coverY: 605.5562329244829
-layout:
-  cover:
-    visible: true
-    size: full
-  title:
-    visible: true
-  description:
-    visible: false
-  tableOfContents:
-    visible: true
-  outline:
-    visible: false
-  pagination:
-    visible: true
+coverY: 815.2541105774167
+layout: editorial
 ---
 
 # ART
@@ -26,9 +13,13 @@ layout:
 Art is present in storytelling, culture, and interpretation, which JPEG encapsulates in simple pixel images. The Phunks, by facing left, symbolize a reaction against conformity, and despite being banned from the NFT trading ecosystem, their community stood against censorship by creating their own marketplace. Phunks offer a narrative and critique that provide significant artistic value, provoking responses that highlight their validity. A simple flipped image challenges perceptions and evokes powerful symbolism, akin to performance and conceptual art traditions like Dadaism and Warhol's work.
 {% endhint %}
 
+{% content-ref url="code.md" %}
+[code.md](code.md)
+{% endcontent-ref %}
+
 ***
 
-read more bellow ...\
+or read more bellow ...\
 \
 To better understand CryptoPhunks, start by reading about [Conceptual Art](https://en.wikipedia.org/wiki/Conceptual_art),[ Marcel Duchamp](https://en.wikipedia.org/wiki/Marcel_Duchamp), [Dadaism](https://en.wikipedia.org/wiki/Dada), [Andy Warhol](https://en.wikipedia.org/wiki/Andy_Warhol) and [Memetics](https://en.wikipedia.org/wiki/Memetics).&#x20;
 
