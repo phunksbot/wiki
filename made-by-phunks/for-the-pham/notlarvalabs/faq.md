@@ -1,7 +1,7 @@
 ---
-description: from notlarvalabs.com Website
 icon: square-question
-cover: ../../.gitbook/assets/Bildschirmfoto 2023-12-14 um 17.00.50.png
+description: from notlarvalabs.com Website
+cover: ../../../.gitbook/assets/Bildschirmfoto 2023-12-14 um 17.00.50.png
 coverY: 18.564102564102562
 layout:
   cover:
@@ -73,7 +73,7 @@ A community built marketplace for selling CryptoPhunks built on top of our own c
 
 <summary>Where can I find more info/resources?</summary>
 
-[links.md](../../resources/links.md "mention")
+[links.md](../../../resources/code-and-more/links.md "mention")
 
 [https://linktr.ee/cryptophunks](https://linktr.ee/cryptophunks)
 

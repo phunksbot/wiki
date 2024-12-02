@@ -1,7 +1,7 @@
 ---
 icon: conveyor-belt-boxes
 description: PHUNKBOT IS MODULAR AND CAN AiVOLVE EVEN FURTHER IN THE FUTURE
-cover: ../../.gitbook/assets/Bildschirmfoto 2023-11-28 um 16.34.06.png
+cover: ../../../.gitbook/assets/Bildschirmfoto 2023-11-28 um 16.34.06.png
 coverY: 44
 layout:
   cover:
@@ -52,7 +52,7 @@ import { Erc721SalesService } from './erc721sales.service';
 
 [https://x.com/PhunkBot/status/1729299877790662770](https://x.com/PhunkBot/status/1729299877790662770?s=20)
 
-<img src="../../.gitbook/assets/Bildschirmfoto 2023-11-29 um 08.02.44.png" alt="" data-size="original">
+<img src="../../../.gitbook/assets/Bildschirmfoto 2023-11-29 um 08.02.44.png" alt="" data-size="original">
 
 </details>
 
@@ -62,7 +62,7 @@ import { Erc721SalesService } from './erc721sales.service';
 
 #### Discord Output for tweet above
 
-<img src="../../.gitbook/assets/Bildschirmfoto 2023-11-28 um 15.34.02 (1).png" alt="" data-size="original">
+<img src="../../../.gitbook/assets/Bildschirmfoto 2023-11-28 um 15.34.02 (1).png" alt="" data-size="original">
 
 </details>
 
@@ -122,7 +122,7 @@ import { StatisticsService } from './extensions/statistics.extension.service';
 
 #### Output:
 
-<img src="../../.gitbook/assets/Bildschirmfoto 2023-11-28 um 15.54.57.png" alt="" data-size="original">
+<img src="../../../.gitbook/assets/Bildschirmfoto 2023-11-28 um 15.54.57.png" alt="" data-size="original">
 
 </details>
 
@@ -156,11 +156,11 @@ import { DAOController } from './extensions/dao/dao.controller';
 
 #### Sample of PhunkBot command <mark style="color:blue;">/createpoll</mark>
 
-<img src="../../.gitbook/assets/image (12) (3).png" alt="" data-size="original">
+<img src="../../../.gitbook/assets/image (12) (3).png" alt="" data-size="original">
 
 #### Output:
 
-![](<../../.gitbook/assets/image (53).png>)
+![](<../../../.gitbook/assets/image (53).png>)
 
 </details>
 

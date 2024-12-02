@@ -25,7 +25,7 @@ Since [Cypherpunk's Manifesto](https://www.activism.net/cypherpunk/manifesto.htm
 
 CryptoPhunks stand for those principles of decentralization, censorship resistance, [public good](https://cryptonews.com/videos/funding-the-commons-funding-public-goods-algorithms-and-mechanisms.htm), for the people and for the freedom.&#x20;
 
-> Phunks are free-use, public domain Art, run entirely by decentralized community of artist and [builders](../../resources/open-sourced.md). There are no Devs, no Leaders, no Roadmaps, just Phunk Pham building cool stuff cause they care about Crypto and Decentralization. :fist:
+> Phunks are free-use, public domain Art, run entirely by decentralized community of artist and [builders](../../resources/code-and-more/open-sourced.md). There are no Devs, no Leaders, no Roadmaps, just Phunk Pham building cool stuff cause they care about Crypto and Decentralization. :fist:
 
 Phunks are important part of the NFT history that raised important questions and [discussions](../../social-media/media/threads.md) around ownership, copyright, conceptual art, [CC0](https://creativecommons.org/publicdomain/zero/1.0/deed.en), blockchain provenance, touching on subjects like; Who decides what Art is? Do you really own your NFT?
 

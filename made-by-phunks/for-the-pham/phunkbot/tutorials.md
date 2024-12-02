@@ -1,7 +1,7 @@
 ---
 icon: newspaper
 description: IN FEW EASY STEPS YOU WILL BE ABLE TO DEPLOY VERY POWERFUL BOT
-cover: ../../.gitbook/assets/Bildschirmfoto 2023-11-28 um 21.58.22 (1).png
+cover: ../../../.gitbook/assets/Bildschirmfoto 2023-11-28 um 21.58.22 (1).png
 coverY: 0
 layout:
   cover:
@@ -60,7 +60,7 @@ layout:
 * Save your Discord token for [deployment](tutorials.md#deployment).
 * Now you will need to generate link with proper permissions to invite your Discord bot to your Server. In your [developer portal](https://discord.com/developers) under `0Auth2/URL Generator` check this boxes:
 
-<img src="../../.gitbook/assets/image (73).png" alt="" data-size="original">
+<img src="../../../.gitbook/assets/image (73).png" alt="" data-size="original">
 
 This will generate URL that you can use to invite Bot to your Discord server with proper permissions for it to post sales and other [Application Commands](tutorials.md#stats-commands).
 

@@ -1,7 +1,7 @@
 ---
 icon: hands-holding-diamond
 description: COMMUNITY GOVERNANCE POWERED by PHUNKBOT
-cover: ../../.gitbook/assets/Bildschirmfoto 2023-11-29 um 13.13.44.png
+cover: ../../../.gitbook/assets/Bildschirmfoto 2023-11-29 um 13.13.44.png
 coverY: 0
 layout:
   cover:
@@ -135,18 +135,18 @@ Not&#x65;**:** once Voted, Vote can not be redacted! You can however change your
 
 #### If Vote was successfully recorded, user gets confirmation message from PhunkBot
 
-![](<../../.gitbook/assets/image (83).png>)
+![](<../../../.gitbook/assets/image (83).png>)
 
 #### If user is not allowed to Vote, user gets notification message from PhunkBot
 
-![](<../../.gitbook/assets/image (84).png>)
+![](<../../../.gitbook/assets/image (84).png>)
 
 <mark style="background-color:red;">To receive PhunkBot notifications you need to have your Discord DMs open.</mark>\ <mark style="background-color:orange;">To see all Active Polls to Vote, simply run /listpolls</mark> [<mark style="background-color:orange;">command</mark>](governance.md#daoservice-commands-explained) <mark style="background-color:orange;">on Discord or go to:</mark>\
 [https://phunk.cc/polls/](https://phunk.cc/polls/)
 
 #### DEMO
 
-<img src="../../.gitbook/assets/2023-12-05_10-06-43 (1).gif" alt="" data-size="original">
+<img src="../../../.gitbook/assets/2023-12-05_10-06-43 (1).gif" alt="" data-size="original">
 
 Vote demo for custom Discord role powered by PhunkBot.
 
@@ -169,11 +169,11 @@ Optional Admins can set `minimumVotesRequired` for Poll to be considered Success
 
 #### Input
 
-<img src="../../.gitbook/assets/Bildschirmfoto 2023-12-03 um 10.15.49.png" alt="" data-size="original">
+<img src="../../../.gitbook/assets/Bildschirmfoto 2023-12-03 um 10.15.49.png" alt="" data-size="original">
 
 #### Output
 
-<img src="../../.gitbook/assets/Bildschirmfoto 2023-12-03 um 10.15.21.png" alt="" data-size="original">
+<img src="../../../.gitbook/assets/Bildschirmfoto 2023-12-03 um 10.15.21.png" alt="" data-size="original">
 
 <mark style="background-color:orange;">Note: If min threshold of Votes is set too for example 30 and reached; Min votes required:</mark> <mark style="background-color:orange;"></mark><mark style="background-color:orange;">**30**</mark> <mark style="background-color:orange;"></mark><mark style="background-color:orange;">(Reached: ❌) will automatically change to Min votes required:</mark> <mark style="background-color:orange;"></mark><mark style="background-color:orange;">**30**</mark> <mark style="background-color:orange;"></mark><mark style="background-color:orange;">(Reached: ✅).</mark>
 
@@ -187,7 +187,7 @@ To avoid user being influenced by Vote weight going in one direction and to keep
 
 #### Output
 
-![](<../../.gitbook/assets/Bildschirmfoto 2023-12-04 um 07.09.22.png>)
+![](<../../../.gitbook/assets/Bildschirmfoto 2023-12-04 um 07.09.22.png>)
 
 </details>
 
@@ -203,7 +203,7 @@ By binding Discord Account with your Web3 wallet(s), PhunkBot automatically Gran
 
 This can be for example one Role for holding underlying Asset or Multiple Roles for holding Specific Traits of underlying Collection.
 
-<img src="../../.gitbook/assets/Bildschirmfoto 2023-11-30 um 22.49.38.png" alt="" data-size="original">
+<img src="../../../.gitbook/assets/Bildschirmfoto 2023-11-30 um 22.49.38.png" alt="" data-size="original">
 
 #### Code Example of Role granted to Stringy Hair Trait Holders
 
@@ -272,7 +272,7 @@ User command to bind Discord Account with Web3 wallet(s).
 
 #### Output
 
-<img src="../../.gitbook/assets/Bildschirmfoto 2023-12-02 um 00.35.43.png" alt="" data-size="original">
+<img src="../../../.gitbook/assets/Bildschirmfoto 2023-12-02 um 00.35.43.png" alt="" data-size="original">
 
 </details>
 
@@ -290,7 +290,7 @@ User command to bind Twitter Account with Web3 wallet(s).
 
 #### Output
 
-<img src="../../.gitbook/assets/Bildschirmfoto 2023-12-02 um 00.36.51.png" alt="" data-size="original">
+<img src="../../../.gitbook/assets/Bildschirmfoto 2023-12-02 um 00.36.51.png" alt="" data-size="original">
 
 </details>
 
@@ -308,7 +308,7 @@ List bounded Web3 wallet(s) and Twitter Account to your Discord Account.&#x20;
 
 #### Output
 
-<img src="../../.gitbook/assets/Bildschirmfoto 2023-11-30 um 23.29.09.png" alt="" data-size="original">\
+<img src="../../../.gitbook/assets/Bildschirmfoto 2023-11-30 um 23.29.09.png" alt="" data-size="original">\
 <mark style="background-color:orange;">To preserve privacy, command output is only Visible to user that called it.</mark>&#x20;
 
 </details>
@@ -325,11 +325,11 @@ List bounded Web3 wallet(s) and Twitter Account to your Discord Account.&#x20;
 /listpolls
 ```
 
-![](<../../.gitbook/assets/image (81).png>)
+![](<../../../.gitbook/assets/image (81).png>)
 
 #### Output
 
-![](<../../.gitbook/assets/image (82).png>)
+![](<../../../.gitbook/assets/image (82).png>)
 
 <mark style="background-color:orange;">For non Discord users, all Active and Finished Polls are visible at:</mark> [https://phunk.cc/polls/](https://phunk.cc/polls/)
 
@@ -354,11 +354,11 @@ This commands is reserved for Discord Admins only, executing this command with p
 /createpoll <description> <duration> <role> <emoji> <link> <minimumvotes> 
 ```
 
-![](<../../.gitbook/assets/Bildschirmfoto 2023-12-03 um 10.15.49 (1).png>)
+![](<../../../.gitbook/assets/Bildschirmfoto 2023-12-03 um 10.15.49 (1).png>)
 
 #### Output
 
-![](<../../.gitbook/assets/Bildschirmfoto 2023-12-03 um 10.15.21 (1).png>)
+![](<../../../.gitbook/assets/Bildschirmfoto 2023-12-03 um 10.15.21 (1).png>)
 
 </details>
 
@@ -374,19 +374,19 @@ This commands is reserved for Discord Admins only. It will display SnapShot of V
 /pollresults <poll id>
 ```
 
-![](<../../.gitbook/assets/image (76).png>)
+![](<../../../.gitbook/assets/image (76).png>)
 
 #### How to get Poll ID?
 
-![](<../../.gitbook/assets/image (78).png>)
+![](<../../../.gitbook/assets/image (78).png>)
 
 To see this option, on your Discord settings, you will need to have Developer mode turned ON.
 
-<img src="../../.gitbook/assets/Bildschirmfoto 2023-12-02 um 00.11.25.png" alt="" data-size="original">
+<img src="../../../.gitbook/assets/Bildschirmfoto 2023-12-02 um 00.11.25.png" alt="" data-size="original">
 
 #### Output
 
-![](<../../.gitbook/assets/image (77).png>)
+![](<../../../.gitbook/assets/image (77).png>)
 
 <mark style="background-color:orange;">This is Visible to Admins only and it is on their own discretion if they will share this information with the Community.</mark>&#x20;
 
@@ -405,11 +405,11 @@ If used, PhunkBot will Print this interaction and it will be visible to users.&#
 /closepoll <poll id>
 ```
 
-![](<../../.gitbook/assets/image (79).png>)
+![](<../../../.gitbook/assets/image (79).png>)
 
 #### Output
 
-<img src="../../.gitbook/assets/Bildschirmfoto 2023-12-02 um 00.28.30.png" alt="" data-size="original">
+<img src="../../../.gitbook/assets/Bildschirmfoto 2023-12-02 um 00.28.30.png" alt="" data-size="original">
 
 </details>
 
@@ -426,11 +426,11 @@ If used, PhunkBot will Print this interaction and it will be visible to users.&#
 /deletepoll <poll id>
 ```
 
-![](<../../.gitbook/assets/image (80).png>)
+![](<../../../.gitbook/assets/image (80).png>)
 
 #### Output
 
-<img src="../../.gitbook/assets/Bildschirmfoto 2023-12-02 um 00.28.59.png" alt="" data-size="original">
+<img src="../../../.gitbook/assets/Bildschirmfoto 2023-12-02 um 00.28.59.png" alt="" data-size="original">
 
 </details>
 
@@ -446,7 +446,7 @@ To protect user data in case of data breach, data is Encrypted using community o
 
 #### Wen enabled, this is how Encrypted user data looks like on Host Server.
 
-![](<../../.gitbook/assets/image (2) (1).png>)
+![](<../../../.gitbook/assets/image (2) (1).png>)
 
 #### Encryption is Optional, it can be Enabled by changing Boolean from `false` to `true`
 
@@ -490,7 +490,7 @@ Data is Encrypted using community owned Symetric key that is obtained from the d
 Ideally one of Discord Admins creates Private channel called `#setup-daoextension` \
 on Discord containing a 32 bytes encryption key for example using this [generator](https://seanwasere.com/generate-random-hex/).
 
-&#x20;![](<../../.gitbook/assets/Bildschirmfoto 2023-12-16 um 10.08.45.png>)
+&#x20;![](<../../../.gitbook/assets/Bildschirmfoto 2023-12-16 um 10.08.45.png>)
 
 and places Encryption key as only message into this Private channel. PhunkBot needs to have access to channel to Decrypt data in PhunkBot memory using this key.
 

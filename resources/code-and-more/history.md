@@ -1,6 +1,6 @@
 ---
-description: PHUNKS HISTORY AND RELEVANT EVENTS IN CHRONOLOGICAL ORDER
 icon: olive-branch
+description: PHUNKS HISTORY AND RELEVANT EVENTS IN CHRONOLOGICAL ORDER
 layout:
   title:
     visible: true
@@ -16,7 +16,7 @@ layout:
 
 # HISTORY
 
-![Chart explaining the genesis of CryptoPhunks made by @dovetailNFT and @huckleberrygump](../.gitbook/assets/timelinelightplusdark-03.png)
+![Chart explaining the genesis of CryptoPhunks made by @dovetailNFT and @huckleberrygump](../../.gitbook/assets/timelinelightplusdark-03.png)
 
 <details>
 

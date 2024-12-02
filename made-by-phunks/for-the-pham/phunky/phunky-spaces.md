@@ -1,7 +1,7 @@
 ---
 icon: bullhorn
 description: LISTEN ABOUT PHUNKS HISTORY, ETHICS AND COMMUNITY ON TWITTER
-cover: ../../.gitbook/assets/FzQlVZqagAEp8kX.jpg
+cover: ../../../.gitbook/assets/FzQlVZqagAEp8kX.jpg
 coverY: -98.46400000000003
 layout:
   cover:

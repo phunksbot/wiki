@@ -1,7 +1,7 @@
 ---
 icon: newspaper
 description: how to use NotLarvaLabs Marketplace
-cover: ../../.gitbook/assets/Bildschirmfoto 2023-12-14 um 16.59.11.png
+cover: ../../../.gitbook/assets/Bildschirmfoto 2023-12-14 um 16.59.11.png
 coverY: 10
 layout:
   cover:
@@ -47,15 +47,15 @@ Connect your MetaMask Wallet to the Marketplace using tutorial below.
 
 Start by using Slide Bar on upper right corner and click on "Connect to MetaMask" button.
 
-&#x20;![](<../../.gitbook/assets/Screen Shot 2022-03-16 at 12.29.32.png>)
+&#x20;![](<../../../.gitbook/assets/Screen Shot 2022-03-16 at 12.29.32.png>)
 
 Popup Window will appear, choose "MetaMask" and confirm action when prompted.
 
-![](<../../.gitbook/assets/Screen Shot 2022-03-16 at 12.31.18.png>)
+![](<../../../.gitbook/assets/Screen Shot 2022-03-16 at 12.31.18.png>)
 
 If successful, Slide Bar will indicate "Connected to Ethereum".
 
-![](<../../.gitbook/assets/Screen Shot 2022-03-16 at 12.33.47.png>)
+![](<../../../.gitbook/assets/Screen Shot 2022-03-16 at 12.33.47.png>)
 
 </details>
 
@@ -66,7 +66,7 @@ If successful, Slide Bar will indicate "Connected to Ethereum".
 Use Filters to easily navigate [Phunks for Sale](https://notlarvalabs.com/cryptophunks/forsale) or [All 10'000 Phunks](https://notlarvalabs.com/cryptophunks/allphunks). \
 By default all Phunks for Sale are sorted by Price (Low to High).
 
-![](<../../.gitbook/assets/Bildschirmfoto 2022-03-10 um 16.40.16.png>)
+![](<../../../.gitbook/assets/Bildschirmfoto 2022-03-10 um 16.40.16.png>)
 
 </details>
 
@@ -77,7 +77,7 @@ By default all Phunks for Sale are sorted by Price (Low to High).
 Use "Buy" button to purchase Phunks [Listed for Sale](https://notlarvalabs.com/cryptophunks/forsale).\
 Confirm your MetaMask transaction when prompted.
 
-<img src="../../.gitbook/assets/Screen Shot 2022-03-16 at 13.46.35.png" alt="" data-size="original">
+<img src="../../../.gitbook/assets/Screen Shot 2022-03-16 at 13.46.35.png" alt="" data-size="original">
 
 <mark style="color:orange;">Make sure you have enough ETH in your MetaMask Wallet to cover max transaction fees.</mark>
 
@@ -90,7 +90,7 @@ Confirm your MetaMask transaction when prompted.
 Use "Sell" button to Sell a Phunk, enter "List Price" in ETH and press "Submit" button.\
 Confirm your MetaMask transaction when prompted.&#x20;
 
-![](<../../.gitbook/assets/Screen Shot 2022-03-16 at 14.10.40.png>)
+![](<../../../.gitbook/assets/Screen Shot 2022-03-16 at 14.10.40.png>)
 
 <mark style="color:orange;">Make sure you have enough ETH in your MetaMask Wallet to cover max transaction fees.</mark>
 
@@ -105,7 +105,7 @@ Confirm your MetaMask transaction when prompted.&#x20;
 Use "Place Bid" button to place a Bid, enter "Bid Price" in ETH and press "Submit" button.\
 Confirm your MetaMask transaction when prompted.&#x20;
 
-![](<../../.gitbook/assets/Screen Shot 2022-03-16 at 13.55.16.png>)
+![](<../../../.gitbook/assets/Screen Shot 2022-03-16 at 13.55.16.png>)
 
 <mark style="color:orange;">Make sure you have enough ETH in your MetaMask Wallet to cover max transaction fees.</mark>
 
@@ -118,7 +118,7 @@ Confirm your MetaMask transaction when prompted.&#x20;
 After successful Sell a "Withdraw Funds" button will appear in Slide Bar we used to connect. Press "Withdraw Funds" button.\
 Confirm your MetaMask transaction when prompted.
 
-![](<../../.gitbook/assets/Screen Shot 2022-03-15 at 12.09.07.png>)
+![](<../../../.gitbook/assets/Screen Shot 2022-03-15 at 12.09.07.png>)
 
 </details>
 
@@ -130,7 +130,7 @@ Use "Transfer" button to transfer a Phunk to a different Ethereum address.\
 Insert receiving [ENS](https://ens.domains/) or native Ethereum address and press "Submit" button.\
 Confirm your MetaMask transaction when prompted.&#x20;
 
-![](<../../.gitbook/assets/Screen Shot 2022-03-16 at 14.12.52.png>)
+![](<../../../.gitbook/assets/Screen Shot 2022-03-16 at 14.12.52.png>)
 
 <mark style="color:orange;">Before transferring your Phunk make sure you claimed your outstanding</mark> [$PHUNKY](broken-reference)<mark style="color:orange;">.</mark>&#x20;
 
@@ -144,11 +144,11 @@ Use Phunk Box to browse collections for any account holding Phunks.
 
 Start by searching for a ETH wallet address or ENS.
 
-![](<../../.gitbook/assets/Screen Shot 2022-04-03 at 23.26.18.png>)
+![](<../../../.gitbook/assets/Screen Shot 2022-04-03 at 23.26.18.png>)
 
 You should be able to see Phunks held by that account address.
 
-![](<../../.gitbook/assets/Screen Shot 2022-04-03 at 23.26.44.png>)
+![](<../../../.gitbook/assets/Screen Shot 2022-04-03 at 23.26.44.png>)
 
 </details>
 
@@ -160,26 +160,26 @@ You can customise any Phunk using Phunk Box.
 
 Search for a wallet address or your ENS.
 
-![](<../../.gitbook/assets/Screen Shot 2022-04-03 at 23.26.18.png>)
+![](<../../../.gitbook/assets/Screen Shot 2022-04-03 at 23.26.18.png>)
 
 Choose a Phunk you would like to customise.
 
-![](<../../.gitbook/assets/Screen Shot 2022-04-03 at 23.26.44.png>)
+![](<../../../.gitbook/assets/Screen Shot 2022-04-03 at 23.26.44.png>)
 
 You will see two white Circles on right corner, use them to edit Border or Background.
 
-![](<../../.gitbook/assets/Screen Shot 2022-04-03 at 23.22.17.png>)
+![](<../../../.gitbook/assets/Screen Shot 2022-04-03 at 23.22.17.png>)
 
-![](<../../.gitbook/assets/Screen Shot 2022-04-03 at 23.22.41.png>)
+![](<../../../.gitbook/assets/Screen Shot 2022-04-03 at 23.22.41.png>)
 
 After you chosen your Color combo klick on "Save PFP" top right corner.
 
-![](<../../.gitbook/assets/Screen Shot 2022-04-03 at 23.23.28.png>)
+![](<../../../.gitbook/assets/Screen Shot 2022-04-03 at 23.23.28.png>)
 
 You can chose type and Shape between Square, Round and Hexagon. \
 With or without Color Border and press Download.
 
-![](<../../.gitbook/assets/Screen Shot 2022-04-03 at 23.23.45.png>)![](<../../.gitbook/assets/Screen Shot 2022-04-03 at 23.23.54.png>)
+![](<../../../.gitbook/assets/Screen Shot 2022-04-03 at 23.23.45.png>)![](<../../../.gitbook/assets/Screen Shot 2022-04-03 at 23.23.54.png>)
 
 </details>
 

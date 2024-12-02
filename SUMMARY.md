@@ -1,6 +1,6 @@
 # Table of contents
 
-## ↘️ ABOUT
+## ABOUT
 
 * [CRYPTOPHUNKS](README.md)
   * [PUNK](about/readme/phunk-is-punk.md)
@@ -9,28 +9,29 @@
   * [CODE](about/readme/code.md)
   * [HISTORIC](about/readme/phunk-is-historic.md)
 
-## ↘️ MADE BY PHUNKS
+## MADE BY PHUNKS
 
-* [NOTLARVALABS.COM](made-by-phunks/notlarvalabs/README.md)
-  * [FEATURES](made-by-phunks/notlarvalabs/features.md)
-  * [TUTORIALS](made-by-phunks/notlarvalabs/tutorials.md)
-  * [FAQ](made-by-phunks/notlarvalabs/faq.md)
-* [AUCTION HOUSE](made-by-phunks/auction-house.md)
-* [FLYWHEEL](made-by-phunks/flywheel.md)
-* [PHUNKY](made-by-phunks/phunky/README.md)
-  * [PHUNKY DATA](made-by-phunks/phunky/phunky-data.md)
-  * [PHUNKY SOCKS](made-by-phunks/phunky/phunky-socks.md)
-  * [PHUNKY SPACES](made-by-phunks/phunky/phunky-spaces.md)
-  * [DOSE OF PHUNKS](made-by-phunks/phunky/dose-of-phunks.md)
-  * [PHUNKYSPOTLIGHT](made-by-phunks/phunky/phunkyspotlight.md)
-  * [SUP PHUNKS!](made-by-phunks/phunky/sup-phunks.md)
-* [PHUNKBOT](made-by-phunks/phunkbot/README.md)
-  * [FEATURES](made-by-phunks/phunkbot/features.md)
-  * [TUTORIALS](made-by-phunks/phunkbot/tutorials.md)
-  * [GOVERNANCE](made-by-phunks/phunkbot/governance.md)
-  * [CREDITS](made-by-phunks/phunkbot/credits.md)
+* [FOR THE PHAM](made-by-phunks/for-the-pham/README.md)
+  * [NOTLARVALABS.COM](made-by-phunks/for-the-pham/notlarvalabs/README.md)
+    * [FEATURES](made-by-phunks/for-the-pham/notlarvalabs/features.md)
+    * [TUTORIALS](made-by-phunks/for-the-pham/notlarvalabs/tutorials.md)
+    * [FAQ](made-by-phunks/for-the-pham/notlarvalabs/faq.md)
+  * [AUCTION HOUSE](made-by-phunks/for-the-pham/auction-house.md)
+  * [FLYWHEEL](made-by-phunks/for-the-pham/flywheel.md)
+  * [PHUNKY](made-by-phunks/for-the-pham/phunky/README.md)
+    * [PHUNKY DATA](made-by-phunks/for-the-pham/phunky/phunky-data.md)
+    * [PHUNKY SOCKS](made-by-phunks/for-the-pham/phunky/phunky-socks.md)
+    * [PHUNKY SPACES](made-by-phunks/for-the-pham/phunky/phunky-spaces.md)
+    * [DOSE OF PHUNKS](made-by-phunks/for-the-pham/phunky/dose-of-phunks.md)
+    * [PHUNKYSPOTLIGHT](made-by-phunks/for-the-pham/phunky/phunkyspotlight.md)
+    * [SUP PHUNKS!](made-by-phunks/for-the-pham/phunky/sup-phunks.md)
+  * [PHUNKBOT](made-by-phunks/for-the-pham/phunkbot/README.md)
+    * [FEATURES](made-by-phunks/for-the-pham/phunkbot/features.md)
+    * [TUTORIALS](made-by-phunks/for-the-pham/phunkbot/tutorials.md)
+    * [GOVERNANCE](made-by-phunks/for-the-pham/phunkbot/governance.md)
+    * [CREDITS](made-by-phunks/for-the-pham/phunkbot/credits.md)
 
-## ↘️ SOCIAL MEDIA
+## SOCIAL MEDIA
 
 * [MEDIA](social-media/media/README.md)
   * [ARTICLES](social-media/media/articles.md)
@@ -55,16 +56,17 @@
   * [⚫ ILLUSTRATED](social-media/museum/illustrated.md)
   * [🟠 MIDDLEMARCH](social-media/museum/middlemarch.md)
 
-## ↘️ RESOURCES
+## RESOURCES
 
-* [OPEN SOURCED](resources/open-sourced.md)
-* [HISTORY](resources/history.md)
-* [LINKS](resources/links.md)
-* [PHUNK V1 V2 V3](resources/phunk-v1-v2-v3/README.md)
-  * [V1](resources/phunk-v1-v2-v3/v1.md)
-  * [V2](resources/phunk-v1-v2-v3/v2.md)
-  * [V3](resources/phunk-v1-v2-v3/v3.md)
+* [CODE AND MORE](resources/code-and-more/README.md)
+  * [OPEN SOURCED](resources/code-and-more/open-sourced.md)
+  * [HISTORY](resources/code-and-more/history.md)
+  * [LINKS](resources/code-and-more/links.md)
+  * [PHUNK V1 V2 V3](resources/code-and-more/phunk-v1-v2-v3/README.md)
+    * [V1](resources/code-and-more/phunk-v1-v2-v3/v1.md)
+    * [V2](resources/code-and-more/phunk-v1-v2-v3/v2.md)
+    * [V3](resources/code-and-more/phunk-v1-v2-v3/v3.md)
 
-## ↘️ TREASURY
+## TREASURY
 
 * [OUTGOING TX HISTORY](treasury/feed.md)

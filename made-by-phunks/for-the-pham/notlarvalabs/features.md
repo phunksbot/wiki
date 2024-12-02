@@ -1,7 +1,7 @@
 ---
-description: NLL innovative UI offers many useful Features
 icon: conveyor-belt-boxes
-cover: ../../.gitbook/assets/Bildschirmfoto 2023-12-14 um 16.52.15.png
+description: NLL innovative UI offers many useful Features
+cover: ../../../.gitbook/assets/Bildschirmfoto 2023-12-14 um 16.52.15.png
 coverY: 2.7846153846153845
 layout:
   cover:
@@ -27,7 +27,7 @@ layout:
 
 All Phunks offered for Sale are sorted by price (Low to High) by default.
 
-![](<../../.gitbook/assets/Bildschirmfoto 2022-03-10 um 16.39.06.png>)
+![](<../../../.gitbook/assets/Bildschirmfoto 2022-03-10 um 16.39.06.png>)
 
 </details>
 
@@ -37,7 +37,7 @@ All Phunks offered for Sale are sorted by price (Low to High) by default.
 
 All phunks for sale can be filtered out by traits and properties using filters.
 
-![](<../../.gitbook/assets/Bildschirmfoto 2022-03-10 um 16.40.16.png>)
+![](<../../../.gitbook/assets/Bildschirmfoto 2022-03-10 um 16.40.16.png>)
 
 </details>
 
@@ -47,7 +47,7 @@ All phunks for sale can be filtered out by traits and properties using filters.
 
 Bid on any of 10'000 Phunks available, even those not offered for sale.
 
-![](<../../.gitbook/assets/Bildschirmfoto 2022-03-10 um 16.40.42.png>)
+![](<../../../.gitbook/assets/Bildschirmfoto 2022-03-10 um 16.40.42.png>)
 
 </details>
 
@@ -57,7 +57,7 @@ Bid on any of 10'000 Phunks available, even those not offered for sale.
 
 Search for any phunk in whole collection, use filters to narrow down your favourite traits.
 
-![](<../../.gitbook/assets/Bildschirmfoto 2022-03-10 um 16.41.05.png>)
+![](<../../../.gitbook/assets/Bildschirmfoto 2022-03-10 um 16.41.05.png>)
 
 </details>
 
@@ -67,7 +67,7 @@ Search for any phunk in whole collection, use filters to narrow down your favour
 
 Transfer Phunks using "[**Transfer**](tutorials.md#tutorials)" button.
 
-![](<../../.gitbook/assets/Screen Shot 2022-03-16 at 14.12.52.png>)
+![](<../../../.gitbook/assets/Screen Shot 2022-03-16 at 14.12.52.png>)
 
 </details>
 
@@ -77,9 +77,9 @@ Transfer Phunks using "[**Transfer**](tutorials.md#tutorials)" button.
 
 View all Phunks you own in one place.
 
-![](<../../.gitbook/assets/Screen Shot 2022-04-03 at 23.25.15.png>)
+![](<../../../.gitbook/assets/Screen Shot 2022-04-03 at 23.25.15.png>)
 
-![](<../../.gitbook/assets/Screen Shot 2022-04-03 at 23.25.43.png>)
+![](<../../../.gitbook/assets/Screen Shot 2022-04-03 at 23.25.43.png>)
 
 </details>
 
@@ -89,9 +89,9 @@ View all Phunks you own in one place.
 
 Use Phunk Box to browse collections for any account holding Phunks.
 
-![](<../../.gitbook/assets/Screen Shot 2022-04-03 at 23.26.18 (1).png>)
+![](<../../../.gitbook/assets/Screen Shot 2022-04-03 at 23.26.18 (1).png>)
 
-![](<../../.gitbook/assets/Screen Shot 2022-04-03 at 23.26.44 (1).png>)
+![](<../../../.gitbook/assets/Screen Shot 2022-04-03 at 23.26.44 (1).png>)
 
 </details>
 
@@ -101,7 +101,7 @@ Use Phunk Box to browse collections for any account holding Phunks.
 
 Edit any Phunk to custom Border and Background color.
 
-![](<../../.gitbook/assets/Screen Shot 2022-04-03 at 23.23.28.png>)
+![](<../../../.gitbook/assets/Screen Shot 2022-04-03 at 23.23.28.png>)
 
 </details>
 
@@ -111,11 +111,11 @@ Edit any Phunk to custom Border and Background color.
 
 Switch between light and dark mode using half moon button on top right corner.
 
-![](<../../.gitbook/assets/Screen Shot 2022-04-19 at 09.23.54.png>)
+![](<../../../.gitbook/assets/Screen Shot 2022-04-19 at 09.23.54.png>)
 
-![](<../../.gitbook/assets/Screen Shot 2022-04-19 at 08.50.39.png>) Light Mode
+![](<../../../.gitbook/assets/Screen Shot 2022-04-19 at 08.50.39.png>) Light Mode
 
-![](<../../.gitbook/assets/Screen Shot 2022-04-19 at 08.51.01.png>) Dark Mode
+![](<../../../.gitbook/assets/Screen Shot 2022-04-19 at 08.51.01.png>) Dark Mode
 
 </details>
 
@@ -125,9 +125,9 @@ Switch between light and dark mode using half moon button on top right corner.
 
 Switch between supported Collections with ease.
 
-![](<../../.gitbook/assets/Screen Shot 2022-04-19 at 09.36.27.png>)
+![](<../../../.gitbook/assets/Screen Shot 2022-04-19 at 09.36.27.png>)
 
-![](<../../.gitbook/assets/Screen Shot 2022-04-19 at 09.39.22.png>)
+![](<../../../.gitbook/assets/Screen Shot 2022-04-19 at 09.39.22.png>)
 
 </details>
 
