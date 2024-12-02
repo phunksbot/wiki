@@ -1,7 +1,7 @@
 ---
 icon: user-hoodie
 cover: ../../.gitbook/assets/F1ehBRNaUAAVV5D.jpeg
-coverY: 224.93276995305163
+coverY: 261.93276995305166
 layout:
   cover:
     visible: true
