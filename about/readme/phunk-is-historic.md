@@ -1,11 +1,11 @@
 ---
 icon: wreath-laurel
 cover: ../../.gitbook/assets/FFy52QrXIAMAmfH (1).jpeg
-coverY: -79
+coverY: 112.64705882352942
 layout:
   cover:
     visible: true
-    size: hero
+    size: full
   title:
     visible: true
   description:
