@@ -8,6 +8,8 @@ layout: landing
 
 # CRYPTOPHUNKS
 
+***
+
 {% hint style="info" %}
 <img src=".gitbook/assets/Phunk_4156 (1).png" alt="" data-size="original"><img src=".gitbook/assets/Phunk_4156.png" alt="" data-size="original">
 
@@ -15,4 +17,8 @@ CryptoPhunks are the same as [CryptoPunks](https://www.larvalabs.com/cryptopunks
 Punks are owned by [Corporations](https://twitter.com/cryptopunksnfts/status/1502421713153318918?s=20\&t=sf95wtqypGRjjYHGxaH5lg), Phunks are truly [decentralised](about/readme/phunk-is-web3.md) and Phree.
 {% endhint %}
 
+***
+
 <table data-view="cards"><thead><tr><th></th><th></th><th></th><th data-hidden data-card-target data-type="content-ref"></th><th data-hidden data-card-cover data-type="files"></th></tr></thead><tbody><tr><td></td><td>MADE BY PHUNKS</td><td></td><td><a href="broken-reference">Broken link</a></td><td></td></tr><tr><td></td><td>SOCIAL MEDIA</td><td></td><td><a href="broken-reference">Broken link</a></td><td></td></tr><tr><td></td><td>RESOURCES</td><td></td><td><a href="broken-reference">Broken link</a></td><td></td></tr><tr><td></td><td>PUNKS &#x26; PHUNKS</td><td></td><td><a href="about/readme/phunk-is-punk.md">phunk-is-punk.md</a></td><td></td></tr><tr><td></td><td>WEB3 &#x26; PHUNKS</td><td></td><td><a href="about/readme/phunk-is-web3.md">phunk-is-web3.md</a></td><td></td></tr><tr><td></td><td>ART &#x26; PHUNKS</td><td></td><td><a href="about/readme/phunk-is-art.md">phunk-is-art.md</a></td><td></td></tr></tbody></table>
+
+***
