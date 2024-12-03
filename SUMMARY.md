@@ -26,6 +26,7 @@
     * [DOSE OF PHUNKS](made-by-phunks/for-the-pham/phunky/dose-of-phunks.md)
     * [PHUNKYSPOTLIGHT](made-by-phunks/for-the-pham/phunky/phunkyspotlight.md)
     * [SUP PHUNKS!](made-by-phunks/for-the-pham/phunky/sup-phunks.md)
+  * [VPHREE](made-by-phunks/for-the-pham/vphree.md)
   * [PHUNKBOT](made-by-phunks/for-the-pham/phunkbot/README.md)
     * [FEATURES](made-by-phunks/for-the-pham/phunkbot/features.md)
     * [TUTORIALS](made-by-phunks/for-the-pham/phunkbot/tutorials.md)
