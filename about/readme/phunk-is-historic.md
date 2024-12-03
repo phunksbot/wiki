@@ -32,3 +32,7 @@ layout:
 * Phunks are NFT project that is actively contributing to public good by [open sourcing all tools](../../resources/code-and-more/open-sourced.md).
 
 > An object's history is an immutable if intangible part of its value.
+
+{% content-ref url="broken-reference" %}
+[Broken link](broken-reference)
+{% endcontent-ref %}
