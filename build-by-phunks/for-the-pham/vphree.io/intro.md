@@ -1,6 +1,6 @@
 ---
-description: WELCOME TO vPHREE
 icon: square-info
+description: WELCOME TO vPHREE
 cover: ../../../.gitbook/assets/Bildschirmfoto 2024-12-06 um 21.10.38.png
 coverY: 27
 ---
@@ -46,5 +46,3 @@ vPhree started as a phee-less marketplace currently supporting v3 Phunk NFTs, wh
 ***
 
 <figure><img src="../../../.gitbook/assets/Bildschirmfoto 2024-12-06 um 21.15.49.png" alt=""><figcaption><p>PREVIEW</p></figcaption></figure>
-
-<figure><img src="../../../.gitbook/assets/Bildschirmfoto 2024-12-06 um 21.20.14.png" alt=""><figcaption><p>PREVIEW</p></figcaption></figure>
