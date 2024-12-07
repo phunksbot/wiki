@@ -21,7 +21,7 @@ layout:
 
 # TUTORIALS
 
-## <mark style="color:blue;">`Getting started`</mark>
+## <mark style="color:yellow;">`Getting started`</mark>
 
 <details>
 
@@ -39,7 +39,7 @@ layout:
 
 ***
 
-## <mark style="color:blue;">`Prerequisite`</mark>
+## <mark style="color:yellow;">`Prerequisite`</mark>
 
 <details>
 
@@ -70,7 +70,7 @@ This will generate URL that you can use to invite Bot to your Discord server wit
 
 ***
 
-## <mark style="color:blue;">`Deployment`</mark>
+## <mark style="color:yellow;">`Deployment`</mark>
 
 <details>
 
@@ -235,7 +235,7 @@ npm run build
 
 ***
 
-## <mark style="color:blue;">`Running Bot`</mark>
+## <mark style="color:yellow;">`Running Bot`</mark>
 
 <details>
 
@@ -295,7 +295,7 @@ screen -r yourbotsname
 
 ***
 
-## <mark style="color:blue;">`Stats Commands`</mark>
+## <mark style="color:yellow;">`Stats Commands`</mark>
 
 <details>
 
@@ -365,7 +365,7 @@ Here is the list of available commands:
 
 ***
 
-## <mark style="color:blue;">`DAO Commands`</mark>
+## <mark style="color:yellow;">`DAO Commands`</mark>
 
 <details>
 
@@ -433,7 +433,7 @@ If you have [DAO Module](features.md) in `src/app.module.ts` enabled, your Disco
 
 ***
 
-## <mark style="color:blue;">`CLI Commands`</mark>
+## <mark style="color:yellow;">`CLI Commands`</mark>
 
 <details>
 

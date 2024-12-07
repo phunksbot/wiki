@@ -1,5 +1,5 @@
 ---
-icon: square-info
+icon: address-card
 description: WELCOME TO NOTLARVALABS.COM
 cover: ../../../.gitbook/assets/Bildschirmfoto 2023-12-14 um 16.55.15.png
 coverY: 2.75
@@ -35,7 +35,7 @@ Since inception in November 2021 and until May 2022 NLL smart contract successfu
 
 ***
 
-## <mark style="color:blue;">`LINKS`</mark>
+## <mark style="color:purple;">`LINKS`</mark>
 
 <details>
 

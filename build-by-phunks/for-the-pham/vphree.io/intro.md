@@ -1,5 +1,5 @@
 ---
-icon: square-info
+icon: address-card
 description: WELCOME TO vPHREE
 cover: ../../../.gitbook/assets/Bildschirmfoto 2024-12-06 um 21.10.38.png
 coverY: 27
@@ -7,7 +7,7 @@ coverY: 27
 
 # INTRO
 
-vPhree is the front door to all things Phunky. View your Phunks across all 3 collections, check out the latest Treasury Proposal, place a bid on the current auction, get Flywheel estimates, and more--all in one place.
+vPhree is the front door to all things Phunky. View your Phunks across all 3 collections, check out the latest Treasury Proposal, place a bid on the current auction, get Flywheel estimates, and more--all in one place.&#x20;
 
 {% hint style="info" %}
 vPHREE INSIGHT\

@@ -23,7 +23,7 @@ layout:
 
 ***
 
-## <mark style="color:blue;">`Getting Started`</mark>
+## <mark style="color:purple;">`Getting Started`</mark>
 
 <details>
 
@@ -39,7 +39,7 @@ Connect your MetaMask Wallet to the Marketplace using tutorial below.
 
 ***
 
-## <mark style="color:blue;">`Tutorials`</mark>
+## <mark style="color:purple;">`Tutorials`</mark>
 
 <details>
 

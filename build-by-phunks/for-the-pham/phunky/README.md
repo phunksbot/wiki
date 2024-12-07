@@ -1,6 +1,6 @@
 ---
 icon: user-chef
-cover: ../../../.gitbook/assets/image (38).png
+cover: ../../../.gitbook/assets/riuned.png
 coverY: 0
 layout:
   cover:

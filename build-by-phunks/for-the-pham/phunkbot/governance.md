@@ -23,7 +23,7 @@ layout:
 
 #### Welcome to first actual, autonomous, self hosted DAO Service for Community Governance.
 
-## <mark style="color:blue;">`Challenge`</mark>
+## <mark style="color:yellow;">`Challenge`</mark>
 
 Achieving consensus in Web3 is a big challenge, decentralized nature of Communities around Crypto Projects brought up questions like how can decentralized Community come to consensus in decision making without being reliant on old centralised Solutions or single point of failure. \
 \
@@ -36,7 +36,7 @@ How things are set currently is not only not optimal but also undermines basic p
 Web3 introduces four core principles that promise to reshape the digital landscape: ownership, commerce, identity, and governance.
 {% endhint %}
 
-## <mark style="color:blue;">`Solution`</mark>
+## <mark style="color:yellow;">`Solution`</mark>
 
 With PhunkBot module called [`DAOService`](features.md) enabled, communities don't need to be dependent on third party Services for Governance anymore. In true Web3 fashion, PhunkBot makes third party Services like CollabLand, GitCoin, SnapShot, EasyPoll and TweetShift obsolete. \
 \
@@ -54,7 +54,7 @@ import { DAOService } from './extensions/dao/dao.extension.service';
 
 ***
 
-## <mark style="color:blue;">`Sybil Attack`</mark>
+## <mark style="color:yellow;">`Sybil Attack`</mark>
 
 <details>
 
@@ -93,7 +93,7 @@ if (poll.discord_role_id && !member.roles.cache.has(poll.discord_role_id)) {
 
 ***
 
-## <mark style="color:blue;">`Voting Process Explained`</mark>
+## <mark style="color:yellow;">`Voting Process Explained`</mark>
 
 <details>
 
@@ -193,7 +193,7 @@ To avoid user being influenced by Vote weight going in one direction and to keep
 
 ***
 
-## <mark style="color:blue;">`Discord Roles Explained`</mark>
+## <mark style="color:yellow;">`Discord Roles Explained`</mark>
 
 <details>
 
@@ -254,7 +254,7 @@ This can be for example one Role for holding underlying Asset or Multiple Roles 
 
 ***
 
-## <mark style="color:blue;">`DAOService Commands Explained`</mark>
+## <mark style="color:yellow;">`DAOService Commands Explained`</mark>
 
 ### <mark style="color:green;">`User Commands`</mark>
 
@@ -436,7 +436,7 @@ If used, PhunkBot will Print this interaction and it will be visible to users.&#
 
 ***
 
-## <mark style="color:blue;">`Encryption`</mark>
+## <mark style="color:yellow;">`Encryption`</mark>
 
 <details>
 
