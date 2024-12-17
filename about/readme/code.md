@@ -37,7 +37,7 @@ Punks vs Phunks&#x20;
 
 or scroll down ...
 
-{% code title="CryptoPhunksV2.sol" fullWidth="true" %}
+{% code title="CryptoPhunksV2.sol" lineNumbers="true" fullWidth="true" %}
 ```solidity
 // SPDX-License-Identifier: UNLICENSE
 pragma solidity ^0.8.0;
