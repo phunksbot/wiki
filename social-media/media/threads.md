@@ -25,10 +25,6 @@ layout:
 Takes a minute to load. Just click the tweet pic to see the whole thread.
 ```
 
-{% embed url="https://x.com/GuillermoDiazGr/status/1751357821772275753?s=20" %}
-**JANUARY 27, 2024**
-{% endembed %}
-
 {% embed url="https://x.com/iape_/status/1732148141816717442?s=20" %}
 **DECEMBER 05, 2023**
 {% endembed %}
