@@ -25,6 +25,8 @@ layout:
 Takes a minute to load. Just click the tweet pic to see the whole thread.
 ```
 
+<table data-view="cards"><thead><tr><th></th><th></th><th></th><th data-hidden data-card-target data-type="content-ref"></th><th data-hidden data-card-cover data-type="files"></th></tr></thead><tbody><tr><td><code>(Dec 05, 2023)</code></td><td></td><td></td><td><a href="https://x.com/iape_/status/1732148141816717442">https://x.com/iape_/status/1732148141816717442</a></td><td><a href="../../.gitbook/assets/Bildschirmfoto 2024-12-20 um 19.37.17.png">Bildschirmfoto 2024-12-20 um 19.37.17.png</a></td></tr><tr><td><code>(Aug 31, 2023)</code></td><td></td><td></td><td><a href="https://x.com/EggBoisNFT/status/1697328599500509652">https://x.com/EggBoisNFT/status/1697328599500509652</a></td><td><a href="../../.gitbook/assets/Bildschirmfoto 2024-12-20 um 19.47.00.png">Bildschirmfoto 2024-12-20 um 19.47.00.png</a></td></tr><tr><td><code>(Aug 15, 2023)</code></td><td></td><td></td><td><a href="https://x.com/BR0xEE/status/1691536455686832129">https://x.com/BR0xEE/status/1691536455686832129</a></td><td><a href="../../.gitbook/assets/Bildschirmfoto 2024-12-20 um 19.48.41.png">Bildschirmfoto 2024-12-20 um 19.48.41.png</a></td></tr></tbody></table>
+
 {% embed url="https://x.com/iape_/status/1732148141816717442?s=20" %}
 **DECEMBER 05, 2023**
 {% endembed %}
