@@ -21,7 +21,7 @@ layout:
 
 # PUNK
 
-{% hint style="info" %}
+{% hint style="success" %}
 **Page as Summarized by GitBook AI**\
 \
 Phunks, an NFT collection launched in June 2021, parody CryptoPunks by reversing their images. After being banned from platforms like OpenSea due to copyright issues, the community established their decentralized marketplace. They advocate for true decentralization, open-source development, and community support, standing against censorship and centralized control in the crypto space.

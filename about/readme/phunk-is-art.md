@@ -20,7 +20,7 @@ layout:
 
 # ART
 
-{% hint style="info" %}
+{% hint style="success" %}
 **Page as Summarized by GitBook AI** \
 \
 Art is present in storytelling, culture, and interpretation, which JPEG encapsulates in simple pixel images. The Phunks, by facing left, symbolize a reaction against conformity, and despite being banned from the NFT trading ecosystem, their community stood against censorship by creating their own marketplace. Phunks offer a narrative and critique that provide significant artistic value, provoking responses that highlight their validity. A simple flipped image challenges perceptions and evokes powerful symbolism, akin to performance and conceptual art traditions like Dadaism and Warhol's work.
@@ -62,5 +62,7 @@ Art is in the story, movement, culture, philosophy, interpretation and belief. J
 
 ***
 
-![](<../../.gitbook/assets/Screen Shot 2022-04-10 at 07.36.00.png>)![](<../../.gitbook/assets/Screen Shot 2022-04-10 at 07.34.59.png>)\
+{% hint style="warning" %}
+![](<../../.gitbook/assets/image (88).png>)![](<../../.gitbook/assets/image (89).png>)\
 by [Monero](https://www.getmonero.org/) founder [@fluffypony](https://twitter.com/fluffypony/status/1512771931484864514?s=20\&t=o-U9RXl0pM8qkl02jMBrRw)
+{% endhint %}

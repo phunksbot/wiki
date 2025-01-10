@@ -20,7 +20,7 @@ layout:
 
 # WEB3
 
-{% hint style="info" %}
+{% hint style="success" %}
 **Page as Summarized by GitBook AI** \
 \
 The text discusses the relevance of CryptoPhunks in the decentralized cryptocurrency landscape. As a counter-culture symbol, Phunks challenge power structures and promote decentralization, public good, and censorship resistance. The decentralized community upholds principles of freedom and creative expression, emphasizing ownership without corporate control. Through blockchain technology, they inspire further NFT projects, echoing themes from the Cypherpunk's manifesto about direct transactions and resistance against centralized authority.
