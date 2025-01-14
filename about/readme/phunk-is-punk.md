@@ -57,3 +57,5 @@ This was result of excessive research done by Phunks community members \
 {% endhint %}
 
 ***
+
+<figure><img src="../../.gitbook/assets/GhRxAcIXwAEmDTU.png" alt=""><figcaption><p>CryptoPhunks Manifesto<br>art by <a href="https://x.com/epodotcom">@epodotcom</a></p></figcaption></figure>
