@@ -68,6 +68,20 @@ Coder [@soupydolph](https://twitter.com/soupydolph)
 
 <details>
 
+<summary><em><mark style="color:green;"><code>active</code></mark></em> vphree (v3phunks Marketplace)</summary>
+
+Source Code: [https://github.com/rdupo/vphree-next-prod](https://github.com/rdupo/vphree-next-prod)
+
+Programming Language: [JavaScript84.3%](https://github.com/rdupo/vphree/search?l=javascript) [CSS15.7%](https://github.com/rdupo/vphree/search?l=css)
+
+Coder [@0xDuplo](https://twitter.com/0xDuplo)
+
+[LIVE DEMO](https://www.vphree.io/)
+
+</details>
+
+<details>
+
 <summary><em><mark style="color:green;"><code>active</code></mark></em> <em><mark style="color:yellow;"><code>API</code></mark></em> Phunky Data</summary>
 
 Source Code: [https://github.com/theblockchaineth/PhunkyData](https://github.com/theblockchaineth/PhunkyData)
@@ -235,18 +249,6 @@ Source Code: [https://github.com/KenTheWhaleGoddess/V3PhunksThing](https://githu
 Programming Language: [Solidity73.4%](https://github.com/KenTheWhaleGoddess/V3PhunksThing/search?l=solidity) [JavaScript26.6%](https://github.com/KenTheWhaleGoddess/V3PhunksThing/search?l=javascript)
 
 Coder [@whalegoddess](https://twitter.com/whalegoddess) [@tbc\_eth](https://twitter.com/tbc_eth)
-
-</details>
-
-<details>
-
-<summary><em><mark style="color:purple;"><code>WIP</code></mark></em> vphree (v3phunks Marketplace)</summary>
-
-Source Code: [https://github.com/rdupo/vphree2](https://github.com/rdupo/vphree2)
-
-Programming Language: [JavaScript84.3%](https://github.com/rdupo/vphree/search?l=javascript) [CSS15.7%](https://github.com/rdupo/vphree/search?l=css)
-
-Coder [@0xDuplo](https://twitter.com/0xDuplo)
 
 </details>
 
