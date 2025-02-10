@@ -32,7 +32,7 @@ The text discusses the relevance of CryptoPhunks in the decentralized cryptocurr
 
 ***
 
-or read more bellow ...\
+<mark style="color:green;">`or read more bellow ...`</mark>\
 \
 Since [Cypherpunk's Manifesto](https://www.activism.net/cypherpunk/manifesto.html) and [Bitcoin](https://satoshi.nakamotoinstitute.org/emails/cryptography/1/) introduction to the world, people are able to transact directly without the need of central intermediary or rule-makers using blockchain technology. This technology empowered people to freely express their thoughts and views, in writings and Art, to the world without fear of being censored.&#x20;
 

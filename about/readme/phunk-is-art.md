@@ -32,7 +32,7 @@ Art is present in storytelling, culture, and interpretation, which JPEG encapsul
 
 ***
 
-or read more bellow ...\
+<mark style="color:green;">`or read more bellow ...`</mark>\
 \
 To better understand CryptoPhunks, start by reading about [Conceptual Art](https://en.wikipedia.org/wiki/Conceptual_art),[ Marcel Duchamp](https://en.wikipedia.org/wiki/Marcel_Duchamp), [Dadaism](https://en.wikipedia.org/wiki/Dada), [Andy Warhol](https://en.wikipedia.org/wiki/Andy_Warhol) and [Memetics](https://en.wikipedia.org/wiki/Memetics).&#x20;
 

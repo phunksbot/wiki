@@ -31,7 +31,7 @@ layout:
 * They are the first project that regained control of smart contract back from scam devs.
 * Phunks are NFT project that is actively contributing to public good by [open sourcing all tools](../../resources/code-and-more/open-sourced.md).
 
-> An object's history is an immutable if intangible part of its value.
+> <mark style="color:orange;">`An object's history is an immutable if intangible part of its value.`</mark>
 
 {% content-ref url="broken-reference" %}
 [Broken link](broken-reference)

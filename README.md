@@ -2,7 +2,7 @@
 icon: hand-fist
 description: PHUNKS FACE LEFT ON THE RIGHT SIDE OF HISTORY
 cover: .gitbook/assets/image (1) (1) (2).png
-coverY: -11.862835959221513
+coverY: -91.06283595922152
 layout: landing
 ---
 
@@ -19,6 +19,6 @@ Punks are owned by [Corporations](https://twitter.com/cryptopunksnfts/status/150
 
 ***
 
-<table data-view="cards"><thead><tr><th></th><th></th><th data-type="users" data-multiple></th><th></th><th data-hidden data-card-target data-type="content-ref"></th><th data-hidden data-card-cover data-type="files"></th></tr></thead><tbody><tr><td></td><td>BUILD BY PHUNKS</td><td></td><td></td><td><a href="broken-reference">Broken link</a></td><td><a href=".gitbook/assets/image.jpeg">image.jpeg</a></td></tr><tr><td></td><td>SOCIAL MEDIA</td><td></td><td></td><td><a href="broken-reference">Broken link</a></td><td><a href=".gitbook/assets/riuned.png">riuned.png</a></td></tr><tr><td></td><td>RESOURCES</td><td></td><td></td><td><a href="broken-reference">Broken link</a></td><td><a href=".gitbook/assets/image (5) (3).png">image (5) (3).png</a></td></tr><tr><td></td><td>PUNKS &#x26; PHUNKS</td><td></td><td></td><td><a href="about/readme/phunk-is-punk.md">phunk-is-punk.md</a></td><td><a href=".gitbook/assets/philip.jpeg">philip.jpeg</a></td></tr><tr><td></td><td>WEB3 &#x26; PHUNKS</td><td></td><td></td><td><a href="about/readme/phunk-is-web3.md">phunk-is-web3.md</a></td><td><a href=".gitbook/assets/cargo.png">cargo.png</a></td></tr><tr><td></td><td>ART &#x26; PHUNKS</td><td></td><td></td><td><a href="about/readme/phunk-is-art.md">phunk-is-art.md</a></td><td><a href=".gitbook/assets/art.jpeg">art.jpeg</a></td></tr></tbody></table>
+<table data-view="cards"><thead><tr><th></th><th></th><th data-type="users" data-multiple></th><th></th><th data-hidden data-card-target data-type="content-ref"></th><th data-hidden data-card-cover data-type="files"></th></tr></thead><tbody><tr><td></td><td>BUILD BY PHUNKS</td><td></td><td></td><td><a href="broken-reference">Broken link</a></td><td><a href=".gitbook/assets/image.jpeg">image.jpeg</a></td></tr><tr><td></td><td>SOCIAL MEDIA</td><td></td><td></td><td><a href="broken-reference">Broken link</a></td><td><a href=".gitbook/assets/riuned (1).png">riuned (1).png</a></td></tr><tr><td></td><td>RESOURCES</td><td></td><td></td><td><a href="broken-reference">Broken link</a></td><td><a href=".gitbook/assets/image (5) (3).png">image (5) (3).png</a></td></tr><tr><td></td><td>PUNKS &#x26; PHUNKS</td><td></td><td></td><td><a href="about/readme/phunk-is-punk.md">phunk-is-punk.md</a></td><td><a href=".gitbook/assets/philip.jpeg">philip.jpeg</a></td></tr><tr><td></td><td>WEB3 &#x26; PHUNKS</td><td></td><td></td><td><a href="about/readme/phunk-is-web3.md">phunk-is-web3.md</a></td><td><a href=".gitbook/assets/cargo.png">cargo.png</a></td></tr><tr><td></td><td>ART &#x26; PHUNKS</td><td></td><td></td><td><a href="about/readme/phunk-is-art.md">phunk-is-art.md</a></td><td><a href=".gitbook/assets/art.jpeg">art.jpeg</a></td></tr></tbody></table>
 
 ***

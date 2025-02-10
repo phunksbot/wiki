@@ -35,7 +35,7 @@ Punks vs Phunks&#x20;
 
 ***
 
-or scroll down ...
+<mark style="color:green;">`or scroll down ...`</mark>
 
 {% code title="CryptoPhunksV2.sol" lineNumbers="true" fullWidth="true" %}
 ```solidity

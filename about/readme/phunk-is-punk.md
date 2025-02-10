@@ -33,7 +33,7 @@ Phunks, an NFT collection launched in June 2021, parody CryptoPunks by reversing
 
 ***
 
-or read more bellow ...\
+<mark style="color:green;">`or read more bellow ...`</mark>\
 \
 CryptoPhunks (Phunks) is a [Non-Fungible Token](https://en.wikipedia.org/wiki/Non-fungible_token) (NFT) collection on the [Ethereum](https://en.wikipedia.org/wiki/Ethereum) [blockchain](https://en.wikipedia.org/wiki/Blockchain). \
 The project was created in June 2021 by a group of [anonymous](https://twitter.com/CryptoPhunks)**`*`** developers to poke fun (parody) at the high-brow, pompous group of people that were reflecting the “old-school” rules of art into this new frontier of Crypto. What they did is they took all 10'000 [CryptoPunks](https://www.larvalabs.com/cryptopunks) and flipped them the other way, they are the same 1:1 just facing Left.

@@ -1,6 +1,6 @@
 ---
-description: PHUNKS CONTRIBUTION TO GLOBAL NFT COMMUNITY ON GITHUB
 icon: osi
+description: PHUNKS CONTRIBUTION TO GLOBAL NFT COMMUNITY ON GITHUB
 layout:
   title:
     visible: true
@@ -18,7 +18,7 @@ layout:
 
 <details>
 
-<summary><em><mark style="color:green;background-color:green;">active</mark></em> Phunks Marketplace</summary>
+<summary><em><mark style="color:green;"><code>active</code></mark></em> Phunks Marketplace</summary>
 
 Source Code: [https://github.com/Crypto-Phunks/CryptoPhunksMarket](https://github.com/Crypto-Phunks/CryptoPhunksMarket)
 
@@ -36,7 +36,7 @@ Twitter [@NotLarvaLabs](https://twitter.com/NotLarvaLabs)
 
 <details>
 
-<summary><em><mark style="color:green;background-color:green;">active</mark></em> Phunks Auction House</summary>
+<summary><em><mark style="color:green;"><code>active</code></mark></em> Phunks Auction House</summary>
 
 Source Code: [https://github.com/Crypto-Phunks/auction-house](https://github.com/Crypto-Phunks/auction-house)
 
@@ -54,7 +54,7 @@ Twitter [@PhunksAuction](https://twitter.com/PhunksAuction)
 
 <details>
 
-<summary><em><mark style="color:green;background-color:green;">active</mark></em> CryptoPhunks.com Website</summary>
+<summary><em><mark style="color:green;"><code>active</code></mark></em> CryptoPhunks.com Website</summary>
 
 Source Code: [https://github.com/soupydolph/CryptoPhunks](https://github.com/soupydolph/CryptoPhunks)
 
@@ -68,7 +68,7 @@ Coder [@soupydolph](https://twitter.com/soupydolph)
 
 <details>
 
-<summary><em><mark style="color:green;background-color:green;">active</mark></em> <em><mark style="color:orange;background-color:orange;">API</mark></em> Phunky Data</summary>
+<summary><em><mark style="color:green;"><code>active</code></mark></em> <em><mark style="color:yellow;"><code>API</code></mark></em> Phunky Data</summary>
 
 Source Code: [https://github.com/theblockchaineth/PhunkyData](https://github.com/theblockchaineth/PhunkyData)
 
@@ -82,7 +82,7 @@ Coder [@tbc\_eth](https://twitter.com/tbc_eth)
 
 <details>
 
-<summary><em><mark style="color:green;background-color:green;">active</mark></em> PhunkBOT V2</summary>
+<summary><em><mark style="color:green;"><code>active</code></mark></em> PhunkBOT V2</summary>
 
 Source Code: [https://github.com/Crypto-Phunks/nft-sales-twitter-bot](https://github.com/Crypto-Phunks/nft-sales-twitter-bot)
 
@@ -98,7 +98,7 @@ Twitter [@PhunkBot](https://twitter.com/PhunkBot)
 
 <details>
 
-<summary><em><mark style="color:green;background-color:green;">active</mark></em> PhunkStats</summary>
+<summary><em><mark style="color:green;"><code>active</code></mark></em> PhunkStats</summary>
 
 Source Code: [https://github.com/pedropregueiro/phunk-stats](https://github.com/pedropregueiro/phunk-stats)
 
@@ -114,7 +114,7 @@ Twitter [@PhunkStats](https://twitter.com/PhunkStats)
 
 <details>
 
-<summary><em><mark style="color:green;background-color:green;">active</mark></em> Phunky Spotlight</summary>
+<summary><em><mark style="color:green;"><code>active</code></mark></em> Phunky Spotlight</summary>
 
 Source Code: [https://github.com/theblockchaineth/phunks-bootstrap-css](https://github.com/theblockchaineth/phunks-bootstrap-css)
 
@@ -128,7 +128,7 @@ Coder [@theblockchain.eth](https://twitter.com/tbc_eth)
 
 <details>
 
-<summary><em><mark style="color:green;background-color:green;">active</mark></em> Phunk Wallpaper </summary>
+<summary><em><mark style="color:green;"><code>active</code></mark></em> Phunk Wallpaper </summary>
 
 Source code: [https://github.com/shep-eth/phunk-wallpaper](https://github.com/shep-eth/phunk-wallpaper)
 
@@ -142,7 +142,7 @@ Coder [@shep\_eth](https://twitter.com/shep_eth)
 
 <details>
 
-<summary><em><mark style="color:green;background-color:green;">active</mark></em> Phunks V1 Wrapper</summary>
+<summary><em><mark style="color:green;"><code>active</code></mark></em> Phunks V1 Wrapper</summary>
 
 Source Code: [https://etherscan.io/address/0x235d49774139c218034c0571ba8f717773edd923#code](https://etherscan.io/address/0x235d49774139c218034c0571ba8f717773edd923#code)
 
@@ -158,7 +158,7 @@ Twitter [@CryptoPhunksV1](https://twitter.com/CryptoPhunksV1)
 
 <details>
 
-<summary><em><mark style="color:green;background-color:green;">active</mark></em> CreatePhunk</summary>
+<summary><em><mark style="color:green;"><code>active</code></mark></em> CreatePhunk</summary>
 
 Source Code: [https://github.com/albanow/create\_phunk](https://github.com/albanow/create_phunk)
 
@@ -172,7 +172,7 @@ LOCALHOST
 
 <details>
 
-<summary><em><mark style="color:green;background-color:green;">active</mark></em> Phunk Viewer</summary>
+<summary><em><mark style="color:green;"><code>active</code></mark></em> Phunk Viewer</summary>
 
 Source Code: [https://gist.github.com/phunksbot/139ba9efc1d2c26e80b2109005d450e4](https://gist.github.com/phunksbot/139ba9efc1d2c26e80b2109005d450e4)
 
@@ -186,7 +186,7 @@ Coder [@iape\_](https://twitter.com/iape_) forked from [@mclint\_](https://twitt
 
 <details>
 
-<summary><em><mark style="color:green;background-color:green;">active</mark></em> This Website</summary>
+<summary><em><mark style="color:green;"><code>active</code></mark></em> This Website</summary>
 
 Source Code: [https://github.com/phunksbot/wiki](https://github.com/phunksbot/wiki)
 
@@ -198,7 +198,7 @@ Contributors [@phunk2243](https://twitter.com/phunk2243) [@tbc\_eth](https://twi
 
 <details>
 
-<summary><em><mark style="color:green;background-color:green;">active</mark></em> ethereumphunks.com</summary>
+<summary><em><mark style="color:green;"><code>active</code></mark></em> ethereumphunks.com</summary>
 
 Source Code: [https://github.com/chopperdaddy/ethereumphunks.com](https://github.com/chopperdaddy/ethereumphunks.com)
 
@@ -212,7 +212,7 @@ Coder [@chopper\_\_dad](https://twitter.com/chopper__dad)
 
 <details>
 
-<summary><em><mark style="color:green;background-color:green;">active</mark></em> PharOut Marketplace</summary>
+<summary><em><mark style="color:green;"><code>active</code></mark></em> PharOut Marketplace</summary>
 
 Source Code: [https://github.com/StarKeyJON/PharOut-Marketplace](https://github.com/StarKeyJON/PharOut-Marketplace)
 
@@ -228,7 +228,7 @@ Coder [@TreeGuyJON](https://twitter.com/TreeGuyJON)
 
 <details>
 
-<summary><em><mark style="color:purple;background-color:yellow;">WIP</mark></em> V3PhunksThing (On-Chain Charity)</summary>
+<summary><em><mark style="color:purple;"><code>WIP</code></mark></em> V3PhunksThing (On-Chain Charity)</summary>
 
 Source Code: [https://github.com/KenTheWhaleGoddess/V3PhunksThing](https://github.com/KenTheWhaleGoddess/V3PhunksThing)
 
@@ -240,7 +240,7 @@ Coder [@whalegoddess](https://twitter.com/whalegoddess) [@tbc\_eth](https://twit
 
 <details>
 
-<summary><em><mark style="color:purple;background-color:yellow;">WIP</mark></em> vphree (v3phunks Marketplace)</summary>
+<summary><em><mark style="color:purple;"><code>WIP</code></mark></em> vphree (v3phunks Marketplace)</summary>
 
 Source Code: [https://github.com/rdupo/vphree2](https://github.com/rdupo/vphree2)
 
@@ -252,7 +252,7 @@ Coder [@0xDuplo](https://twitter.com/0xDuplo)
 
 <details>
 
-<summary><em><mark style="color:purple;background-color:yellow;">WIP</mark></em> MintySea Marketplace</summary>
+<summary><em><mark style="color:purple;"><code>WIP</code></mark></em> MintySea Marketplace</summary>
 
 Source Code: [https://github.com/rdupo/mintysea](https://github.com/rdupo/mintysea)
 
@@ -266,7 +266,7 @@ Coder [@0xDuplo](https://twitter.com/0xDuplo)
 
 <details>
 
-<summary><em><mark style="color:purple;background-color:yellow;">WIP</mark></em> Volume tracker</summary>
+<summary><em><mark style="color:purple;"><code>WIP</code></mark></em> Volume tracker</summary>
 
 Source Code: [https://github.com/tat2bu/erc721-sale-extractor](https://github.com/tat2bu/erc721-sale-extractor)
 
@@ -280,7 +280,7 @@ Coder [@tat2bu](https://twitter.com/tat2bu)
 
 <details>
 
-<summary><em><mark style="color:purple;background-color:yellow;">WIP</mark></em> PhunksMarketGraph</summary>
+<summary><em><mark style="color:purple;"><code>WIP</code></mark></em> PhunksMarketGraph</summary>
 
 Source Code: [https://github.com/StarKeyJON/CryptoPhunksMarketGraph](https://github.com/StarKeyJON/CryptoPhunksMarketGraph)
 
@@ -292,7 +292,7 @@ Coder [@TreeGuyJON](https://twitter.com/TreeGuyJON)
 
 <details>
 
-<summary><em><mark style="color:purple;background-color:yellow;">WIP</mark></em> Phunk Auction Auto-Bidder</summary>
+<summary><em><mark style="color:purple;"><code>WIP</code></mark></em> Phunk Auction Auto-Bidder</summary>
 
 Source Code: [https://gist.github.com/RogerPodacter/4dccaa65d13f940bd0d87e41276b182b](https://gist.github.com/RogerPodacter/4dccaa65d13f940bd0d87e41276b182b)
 
@@ -304,7 +304,7 @@ Coder [@dumbnamenumbers](https://twitter.com/dumbnamenumbers)
 
 <details>
 
-<summary><em><mark style="color:purple;background-color:yellow;">WIP</mark></em> PHUNK FORCE1 Blender and Website</summary>
+<summary><em><mark style="color:purple;"><code>WIP</code></mark></em> PHUNK FORCE1 Blender and Website</summary>
 
 Source Code: [https://github.com/0xTeji/PHUNK-FORCE-1](https://github.com/0xTeji/PHUNK-FORCE-1) [https://github.com/saintmaxi/teji-sneaker](https://github.com/saintmaxi/teji-sneaker)
 
@@ -318,7 +318,7 @@ Coder [@TEJITOPIA](https://twitter.com/TEJITOPIA) [@saintmaxiv](https://twitter.
 
 <details>
 
-<summary><em><mark style="color:blue;background-color:blue;">inspired</mark></em> Flipper</summary>
+<summary><em><mark style="color:blue;"><code>inspired</code></mark></em> Flipper</summary>
 
 Source Code: [https://github.com/Anish-Agnihotri/flipper](https://github.com/Anish-Agnihotri/flipper)
 
@@ -330,7 +330,7 @@ Coder [@\_anishagnihotri](https://twitter.com/_anishagnihotri)
 
 <details>
 
-<summary><em><mark style="color:blue;background-color:blue;">inspired</mark></em> Phunk Engine</summary>
+<summary><em><mark style="color:blue;"><code>inspired</code></mark></em> Phunk Engine</summary>
 
 Source Code: [https://github.com/TootyPang/PhunkEngine](https://github.com/TootyPang/PhunkEngine)
 
@@ -342,7 +342,7 @@ Coder [@tootypang](https://twitter.com/tootypang)
 
 <details>
 
-<summary><em><mark style="color:blue;background-color:blue;">inspired</mark></em> On-Chain Phunks</summary>
+<summary><em><mark style="color:blue;"><code>inspired</code></mark></em> On-Chain Phunks</summary>
 
 Source: [https://docs.onchainphunks.com/](https://docs.onchainphunks.com/)
 
@@ -354,7 +354,7 @@ Coder [@onchainphunks](https://twitter.com/onchainphunks)
 
 <details>
 
-<summary><em><mark style="color:blue;background-color:blue;">inspired</mark></em> PAYC Marketplace</summary>
+<summary><em><mark style="color:blue;"><code>inspired</code></mark></em> PAYC Marketplace</summary>
 
 Source Code: [https://github.com/Phunky-Ape-Yacht-Club/phunky-mp](https://github.com/Phunky-Ape-Yacht-Club/phunky-mp)
 
@@ -366,7 +366,7 @@ Coder [@2paycshakur](https://twitter.com/2paycshakur)
 
 <details>
 
-<summary><em><mark style="color:blue;background-color:blue;">inspired</mark></em> 2D FrankenPhunks </summary>
+<summary><em><mark style="color:blue;"><code>inspired</code></mark></em> 2D FrankenPhunks </summary>
 
 Source: [https://github.com/sekaieth/2DFrankenPhunks](https://github.com/sekaieth/2DFrankenPhunks)
 
@@ -378,7 +378,7 @@ Coder [@sekaieth](https://twitter.com/sekaieth)
 
 <details>
 
-<summary><em><mark style="color:blue;background-color:blue;">inspired</mark></em> Phunks v4 </summary>
+<summary><em><mark style="color:blue;"><code>inspired</code></mark></em> Phunks v4 </summary>
 
 Source Code: [https://github.com/tfnlab/V4Phunks](https://github.com/tfnlab/V4Phunks)
 
@@ -392,7 +392,7 @@ Coder [@tfnlab](https://twitter.com/tfnlab)
 
 <details>
 
-<summary><em><mark style="color:red;background-color:red;">deprecated</mark></em> PhunkBOT V1 </summary>
+<summary><em><mark style="color:red;"><code>deprecated</code></mark></em> PhunkBOT V1 </summary>
 
 Source Code: [https://github.com/albanow/phunks-nll-twitter-bot](https://github.com/albanow/phunks-nll-twitter-bot)
 
@@ -408,7 +408,7 @@ Twitter [@PhunkBot](https://twitter.com/PhunkBot)
 
 <details>
 
-<summary><em><mark style="color:red;background-color:red;">deprecated</mark></em> EtherscanBOT </summary>
+<summary><em><mark style="color:red;"><code>deprecated</code></mark></em> EtherscanBOT </summary>
 
 Source Code: [https://github.com/albanow/etherscan-sales-bot](https://github.com/albanow/etherscan-sales-bot)
 
@@ -426,7 +426,7 @@ Twitter [@PhunkBot](https://twitter.com/PhunkBot)
 
 <details>
 
-<summary><em><mark style="color:red;background-color:orange;">inactive</mark></em> CryptoPhunksDAO </summary>
+<summary><em><mark style="color:orange;"><code>inactive</code></mark></em> CryptoPhunksDAO </summary>
 
 Source Code: [https://github.com/Web3Master/cryptophunks](https://github.com/Web3Master/cryptophunks)
 
@@ -438,7 +438,7 @@ Coder [@CryptoPhunksDAO](https://twitter.com/CryptoPhunksDAO)
 
 <details>
 
-<summary><em><mark style="color:red;background-color:orange;">inactive</mark></em> PhunkDAO Website</summary>
+<summary><em><mark style="color:orange;"><code>inactive</code></mark></em> PhunkDAO Website</summary>
 
 Source Code: [https://github.com/IshaanRawat/phunky](https://github.com/IshaanRawat/phunky)
 
@@ -454,7 +454,7 @@ Twitter [@Phunk\_DAO](https://twitter.com/Phunk_DAO)
 
 <details>
 
-<summary><em><mark style="color:red;background-color:orange;">inactive</mark></em> PhunksFloor</summary>
+<summary><em><mark style="color:orange;"><code>inactive</code></mark></em> PhunksFloor</summary>
 
 Source Code: [https://github.com/maximedotair/phunksfloor](https://github.com/maximedotair/phunksfloor)
 
@@ -470,7 +470,7 @@ Twitter [@PhunksFloor](https://twitter.com/PhunksFloor)
 
 <details>
 
-<summary><em><mark style="color:red;background-color:orange;">inactive</mark></em> PhunkFinder</summary>
+<summary><em><mark style="color:orange;"><code>inactive</code></mark></em> PhunkFinder</summary>
 
 Source Code: [https://github.com/StarKeyJON/PhunkFinderv1](https://github.com/StarKeyJON/PhunkFinderv1)
 
@@ -484,7 +484,7 @@ Coder [@TreeGuyJON](https://twitter.com/TreeGuyJON)
 
 <details>
 
-<summary><em><mark style="color:red;background-color:orange;">inactive</mark></em> PhunkyTweeter</summary>
+<summary><em><mark style="color:orange;"><code>inactive</code></mark></em> PhunkyTweeter</summary>
 
 Source Code: [https://github.com/StarKeyJON/phunky\_tweeter](https://github.com/StarKeyJON/phunky_tweeter)
 
