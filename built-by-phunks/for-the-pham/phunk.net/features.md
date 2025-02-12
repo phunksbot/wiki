@@ -20,3 +20,28 @@ layout:
 
 # FEATURES
 
+
+
+<details>
+
+<summary>Get transparent PFP of your Phunk</summary>
+
+
+
+</details>
+
+<details>
+
+<summary>Build a Phunk</summary>
+
+
+
+</details>
+
+<details>
+
+<summary>Traits</summary>
+
+
+
+</details>
