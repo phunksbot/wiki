@@ -30,7 +30,7 @@
   * [PHUNK.NET](build-by-phunks/for-the-pham/phunk.net/README.md)
     * [INTRO](build-by-phunks/for-the-pham/phunk.net/intro.md)
     * [FEATURES](build-by-phunks/for-the-pham/phunk.net/features.md)
-  * [PHUNKY](build-by-phunks/for-the-pham/phunky/README.md)
+  * [PHUNKY PHAM](build-by-phunks/for-the-pham/phunky/README.md)
     * [PHUNKY DATA](build-by-phunks/for-the-pham/phunky/phunky-data.md)
     * [PHUNKY SOCKS](build-by-phunks/for-the-pham/phunky/phunky-socks.md)
     * [PHUNKY SPACES](build-by-phunks/for-the-pham/phunky/phunky-spaces.md)
