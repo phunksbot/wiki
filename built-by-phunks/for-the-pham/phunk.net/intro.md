@@ -57,3 +57,9 @@ Copyleft - 2023 Phunks. No Rights Reserved. Not affiliated with Larva Labs.
 [https://phunks.net/build](https://phunks.net/build)
 
 </details>
+
+***
+
+## <mark style="color:purple;">`PREVIEW`</mark>
+
+<figure><img src="../../../.gitbook/assets/Bildschirmfoto 2025-02-12 um 21.57.04.png" alt=""><figcaption></figcaption></figure>
