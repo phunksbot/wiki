@@ -1,12 +1,12 @@
 ---
 icon: hands-holding-diamond
 description: COMMUNITY GOVERNANCE POWERED by PHUNKBOT
-cover: ../../../.gitbook/assets/Bildschirmfoto 2023-11-29 um 13.13.44.png
+cover: ../../../.gitbook/assets/FFascePX0AI8BZe (1).jpeg
 coverY: 0
 layout:
   cover:
     visible: true
-    size: full
+    size: hero
   title:
     visible: true
   description:
@@ -22,6 +22,8 @@ layout:
 # GOVERNANCE
 
 #### Welcome to first actual, autonomous, self hosted DAO Service for Community Governance.
+
+{% embed url="https://phunk.cc/" %}
 
 ## <mark style="color:yellow;">`Challenge`</mark>
 
