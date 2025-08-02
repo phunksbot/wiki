@@ -1,22 +1,8 @@
 ---
-icon: square-rss
 description: Twitter threads on Phunks in Chronological order (newest on top).
+icon: square-rss
 cover: ../../.gitbook/assets/Bildschirmfoto 2023-08-02 um 23.19.46.png
 coverY: 0
-layout:
-  cover:
-    visible: true
-    size: full
-  title:
-    visible: true
-  description:
-    visible: true
-  tableOfContents:
-    visible: true
-  outline:
-    visible: false
-  pagination:
-    visible: true
 ---
 
 # THREADS
@@ -25,7 +11,9 @@ layout:
 Takes a minute to load. Just click the tweet pic to see the whole thread.
 ```
 
-<table data-view="cards"><thead><tr><th></th><th></th><th></th><th data-hidden data-card-target data-type="content-ref"></th><th data-hidden data-card-cover data-type="files"></th></tr></thead><tbody><tr><td><code>(Dec 05, 2023)</code></td><td></td><td></td><td><a href="https://x.com/iape_/status/1732148141816717442">https://x.com/iape_/status/1732148141816717442</a></td><td><a href="../../.gitbook/assets/Bildschirmfoto 2024-12-20 um 19.37.17.png">Bildschirmfoto 2024-12-20 um 19.37.17.png</a></td></tr><tr><td><code>(Aug 31, 2023)</code></td><td></td><td></td><td><a href="https://x.com/EggBoisNFT/status/1697328599500509652">https://x.com/EggBoisNFT/status/1697328599500509652</a></td><td><a href="../../.gitbook/assets/Bildschirmfoto 2024-12-20 um 19.47.00.png">Bildschirmfoto 2024-12-20 um 19.47.00.png</a></td></tr><tr><td><code>(Aug 15, 2023)</code></td><td></td><td></td><td><a href="https://x.com/BR0xEE/status/1691536455686832129">https://x.com/BR0xEE/status/1691536455686832129</a></td><td><a href="../../.gitbook/assets/Bildschirmfoto 2024-12-20 um 19.48.41.png">Bildschirmfoto 2024-12-20 um 19.48.41.png</a></td></tr></tbody></table>
+<table data-view="cards"><thead><tr><th></th><th></th><th></th><th data-hidden data-card-target data-type="content-ref"></th><th data-hidden data-card-cover data-type="files"></th></tr></thead><tbody><tr><td><code>(Dec 05, 2023)</code></td><td></td><td></td><td><a href="https://x.com/iape_/status/1732148141816717442">https://x.com/iape_/status/1732148141816717442</a></td><td><a href="../../.gitbook/assets/Bildschirmfoto 2024-12-20 um 19.37.17.png">Bildschirmfoto 2024-12-20 um 19.37.17.png</a></td></tr><tr><td><code>(Aug 31, 2023)</code></td><td></td><td></td><td><a href="https://x.com/EggBoisNFT/status/1697328599500509652">https://x.com/EggBoisNFT/status/1697328599500509652</a></td><td><a href="../../.gitbook/assets/Bildschirmfoto 2024-12-20 um 19.47.00.png">Bildschirmfoto 2024-12-20 um 19.47.00.png</a></td></tr><tr><td><code>(Aug 15, 2023)</code></td><td></td><td></td><td><a href="https://x.com/BR0xEE/status/1691536455686832129">https://x.com/BR0xEE/status/1691536455686832129</a></td><td><a href="../../.gitbook/assets/Bildschirmfoto 2024-12-20 um 19.48.41.png">Bildschirmfoto 2024-12-20 um 19.48.41.png</a></td></tr><tr><td></td><td></td><td></td><td><a href="https://x.com/NfTenchi/status/1951457210640290186">https://x.com/NfTenchi/status/1951457210640290186</a></td><td></td></tr></tbody></table>
+
+{% embed url="https://x.com/NfTenchi/status/1951457210640290186" %}
 
 {% embed url="https://x.com/iape_/status/1732148141816717442?s=20" %}
 **DECEMBER 05, 2023**
