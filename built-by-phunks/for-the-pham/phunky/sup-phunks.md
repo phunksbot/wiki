@@ -1,17 +1,6 @@
 ---
 description: Newsletter showcasing the work being done by the CryptoPhunks Community
 icon: face-saluting
-layout:
-  title:
-    visible: true
-  description:
-    visible: true
-  tableOfContents:
-    visible: true
-  outline:
-    visible: false
-  pagination:
-    visible: true
 ---
 
 # SUP PHUNKS!

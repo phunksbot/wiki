@@ -1,22 +1,8 @@
 ---
-icon: bullhorn
 description: LISTEN ABOUT PHUNKS HISTORY, ETHICS AND COMMUNITY ON TWITTER
+icon: bullhorn
 cover: ../../../.gitbook/assets/FzQlVZqagAEp8kX.jpg
 coverY: -98.46400000000003
-layout:
-  cover:
-    visible: true
-    size: hero
-  title:
-    visible: true
-  description:
-    visible: true
-  tableOfContents:
-    visible: true
-  outline:
-    visible: true
-  pagination:
-    visible: true
 ---
 
 # PHUNKY SPACES

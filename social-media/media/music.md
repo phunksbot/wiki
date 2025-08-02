@@ -1,17 +1,6 @@
 ---
 description: on Phunks
 icon: headphones-simple
-layout:
-  title:
-    visible: true
-  description:
-    visible: true
-  tableOfContents:
-    visible: true
-  outline:
-    visible: true
-  pagination:
-    visible: true
 ---
 
 # MUSIC

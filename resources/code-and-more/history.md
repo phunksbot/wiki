@@ -1,17 +1,6 @@
 ---
-icon: olive-branch
 description: PHUNKS HISTORY AND RELEVANT EVENTS IN CHRONOLOGICAL ORDER
-layout:
-  title:
-    visible: true
-  description:
-    visible: true
-  tableOfContents:
-    visible: true
-  outline:
-    visible: false
-  pagination:
-    visible: true
+icon: olive-branch
 ---
 
 # HISTORY

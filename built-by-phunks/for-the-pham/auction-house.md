@@ -1,22 +1,8 @@
 ---
-icon: hammer-crash
 description: 496 DEV PHUNKS, ONE EVERY 3 DAYS, UNTIL THEY ARE ALL GONE!
+icon: hammer-crash
 cover: ../../.gitbook/assets/F1As5TWXsBE9Ura.png
 coverY: -6.709916589434661
-layout:
-  cover:
-    visible: true
-    size: hero
-  title:
-    visible: true
-  description:
-    visible: true
-  tableOfContents:
-    visible: true
-  outline:
-    visible: false
-  pagination:
-    visible: true
 ---
 
 # AUCTION HOUSE

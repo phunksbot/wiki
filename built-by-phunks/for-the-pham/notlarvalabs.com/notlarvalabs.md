@@ -1,22 +1,8 @@
 ---
-icon: address-card
 description: WELCOME TO NOTLARVALABS.COM
+icon: address-card
 cover: ../../../.gitbook/assets/Bildschirmfoto 2023-12-14 um 16.55.15.png
 coverY: 2.75
-layout:
-  cover:
-    visible: true
-    size: full
-  title:
-    visible: true
-  description:
-    visible: true
-  tableOfContents:
-    visible: true
-  outline:
-    visible: false
-  pagination:
-    visible: true
 ---
 
 # INTRO

@@ -1,21 +1,10 @@
 ---
 description: PHUNK ROCK POSTERS MADE WITH LOVE BY OG KENOBI
-layout:
-  title:
-    visible: true
-  description:
-    visible: true
-  tableOfContents:
-    visible: true
-  outline:
-    visible: false
-  pagination:
-    visible: true
 ---
 
 # 🟢 POSTERS
 
-"Please allow me to introduce myself.." by [@OG\_Kenobi\_Hello](https://twitter.com/OG\_Kenobi\_Hello)
+"Please allow me to introduce myself.." by [@OG\_Kenobi\_Hello](https://twitter.com/OG_Kenobi_Hello)
 
 ![POSTER #0](<../../.gitbook/assets/unnamed (97).png>)
 

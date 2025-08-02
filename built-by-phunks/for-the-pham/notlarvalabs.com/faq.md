@@ -1,22 +1,8 @@
 ---
-icon: square-question
 description: from notlarvalabs.com Website
+icon: square-question
 cover: ../../../.gitbook/assets/Bildschirmfoto 2023-12-14 um 17.00.50.png
 coverY: 18.564102564102562
-layout:
-  cover:
-    visible: true
-    size: full
-  title:
-    visible: true
-  description:
-    visible: true
-  tableOfContents:
-    visible: true
-  outline:
-    visible: false
-  pagination:
-    visible: true
 ---
 
 # FAQ

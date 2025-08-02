@@ -3,20 +3,6 @@ description: PHUNKS IN RETRO STYLE MADE BY PHUNK PHAM
 icon: car-side
 cover: ../../.gitbook/assets/image.png
 coverY: 0
-layout:
-  cover:
-    visible: true
-    size: hero
-  title:
-    visible: true
-  description:
-    visible: true
-  tableOfContents:
-    visible: true
-  outline:
-    visible: false
-  pagination:
-    visible: true
 ---
 
 # RETRO

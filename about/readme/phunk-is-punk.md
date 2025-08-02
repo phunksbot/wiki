@@ -1,22 +1,8 @@
 ---
-icon: user-hoodie
 description: PHUNK IS PUNK
+icon: user-hoodie
 cover: ../../.gitbook/assets/F1ehBRNaUAAVV5D.jpeg
 coverY: 287.8419413404565
-layout:
-  cover:
-    visible: true
-    size: full
-  title:
-    visible: true
-  description:
-    visible: true
-  tableOfContents:
-    visible: false
-  outline:
-    visible: true
-  pagination:
-    visible: true
 ---
 
 # PUNK

@@ -1,22 +1,8 @@
 ---
-icon: conveyor-belt-boxes
 description: PHUNKBOT IS MODULAR AND CAN AiVOLVE EVEN FURTHER IN THE FUTURE
+icon: conveyor-belt-boxes
 cover: ../../../.gitbook/assets/Bildschirmfoto 2023-11-28 um 16.34.06.png
 coverY: 44
-layout:
-  cover:
-    visible: true
-    size: full
-  title:
-    visible: true
-  description:
-    visible: true
-  tableOfContents:
-    visible: true
-  outline:
-    visible: true
-  pagination:
-    visible: true
 ---
 
 # FEATURES

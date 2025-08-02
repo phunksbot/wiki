@@ -1,17 +1,6 @@
 ---
 description: made by Phunk Pham, meant to be contemplated in silence
 icon: masks-theater
-layout:
-  title:
-    visible: true
-  description:
-    visible: true
-  tableOfContents:
-    visible: true
-  outline:
-    visible: false
-  pagination:
-    visible: true
 ---
 
 # CURATED

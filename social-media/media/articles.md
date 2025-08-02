@@ -1,22 +1,8 @@
 ---
-icon: line-height
 description: written on Phunks in Chronological order
+icon: line-height
 cover: ../../.gitbook/assets/Bildschirmfoto 2023-08-02 um 23.23.16.png
 coverY: 0
-layout:
-  cover:
-    visible: true
-    size: full
-  title:
-    visible: true
-  description:
-    visible: true
-  tableOfContents:
-    visible: true
-  outline:
-    visible: false
-  pagination:
-    visible: true
 ---
 
 # ARTICLES

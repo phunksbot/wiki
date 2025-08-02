@@ -1,29 +1,24 @@
 ---
-icon: hands-holding-diamond
 description: COMMUNITY GOVERNANCE POWERED by PHUNKBOT
+icon: hands-holding-diamond
 cover: ../../../.gitbook/assets/FFascePX0AI8BZe (1).jpeg
 coverY: 0
-layout:
-  cover:
-    visible: true
-    size: hero
-  title:
-    visible: true
-  description:
-    visible: true
-  tableOfContents:
-    visible: true
-  outline:
-    visible: false
-  pagination:
-    visible: true
 ---
 
 # GOVERNANCE
 
 #### Welcome to first actual, autonomous, self hosted DAO Service for Community Governance.
 
+{% hint style="info" %}
+Community Governance
+
+PhunkBot enables decentralized decision-making, allowing Phunk holders to open proposals, vote and steer changes that benefit Phunks community long term. \
+Besides social consensus, Phunk community governs [Phunks treasury](https://etherscan.io/address/0x61f874551c69f0E40c9f55219107B408C989aDEc) and allocation of its assets. All past and future proposals are managed in Phunks [OG discord server](https://discord.gg/6DadnVRwVY) and can be tracked in link below.&#x20;
+{% endhint %}
+
 {% embed url="https://phunk.cc/" %}
+
+***
 
 ## <mark style="color:yellow;">`Challenge`</mark>
 

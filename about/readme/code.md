@@ -1,22 +1,8 @@
 ---
-icon: square-terminal
 description: CODE IS LAW?
+icon: square-terminal
 cover: ../../.gitbook/assets/image (3) (2).png
 coverY: 5.367933271547729
-layout:
-  cover:
-    visible: true
-    size: full
-  title:
-    visible: true
-  description:
-    visible: true
-  tableOfContents:
-    visible: false
-  outline:
-    visible: true
-  pagination:
-    visible: true
 ---
 
 # CODE

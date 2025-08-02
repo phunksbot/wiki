@@ -1,22 +1,8 @@
 ---
-icon: recycle
 description: AUTOMATIC MARKET MAKER FOR MID- AND TOP-TIER PHUNKS
+icon: recycle
 cover: ../../.gitbook/assets/Bildschirmfoto 2023-07-14 um 19.32.46.png
 coverY: -161.65524201340565
-layout:
-  cover:
-    visible: true
-    size: hero
-  title:
-    visible: true
-  description:
-    visible: true
-  tableOfContents:
-    visible: true
-  outline:
-    visible: false
-  pagination:
-    visible: true
 ---
 
 # FLYWHEEL

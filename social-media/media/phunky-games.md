@@ -1,17 +1,6 @@
 ---
 description: BY @TheSkullCat
 icon: game-console-handheld
-layout:
-  title:
-    visible: true
-  description:
-    visible: true
-  tableOfContents:
-    visible: true
-  outline:
-    visible: false
-  pagination:
-    visible: true
 ---
 
 # PHUNKY GAMES

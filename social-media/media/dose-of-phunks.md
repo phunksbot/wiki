@@ -5,20 +5,6 @@ description: >-
 icon: envelope-open-text
 cover: ../../.gitbook/assets/98238BF2-7279-4C75-B947-CAE83329953F.png
 coverY: 40.71666666666667
-layout:
-  cover:
-    visible: true
-    size: full
-  title:
-    visible: true
-  description:
-    visible: true
-  tableOfContents:
-    visible: true
-  outline:
-    visible: true
-  pagination:
-    visible: true
 ---
 
 # DOSE OF PHUNKS

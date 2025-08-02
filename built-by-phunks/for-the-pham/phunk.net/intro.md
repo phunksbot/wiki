@@ -2,20 +2,6 @@
 icon: address-card
 cover: ../../../.gitbook/assets/Bildschirmfoto 2025-02-12 um 22.00.10.png
 coverY: 19.119718309859156
-layout:
-  cover:
-    visible: true
-    size: full
-  title:
-    visible: true
-  description:
-    visible: true
-  tableOfContents:
-    visible: true
-  outline:
-    visible: true
-  pagination:
-    visible: true
 ---
 
 # INTRO

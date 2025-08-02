@@ -1,17 +1,6 @@
 ---
-icon: webhook
 description: DECENTRALIZED CODE, DATA, API AND CONTENT MANAGMENT
-layout:
-  title:
-    visible: true
-  description:
-    visible: true
-  tableOfContents:
-    visible: true
-  outline:
-    visible: false
-  pagination:
-    visible: true
+icon: webhook
 ---
 
 # PHUNKY DATA

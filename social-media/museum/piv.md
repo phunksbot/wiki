@@ -1,20 +1,8 @@
 ---
 description: WELCOME TO AMAZING WORLD OF PIV
-icon: table-pivot
-layout:
-  title:
-    visible: true
-  description:
-    visible: true
-  tableOfContents:
-    visible: true
-  outline:
-    visible: false
-  pagination:
-    visible: true
 ---
 
-# PIV
+# 🔴 PIV
 
 in no particular order, made by [@piv\_piv](https://twitter.com/piv_piv)
 
